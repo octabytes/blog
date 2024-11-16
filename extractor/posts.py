@@ -55,9 +55,9 @@ def find_service_id(title, tag):
 # Main scraping function
 def scrape_articles():
     articles = []
-    file_index = 8
+    file_index = 1
 
-    for page_number in range(7, PAGE_LIMIT + 1):
+    for page_number in range(1, PAGE_LIMIT + 1):
         print(f"Scraping page {page_number}...")
         url = f"{BASE_URL}/page/{page_number}/"
         response = requests.get(url, headers=HEADERS)
@@ -102,12 +102,6 @@ def scrape_articles():
                 image_dir = os.path.join(IMAGE_DIR, service_id or "other", post_link, "images")
                 os.makedirs(image_dir, exist_ok=True)
 
-                # Prepare image paths and download
-                image_url = urljoin(BASE_URL, src)
-                image_ext = os.path.splitext(urlparse(image_url).path)[-1].lstrip(".")
-                image_path = f"{image_dir}/cover.{image_ext}"
-                download_image(image_url, image_path)
-
                 # srcset_entries = []
                 # for entry in srcset.split(","):
                 #     image_url, size = entry.strip().split(" ")
@@ -117,6 +111,27 @@ def scrape_articles():
                 #     image_path = f"{image_dir}/{image_size}-{image_name}"
                 #     download_image(image_url, image_path)
                 #     srcset_entries.append({"size": size, "path": image_path})
+
+                max_size = 0
+                max_size_url = None
+                for entry in srcset.split(","):
+                    url, size = entry.strip().split(" ")
+                    url = urljoin(BASE_URL, url)
+                    image_size = size.replace("w", "")
+
+                    if max_size < int(image_size):
+                        max_size = int(image_size)
+                        max_size_url = url
+
+                if max_size_url:
+                    image_url = max_size_url
+                else:
+                    image_url = urljoin(BASE_URL, src)
+
+                # Prepare image paths and download
+                image_ext = os.path.splitext(urlparse(image_url).path)[-1].lstrip(".")
+                image_path = f"{image_dir}/cover.{image_ext}"
+                download_image(image_url, image_path)
 
                 
                 # Construct article entry
