@@ -1,0 +1,742 @@
+[
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Apache Superset SSO integration guide",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/apache-superset-sso-integration-guide/",
+        "description": "Integrating Single Sign-On (SSO) with Apache Superset enhances both security and user experience by enabling users to authenticate with their existing credentials. This guide provides a step-by-step process to set up SSO with Superset.\n\nPrerequisites\n\n * A Superset instance (v0.34.0 or later)\n * An SSO provider (e.g., Okta, Auth0)",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Apache Superset SSO integration guide",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757427/300-Frame-8-6.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757427/600-Frame-8-6.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757427/1000-Frame-8-6.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757427/2000-Frame-8-6.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Apache Superset Clickhouse integration",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/apache-superset-clickhouse-integration/",
+        "description": "Discover how integrating Apache Superset with ClickHouse can elevate your data visualization and analytics capabilities. This guide walks you through setting up and optimizing this powerful combination.\n\nApache Superset and ClickHouse Integration\n\nCombining Apache Superset with ClickHouse offers a robust solution for data analytics, enabling users to visualize and interact",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Apache Superset Clickhouse integration",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757430/300-Frame-8-5.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757430/600-Frame-8-5.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757430/1000-Frame-8-5.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757430/2000-Frame-8-5.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Superset Nginx timeout guide",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/superset-nginx-timeout-guide/",
+        "description": "Discover troubleshooting tips to resolve Superset Nginx timeout issues effectively.\n\n\nUnderstanding Superset and Nginx Timeout Issues\n\nWhen running Apache Superset behind an Nginx reverse proxy, users might face 504 Gateway Timeout errors. These errors usually occur when Nginx doesn't get a timely response from the Superset server, often",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Superset Nginx timeout guide",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757433/300-Frame-8-3.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757433/600-Frame-8-3.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757433/1000-Frame-8-3.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757433/2000-Frame-8-3.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "Repair N8N SQLite database",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/repair-n8n-sqlite-database/",
+        "description": "We are going to use a self-hosted version of N8N deployed on Elestio. So before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.\n\n\n\n\nGo to your N8N data folder\n\nOpen terminal and go to your N8N data folder, on elestio it's located",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Repair N8N SQLite database",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757436/300-Frame-8-2.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757436/600-Frame-8-2.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757436/1000-Frame-8-2.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757436/2000-Frame-8-2.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "How to clean up the N8N database",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/how-to-clean-up-n8n-database/",
+        "description": "During this tutorial, we are going to use a self-hosted version of N8N deployed on Elestio. So before we start, ensure you have deployed the N8N service and have a connected database that is used to store the logs and execution records.\n\n\nWhat is N8N?\n\nN8N is an open-source workflow",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How to clean up the N8N database",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757439/300-Frame-8-1.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757439/600-Frame-8-1.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757439/1000-Frame-8-1.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757439/2000-Frame-8-1.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "Creating custom integration in N8N",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/creating-customer-integration-in-n8n/",
+        "description": "Let's see how you can create custom integration in N8N. During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.\n\n\nWhat is N8N?\n\nN8N is an open-source workflow",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Creating custom integration in N8N",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757442/300-Frame-8-11.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757442/600-Frame-8-11.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757442/1000-Frame-8-11.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757442/2000-Frame-8-11.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "browserless",
+        "tag": "Browserles",
+        "title": "How to use Browserless with N8N to capture screenshots",
+        "logo": "/images/development/network/browserless/logo.png",
+        "category": {
+            "id": "network",
+            "name": "Network",
+            "ids": [
+                "network",
+                "nocode-lowcode"
+            ]
+        },
+        "short_description": "Browserless provides fast, scalable, reliable web browser automation.",
+        "link": "https://blog.elest.io/how-to-use-browserless-with-n8n-to-capture-screenshots/",
+        "description": "Let's see how you can create an application that makes HTTP requests to Browserless and get screenshots. During this tutorial, we will be building the workflow from scratch. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.\n\n\nWhat is N8N?\n\nN8N is",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How to use Browserless with N8N to capture screenshots",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/browserless/1731757445/300-Frame-8-9.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/browserless/1731757445/600-Frame-8-9.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/browserless/1731757445/1000-Frame-8-9.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/browserless/1731757445/2000-Frame-8-9.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "How to Migrate from Zapier/ Make to N8N",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/how-to-migrate-from-zapier-make-to-n8n/",
+        "description": "Let's see how you can migrate your workflows and zaps from Zapier & Make to N8N. During this tutorial, we will be using simple workflows as examples and you can choose to do with complex workflows or multiple workflows. Before we start, ensure you have deployed N8N, we",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How to Migrate from Zapier/ Make to N8N",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731757449/300-Frame-8-7.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731757449/600-Frame-8-7.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731757449/1000-Frame-8-7.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731757449/2000-Frame-8-7.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "Migrating to Vaultwarden",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/vaultwarden-migrate-to-vaultwarden/",
+        "description": "Let's see how you can migrate your already available passwords and secrets vault to Vaultwarden. During this tutorial, we will be using the already available Bitwarden vault. You can follow along with this tutorial on any other vault provider too. Before we start, ensure you have deployed Vaultwarden,",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Migrating to Vaultwarden",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731757452/300-Frame-8-5.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731757452/600-Frame-8-5.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731757452/1000-Frame-8-5.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731757452/2000-Frame-8-5.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "typebot",
+        "tag": "Softwares",
+        "title": "Typebot: Building Effective Customer Support",
+        "logo": "/images/applications/live-chat/typebot/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat",
+                "customer-support"
+            ]
+        },
+        "short_description": "Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic",
+        "link": "https://blog.elest.io/typebot-addressing-problem-1-ineffective-customer-support/",
+        "description": "Let's see how you can create a simple customer support chatbot using Typebot. During this tutorial, we will be using a pre-defined template to create the chatbot. You can also choose to create the same from scratch. Before we start, ensure you have deployed Typebot, we will be",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Typebot: Building Effective Customer Support",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/typebot/1731757455/300-Frame-8-4.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/typebot/1731757455/600-Frame-8-4.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/typebot/1731757455/1000-Frame-8-4.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/typebot/1731757455/2000-Frame-8-4.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "Generating PDFs with N8N using Gotenberg",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/n8n-generating-pdfs-with-n8n-using-gotenberg/",
+        "description": "Let's see how you can create an application that can generate PDFs with N8N using Gotenberg. During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Generating PDFs with N8N using Gotenberg",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757458/300-Frame-8-18.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757458/600-Frame-8-18.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757458/1000-Frame-8-18.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757458/2000-Frame-8-18.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "getting started",
+        "tag": "Getting Started",
+        "title": "Building a BI Dashboard with Metabase",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/building-a-bi-dashboard-with-metabase/",
+        "description": "Let's see how you can build a BI Dashboard with Metabase. During this tutorial, we will be creating a BI dashboard to analyse the provided data and visualize it in a dashboard. We are going to create this application from scratch. Before we start, make sure you have",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Building a BI Dashboard with Metabase",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/getting started/1731757462/300-Frame-8.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/getting started/1731757462/600-Frame-8.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/getting started/1731757462/1000-Frame-8.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/getting started/1731757462/2000-Frame-8.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "getting started",
+        "tag": "Getting Started",
+        "title": "Building a Customer Support Dashboard with Baserow",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/building-a-customer-support-dashboard-with-baserow/",
+        "description": "Let's see how you can build a Customer Support Dashboard with Baserow. During this tutorial, we will be creating a database and application which returns the particular record once the button is created. We are going to create this application from scratch. Before we start, ensure you have",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Building a Customer Support Dashboard with Baserow",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/getting started/1731757465/300-Frame-8-3.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/getting started/1731757465/600-Frame-8-3.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/getting started/1731757465/1000-Frame-8-3.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/getting started/1731757465/2000-Frame-8-3.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "getting started",
+        "tag": "Getting Started",
+        "title": "How to build a Telegram AI bot with N8N",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/how-to-build-a-telegram-ai-bot-with-n8n/",
+        "description": "Let's see how you can create a Telegram AI bot with N8N open-source. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How to build a Telegram AI bot with N8N",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/getting started/1731757468/300-Frame-8-6.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/getting started/1731757468/600-Frame-8-6.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/getting started/1731757468/1000-Frame-8-6.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/getting started/1731757468/2000-Frame-8-6.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "linkwarden",
+        "tag": "Open source softwares",
+        "title": "Linkwarden: Free Open-source Bookmark Manager for Teams",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/linkwarden-free-open-source-bookmark-manager-for-teams/",
+        "description": "In the digital age, managing a plethora of bookmarks can be a daunting task, especially for teams working on collaborative projects.\n\nEnter Linkwarden, an open-source bookmark manager designed specifically for individuals and teams to collect, organize, and preserve webpages. Its feature-rich platform ensures that your bookmarks are not only organized",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Linkwarden: Free Open-source Bookmark Manager for Teams",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/linkwarden/1731757471/300-linkwarden-thumbnail.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/linkwarden/1731757471/600-linkwarden-thumbnail.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/linkwarden/1731757471/1000-linkwarden-thumbnail.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/linkwarden/1731757471/2000-linkwarden-thumbnail.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "Retrieve weather information based on a zip code \ud83c\udf24\ufe0f",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/n8n-retrieves-weather-information-based-on-a-zip-code/",
+        "description": "Let's see how you can create an application that can retrieve weather information based on a zip code using API. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Retrieve weather information based on a zip code \ud83c\udf24\ufe0f",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757474/300-Frame-8-1.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757474/600-Frame-8-1.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757474/1000-Frame-8-1.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757474/2000-Frame-8-1.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "Performing SQL query on MySQL server",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/n8n/",
+        "description": "Let's see how you can create API Endpoints that perform SQL query on MySQL server. During this tutorial, we will be creating the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Performing SQL query on MySQL server",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757478/300-Frame-8-2.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757478/600-Frame-8-2.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757478/1000-Frame-8-2.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757478/2000-Frame-8-2.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "dify",
+        "tag": "Open source softwares",
+        "title": "Dify: Free Open-source LLM AI Chatbots Builder Platform",
+        "logo": "/images/development/nocode-lowcode/dify/logo.png",
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code",
+            "ids": [
+                "nocode-lowcode"
+            ]
+        },
+        "short_description": "LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features, and more, letting you quickly go from prototype to production.",
+        "link": "https://blog.elest.io/dify-free-open-source-llm-ai-chatbots-builder-platform/",
+        "description": "In the rapidly evolving field of Generative AI, Dify emerges as a powerful open-source platform for building Large Language Model (LLM) applications. Designed to streamline processes, simplify workflows, and enhance value delivery, Dify offers a comprehensive suite of tools for developing AI chatbots and assistants.\n\nDiscover the core features of",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Dify: Free Open-source LLM AI Chatbots Builder Platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/dify/1731757481/300-dify-thumbnail.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/dify/1731757481/600-dify-thumbnail.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/dify/1731757481/1000-dify-thumbnail.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/dify/1731757481/2000-dify-thumbnail.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "API Endpoint for GET method",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/n8n-api-endpoint-for-get-response/",
+        "description": "Hey everyone, In this blog we are going to see how you can create API Endpoints that responds to your GET requests using N8N. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "API Endpoint for GET method",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757484/300-Frame-8.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757484/600-Frame-8.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757484/1000-Frame-8.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757484/2000-Frame-8.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "open source softwares",
+        "tag": "Open source softwares",
+        "title": "5 Free Open Source Tools Every Developer Should Know",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/5-free-open-source-tools-every-developer-should-know/",
+        "description": "Do not start your next project without knowing those 5 free open source tools.\n\nThey will save you time and effort by preventing you from redeveloping common features.\n\nWith these tools, you can have robust, efficient solutions ready in no time, often performing even better than what you could create",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "5 Free Open Source Tools Every Developer Should Know",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/open source softwares/1731757487/300-5-free-open-source-tools.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/open source softwares/1731757487/600-5-free-open-source-tools.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/open source softwares/1731757487/1000-5-free-open-source-tools.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/open source softwares/1731757487/2000-5-free-open-source-tools.jpg"
+                }
+            ]
+        }
+    }
+]

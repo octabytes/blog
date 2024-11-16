@@ -1,0 +1,749 @@
+[
+    {
+        "id": "lago",
+        "tag": "Open source softwares",
+        "title": "Lago: Free Open Source Metering and Usage Based Payment Platform",
+        "logo": "/images/applications/invoicing-and-payments/lago/logo.png",
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments",
+            "ids": [
+                "invoicing-and-payments"
+            ]
+        },
+        "short_description": "Open-source alternative to Stripe Billing and Chargebee it offers a modular architecture for metering and usage-based billing, at every stage of your company.",
+        "link": "https://blog.elest.io/lago-free-open-source-metering-and-usage-based-payment-platform/",
+        "description": "Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. Lago emerges as a remedy to this, offering a free, open-source solution for metering and usage-based billing.\n\nWhether self-hosted or on the cloud, Lago boasts a scalable and modular architecture designed",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Lago: Free Open Source Metering and Usage Based Payment Platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/lago/1731757615/300-lago.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/lago/1731757615/600-lago.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/lago/1731757615/1000-lago.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/lago/1731757615/2000-lago.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "logto",
+        "tag": "",
+        "title": "How to Deploy Your Go API on Elestio",
+        "logo": "/images/development/identity-and-access-management/logto/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",
+        "link": "https://blog.elest.io/how-to-deploy-your-go-api-on-elestio/",
+        "description": "As a developer, you might have built multiple APIs and integrated them with your web application. So, In today's tutorial, we are going to see how you can quickly build a simple Ping-Pong API and deploy it easily and quickly on Elestio.\n\n\nLet's set it up!",
+        "read_length": "5 min read",
+        "image": {
+            "alt": "How to Deploy Your Go API on Elestio",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/logto/1731757618/300-Frame_8-1.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/logto/1731757618/600-Frame_8-1.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/logto/1731757618/1000-Frame_8-1.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/logto/1731757618/2000-Frame_8-1.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "parse",
+        "tag": "Backend As a Service",
+        "title": "Parse: Free Open Source Backend as a Service",
+        "logo": "/images/development/backend-as-a-service/parse/logo.png",
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service",
+            "ids": [
+                "backend-as-a-service"
+            ]
+        },
+        "short_description": "Parse Server is an open-source backend that can be deployed to any infrastructure that can run Node.js.",
+        "link": "https://blog.elest.io/parse-free-open-source-backend-as-a-service/",
+        "description": "In the fast-paced world of app development, the importance of a robust backend system cannot be overstated. However, for developers, diving into the complexities of server management and backend development can often feel like navigating a labyrinth. This is where Parse, an open-source platform, comes to the rescue.\n\nParse simplifies",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Parse: Free Open Source Backend as a Service",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/parse/1731757621/300-parse.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/parse/1731757621/600-parse.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/parse/1731757621/1000-parse.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/parse/1731757621/2000-parse.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "Build a graphQL API with Hasura low-code platform",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/build-a-graphql-api-with-hasura/",
+        "description": "In the fast-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter Hasura, the low-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed.\n\nIn this article, we will explore the power of",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Build a graphQL API with Hasura low-code platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731757625/300-hasura.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731757625/600-hasura.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731757625/1000-hasura.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731757625/2000-hasura.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "open source softwares",
+        "tag": "Open source softwares",
+        "title": "Chaskiq, an open-source messaging platform for marketing, support, and sales",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/chaskiq-an-open-source-messaging-platform-for-marketing-support-and-sales/",
+        "description": "In a digital age where seamless communication is essential for businesses to thrive, Chaskiq stands as an open-source beacon of innovation. This messaging platform is designed to be the one-stop solution for marketing, support, and sales. It offers the ability to craft complete experiences within a single conversation thread, combining",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Chaskiq, an open-source messaging platform for marketing, support, and sales",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/open source softwares/1731757629/300-chaskiq.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/open source softwares/1731757629/600-chaskiq.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/open source softwares/1731757629/1000-chaskiq.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/open source softwares/1731757629/2000-chaskiq.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "paperless-ngx",
+        "tag": "Paperless-ngx",
+        "title": "Paperless-ngx: Free Open Source Document Management Platform",
+        "logo": "/images/hosting-and-infrastructure/storage/paperless-ngx/logo.png",
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "short_description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.",
+        "link": "https://blog.elest.io/paperless-ngx-free-open-source-document-management-platform/",
+        "description": "In the digital age, businesses are constantly seeking ways to streamline operations and reduce clutter. In addition to obvious ecological motivations, going paperless is a crucial step in achieving this goal.\n\nPaperless-NGX is a free and open-source document management platform designed to transform your physical documents into a searchable online",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Paperless-ngx: Free Open Source Document Management Platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/paperless-ngx/1731757632/300-paperless-ngx.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/paperless-ngx/1731757632/600-paperless-ngx.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/paperless-ngx/1731757632/1000-paperless-ngx.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/paperless-ngx/1731757632/2000-paperless-ngx.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "flagsmith",
+        "tag": "Flagsmith",
+        "title": "Feature Flagging and Remote Configuration with Flagsmith",
+        "logo": "/images/development/dev-tools/flagsmith/logo.png",
+        "category": {
+            "id": "dev-tools",
+            "name": "Dev tools",
+            "ids": [
+                "dev-tools"
+            ]
+        },
+        "short_description": "Flagsmith\u00a0is an, fully featured, Feature Flag and Remote Config service.",
+        "link": "https://blog.elest.io/feature-flags-and-remote-configuration-with-flagsmith/",
+        "description": "In the ever-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data-driven decisions can make all the difference. This is where Flagsmith, the Feature Flag & Remote Config Service, comes into play.\n\nIn this article, we'll explore",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Feature Flagging and Remote Configuration with Flagsmith",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/flagsmith/1731757635/300-flagsmith.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/flagsmith/1731757635/600-flagsmith.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/flagsmith/1731757635/1000-flagsmith.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/flagsmith/1731757635/2000-flagsmith.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "formbricks",
+        "tag": "Formbricks",
+        "title": "Create smart forms and surveys with FormBricks",
+        "logo": "/images/applications/customer-support/formbricks/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        },
+        "short_description": "Formbricks is your go-to solution for in-product micro-surveys that will supercharge your product experience.",
+        "link": "https://blog.elest.io/revolutionize-user-insights-with-formbricks-an-in-depth-guide/",
+        "description": "Understanding your customers is essential This is where FormBricks, an open-source Experience Management tool, steps in. In this comprehensive guide, we'll explore how FormBricks can help you gain invaluable insights into what your customers think and feel about your product.\n\nDiscover how FormBricks seamlessly integrates user research with",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Create smart forms and surveys with FormBricks",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/formbricks/1731757638/300-formbricks.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/formbricks/1731757638/600-formbricks.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/formbricks/1731757638/1000-formbricks.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/formbricks/1731757638/2000-formbricks.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "posthog",
+        "tag": "Posthog",
+        "title": "Posthog: The ultimate Open Source Product Analytics Platform",
+        "logo": "/images/applications/analytics/posthog/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        },
+        "short_description": "PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.",
+        "link": "https://blog.elest.io/posthog/",
+        "description": "In today's data-driven world, understanding your users and their interactions with your digital products is key to success.\n\nAccurate analytics tools can provide invaluable insights that drive informed decision-making. One such tool, PostHog, is making waves as an open-source alternative to traditional analytics platforms.\n\nIn this article, we&",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Posthog: The ultimate Open Source Product Analytics Platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/posthog/1731757641/300-posthog_cover.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/posthog/1731757641/600-posthog_cover.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/posthog/1731757641/1000-posthog_cover.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/posthog/1731757641/2000-posthog_cover.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "project management with plane",
+        "tag": "",
+        "title": "Project Management with Plane: A free Open Source alternative to Jira, Asana, and Trello",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/plane-free-open-source-project-management-tool/",
+        "description": "Project management is the cornerstone of any successful venture, whether it's a large corporation, a startup, or even a personal project. Over the years, several project management tools have risen to prominence, each with its own set of features and capabilities.\n\nWhile Jira, Asana, and Trello have earned",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Project Management with Plane: A free Open Source alternative to Jira, Asana, and Trello",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/project management with plane/1731757645/300-plane.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/project management with plane/1731757645/600-plane.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/project management with plane/1731757645/1000-plane.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/project management with plane/1731757645/2000-plane.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "infisical",
+        "tag": "Cal",
+        "title": "Discover Cal.com - The Open Source Alternative to Calendly",
+        "logo": "/images/applications/password-manager/infisical/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        },
+        "short_description": "Infisical\u00a0is an\u00a0open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.",
+        "link": "https://blog.elest.io/cal-com-free-open-source-calendly-alternative/",
+        "description": "In the fast-paced world of modern business, efficient scheduling is a crucial element of success. The ability to book meetings seamlessly, integrate with various tools, and coordinate with your team effortlessly are all essential.\n\nThat's where Cal.com steps in as a game-changing open-source alternative to Calendly. In",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Discover Cal.com - The Open Source Alternative to Calendly",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/infisical/1731757648/300-caldotcom.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/infisical/1731757648/600-caldotcom.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/infisical/1731757648/1000-caldotcom.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/infisical/1731757648/2000-caldotcom.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "btcpay server",
+        "tag": "BTCPay",
+        "title": "BTCPay Server: Accept Bitcoin Payments without fees",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/btcpay-server-accept-bitcoin-payments/",
+        "description": "In today's digital age, cryptocurrency has emerged as a formidable force in the financial landscape. Among the various cryptocurrencies, Bitcoin stands out as a widely recognized and accepted form of digital currency.\n\nFor businesses and individuals alike, accepting Bitcoin payments can be a game-changer, offering several advantages over",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "BTCPay Server: Accept Bitcoin Payments without fees",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/btcpay server/1731757651/300-btcpayserver.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/btcpay server/1731757651/600-btcpayserver.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/btcpay server/1731757651/1000-btcpayserver.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/btcpay server/1731757651/2000-btcpayserver.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "rallly",
+        "tag": "Softwares",
+        "title": "Rallly:  Free Online Meeting Scheduling Tool",
+        "logo": "/images/applications/calendar/rallly/logo.png",
+        "category": {
+            "id": "calendar",
+            "name": "Calendar",
+            "ids": [
+                "calendar"
+            ]
+        },
+        "short_description": "Rallly is the Doodle alternative scheduling and collaboration tool designed to make organizing events and meetings easier.",
+        "link": "https://blog.elest.io/rallly-free-online-meeting-scheduling-tool/",
+        "description": "Coordinating events, meetups, and meetings can be a challenging endeavor. Enter Rallly, an ingenious open-source solution designed to simplify the process. To organize a team meeting or a casual get-together with friends and family, Rallly offers a user-friendly platform to streamline your scheduling needs.\n\nFrom seamlessly setting up events to",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Rallly:  Free Online Meeting Scheduling Tool",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/rallly/1731757654/300-rally.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/rallly/1731757654/600-rally.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/rallly/1731757654/1000-rally.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/rallly/1731757654/2000-rally.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "domain purchase",
+        "tag": "domain purchase",
+        "title": "How to Buy a Domain from Elest.io",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/how-to-buy-a-domain-from-elest-io/",
+        "description": "In today's fast-paced digital world, establishing a strong online presence is crucial for businesses, individuals, and creative projects alike. One of the foundational steps in building this presence is securing a domain name that reflects your brand, vision, or purpose. In this guide, we'll walk you",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How to Buy a Domain from Elest.io",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/domain purchase/1731757657/300-shutterstock_379718029--1--1.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/domain purchase/1731757657/600-shutterstock_379718029--1--1.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/domain purchase/1731757657/1000-shutterstock_379718029--1--1.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/domain purchase/1731757657/2000-shutterstock_379718029--1--1.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cicd deployment",
+        "tag": "CICD Deployment",
+        "title": "How to enable CICD on a Next.js project with GitHub",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/how-to-enable-cicd-on-a-next-js-project-with-github/",
+        "description": "In the dynamic landscape of software development, efficiency, and speed are paramount.\n\nImagine a process where your code changes are automatically tested, built, and deployed to production without manual intervention. This is the power of Continuous Integration and Continuous Deployment (CI/CD), which enhances collaboration, reduces errors, and accelerates your",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "How to enable CICD on a Next.js project with GitHub",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/cicd deployment/1731757659/300-next-cicd.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/cicd deployment/1731757659/600-next-cicd.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/cicd deployment/1731757659/1000-next-cicd.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/cicd deployment/1731757659/2000-next-cicd.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "redis",
+        "tag": "Redis",
+        "title": "What is Redis? 6 use cases to boost your projects",
+        "logo": "/images/databases/nosql/redis/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        },
+        "short_description": "Redis is an open-source, in-memory database, cache and message broker.",
+        "link": "https://blog.elest.io/6-use-cases/",
+        "description": "What is Redis?\n\nRedis, short for Remote Dictionary Server, is an open-source, in-memory data store that serves as a versatile tool for various data storage and caching needs. It's designed for high-speed data retrieval and manipulation, making it a popular choice for optimizing various types of projects.\n\n\n6",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "What is Redis? 6 use cases to boost your projects",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/redis/1731757661/300-redis.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/redis/1731757661/600-redis.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/redis/1731757661/1000-redis.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/redis/1731757661/2000-redis.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "strapi",
+        "tag": "Strapi",
+        "title": "Strapi: Free Open Source Headless CMS",
+        "logo": "/images/applications/cms/strapi/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        },
+        "short_description": "Strapi enables easy building of self-hosted, customizable, performant content API.",
+        "link": "https://blog.elest.io/strapi-free-open-source-headless-cms/",
+        "description": "Developing a backend for content management has traditionally been a time-consuming and tedious task. From crafting CRUD operations to setting up complex role and permission systems, the process can quickly become overwhelming...\n\nBut, brace yourself for a transformative solution that simplifies this entire ordeal - Strapi, the free and open-source",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Strapi: Free Open Source Headless CMS",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/strapi/1731757664/300-strapi.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/strapi/1731757664/600-strapi.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/strapi/1731757664/1000-strapi.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/strapi/1731757664/2000-strapi.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "infisical",
+        "tag": "Infisical",
+        "title": "Infisical: Open Source Secrets Management Platform",
+        "logo": "/images/applications/password-manager/infisical/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        },
+        "short_description": "Infisical\u00a0is an\u00a0open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.",
+        "link": "https://blog.elest.io/infisical/",
+        "description": "In today's fast-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration - Infisical.",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Infisical: Open Source Secrets Management Platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/infisical/1731757667/300-Mautic--1-.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/infisical/1731757667/600-Mautic--1-.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/infisical/1731757667/1000-Mautic--1-.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/infisical/1731757667/2000-Mautic--1-.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mautic",
+        "tag": "Mautic",
+        "title": "Mautic: Free Open Source Automation Marketing Platform",
+        "logo": "/images/applications/email-marketing/mautic/logo.png",
+        "category": {
+            "id": "email-marketing",
+            "name": "Email marketing",
+            "ids": [
+                "email-marketing",
+                "automation"
+            ]
+        },
+        "short_description": "Mautic is a open source marketing automation software.",
+        "link": "https://blog.elest.io/mautic-free-open-source-automation-marketing-platform/",
+        "description": "Mautic is a powerful open-source marketing automation platform that empowers businesses to streamline their marketing efforts, engage customers, and drive growth.\n\nWith an array of robust features and flexible customization options, Mautic offers a cost-effective solution for marketers seeking to enhance their marketing strategies.\n\nIn this article, we'll",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Mautic: Free Open Source Automation Marketing Platform",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/mautic/1731757669/300-Mautic.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/mautic/1731757669/600-Mautic.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/mautic/1731757669/1000-Mautic.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/mautic/1731757669/2000-Mautic.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "invoiceninja",
+        "tag": "InvoiceNinja",
+        "title": "Invoice Ninja - A Free Invoicing and Billing Solution",
+        "logo": "/images/applications/crm-erp/invoiceninja/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp",
+                "invoicing-and-payments"
+            ]
+        },
+        "short_description": "Invoice Ninja is the leading free, open-source online invoicing app for freelancers and businesses.",
+        "link": "https://blog.elest.io/invoice-ninja-a-free-invoicing-and-billing-solution/",
+        "description": "Invoicing is a critical aspect of any business, and finding the right solution can make a significant impact on your productivity and efficiency.\n\nIn this blog post, we invite you to discover Invoice Ninja, a free and open-source solution designed to simplify your invoicing workflow, create professional quotes and invoices,",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Invoice Ninja - A Free Invoicing and Billing Solution",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/invoiceninja/1731757671/300-Invoice-Ninja.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/invoiceninja/1731757671/600-Invoice-Ninja.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/invoiceninja/1731757671/1000-Invoice-Ninja.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/invoiceninja/1731757671/2000-Invoice-Ninja.jpg"
+                }
+            ]
+        }
+    }
+]

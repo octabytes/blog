@@ -11,7 +11,7 @@ OUTPUT_DIR = "./posts"
 IMAGE_DIR = "./images"
 SERVICE_DIR = "./services"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-PAGE_LIMIT = 9
+PAGE_LIMIT = 8
 ITEMS_PER_FILE = 20
 
 # Create necessary directories
@@ -55,9 +55,9 @@ def find_service_id(title, tag):
 # Main scraping function
 def scrape_articles():
     articles = []
-    file_index = 1
+    file_index = 8
 
-    for page_number in range(1, 2):
+    for page_number in range(7, PAGE_LIMIT + 1):
         print(f"Scraping page {page_number}...")
         url = f"{BASE_URL}/page/{page_number}/"
         response = requests.get(url, headers=HEADERS)
@@ -70,15 +70,16 @@ def scrape_articles():
             continue
 
         for article in posts_feed:
-            # try:
+            try:
                 title = article.select_one(".post-card-title").text.strip()
 
-                print(title)
+                print("->>",title)
                 
                 tag_element = article.select_one(".post-card-primary-tag")
                 tag = tag_element.text.strip() if tag_element else ""
                 description = article.select_one(".post-card-excerpt").text.strip()
-                read_length = article.select_one(".post-card-meta-length").text.strip()
+                read_length_ele = article.select_one(".post-card-meta-length")
+                read_length = read_length_ele.text.strip() if read_length_ele else ""
                 link = article.select_one(".post-card-content-link")["href"]
                 if not link.startswith(BASE_URL):
                     link = urljoin(BASE_URL, link)
@@ -138,8 +139,8 @@ def scrape_articles():
                     file_index += 1
                     articles = []
 
-            # except Exception as e:
-            #     print(f"Error processing article: {e}")
+            except Exception as e:
+                print(f"Error processing article: {e}")
 
     # Save any remaining articles
     if articles:

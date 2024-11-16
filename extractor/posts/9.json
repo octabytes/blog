@@ -1,0 +1,200 @@
+[
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "Gitlab SaaS Free tier is now limited to 5 users. What can you do?",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/gitlab-saas-free-trier-is-now-limited-to-5-users-per-namespace-few-alternatives-available/",
+        "description": "Gitlab announced recently that they are limiting the number of users per namespace to 5. If you have more than 5 users in a group or subgroup you will be impacted by this change.\n\n\nWhat can you do?\n\n 1. Upgrade to Gitlab paid offering, if you have a relatively small",
+        "read_length": "5 min read",
+        "image": {
+            "alt": "Gitlab SaaS Free tier is now limited to 5 users. What can you do?",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731758322/300-gitlab-saas.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731758322/600-gitlab-saas.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731758322/1000-gitlab-saas.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731758322/2000-gitlab-saas.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "Metabase, the best open-source and no-code Business Intelligence tool",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/metabase-the-best-no-code-business-intelligence-tool/",
+        "description": "Metabase is one of the simplest and most powerful business intelligence tools I have tried in the last few years.\n\nIt's the kind of tool you can't wait to start using barely 5 minutes after you start to see the demo! I tried it for the",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Metabase, the best open-source and no-code Business Intelligence tool",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731758325/300-metabase-Dashboard.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731758325/600-metabase-Dashboard.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731758325/1000-metabase-Dashboard.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731758325/2000-metabase-Dashboard.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "announcements",
+        "tag": "Announcements",
+        "title": "We're going live!",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/welcome/",
+        "description": "We help companies to deploy, secure, backup and update open source softwares on scalable cloud infrastructure.",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "We're going live!",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/announcements/1731758328/300-fully-managed-opensource-catalog.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/announcements/1731758328/600-fully-managed-opensource-catalog.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/announcements/1731758328/1000-fully-managed-opensource-catalog.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/announcements/1731758328/2000-fully-managed-opensource-catalog.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "BookStack, create public or internal documentation easily",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/bookstack/",
+        "description": "BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information\n\nWe used BookStack to create the public Elestio documentation, it allowed us to write the whole documentation in a week thanks to its intuitive UI.\n\nThe content is sorted in a hierarchy with Shelves > Books > Chapters",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "BookStack, create public or internal documentation easily",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731758330/300-bookstack-hero-screenshot.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731758330/600-bookstack-hero-screenshot.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731758330/1000-bookstack-hero-screenshot.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731758330/2000-bookstack-hero-screenshot.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "Uptime-Kuma, a great open-source alternative to uptime robot",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/uptime-kuma/",
+        "description": "Uptime-Kuma is a self-hosted monitoring tool similar to \"Uptime Robot\".",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Uptime-Kuma, a great open-source alternative to uptime robot",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/softwares/1731758333/300-uptime-kuma-2.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/softwares/1731758333/600-uptime-kuma-2.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/softwares/1731758333/1000-uptime-kuma-2.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/softwares/1731758333/2000-uptime-kuma-2.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "announcements",
+        "tag": "Announcements",
+        "title": "Why open source?",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/why-open-source/",
+        "description": "From our perspective, open-source software is a revolution in decentralized, distributed and collective research, engineering, decision-making, governance, and economics, directly connecting developers and users.\n\n\nWe weren't always this way\n\nWe\u2019ll admit it right here, right now, up front.\n\nOur co-founder and CTO, Joseph Benguira, was a devout",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Why open source?",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/announcements/1731758335/300-chess-g05ba79b97_1920-1.jpeg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/announcements/1731758335/600-chess-g05ba79b97_1920-1.jpeg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/announcements/1731758335/1000-chess-g05ba79b97_1920-1.jpeg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/announcements/1731758335/2000-chess-g05ba79b97_1920-1.jpeg"
+                }
+            ]
+        }
+    }
+]

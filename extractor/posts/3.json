@@ -1,0 +1,764 @@
+[
+    {
+        "id": "grafana",
+        "tag": "Grafana",
+        "title": "Grafana: Create MySQL Data Source",
+        "logo": "/images/hosting-and-infrastructure/monitoring/grafana/logo.png",
+        "category": {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "ids": [
+                "monitoring"
+            ]
+        },
+        "short_description": "Grafana is a multi-platform, open-source analytics and interactive visualization web application.",
+        "link": "https://blog.elest.io/grafana-create-mysql-data-source/",
+        "description": "Configuring a MySQL data source in Grafana allows you to use Grafana's visualization capabilities alongside MySQL's data management features. This guide will provide detailed steps to help you set up and configure the MySQL data source in Grafana. For this tutorial, we will be using Grafana",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Grafana: Create MySQL Data Source",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/grafana/1731757362/300-Frame-8-4.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/grafana/1731757362/600-Frame-8-4.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/grafana/1731757362/1000-Frame-8-4.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/grafana/1731757362/2000-Frame-8-4.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "penpot",
+        "tag": "Open source softwares",
+        "title": "Penpot: Free Open-source Alternative to Figma & AdobeXD",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/penpot-free-open-source-alternative-to-figma-adobexd/",
+        "description": "In the fast-paced world of design and development, having a tool that bridges the gap between these two essential disciplines is crucial.\n\nEnter Penpot, the web-based open-source design tool that's making waves with its powerful features and seamless integration. As a robust alternative to Figma, Adobe XD, and",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Penpot: Free Open-source Alternative to Figma & AdobeXD",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/penpot/1731757365/300-penpotthumbnail.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/penpot/1731757365/600-penpotthumbnail.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/penpot/1731757365/1000-penpotthumbnail.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/penpot/1731757365/2000-penpotthumbnail.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "gophish",
+        "tag": "Open source softwares",
+        "title": "Gophish: Free Open-source Phishing Framework",
+        "logo": "/images/development/dev-tools/gophish/logo.png",
+        "category": {
+            "id": "dev-tools",
+            "name": "Dev tools",
+            "ids": [
+                "dev-tools"
+            ]
+        },
+        "short_description": "A powerful phishing framework that makes it easy\u00a0to test your organization's exposure to phishing.",
+        "link": "https://blog.elest.io/gophish-free-open-source-phishing-framework/",
+        "description": "In today's digital landscape, phishing attacks pose a significant threat to organizations of all sizes. These malicious attempts to obtain sensitive information can lead to severe financial and reputational damage.\n\nTo combat this, Gophish, a powerful open-source phishing framework, offers a comprehensive solution to test and improve your",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Gophish: Free Open-source Phishing Framework",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/gophish/1731757368/300-gophish.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/gophish/1731757368/600-gophish.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/gophish/1731757368/1000-gophish.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/gophish/1731757368/2000-gophish.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "How to install a community node on N8N",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/how-to-install-a-community-node-on-n8n/",
+        "description": "Hey everyone, we are going to install a community node manually on N8N. During this tutorial, we will be using the internal terminal tool to access the docker container running the N8N instance. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.\n\n\nWhat is",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "How to install a community node on N8N",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/n8n/1731757372/300-Frame-8-8.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/n8n/1731757372/600-Frame-8-8.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/n8n/1731757372/1000-Frame-8-8.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/n8n/1731757372/2000-Frame-8-8.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "logto",
+        "tag": "",
+        "title": "How To Expose Metrics Endpoint From Keycloak",
+        "logo": "/images/development/identity-and-access-management/logto/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",
+        "link": "https://blog.elest.io/how-to-expose-meetrics-endpoint-from-keycloak/",
+        "description": "Monitoring and tracking the performance and health of your Keycloak server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How To Expose Metrics Endpoint From Keycloak",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/logto/1731757375/300-Frame-8-23.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/logto/1731757375/600-Frame-8-23.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/logto/1731757375/1000-Frame-8-23.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/logto/1731757375/2000-Frame-8-23.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "logto",
+        "tag": "",
+        "title": "How To Customise Your Keycloak UI With React & Keycloakify",
+        "logo": "/images/development/identity-and-access-management/logto/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",
+        "link": "https://blog.elest.io/how-to-customise-your-keycloak-ui-with-react-keycloakify/",
+        "description": "Keycloak is a tool for managing authentication and authorization. However, you might want to tailor its user interface to better match your brand or meet specific design requirements. Using React and Keycloakify, you can create a custom Keycloak UI that provides a seamless experience for your users. This blog will",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How To Customise Your Keycloak UI With React & Keycloakify",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/logto/1731757378/300-Frame-8.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/logto/1731757378/600-Frame-8.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/logto/1731757378/1000-Frame-8.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/logto/1731757378/2000-Frame-8.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "logto",
+        "tag": "",
+        "title": "Setup SSO With Keycloak And Multiple Services",
+        "logo": "/images/development/identity-and-access-management/logto/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",
+        "link": "https://blog.elest.io/setup-sso-with-keycloak-and-multiple-services-2/",
+        "description": "Integrating Keycloak as an OAuth provider with your applications, such as WordPress or Apache Superset, helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Setup SSO With Keycloak And Multiple Services",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/logto/1731757381/300-Frame-8-1.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/logto/1731757381/600-Frame-8-1.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/logto/1731757381/1000-Frame-8-1.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/logto/1731757381/2000-Frame-8-1.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "logto",
+        "tag": "",
+        "title": "Publish Keycloak Events to RabbitMQ",
+        "logo": "/images/development/identity-and-access-management/logto/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",
+        "link": "https://blog.elest.io/publish-keycloak-events-to-rabbitmq/",
+        "description": "Let's see how you can publish Keycloak events to RabbitMQ. Before we start, make sure you have deployed Keycloak, we will be self-hosting it on Elestio.\n\n\nWhat is Keycloak?\n\nKeycloak is an open-source Identity and Access Management (IAM) solution that provides tools for managing authentication and authorization. It",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Publish Keycloak Events to RabbitMQ",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/logto/1731757385/300-Frame-8-22.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/logto/1731757385/600-Frame-8-22.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/logto/1731757385/1000-Frame-8-22.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/logto/1731757385/2000-Frame-8-22.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "keycloak",
+        "tag": "Keycloak",
+        "title": "Adding Persistent Themes to Keycloak",
+        "logo": "/images/development/identity-and-access-management/keycloak/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Keycloak is an open-source identity and access management solution aimed at modern applications and services.",
+        "link": "https://blog.elest.io/adding-persistent-themes-to-keycloak/",
+        "description": "We will see how you can add persistent theme to Keycloak. Before we start, make sure you have deployed Keycloak, we will be self-hosting it on Elestio. Keycloak offers robust theme support for its web pages and emails, allowing you to tailor the look and feel of end-user-facing pages to",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Adding Persistent Themes to Keycloak",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/keycloak/1731757388/300-Frame-8-19.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/keycloak/1731757388/600-Frame-8-19.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/keycloak/1731757388/1000-Frame-8-19.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/keycloak/1731757388/2000-Frame-8-19.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "How to install Prophet in Superset",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/how-to-install-prophet-in-superset/",
+        "description": "Hey everyone, In this blog we will see how you can install Prophet in superset. During this tutorial, we will be using an internal terminal tool provided at Elestio Dashboard. Before we start, ensure you have deployed Superset, we will be self-hosting it on Elestio.\n\n\nWhat is Superset?\n\nApache Superset",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "How to install Prophet in Superset",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757391/300-Frame-8-10.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757391/600-Frame-8-10.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757391/1000-Frame-8-10.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757391/2000-Frame-8-10.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mattermost",
+        "tag": "Open source softwares",
+        "title": "Mattermost: Free Open-source Alternative to Slack",
+        "logo": "/images/applications/live-chat/mattermost/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        },
+        "short_description": "Mattermost is an open-source platform for secure collaboration across the entire software development lifecycle.",
+        "link": "https://blog.elest.io/mattermost-free-open-source-alternative-to-slack/",
+        "description": "In today's fast-paced digital world, efficient communication within teams is paramount. Many organizations rely on platforms like Slack for this purpose. However, with rising concerns over cost, data privacy, and customization, open-source alternatives like Mattermost are gaining traction.\n\nMattermost offers robust features, flexibility, and an open-source model, making",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Mattermost: Free Open-source Alternative to Slack",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/mattermost/1731757395/300-mattermost-thumbnail.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/mattermost/1731757395/600-mattermost-thumbnail.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/mattermost/1731757395/1000-mattermost-thumbnail.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/mattermost/1731757395/2000-mattermost-thumbnail.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "stirlingpdf",
+        "tag": "",
+        "title": "StirlingPDF: Free Open-source PDF Tools & API",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/stirlingpdf-free-open-source-pdf-tools-api/",
+        "description": "PDF files are a staple of digital document management, and having the right tools to handle them efficiently is essential.\n\nStirlingPDF is a robust, open-source solution that provides a comprehensive suite of PDF operations. Whether you need to organize, convert, secure, or edit your PDF files, StirlingPDF has you covered",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "StirlingPDF: Free Open-source PDF Tools & API",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/stirlingpdf/1731757398/300-stirling-pdf.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/stirlingpdf/1731757398/600-stirling-pdf.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/stirlingpdf/1731757398/1000-stirling-pdf.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/stirlingpdf/1731757398/2000-stirling-pdf.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "logto",
+        "tag": "",
+        "title": "5 Free Open Source Tools You Should Know Before Starting Your Business",
+        "logo": "/images/development/identity-and-access-management/logto/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Logto is an Auth0 alternative for building modern customer identity infrastructure with minimal effort, for both your customers and their organizations.",
+        "link": "https://blog.elest.io/5-free-open-source-tools-you-should-know-before-starting-your-business/",
+        "description": "Do not start a new business without knowing those 5 free open-source software:\n\n\n#1 Invoice Ninja\n\nIf you're looking for a comprehensive invoicing solution, this is the tool for you. Invoice Ninja allows you to create professional invoices, track payments, and manage your expenses.\n\nIt's perfect",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "5 Free Open Source Tools You Should Know Before Starting Your Business",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/logto/1731757402/300-Frame-17.jpg"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/logto/1731757402/600-Frame-17.jpg"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/logto/1731757402/1000-Frame-17.jpg"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/logto/1731757402/2000-Frame-17.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": "keycloak session configuration",
+        "tag": "Keycloak",
+        "title": "Keycloak Session Configuration: Best Practices and Principles",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/configure-keycloak-with-saml/",
+        "description": "Let's see how to configure sessions on Elestio using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.\n\nIn this tutorial, we explore the technicalities",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Keycloak Session Configuration: Best Practices and Principles",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/keycloak session configuration/1731757404/300-Frame-8-15.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/keycloak session configuration/1731757404/600-Frame-8-15.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/keycloak session configuration/1731757404/1000-Frame-8-15.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/keycloak session configuration/1731757404/2000-Frame-8-15.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "keycloak",
+        "tag": "Keycloak",
+        "title": "Adding API Key Authentication In Keycloak",
+        "logo": "/images/development/identity-and-access-management/keycloak/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Keycloak is an open-source identity and access management solution aimed at modern applications and services.",
+        "link": "https://blog.elest.io/adding-api-key-authentication-in-keycloak/",
+        "description": "We will be extending Keycloak by adding API key authentication with Elestio using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.\n\n\nBackground\n\nAPI key authentication is",
+        "read_length": "4 min read",
+        "image": {
+            "alt": "Adding API Key Authentication In Keycloak",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/keycloak/1731757407/300-Frame-8-14.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/keycloak/1731757407/600-Frame-8-14.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/keycloak/1731757407/1000-Frame-8-14.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/keycloak/1731757407/2000-Frame-8-14.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "keycloak",
+        "tag": "Keycloak",
+        "title": "Creating Keycloak cluster with Elestio",
+        "logo": "/images/development/identity-and-access-management/keycloak/logo.png",
+        "category": {
+            "id": "identity-and-access-management",
+            "name": "Identity and access management",
+            "ids": [
+                "identity-and-access-management"
+            ]
+        },
+        "short_description": "Keycloak is an open-source identity and access management solution aimed at modern applications and services.",
+        "link": "https://blog.elest.io/keycloack-cluster-with-elestio/",
+        "description": "We will be creating a Keycloak cluster using Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.\n\n\nTerraform Module for Keycloak Cluster\n\nA comprehensive Terraform module developed by Elestio significantly simplifies the process of deploying and scaling Keycloak",
+        "read_length": "5 min read",
+        "image": {
+            "alt": "Creating Keycloak cluster with Elestio",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/keycloak/1731757411/300-Frame-8-13.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/keycloak/1731757411/600-Frame-8-13.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/keycloak/1731757411/1000-Frame-8-13.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/keycloak/1731757411/2000-Frame-8-13.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Embedding Superset dashboards in your React application",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/embedding-superset-dashboards-in-your-react-application/",
+        "description": "We will knowing more about embedding Superset dashboards in your react application.\n\n\nMaximizing Data Insights: Integrating Superset's Image Export with External Applications\n\nApache Superset stands out as a powerful tool for data visualization, boasting a user-friendly interface for rapid chart creation across diverse databases. Among its extensive feature",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Embedding Superset dashboards in your React application",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757414/300-Frame-8-9.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757414/600-Frame-8-9.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757414/1000-Frame-8-9.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757414/2000-Frame-8-9.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Superset SSO with Google integration",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/superset-sso-with-google-integration/",
+        "description": "We will be knowing more about Superset SSO with Google integration. Seamless Integration of Superset with Google SSO for Enhanced Data Analysis\n\n\nUnderstanding Superset SSO with Google Integration\n\n\nIncorporating Single Sign-On (SSO) with Google in Apache Superset not only streamlines the authentication process but also enhances the overall user experience.",
+        "read_length": "3 min read",
+        "image": {
+            "alt": "Superset SSO with Google integration",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757417/300-Frame-8-10.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757417/600-Frame-8-10.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757417/1000-Frame-8-10.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757417/2000-Frame-8-10.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Superset Download as Image API Guide",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/superset-download-as-image-api-guide/",
+        "description": "We will knowing more about Superset Download as Image API Guide. Apache Superset provides a powerful API for downloading dashboard images, making it easier to share visual insights without requiring direct access to the platform. This guide explains how to use the Superset API to export dashboard images seamlessly.\n\nUnderstanding",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Superset Download as Image API Guide",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757421/300-Frame-8-8.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757421/600-Frame-8-8.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757421/1000-Frame-8-8.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757421/2000-Frame-8-8.png"
+                }
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "tag": "Superset",
+        "title": "Superset Redis Caching Guide",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        },
+        "short_description": "Apache Superset is a data visualization and data exploration platform.",
+        "link": "https://blog.elest.io/superset-redis-caching-guide/",
+        "description": "We will be knowing more about Superset Redis Caching. Optimize your Superset dashboards for better performance and scalability by integrating Redis caching. This guide explains how to set up and leverage Redis as a cache backend in Superset.\n\nUnderstanding Redis as a Cache Backend in Superset\n\nSuperset integrates with Redis",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Superset Redis Caching Guide",
+            "sizes": "(max-width: 1000px) 400px, 800px",
+            "srcset": [
+                {
+                    "size": "300w",
+                    "path": "./images/superset/1731757424/300-Frame-8-7.png"
+                },
+                {
+                    "size": "600w",
+                    "path": "./images/superset/1731757424/600-Frame-8-7.png"
+                },
+                {
+                    "size": "1000w",
+                    "path": "./images/superset/1731757424/1000-Frame-8-7.png"
+                },
+                {
+                    "size": "2000w",
+                    "path": "./images/superset/1731757424/2000-Frame-8-7.png"
+                }
+            ]
+        }
+    }
+]
