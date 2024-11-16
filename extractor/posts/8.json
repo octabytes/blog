@@ -1,0 +1,354 @@
+[
+    {
+        "id": "jitsi meet",
+        "tag": "Open source softwares",
+        "title": "Jitsi Meet: Free Open Source Video Conferencing Platform",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/jitsi-meet-open-source-alternative-to-google-meet/",
+        "description": "In today's interconnected world, effective communication is paramount, and video conferencing has become an integral part of our professional and personal lives.\n\nOne powerful solution that has gained significant popularity is Jitsi Meet a free and open-source alternative to Google Meet. In this article, we will delve into",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Jitsi Meet: Free Open Source Video Conferencing Platform",
+            "path": "../content/posts/jitsi meet/jitsi-meet-open-source-alternative-to-google-meet/images/cover.jpg"
+        }
+    },
+    {
+        "id": "typebot",
+        "tag": "Softwares",
+        "title": "Typebot: Free Open Source Chatbot Builder",
+        "logo": "/images/applications/live-chat/typebot/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat",
+                "customer-support"
+            ]
+        },
+        "short_description": "Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic",
+        "link": "https://blog.elest.io/typebot-free-open-source-chatbot-builder/",
+        "description": "In today's fast-paced digital world, businesses are constantly seeking innovative ways to engage with their customers. Chatbots have emerged as a powerful tool to streamline communication, enhance customer experiences, and automate routine tasks. Typebot, a free and open-source chatbot builder, offers a comprehensive solution to create intelligent chatbots",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Typebot: Free Open Source Chatbot Builder",
+            "path": "../content/posts/typebot/typebot-free-open-source-chatbot-builder/images/cover.jpg"
+        }
+    },
+    {
+        "id": "lemmy",
+        "tag": "Softwares",
+        "title": "Lemmy: Exploring the Free Open-Source Alternative to Reddit on the Fediverse",
+        "logo": "/images/applications/forum-community/lemmy/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        },
+        "short_description": "Open-source Reddit alternative. Create your own discussion platform with Lemmy",
+        "link": "https://blog.elest.io/lemmy-exploring-the-free-open-source-alternative-to-reddit-on-the-fediverse/",
+        "description": "In recent years, the rise of social media platforms has led to a growing interest in decentralized and open-source alternatives. Recent Reddit API pricing changes helped one software to gain a lot of exposure!\n\nEnter Lemmy, a free and open-source platform that offers an exciting alternative to the popular social",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Lemmy: Exploring the Free Open-Source Alternative to Reddit on the Fediverse",
+            "path": "../content/posts/lemmy/lemmy-exploring-the-free-open-source-alternative-to-reddit-on-the-fediverse/images/cover.jpg"
+        }
+    },
+    {
+        "id": "shlink",
+        "tag": "Shlink",
+        "title": "Shlink URL shortener with analytics",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/shlink/",
+        "description": "Discover Shlink, a powerful open-source URL shortener that offers a comprehensive range of features.\n\nOur platform overview of Shlink:\n\n\nLink Shortener\n\nShlink excels in simplifying the process of creating shorter and more manageable links. With its user-friendly interface, you can effortlessly generate custom short URLs that align with your brand.",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Shlink URL shortener with analytics",
+            "path": "../content/posts/shlink/shlink/images/cover.jpg"
+        }
+    },
+    {
+        "id": "papercups",
+        "tag": "Papercups",
+        "title": "Papercups: a free alternative to Intercom, Zendesk, and Drift",
+        "logo": "/images/applications/live-chat/papercups/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat",
+                "customer-support"
+            ]
+        },
+        "short_description": "Papercups is a open-source live customer chat",
+        "link": "https://blog.elest.io/papercups-a-free-alternative-to-intercom-zendesk-and-drift/",
+        "description": "In today's competitive business landscape, delivering exceptional customer experience is paramount. However, the cost and complexity of popular customer service solutions like Drift, Zendesk, and Intercom can be overwhelming, especially for small businesses and startups. But fear not!\n\nEnter Papercups, a game-changing free and open-source alternative that empowers",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Papercups: a free alternative to Intercom, Zendesk, and Drift",
+            "path": "../content/posts/papercups/papercups-a-free-alternative-to-intercom-zendesk-and-drift/images/cover.jpg"
+        }
+    },
+    {
+        "id": "discover ghost",
+        "tag": "Softwares",
+        "title": "Discover Ghost: Build, Monetize, and Customize Your Online Presence",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/ghost-free-open-source-blogging-platform/",
+        "description": "In the dynamic world of content creation, having a versatile and user-friendly platform is essential. Enter Ghost, the free and open-source blogging platform that goes beyond a traditional content management system.\n\nWith Ghost, you can effortlessly build and manage your website, publish captivating blog posts, and engage with your readers",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Discover Ghost: Build, Monetize, and Customize Your Online Presence",
+            "path": "../content/posts/discover ghost/ghost-free-open-source-blogging-platform/images/cover.jpg"
+        }
+    },
+    {
+        "id": "budibase",
+        "tag": "Open source softwares",
+        "title": "Budibase: free and open-source no-code platform for building custom internal tools",
+        "logo": "/images/development/nocode-lowcode/budibase/logo.png",
+        "category": {
+            "id": "nocode-lowcode",
+            "name": "No-code / Low code",
+            "ids": [
+                "nocode-lowcode"
+            ]
+        },
+        "short_description": "Budibase is a quick way to build business apps that empower teams and improve productivity.",
+        "link": "https://blog.elest.io/budibase-free-and-open-source-no-code-platform-for-building-custom-internal-tools/",
+        "description": "Budibase is an innovative, no-code platform for building custom internal tools. It is free, open-source, and designed to help businesses of all sizes build their own CRMs, project management systems, inventory management tools, and more without any coding experience. In this blog post, we will take you through the platform&",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Budibase: free and open-source no-code platform for building custom internal tools",
+            "path": "../content/posts/budibase/budibase-free-and-open-source-no-code-platform-for-building-custom-internal-tools/images/cover.jpg"
+        }
+    },
+    {
+        "id": "apache superset",
+        "tag": "Softwares",
+        "title": "Apache Superset: The Open-Source Solution for Data Visualization I",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/apache-superset-the-open-source-solution-for-data-visualization-i/",
+        "description": "If you are looking for a free, open-source solution for data exploration and visualization, then look no further than Apache Superset. This powerful platform allows you to connect to your existing databases, explore your data, and create beautiful visualizations in a user-friendly interface. Whether you are a data analyst, business",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Apache Superset: The Open-Source Solution for Data Visualization I",
+            "path": "../content/posts/apache superset/apache-superset-the-open-source-solution-for-data-visualization-i/images/cover.jpg"
+        }
+    },
+    {
+        "id": "softwares",
+        "tag": "Softwares",
+        "title": "Baserow, the free open-source Airtable alternative",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/baserow-the-free-open-source-airtable-alternative/",
+        "description": "Are you looking for a flexible and customizable database solution that doesn't require advanced coding skills? Discover Baserow, this powerful no-code tool that allows you to easily manage and organize your data. In this blog post, we'll explore the many features and benefits of Baserow, and",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Baserow, the free open-source Airtable alternative",
+            "path": "../content/posts/softwares/baserow-the-free-open-source-airtable-alternative/images/cover.jpg"
+        }
+    },
+    {
+        "id": "open source softwares",
+        "tag": "Open source softwares",
+        "title": "Send marketing and transactional emails with Listmonk",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/send-email/",
+        "description": "Looking for a free and powerful tool to manage your email marketing campaigns and transactional emails? Say hello to Listmonk! In our latest video, we showcase how Listmonk can help you achieve your email goals without the high price tag of other popular services like Mailchimp, Sendinblue, or Sendgrid.\n\n\nWhat",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Send marketing and transactional emails with Listmonk",
+            "path": "../content/posts/open source softwares/send-email/images/cover.jpg"
+        }
+    },
+    {
+        "id": "flarum",
+        "tag": "Softwares",
+        "title": "Flarum: The Modern, Open-Source Forum Platform for Building Engaging Communities",
+        "logo": "/images/applications/forum-community/flarum/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        },
+        "short_description": "Flarum is a delightfully simple discussion platform for your website",
+        "link": "https://blog.elest.io/build-modern-forums-with-flarum/",
+        "description": "If you're looking for a modern, open-source platform to build your own online forum or Q&A site, Flarum is a great option. This innovative forum software is designed to be easy to use and highly customizable, making it perfect for everyone from small business owners to",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "Flarum: The Modern, Open-Source Forum Platform for Building Engaging Communities",
+            "path": "../content/posts/flarum/build-modern-forums-with-flarum/images/cover.jpg"
+        }
+    },
+    {
+        "id": "open source softwares",
+        "tag": "Open source softwares",
+        "title": "Build & engage your community with Discourse",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/discourse/",
+        "description": "Building a community around your product or brand can have a significant positive impact on your business. A thriving community can help you grow your customer base, drive engagement, and foster brand loyalty. But building and managing a community is no easy feat. That's where Discourse comes in.",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Build & engage your community with Discourse",
+            "path": "../content/posts/open source softwares/discourse/images/cover.jpg"
+        }
+    },
+    {
+        "id": "appwrite",
+        "tag": "Backend As a Service",
+        "title": "Appwrite: The Easy Way to Create a Custom Backend for Your Web or Mobile App",
+        "logo": "/images/development/backend-as-a-service/appwrite/logo.png",
+        "category": {
+            "id": "backend-as-a-service",
+            "name": "Backend-as-a-Service",
+            "ids": [
+                "backend-as-a-service",
+                "nocode-lowcode"
+            ]
+        },
+        "short_description": "Appwrite provides developers with a set of REST APIs to manage their core backend needs.",
+        "link": "https://blog.elest.io/appwrite-the-easy-way-to-create-a-custom-backend-for-your-web-or-mobile-app/",
+        "description": "Appwrite is a powerful open-source backend as a service (BaaS) platform that allows developers to create web and mobile applications quickly and easily. What makes Appwrite stand out from other BaaS providers is that it includes a variety of key features right out of the box, such as a built-in",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "Appwrite: The Easy Way to Create a Custom Backend for Your Web or Mobile App",
+            "path": "../content/posts/appwrite/appwrite-the-easy-way-to-create-a-custom-backend-for-your-web-or-mobile-app/images/cover.jpg"
+        }
+    },
+    {
+        "id": "cloud deployment",
+        "tag": "Cloud Deployment",
+        "title": "Bring Your Own AWS Account",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/bring-your-own-aws-account/",
+        "description": "You can now use your own AWS Account to deploy services or your own project with our CICD Pipelines.\n\nThe main benefits are the following:\n\n * Simple Open Source software installation\n * Create CICD pipelines easily with GitHub/GitLab\n * Automatic backups & updates\n * Elestio Tools & Monitoring\n * Keeping instances' ownership\n\n\n\nDiscover",
+        "read_length": "",
+        "image": {
+            "alt": "AWS Bring Your Own Account",
+            "path": "../content/posts/cloud deployment/bring-your-own-aws-account/images/cover.jpg"
+        }
+    },
+    {
+        "id": "languagetool",
+        "tag": "Open source softwares",
+        "title": "LanguageTool: The Free Open-Source Alternative to Grammarly",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/languagetool-the-free-open-source-alternative-to-grammarly/",
+        "description": "Do you struggle with writing in a non-native language? Introducing LanguageTool, an open-source proofreading and grammar-checking software that can improve your writing accuracy and clarity.\n\nIf you prefer, the video version is available here:\n\nGone are the days of relying on manual proofreading or expensive grammar checkers, as LanguageTool can",
+        "read_length": "1 min read",
+        "image": {
+            "alt": "LanguageTool: The Free Open-Source Alternative to Grammarly",
+            "path": "../content/posts/languagetool/languagetool-the-free-open-source-alternative-to-grammarly/images/cover.jpg"
+        }
+    },
+    {
+        "id": "open source softwares",
+        "tag": "Open source softwares",
+        "title": "How to connect your MySQL database with N8N",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/how-to-scale-your-n8n-with-your-own-mysql-instances/",
+        "description": "n8n is a popular open-source workflow automation tool that allows you to automate repetitive tasks and create custom workflows. The installation process automatically includes a Database for you but if you want to have more control over it (like backups/sharing it with other projects/scalability) you can connect it",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "How to connect your MySQL database with N8N",
+            "path": "../content/posts/open source softwares/how-to-scale-your-n8n-with-your-own-mysql-instances/images/cover.jpg"
+        }
+    },
+    {
+        "id": "nextcloud",
+        "tag": "Open source softwares",
+        "title": "NextCloud: The Free Open-Source Alternative to Google Drive",
+        "logo": "/images/hosting-and-infrastructure/storage/nextcloud/logo.png",
+        "category": {
+            "id": "storage",
+            "name": "Storage",
+            "ids": [
+                "storage"
+            ]
+        },
+        "short_description": "Nextcloud provides an industry-leading, on-premises content collaboration platform.",
+        "link": "https://blog.elest.io/nextcloud-a-free-open-source-alternative-to-google-drive/",
+        "description": "Are you tired of relying on cloud storage platforms that charge you an arm and a leg for additional storage space or are limited in their features? Are you concerned about the privacy and security of your data on these platforms? If so, then it's time to switch",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "NextCloud: The Free Open-Source Alternative to Google Drive",
+            "path": "../content/posts/nextcloud/nextcloud-a-free-open-source-alternative-to-google-drive/images/cover.jpg"
+        }
+    },
+    {
+        "id": "n8n",
+        "tag": "N8N",
+        "title": "How to install additional libraries on N8N",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        },
+        "short_description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "link": "https://blog.elest.io/how-to-install-additional-libraries-for-n8n/",
+        "description": "n8n is a popular open-source workflow automation tool that allows you to automate repetitive tasks and create custom workflows. However, sometimes you may need to install additional libraries to enhance its functionality. In this article, we'll walk you through the steps of how to install additional libraries for",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "How to install additional libraries on N8N",
+            "path": "../content/posts/n8n/how-to-install-additional-libraries-for-n8n/images/cover.png"
+        }
+    },
+    {
+        "id": "open source softwares",
+        "tag": "Open source softwares",
+        "title": "How to Create an Online Documentation for Free with Bookstack",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/how-to-create-an-online-documentation-for-free-with-bookstack/",
+        "description": "Creating a comprehensive online documentation for your project, website, or business can be a daunting task. It requires time, effort, and resources, especially if you want to create something that is user-friendly, organized, and easy to navigate. Fortunately, there is an open-source solution that can help you achieve this goal:",
+        "read_length": "2 min read",
+        "image": {
+            "alt": "How to Create an Online Documentation for Free with Bookstack",
+            "path": "../content/posts/open source softwares/how-to-create-an-online-documentation-for-free-with-bookstack/images/cover.jpg"
+        }
+    },
+    {
+        "id": "cicd deployment",
+        "tag": "CICD Deployment",
+        "title": "Deploy examples & apps on Elestio using the \"Import Third-Party Git Repository\" feature",
+        "logo": "",
+        "category": {},
+        "short_description": "",
+        "link": "https://blog.elest.io/deploy-examples-apps-on-elestio-using-the-import-third-party-git-repository-feature/",
+        "description": "This tutorial will walk you through the process of deploying GitHub, GitLab, or Bitbucket public repositories in CI/CD using our Import Third-Party Git Repository feature. In our example, we'll use a Simple JavaScript web application public repository, but you can deploy it, in the same way, using",
+        "read_length": "5 min read",
+        "image": {
+            "alt": "Deploy examples & apps on Elestio using the \"Import Third-Party Git Repository\" feature",
+            "path": "../content/posts/cicd deployment/deploy-examples-apps-on-elestio-using-the-import-third-party-git-repository-feature/images/cover.png"
+        }
+    }
+]
