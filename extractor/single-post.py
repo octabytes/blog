@@ -47,6 +47,12 @@ def process_images(soup, post_id):
                 img["src"] = f"../single-post-images/{post_id}/{image_name}"
     return soup
 
+def get_last_part_of_link(link):
+    """Extract the last part of the URL path for the filename."""
+    last_part = link.replace("https://blog.elest.io/", "")
+    last_part = last_part.replace("/", "")
+    return last_part
+
 def fetch_and_convert(post):
     """Fetch content from the link, download images, and convert to markdown."""
     post_id = post["id"]
@@ -71,11 +77,13 @@ def fetch_and_convert(post):
         # Convert HTML content to Markdown
         markdown_content = markdownify.markdownify(str(content_container), heading_style="ATX")
 
-        # Save Markdown file
+        # Get the last part of the link for the filename
+        filename = get_last_part_of_link(link)
         output_dir = os.path.join(OUTPUT_DIR, post_id)
         os.makedirs(output_dir, exist_ok=True)
-        output_path = os.path.join(output_dir, f"{post_id}.md")
+        output_path = os.path.join(output_dir, f"{filename}.md")
 
+        # Save Markdown file
         with open(output_path, "w", encoding="utf-8") as md_file:
             md_file.write(markdown_content)
             print(f"Markdown saved: {output_path}")
