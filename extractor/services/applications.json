@@ -1,0 +1,2196 @@
+[
+    {
+        "id": "cryptpad",
+        "link": "/applications/crm-erp/cryptpad",
+        "external_link": "https://elest.io/open-source/cryptpad",
+        "title": "CryptPad",
+        "description": "CryptPad is a collaboration suite, encrypted and open-source.",
+        "logo": "/images/applications/crm-erp/cryptpad/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "dolibarr",
+        "link": "/applications/crm-erp/dolibarr",
+        "external_link": "https://elest.io/open-source/dolibarr",
+        "title": "Dolibarr",
+        "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity",
+        "logo": "/images/applications/crm-erp/dolibarr/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "attendize",
+        "link": "/applications/crm-erp/attendize",
+        "external_link": "https://elest.io/open-source/attendize",
+        "title": "Attendize",
+        "description": "Attendize is a ticket-selling and event management platform.",
+        "logo": "/images/applications/crm-erp/attendize/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "pretix",
+        "link": "/applications/crm-erp/pretix",
+        "external_link": "https://elest.io/open-source/pretix",
+        "title": "Pretix",
+        "description": "Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, bar camps, etc.",
+        "logo": "/images/applications/crm-erp/pretix/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "humhub",
+        "link": "/applications/crm-erp/humhub",
+        "external_link": "https://elest.io/open-source/humhub",
+        "title": "HumHub",
+        "description": "HumHub to communicate and collaborate, share information, interact with all people in your organization, and personalize the software to fit your individual needs.",
+        "logo": "/images/applications/crm-erp/humhub/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp",
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "odoo",
+        "link": "/applications/crm-erp/odoo",
+        "external_link": "https://elest.io/open-source/odoo",
+        "title": "Odoo ERP & CRM",
+        "description": "Odoo is a suite of web-based, open-source business apps.",
+        "logo": "/images/applications/crm-erp/odoo/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "erpnext",
+        "link": "/applications/crm-erp/erpnext",
+        "external_link": "https://elest.io/open-source/erpnext",
+        "title": "ErpNext",
+        "description": "ERPNext is the leading open-source enterprise resource planning (ERP) software.",
+        "logo": "/images/applications/crm-erp/erpnext/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "invoiceninja",
+        "link": "/applications/crm-erp/invoiceninja",
+        "external_link": "https://elest.io/open-source/invoiceninja",
+        "title": "InvoiceNinja",
+        "description": "Invoice Ninja is the leading free, open-source online invoicing app for freelancers and businesses.",
+        "logo": "/images/applications/crm-erp/invoiceninja/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp",
+                "invoicing-and-payments"
+            ]
+        }
+    },
+    {
+        "id": "suitecrm",
+        "link": "/applications/crm-erp/suitecrm",
+        "external_link": "https://elest.io/open-source/suitecrm",
+        "title": "SuiteCRM",
+        "description": "SuiteCRM is an open source Customer Relationship Management (CRM) software solution that provides a 360-degree view of your customers and business.",
+        "logo": "/images/applications/crm-erp/suitecrm/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "chiefonboarding",
+        "link": "/applications/crm-erp/chiefonboarding",
+        "external_link": "https://elest.io/open-source/chiefonboarding",
+        "title": "ChiefOnboarding",
+        "description": "Create entire blueprints of what your new hire will go through within minutes. Simply drag and drop items into the timeline.",
+        "logo": "/images/applications/crm-erp/chiefonboarding/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "espocrm",
+        "link": "/applications/crm-erp/espocrm",
+        "external_link": "https://elest.io/open-source/espocrm",
+        "title": "EspoCRM",
+        "description": "EspoCRM is a web application that allows users to see, enter and evaluate all your company relationships regardless of the type.",
+        "logo": "/images/applications/crm-erp/espocrm/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "twenty",
+        "link": "/applications/crm-erp/twenty",
+        "external_link": "https://elest.io/open-source/twenty",
+        "title": "Twenty",
+        "description": "Open-source CRM,\u00a0Building a modern alternative to Salesforce, powered by the community.",
+        "logo": "/images/applications/crm-erp/twenty/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp"
+            ]
+        }
+    },
+    {
+        "id": "frappehr",
+        "link": "/applications/crm-erp/frappehr",
+        "external_link": "https://elest.io/open-source/frappehr",
+        "title": "FrappeHR",
+        "description": "Frappe HR (ERPNext HRMS) is a user-friendly solution designed to streamline HR and payroll operations, driving excellence within your team.",
+        "logo": "/images/applications/crm-erp/frappehr/logo.png",
+        "category": {
+            "id": "crm-erp",
+            "name": "CRM / ERP",
+            "ids": [
+                "crm-erp",
+                "hrms"
+            ]
+        }
+    },
+    {
+        "id": "joplin",
+        "link": "/applications/note-taking/joplin",
+        "external_link": "https://elest.io/open-source/joplin",
+        "title": "Joplin",
+        "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS",
+        "logo": "/images/applications/note-taking/joplin/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "vikunja",
+        "link": "/applications/note-taking/vikunja",
+        "external_link": "https://elest.io/open-source/vikunja",
+        "title": "Vikunja",
+        "description": "The\u00a0open-source\u00a0to-do app. Organize everything, on all platforms.",
+        "logo": "/images/applications/note-taking/vikunja/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "cryptgeon",
+        "link": "/applications/note-taking/cryptgeon",
+        "external_link": "https://elest.io/open-source/cryptgeon",
+        "title": "Cryptgeon",
+        "description": "Cryptgeon is a secure, open-source note / file-sharing service inspired by PrivNote written in rust & svelte.",
+        "logo": "/images/applications/note-taking/cryptgeon/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "docmost",
+        "link": "/applications/note-taking/docmost",
+        "external_link": "https://elest.io/open-source/docmost",
+        "title": "Docmost",
+        "description": "Docmost is a collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+        "logo": "/images/applications/note-taking/docmost/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "hedgedoc",
+        "link": "/applications/note-taking/hedgedoc",
+        "external_link": "https://elest.io/open-source/hedgedoc",
+        "title": "HedgeDoc",
+        "description": "HedgeDoc is an open-source, web-based, self-hosted, collaborative markdown editor",
+        "logo": "/images/applications/note-taking/hedgedoc/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "etherpad",
+        "link": "/applications/note-taking/etherpad",
+        "external_link": "https://elest.io/open-source/etherpad",
+        "title": "Etherpad",
+        "description": "Etherpad is a highly customizable open source online editor providing collaborative editing in really real-time.",
+        "logo": "/images/applications/note-taking/etherpad/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "trilium",
+        "link": "/applications/note-taking/trilium",
+        "external_link": "https://elest.io/open-source/trilium",
+        "title": "Trilium",
+        "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.",
+        "logo": "/images/applications/note-taking/trilium/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "affine",
+        "link": "/applications/note-taking/affine",
+        "external_link": "https://elest.io/open-source/affine",
+        "title": "Affine",
+        "description": "More than Notion and Miro's next-generation knowledge base, AFFiNE unifies planning, sorting, and creation.",
+        "logo": "/images/applications/note-taking/affine/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "memos",
+        "link": "/applications/note-taking/memos",
+        "external_link": "https://elest.io/open-source/memos",
+        "title": "Memos",
+        "description": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
+        "logo": "/images/applications/note-taking/memos/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "flatnotes",
+        "link": "/applications/note-taking/flatnotes",
+        "external_link": "https://elest.io/open-source/flatnotes",
+        "title": "Flatnotes",
+        "description": "A self-hosted, database-less note-taking web app that utilizes a flat folder of markdown files for storage.",
+        "logo": "/images/applications/note-taking/flatnotes/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking"
+            ]
+        }
+    },
+    {
+        "id": "huly",
+        "link": "/applications/note-taking/huly",
+        "external_link": "https://elest.io/open-source/huly",
+        "title": "Huly",
+        "description": "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+        "logo": "/images/applications/note-taking/huly/logo.png",
+        "category": {
+            "id": "note-taking",
+            "name": "Note-taking",
+            "ids": [
+                "note-taking",
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "plane",
+        "link": "/applications/project-management/plane",
+        "external_link": "https://elest.io/open-source/plane",
+        "title": "Plane",
+        "description": "An open-source software development tool to manage issues, sprints, and product roadmaps with peace of mind",
+        "logo": "/images/applications/project-management/plane/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "leantime",
+        "link": "/applications/project-management/leantime",
+        "external_link": "https://elest.io/open-source/leantime",
+        "title": "Leantime",
+        "description": "Leantime is a strategic project management system for non-project managers.",
+        "logo": "/images/applications/project-management/leantime/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "openproject",
+        "link": "/applications/project-management/openproject",
+        "external_link": "https://elest.io/open-source/openproject",
+        "title": "OpenProject",
+        "description": "OpenProject is a web-based project management system for location-independent team collaboration.",
+        "logo": "/images/applications/project-management/openproject/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "taiga",
+        "link": "/applications/project-management/taiga",
+        "external_link": "https://elest.io/open-source/taiga",
+        "title": "Taiga",
+        "description": "Your Agile, Free and Open Source Project Management Tool",
+        "logo": "/images/applications/project-management/taiga/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "focalboard",
+        "link": "/applications/project-management/focalboard",
+        "external_link": "https://elest.io/open-source/focalboard",
+        "title": "FocalBoard",
+        "description": "Project & Task Management for Software Development Teams",
+        "logo": "/images/applications/project-management/focalboard/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "wekan",
+        "link": "/applications/project-management/wekan",
+        "external_link": "https://elest.io/open-source/wekan",
+        "title": "Wekan",
+        "description": "Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused Kanban.",
+        "logo": "/images/applications/project-management/wekan/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "siglens",
+        "link": "/applications/project-management/siglens",
+        "external_link": "https://elest.io/open-source/siglens",
+        "title": "SigLens",
+        "description": "100x Efficient Log Management than Splunk \ud83d\ude80 Reduce your observability cost by 90%",
+        "logo": "/images/applications/project-management/siglens/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "kanboard",
+        "link": "/applications/project-management/kanboard",
+        "external_link": "https://elest.io/open-source/kanboard",
+        "title": "Kanboard",
+        "description": "Kanban project management software",
+        "logo": "/images/applications/project-management/kanboard/logo.png",
+        "category": {
+            "id": "project-management",
+            "name": "Project management",
+            "ids": [
+                "project-management"
+            ]
+        }
+    },
+    {
+        "id": "easyappointments",
+        "link": "/applications/calendar/easyappointments",
+        "external_link": "https://elest.io/open-source/easyappointments",
+        "title": "EasyAppointments",
+        "description": "Open Source Appointment Scheduler\u00a0that allows customers to book appointments with you",
+        "logo": "/images/applications/calendar/easyappointments/logo.png",
+        "category": {
+            "id": "calendar",
+            "name": "Calendar",
+            "ids": [
+                "calendar"
+            ]
+        }
+    },
+    {
+        "id": "rallly",
+        "link": "/applications/calendar/rallly",
+        "external_link": "https://elest.io/open-source/rallly",
+        "title": "Rallly",
+        "description": "Rallly is the Doodle alternative scheduling and collaboration tool designed to make organizing events and meetings easier.",
+        "logo": "/images/applications/calendar/rallly/logo.png",
+        "category": {
+            "id": "calendar",
+            "name": "Calendar",
+            "ids": [
+                "calendar"
+            ]
+        }
+    },
+    {
+        "id": "cal",
+        "link": "/applications/calendar/cal",
+        "external_link": "https://elest.io/open-source/cal",
+        "title": "Cal",
+        "description": "Calendly alternative Cal.com,\u00a0is the event-juggling scheduler for everyone. Focus on meetings, not making meetings. Free for individuals.",
+        "logo": "/images/applications/calendar/cal/logo.png",
+        "category": {
+            "id": "calendar",
+            "name": "Calendar",
+            "ids": [
+                "calendar"
+            ]
+        }
+    },
+    {
+        "id": "lobechat",
+        "link": "/applications/live-chat/lobechat",
+        "external_link": "https://elest.io/open-source/lobechat",
+        "title": "LobeChat",
+        "description": "An open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.",
+        "logo": "/images/applications/live-chat/lobechat/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "chatwoot",
+        "link": "/applications/live-chat/chatwoot",
+        "external_link": "https://elest.io/open-source/chatwoot",
+        "title": "Chatwoot",
+        "description": "Chatwoot is an open-source, alternative customer engagement suite.",
+        "logo": "/images/applications/live-chat/chatwoot/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "mattermost",
+        "link": "/applications/live-chat/mattermost",
+        "external_link": "https://elest.io/open-source/mattermost",
+        "title": "Mattermost Team Edition",
+        "description": "Mattermost is an open-source platform for secure collaboration across the entire software development lifecycle.",
+        "logo": "/images/applications/live-chat/mattermost/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "rocket.chat",
+        "link": "/applications/live-chat/rocket.chat",
+        "external_link": "https://elest.io/open-source/rocket.chat",
+        "title": "Rocket.Chat",
+        "description": "Rocket.Chat is an open-source communications platform for organizations with high standards of data protection.",
+        "logo": "/images/applications/live-chat/rocket.chat/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "papercups",
+        "link": "/applications/live-chat/papercups",
+        "external_link": "https://elest.io/open-source/papercups",
+        "title": "Papercups",
+        "description": "Papercups is a open-source live customer chat",
+        "logo": "/images/applications/live-chat/papercups/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat",
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "revolt",
+        "link": "/applications/live-chat/revolt",
+        "external_link": "https://elest.io/open-source/revolt",
+        "title": "Revolt",
+        "description": "The Open Source Discord Alternative.\u00a0Find your community, connect with the world",
+        "logo": "/images/applications/live-chat/revolt/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "jitsi",
+        "link": "/applications/live-chat/jitsi",
+        "external_link": "https://elest.io/open-source/jitsi",
+        "title": "Jitsi",
+        "description": "Jitsi is a set of open-source projects that allows you to easily build and deploy secure video conferencing solutions.",
+        "logo": "/images/applications/live-chat/jitsi/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "zulip",
+        "link": "/applications/live-chat/zulip",
+        "external_link": "https://elest.io/open-source/zulip",
+        "title": "Zulip",
+        "description": "Zulip is a team collaboration tool with unique topic-based threading that combines the best of email and chat to make remote work productive and delightful.",
+        "logo": "/images/applications/live-chat/zulip/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "typebot",
+        "link": "/applications/live-chat/typebot",
+        "external_link": "https://elest.io/open-source/typebot",
+        "title": "Typebot",
+        "description": "Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic",
+        "logo": "/images/applications/live-chat/typebot/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat",
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "mirotalk",
+        "link": "/applications/live-chat/mirotalk",
+        "external_link": "https://elest.io/open-source/mirotalk",
+        "title": "MiroTalk",
+        "description": "WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.",
+        "logo": "/images/applications/live-chat/mirotalk/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat"
+            ]
+        }
+    },
+    {
+        "id": "botpress",
+        "link": "/applications/live-chat/botpress",
+        "external_link": "https://elest.io/open-source/botpress",
+        "title": "Botpress",
+        "description": "The first next-generation chatbot builder powered by\u00a0OpenAI. Build\u00a0ChatGPT-like bots for your project or business to get things done.",
+        "logo": "/images/applications/live-chat/botpress/logo.png",
+        "category": {
+            "id": "live-chat",
+            "name": "Live chat",
+            "ids": [
+                "live-chat",
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "bigcapital",
+        "link": "/applications/invoicing-and-payments/bigcapital",
+        "external_link": "https://elest.io/open-source/bigcapital",
+        "title": "Bigcapital",
+        "description": "Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.",
+        "logo": "/images/applications/invoicing-and-payments/bigcapital/logo.png",
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments",
+            "ids": [
+                "invoicing-and-payments"
+            ]
+        }
+    },
+    {
+        "id": "lago",
+        "link": "/applications/invoicing-and-payments/lago",
+        "external_link": "https://elest.io/open-source/lago",
+        "title": "Lago",
+        "description": "Open-source alternative to Stripe Billing and Chargebee it offers a modular architecture for metering and usage-based billing, at every stage of your company.",
+        "logo": "/images/applications/invoicing-and-payments/lago/logo.png",
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments",
+            "ids": [
+                "invoicing-and-payments"
+            ]
+        }
+    },
+    {
+        "id": "crater",
+        "link": "/applications/invoicing-and-payments/crater",
+        "external_link": "https://elest.io/open-source/crater",
+        "title": "Crater",
+        "description": "Crater\u00a0helps you track expenses, and payments & create professional invoices & estimates.",
+        "logo": "/images/applications/invoicing-and-payments/crater/logo.png",
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments",
+            "ids": [
+                "invoicing-and-payments"
+            ]
+        }
+    },
+    {
+        "id": "btcpay",
+        "link": "/applications/invoicing-and-payments/btcpay",
+        "external_link": "https://elest.io/open-source/btcpay",
+        "title": "BTCPay",
+        "description": "Start Accepting Bitcoin Payments With 0% Fees & No Third-party",
+        "logo": "/images/applications/invoicing-and-payments/btcpay/logo.png",
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments",
+            "ids": [
+                "invoicing-and-payments",
+                "e-commerce"
+            ]
+        }
+    },
+    {
+        "id": "hyperswitch",
+        "link": "/applications/invoicing-and-payments/hyperswitch",
+        "external_link": "https://elest.io/open-source/hyperswitch",
+        "title": "Hyperswitch",
+        "description": "An open-source payments switch written in Rust to make payments fast, reliable, and affordable.",
+        "logo": "/images/applications/invoicing-and-payments/hyperswitch/logo.png",
+        "category": {
+            "id": "invoicing-and-payments",
+            "name": "Invoicing and payments",
+            "ids": [
+                "invoicing-and-payments"
+            ]
+        }
+    },
+    {
+        "id": "cells",
+        "link": "/applications/documentation/cells",
+        "external_link": "https://elest.io/open-source/cells",
+        "title": "Cells",
+        "description": "Pydio Cells is the\u00a0Document Sharing, Management, and Collaboration platform.",
+        "logo": "/images/applications/documentation/cells/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation",
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "papermerge",
+        "link": "/applications/documentation/papermerge",
+        "external_link": "https://elest.io/open-source/papermerge",
+        "title": "Papermerge",
+        "description": "Open Source Document Management System for Digital Archives (Scanned Documents)",
+        "logo": "/images/applications/documentation/papermerge/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "wikijs",
+        "link": "/applications/documentation/wikijs",
+        "external_link": "https://elest.io/open-source/wikijs",
+        "title": "Wikijs",
+        "description": "Wikijs is a powerful open-source wiki app built on Node.js, Git and Markdown.",
+        "logo": "/images/applications/documentation/wikijs/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "outline",
+        "link": "/applications/documentation/outline",
+        "external_link": "https://elest.io/open-source/outline",
+        "title": "Outline",
+        "description": "Outline is a fast wiki and knowledge base for growing teams - an alternative to Google Docs.",
+        "logo": "/images/applications/documentation/outline/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "bookstack",
+        "link": "/applications/documentation/bookstack",
+        "external_link": "https://elest.io/open-source/bookstack",
+        "title": "BookStack",
+        "description": "BookStack is a platform to create documentation/wiki content built with PHP & Laravel.",
+        "logo": "/images/applications/documentation/bookstack/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "documize",
+        "link": "/applications/documentation/documize",
+        "external_link": "https://elest.io/open-source/documize",
+        "title": "Documize",
+        "description": "Free Knowledge Management Software",
+        "logo": "/images/applications/documentation/documize/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "docuseal",
+        "link": "/applications/documentation/docuseal",
+        "external_link": "https://elest.io/open-source/docuseal",
+        "title": "DocuSeal",
+        "description": "Open source, tool to streamline document filling and signing. Create custom PDF forms to complete and sign with an easy-to-use online tool.",
+        "logo": "/images/applications/documentation/docuseal/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "documenso",
+        "link": "/applications/documentation/documenso",
+        "external_link": "https://elest.io/open-source/documenso",
+        "title": "Documenso",
+        "description": "The Open Source DocuSign Alternative,\u00a0Document signing.",
+        "logo": "/images/applications/documentation/documenso/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation"
+            ]
+        }
+    },
+    {
+        "id": "answer",
+        "link": "/applications/documentation/answer",
+        "external_link": "https://elest.io/open-source/answer",
+        "title": "Answer",
+        "description": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",
+        "logo": "/images/applications/documentation/answer/logo.png",
+        "category": {
+            "id": "documentation",
+            "name": "Documentation",
+            "ids": [
+                "documentation",
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "ollama",
+        "link": "/applications/search/ollama",
+        "external_link": "https://elest.io/open-source/ollama",
+        "title": "Ollama",
+        "description": "ChatGPT-Style Open Web UI Client\u00a0for LLMs (Formerly Ollama WebUI) to\u00a0Get up and running with Llama 2, Mistral, and other large language models.",
+        "logo": "/images/applications/search/ollama/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "searxng",
+        "link": "/applications/search/searxng",
+        "external_link": "https://elest.io/open-source/searxng",
+        "title": "SearXNG",
+        "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+        "logo": "/images/applications/search/searxng/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "serpbear",
+        "link": "/applications/search/serpbear",
+        "external_link": "https://elest.io/open-source/serpbear",
+        "title": "SerpBear",
+        "description": "SerpBear\u00a0is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their\u00a0positions.",
+        "logo": "/images/applications/search/serpbear/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "meilisearch",
+        "link": "/applications/search/meilisearch",
+        "external_link": "https://elest.io/open-source/meilisearch",
+        "title": "Meilisearch",
+        "description": "Meilisearch is a next-generation search API.",
+        "logo": "/images/applications/search/meilisearch/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "typesense",
+        "link": "/applications/search/typesense",
+        "external_link": "https://elest.io/open-source/typesense",
+        "title": "Typesense",
+        "description": "Typesense is a fast, typo-tolerant, fuzzy search engine for building great search experiences.",
+        "logo": "/images/applications/search/typesense/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "solr",
+        "link": "/applications/search/solr",
+        "external_link": "https://elest.io/open-source/solr",
+        "title": "Solr",
+        "description": "Apache Solr is the popular, blazing fast open source search platform for all your enterprise, e-commerce, and analytics needs, built on\u00a0Apache Lucene.",
+        "logo": "/images/applications/search/solr/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "manticoresearch",
+        "link": "/applications/search/manticoresearch",
+        "external_link": "https://elest.io/open-source/manticoresearch",
+        "title": "ManticoreSearch",
+        "description": "Manticore Search\u00a0is an easy to use\u00a0open source\u00a0fast database for search. Modern, fast, light-weight, outstanding full-text search capabilities.",
+        "logo": "/images/applications/search/manticoresearch/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "zincsearch",
+        "link": "/applications/search/zincsearch",
+        "external_link": "https://elest.io/open-source/zincsearch",
+        "title": "ZincSearch",
+        "description": "ZincSearch is a search engine that does full text indexing. It is a lightweight alternative to Elasticsearch and runs using a fraction of the resources.",
+        "logo": "/images/applications/search/zincsearch/logo.png",
+        "category": {
+            "id": "search",
+            "name": "Search",
+            "ids": [
+                "search"
+            ]
+        }
+    },
+    {
+        "id": "mautic",
+        "link": "/applications/email-marketing/mautic",
+        "external_link": "https://elest.io/open-source/mautic",
+        "title": "Mautic",
+        "description": "Mautic is a open source marketing automation software.",
+        "logo": "/images/applications/email-marketing/mautic/logo.png",
+        "category": {
+            "id": "email-marketing",
+            "name": "Email marketing",
+            "ids": [
+                "email-marketing",
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "listmonk",
+        "link": "/applications/email-marketing/listmonk",
+        "external_link": "https://elest.io/open-source/listmonk",
+        "title": "Listmonk",
+        "description": "Listmonk is a self-hosted, high performance mailing list and newsletter manager",
+        "logo": "/images/applications/email-marketing/listmonk/logo.png",
+        "category": {
+            "id": "email-marketing",
+            "name": "Email marketing",
+            "ids": [
+                "email-marketing"
+            ]
+        }
+    },
+    {
+        "id": "limesurvey",
+        "link": "/applications/product-feedback/limesurvey",
+        "external_link": "https://elest.io/open-source/limesurvey",
+        "title": "LimeSurvey",
+        "description": "LimeSurvey is the most popular FOSS online survey tool on the web.",
+        "logo": "/images/applications/product-feedback/limesurvey/logo.png",
+        "category": {
+            "id": "product-feedback",
+            "name": "Product Feedback",
+            "ids": [
+                "product-feedback"
+            ]
+        }
+    },
+    {
+        "id": "fider",
+        "link": "/applications/product-feedback/fider",
+        "external_link": "https://elest.io/open-source/fider",
+        "title": "Fider",
+        "description": "Customer Feedback Made Easy",
+        "logo": "/images/applications/product-feedback/fider/logo.png",
+        "category": {
+            "id": "product-feedback",
+            "name": "Product Feedback",
+            "ids": [
+                "product-feedback",
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "nodebb",
+        "link": "/applications/forum-community/nodebb",
+        "external_link": "https://elest.io/open-source/nodebb",
+        "title": "NodeBB",
+        "description": "NodeBB is next-generation forum software - powerful, mobile-ready and easy to use.",
+        "logo": "/images/applications/forum-community/nodebb/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "discourse",
+        "link": "/applications/forum-community/discourse",
+        "external_link": "https://elest.io/open-source/discourse",
+        "title": "Discourse",
+        "description": "Discourse is an open-source discussion platform built for the next decade of the Internet.",
+        "logo": "/images/applications/forum-community/discourse/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "photon",
+        "link": "/applications/forum-community/photon",
+        "external_link": "https://elest.io/open-source/photon",
+        "title": "Photon",
+        "description": "A replacement for Lemmy-ui with more features, a better design, and more customizability. It includes Photon UI + Lemmy",
+        "logo": "/images/applications/forum-community/photon/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "azuracast",
+        "link": "/applications/forum-community/azuracast",
+        "external_link": "https://elest.io/open-source/azuracast",
+        "title": "AzuraCast",
+        "description": "A self-hosted web radio management suite",
+        "logo": "/images/applications/forum-community/azuracast/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "mastodon",
+        "link": "/applications/forum-community/mastodon",
+        "external_link": "https://elest.io/open-source/mastodon",
+        "title": "Mastodon",
+        "description": "Mastodon is a free fediverse, open-source social network server with OpenSearch for indexing.",
+        "logo": "/images/applications/forum-community/mastodon/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "flarum",
+        "link": "/applications/forum-community/flarum",
+        "external_link": "https://elest.io/open-source/flarum",
+        "title": "Flarum",
+        "description": "Flarum is a delightfully simple discussion platform for your website",
+        "logo": "/images/applications/forum-community/flarum/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "element",
+        "link": "/applications/forum-community/element",
+        "external_link": "https://elest.io/open-source/element",
+        "title": "Element",
+        "description": "Create your community based on Matrix protocol",
+        "logo": "/images/applications/forum-community/element/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "owncast",
+        "link": "/applications/forum-community/owncast",
+        "external_link": "https://elest.io/open-source/owncast",
+        "title": "Owncast",
+        "description": "Owncast is a free and open source live video and web chat server for use with existing popular broadcasting software.",
+        "logo": "/images/applications/forum-community/owncast/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "picoshare",
+        "link": "/applications/forum-community/picoshare",
+        "external_link": "https://elest.io/open-source/picoshare",
+        "title": "Picoshare",
+        "description": "PicoShare is a service for sharing images, videos, and other files.",
+        "logo": "/images/applications/forum-community/picoshare/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "friendica",
+        "link": "/applications/forum-community/friendica",
+        "external_link": "https://elest.io/open-source/friendica",
+        "title": "Friendica",
+        "description": "A Decentralized Social Network,\u00a0you can use to host your own social media server\u00a0that\u00a0forms one part of the fediverse, an interconnected and decentralized network of independently operated servers",
+        "logo": "/images/applications/forum-community/friendica/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "lemmy",
+        "link": "/applications/forum-community/lemmy",
+        "external_link": "https://elest.io/open-source/lemmy",
+        "title": "Lemmy",
+        "description": "Open-source Reddit alternative. Create your own discussion platform with Lemmy",
+        "logo": "/images/applications/forum-community/lemmy/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "kbin",
+        "link": "/applications/forum-community/kbin",
+        "external_link": "https://elest.io/open-source/kbin",
+        "title": "KBIN",
+        "description": "A reddit-like content aggregator and micro-blogging platform for the fediverse.",
+        "logo": "/images/applications/forum-community/kbin/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community",
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "lobsters",
+        "link": "/applications/forum-community/lobsters",
+        "external_link": "https://elest.io/open-source/lobsters",
+        "title": "Lobsters",
+        "description": "Lobsters is a community dedicated to computing, where members gather to share links and engage in discussions.",
+        "logo": "/images/applications/forum-community/lobsters/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "phpbb",
+        "link": "/applications/forum-community/phpbb",
+        "external_link": "https://elest.io/open-source/phpbb",
+        "title": "PhpBB",
+        "description": "phpBB\u00a0is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.",
+        "logo": "/images/applications/forum-community/phpbb/logo.png",
+        "category": {
+            "id": "forum-community",
+            "name": "Forum / Community",
+            "ids": [
+                "forum-community"
+            ]
+        }
+    },
+    {
+        "id": "countly",
+        "link": "/applications/business-intelligence/countly",
+        "external_link": "https://elest.io/open-source/countly",
+        "title": "Countly",
+        "description": "Countly is a product analytics platform that helps teams track, analyze, and act on their user actions and behavior on mobile, web, and desktop applications.",
+        "logo": "/images/applications/business-intelligence/countly/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        }
+    },
+    {
+        "id": "metabase",
+        "link": "/applications/business-intelligence/metabase",
+        "external_link": "https://elest.io/open-source/metabase",
+        "title": "Metabase",
+        "description": "Metabase is an open-source tool that simply and quickly gathers business intelligence and analytics for your company.",
+        "logo": "/images/applications/business-intelligence/metabase/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        }
+    },
+    {
+        "id": "metabasepostgres",
+        "link": "/applications/business-intelligence/metabasepostgres",
+        "external_link": "https://elest.io/open-source/metabasepostgres",
+        "title": "MetabasePostgres",
+        "description": "Metabase is an open-source tool that simply and quickly gathers business intelligence and analytics for your company.",
+        "logo": "/images/applications/business-intelligence/metabasepostgres/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        }
+    },
+    {
+        "id": "lightdash",
+        "link": "/applications/business-intelligence/lightdash",
+        "external_link": "https://elest.io/open-source/lightdash",
+        "title": "Lightdash",
+        "description": "Lighdash an open source alternative to Looker built using dbt.",
+        "logo": "/images/applications/business-intelligence/lightdash/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        }
+    },
+    {
+        "id": "superset",
+        "link": "/applications/business-intelligence/superset",
+        "external_link": "https://elest.io/open-source/superset",
+        "title": "Superset",
+        "description": "Apache Superset is a data visualization and data exploration platform.",
+        "logo": "/images/applications/business-intelligence/superset/logo.png",
+        "category": {
+            "id": "business-intelligence",
+            "name": "Business Intelligence",
+            "ids": [
+                "business-intelligence"
+            ]
+        }
+    },
+    {
+        "id": "vaultwarden",
+        "link": "/applications/password-manager/vaultwarden",
+        "external_link": "https://elest.io/open-source/vaultwarden",
+        "title": "Vaultwarden",
+        "description": "Vaultwarden is an open-source password management application that can be self-hosted and run on your infrastructure.",
+        "logo": "/images/applications/password-manager/vaultwarden/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "password",
+        "link": "/applications/password-manager/password",
+        "external_link": "https://elest.io/open-source/password",
+        "title": "Password Pusher",
+        "description": "An application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.",
+        "logo": "/images/applications/password-manager/password/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "passit",
+        "link": "/applications/password-manager/passit",
+        "external_link": "https://elest.io/open-source/passit",
+        "title": "Passit",
+        "description": "Password manager to use on any device with a web\u00a0browser to secure your digital life.",
+        "logo": "/images/applications/password-manager/passit/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "keeweb",
+        "link": "/applications/password-manager/keeweb",
+        "external_link": "https://elest.io/open-source/keeweb",
+        "title": "KeeWeb",
+        "description": "KeeWeb is a free, open-source password manager, available as a web version and as a desktop app.",
+        "logo": "/images/applications/password-manager/keeweb/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "yopass",
+        "link": "/applications/password-manager/yopass",
+        "external_link": "https://elest.io/open-source/yopass",
+        "title": "Yopass",
+        "description": "Yopass\u00a0encryption mechanisms are built on\u00a0open-source\u00a0software meaning full transparency with the possibility to audit and submit features.",
+        "logo": "/images/applications/password-manager/yopass/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "infisical",
+        "link": "/applications/password-manager/infisical",
+        "external_link": "https://elest.io/open-source/infisical",
+        "title": "Infisical",
+        "description": "Infisical\u00a0is an\u00a0open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevents secret leaks.",
+        "logo": "/images/applications/password-manager/infisical/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "vault",
+        "link": "/applications/password-manager/vault",
+        "external_link": "https://elest.io/open-source/vault",
+        "title": "Vault",
+        "description": "Vault is a tool for secrets management, encryption as a service, and privileged access management",
+        "logo": "/images/applications/password-manager/vault/logo.png",
+        "category": {
+            "id": "password-manager",
+            "name": "Password manager",
+            "ids": [
+                "password-manager"
+            ]
+        }
+    },
+    {
+        "id": "umami",
+        "link": "/applications/analytics/umami",
+        "external_link": "https://elest.io/open-source/umami",
+        "title": "Umami",
+        "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+        "logo": "/images/applications/analytics/umami/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "matomo",
+        "link": "/applications/analytics/matomo",
+        "external_link": "https://elest.io/open-source/matomo",
+        "title": "Matomo",
+        "description": "Matomo is a full-featured PHP MySQL software program that you download and install on your own webserver",
+        "logo": "/images/applications/analytics/matomo/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "fugu",
+        "link": "/applications/analytics/fugu",
+        "external_link": "https://elest.io/open-source/fugu",
+        "title": "Fugu",
+        "description": "Fugu is a product analytics software with a strong focus on simplicity and privacy-friendliness.",
+        "logo": "/images/applications/analytics/fugu/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "posthog",
+        "link": "/applications/analytics/posthog",
+        "external_link": "https://elest.io/open-source/posthog",
+        "title": "PostHog",
+        "description": "PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.",
+        "logo": "/images/applications/analytics/posthog/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "dremio",
+        "link": "/applications/analytics/dremio",
+        "external_link": "https://elest.io/open-source/dremio",
+        "title": "Dremio",
+        "description": "The Easy and Open Data Lakehouse Self-service analytics with data warehouse functionality and data lake flexibility across all your data.",
+        "logo": "/images/applications/analytics/dremio/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "tika",
+        "link": "/applications/analytics/tika",
+        "external_link": "https://elest.io/open-source/tika",
+        "title": "Tika",
+        "description": "Apache Tika a content analysis toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
+        "logo": "/images/applications/analytics/tika/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "knime",
+        "link": "/applications/analytics/knime",
+        "external_link": "https://elest.io/open-source/knime",
+        "title": "Knime",
+        "description": "KNIME Analytics Platform",
+        "logo": "/images/applications/analytics/knime/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "quickwit",
+        "link": "/applications/analytics/quickwit",
+        "external_link": "https://elest.io/open-source/quickwit",
+        "title": "Quickwit",
+        "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+        "logo": "/images/applications/analytics/quickwit/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "ackee",
+        "link": "/applications/analytics/ackee",
+        "external_link": "https://elest.io/open-source/ackee",
+        "title": "Ackee",
+        "description": "Ackee is a self-hosted, Node.js-based analytics tool for ensuring privacy.",
+        "logo": "/images/applications/analytics/ackee/logo.png",
+        "category": {
+            "id": "analytics",
+            "name": "Analytics",
+            "ids": [
+                "analytics"
+            ]
+        }
+    },
+    {
+        "id": "prestashop",
+        "link": "/applications/e-commerce/prestashop",
+        "external_link": "https://elest.io/open-source/prestashop",
+        "title": "Prestashop",
+        "description": "The PrestaShop project is a universal open-source software platform to build your e-commerce solution.",
+        "logo": "/images/applications/e-commerce/prestashop/logo.png",
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce",
+            "ids": [
+                "e-commerce"
+            ]
+        }
+    },
+    {
+        "id": "magento",
+        "link": "/applications/e-commerce/magento",
+        "external_link": "https://elest.io/open-source/magento",
+        "title": "Magento",
+        "description": "Magento open-source software delivers basic e-commerce capabilities that allow you to build a unique online store from the ground up.",
+        "logo": "/images/applications/e-commerce/magento/logo.png",
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce",
+            "ids": [
+                "e-commerce"
+            ]
+        }
+    },
+    {
+        "id": "nopcommerce",
+        "link": "/applications/e-commerce/nopcommerce",
+        "external_link": "https://elest.io/open-source/nopcommerce",
+        "title": "nopCommerce",
+        "description": "nopCommerce is the most popular ASP.NET shopping cart in the world based on Microsoft technologies. Free and open-source eCommerce platform.",
+        "logo": "/images/applications/e-commerce/nopcommerce/logo.png",
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce",
+            "ids": [
+                "e-commerce"
+            ]
+        }
+    },
+    {
+        "id": "shopware",
+        "link": "/applications/e-commerce/shopware",
+        "external_link": "https://elest.io/open-source/shopware",
+        "title": "Shopware",
+        "description": "Shopware is\u00a0a modern eCommerce platform connecting enterprise-level capabilities with flexibility",
+        "logo": "/images/applications/e-commerce/shopware/logo.png",
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce",
+            "ids": [
+                "e-commerce"
+            ]
+        }
+    },
+    {
+        "id": "woocommerce",
+        "link": "/applications/e-commerce/woocommerce",
+        "external_link": "https://elest.io/open-source/woocommerce",
+        "title": "WooCommerce",
+        "description": "WooCommerce is a customizable, open-source eCommerce platform built on WordPress.",
+        "logo": "/images/applications/e-commerce/woocommerce/logo.png",
+        "category": {
+            "id": "e-commerce",
+            "name": "E-commerce",
+            "ids": [
+                "e-commerce"
+            ]
+        }
+    },
+    {
+        "id": "wordpress-multisites",
+        "link": "/applications/cms/wordpress-multisites",
+        "external_link": "https://elest.io/open-source/wordpress-multisites",
+        "title": "Wordpress-Multisites",
+        "description": "WordPress Multisite is a version of WordPress that allows you to run multiple sites off a single installation of WordPress.",
+        "logo": "/images/applications/cms/wordpress-multisites/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "wordpress",
+        "link": "/applications/cms/wordpress",
+        "external_link": "https://elest.io/open-source/wordpress",
+        "title": "Wordpress",
+        "description": "WordPress is open-source software you can use to create a beautiful website, blog or app.",
+        "logo": "/images/applications/cms/wordpress/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "ghost",
+        "link": "/applications/cms/ghost",
+        "external_link": "https://elest.io/open-source/ghost",
+        "title": "Ghost",
+        "description": "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content.",
+        "logo": "/images/applications/cms/ghost/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "drupal",
+        "link": "/applications/cms/drupal",
+        "external_link": "https://elest.io/open-source/drupal",
+        "title": "Drupal",
+        "description": "Drupal is an open-source content management platform that supports a wide variety of websites.",
+        "logo": "/images/applications/cms/drupal/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "joomla",
+        "link": "/applications/cms/joomla",
+        "external_link": "https://elest.io/open-source/joomla",
+        "title": "Joomla",
+        "description": "Joomla is an award-winning content management system for building websites and powerful online applications.",
+        "logo": "/images/applications/cms/joomla/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "firefish",
+        "link": "/applications/cms/firefish",
+        "external_link": "https://elest.io/open-source/firefish",
+        "title": "Firefish",
+        "description": "Firefish is based off of Misskey, a powerful\u00a0microblogging social media platform in the fediverse.",
+        "logo": "/images/applications/cms/firefish/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "mediacms",
+        "link": "/applications/cms/mediacms",
+        "external_link": "https://elest.io/open-source/mediacms",
+        "title": "MediaCMS",
+        "description": "MediaCMS is a fully featured open-source video and media CMS.",
+        "logo": "/images/applications/cms/mediacms/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "agencyos",
+        "link": "/applications/cms/agencyos",
+        "external_link": "https://elest.io/open-source/agencyos",
+        "title": "AgencyOS",
+        "description": "Open source operating system for digital agencies. Built with Directus and Nuxt.",
+        "logo": "/images/applications/cms/agencyos/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "directus",
+        "link": "/applications/cms/directus",
+        "external_link": "https://elest.io/open-source/directus",
+        "title": "Directus",
+        "description": "Directus is an Open Data Platform for managing the content of any SQL database.",
+        "logo": "/images/applications/cms/directus/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "strapi",
+        "link": "/applications/cms/strapi",
+        "external_link": "https://elest.io/open-source/strapi",
+        "title": "Strapi",
+        "description": "Strapi enables easy building of self-hosted, customizable, performant content API.",
+        "logo": "/images/applications/cms/strapi/logo.png",
+        "category": {
+            "id": "cms",
+            "name": "CMS",
+            "ids": [
+                "cms"
+            ]
+        }
+    },
+    {
+        "id": "freescout",
+        "link": "/applications/customer-support/freescout",
+        "external_link": "https://elest.io/open-source/freescout",
+        "title": "FreeScout",
+        "description": "FreeScout is a free self-hosted help desk & shared mailbox.",
+        "logo": "/images/applications/customer-support/freescout/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "formbricks",
+        "link": "/applications/customer-support/formbricks",
+        "external_link": "https://elest.io/open-source/formbricks",
+        "title": "Formbricks",
+        "description": "Formbricks is your go-to solution for in-product micro-surveys that will supercharge your product experience.",
+        "logo": "/images/applications/customer-support/formbricks/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "dittofeed",
+        "link": "/applications/customer-support/dittofeed",
+        "external_link": "https://elest.io/open-source/dittofeed",
+        "title": "Dittofeed",
+        "description": "Automate communications with customers. Give data control to your growth engineers.",
+        "logo": "/images/applications/customer-support/dittofeed/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "glpi",
+        "link": "/applications/customer-support/glpi",
+        "external_link": "https://elest.io/open-source/glpi",
+        "title": "GLPI",
+        "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+        "logo": "/images/applications/customer-support/glpi/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "zammad",
+        "link": "/applications/customer-support/zammad",
+        "external_link": "https://elest.io/open-source/zammad",
+        "title": "Zammad",
+        "description": "Zammad is a web-based, open-source helpdesk/customer support system.",
+        "logo": "/images/applications/customer-support/zammad/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "trudesk",
+        "link": "/applications/customer-support/trudesk",
+        "external_link": "https://elest.io/open-source/trudesk",
+        "title": "Trudesk",
+        "description": "Trudesk is an open-source help desk/ticketing solution.",
+        "logo": "/images/applications/customer-support/trudesk/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "mantisbt",
+        "link": "/applications/customer-support/mantisbt",
+        "external_link": "https://elest.io/open-source/mantisbt",
+        "title": "MantisBT",
+        "description": "MantisBT makes collaboration with team members & clients easy, fast, and professional",
+        "logo": "/images/applications/customer-support/mantisbt/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "tracardi",
+        "link": "/applications/customer-support/tracardi",
+        "external_link": "https://elest.io/open-source/tracardi",
+        "title": "Tracardi",
+        "description": "TRACARDI is a new HOME for your customer data. TRACARDI is an API-first solution, a low-code / no-code platform aimed at any e-commerce business that wants to start using user data for marketing purposes.",
+        "logo": "/images/applications/customer-support/tracardi/logo.png",
+        "category": {
+            "id": "customer-support",
+            "name": "Customer support",
+            "ids": [
+                "customer-support"
+            ]
+        }
+    },
+    {
+        "id": "pixelfed",
+        "link": "/applications/fediverse/pixelfed",
+        "external_link": "https://elest.io/open-source/pixelfed",
+        "title": "Pixelfed",
+        "description": "Pixelfed is a fediverse decentralized social network for image sharing. Unlike other platforms with features similar to those of the social network Instagram.",
+        "logo": "/images/applications/fediverse/pixelfed/logo.png",
+        "category": {
+            "id": "fediverse",
+            "name": "Fediverse",
+            "ids": [
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "pleroma",
+        "link": "/applications/fediverse/pleroma",
+        "external_link": "https://elest.io/open-source/pleroma",
+        "title": "Pleroma",
+        "description": "A microblogging server software that can federate other servers that support ActivityPub. it\u00a0will federate with all servers like Friendica, GNU Social, Hubzilla, Mastodon, Misskey, Peertube, and Pixelfed.",
+        "logo": "/images/applications/fediverse/pleroma/logo.png",
+        "category": {
+            "id": "fediverse",
+            "name": "Fediverse",
+            "ids": [
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "misskey",
+        "link": "/applications/fediverse/misskey",
+        "external_link": "https://elest.io/open-source/misskey",
+        "title": "Misskey",
+        "description": "Misskey is an open-source microblogging, federated social media platform that's free forever!",
+        "logo": "/images/applications/fediverse/misskey/logo.png",
+        "category": {
+            "id": "fediverse",
+            "name": "Fediverse",
+            "ids": [
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "sharkey",
+        "link": "/applications/fediverse/sharkey",
+        "external_link": "https://elest.io/open-source/sharkey",
+        "title": "Sharkey",
+        "description": "Sharkey is an open source, decentralized social media platform that's free forever!",
+        "logo": "/images/applications/fediverse/sharkey/logo.png",
+        "category": {
+            "id": "fediverse",
+            "name": "Fediverse",
+            "ids": [
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "peertube",
+        "link": "/applications/fediverse/peertube",
+        "external_link": "https://elest.io/open-source/peertube",
+        "title": "PeerTube",
+        "description": "Free\u00a0software\u00a0to\u00a0take\u00a0back\u00a0control\u00a0of\u00a0your\u00a0videos for the\u00a0Fediverse",
+        "logo": "/images/applications/fediverse/peertube/logo.png",
+        "category": {
+            "id": "fediverse",
+            "name": "Fediverse",
+            "ids": [
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "castopod",
+        "link": "/applications/fediverse/castopod",
+        "external_link": "https://elest.io/open-source/castopod",
+        "title": "Castopod",
+        "description": "Self-host your podcasts with ease, keep control over what you create, and talk to your audience without any middleman. Your podcast and your audience belong to you and you only.",
+        "logo": "/images/applications/fediverse/castopod/logo.png",
+        "category": {
+            "id": "fediverse",
+            "name": "Fediverse",
+            "ids": [
+                "fediverse"
+            ]
+        }
+    },
+    {
+        "id": "activepieces",
+        "link": "/applications/automation/activepieces",
+        "external_link": "https://elest.io/open-source/activepieces",
+        "title": "Activepieces",
+        "description": "Activepieces is an open source alternative to Zapier, Make.com and Tray.io. Automate your work with our builder and connectors - host it on your machine.",
+        "logo": "/images/applications/automation/activepieces/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "automatisch",
+        "link": "/applications/automation/automatisch",
+        "external_link": "https://elest.io/open-source/automatisch",
+        "title": "Automatisch",
+        "description": "Automatisch helps you to automate your business processes without coding. Use our affordable cloud solution or self-host on your own servers.",
+        "logo": "/images/applications/automation/automatisch/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "node-red",
+        "link": "/applications/automation/node-red",
+        "external_link": "https://elest.io/open-source/node-red",
+        "title": "Node-red",
+        "description": "Node-RED is a low-code programming environment for event-driven applications.",
+        "logo": "/images/applications/automation/node-red/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "apachenifi",
+        "link": "/applications/automation/apachenifi",
+        "external_link": "https://elest.io/open-source/apachenifi",
+        "title": "ApacheNiFi",
+        "description": "Apache NiFi automates the movement of data between disparate data sources and systems, making data ingestion fast, easy, and secure.",
+        "logo": "/images/applications/automation/apachenifi/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "n8n",
+        "link": "/applications/automation/n8n",
+        "external_link": "https://elest.io/open-source/n8n",
+        "title": "N8N",
+        "description": "n8n is a free, self-hosted workflow automation tool that integrates with other apps to automate processes between them.",
+        "logo": "/images/applications/automation/n8n/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "huginn",
+        "link": "/applications/automation/huginn",
+        "external_link": "https://elest.io/open-source/huginn",
+        "title": "Huginn",
+        "description": "Huginn\u00a0is a tool in the\u00a0Web Service Automation\u00a0category of a tech stack.",
+        "logo": "/images/applications/automation/huginn/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "airflow",
+        "link": "/applications/automation/airflow",
+        "external_link": "https://elest.io/open-source/airflow",
+        "title": "Airflow",
+        "description": "Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.",
+        "logo": "/images/applications/automation/airflow/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "airflow-worker",
+        "link": "/applications/automation/airflow-worker",
+        "external_link": "https://elest.io/open-source/airflow-worker",
+        "title": "Airflow-worker",
+        "description": "Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.",
+        "logo": "/images/applications/automation/airflow-worker/logo.png",
+        "category": {
+            "id": "automation",
+            "name": "Automation",
+            "ids": [
+                "automation"
+            ]
+        }
+    },
+    {
+        "id": "minthcm",
+        "link": "/applications/hcm/minthcm",
+        "external_link": "https://elest.io/open-source/minthcm",
+        "title": "MintHCM",
+        "description": "Human Capital Management system (HCM) that you can start using today to manage your\u00a0HR departments and businesses in different branches.",
+        "logo": "/images/applications/hcm/minthcm/logo.png",
+        "category": {
+            "id": "hcm",
+            "name": "HCM",
+            "ids": [
+                "hcm"
+            ]
+        }
+    }
+]

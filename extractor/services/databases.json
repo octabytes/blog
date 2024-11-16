@@ -1,0 +1,384 @@
+[
+    {
+        "id": "postgresql",
+        "link": "/databases/relational-databases/postgresql",
+        "external_link": "https://elest.io/open-source/postgresql",
+        "title": "PostgreSQL",
+        "description": "PostgreSQL is a powerful, open-source object-relational database system, known for reliability, data integrity and performance.",
+        "logo": "/images/databases/relational-databases/postgresql/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases"
+            ]
+        }
+    },
+    {
+        "id": "mysql",
+        "link": "/databases/relational-databases/mysql",
+        "external_link": "https://elest.io/open-source/mysql",
+        "title": "MySQL",
+        "description": "MySQL is an Oracle-backed open-source RDBMS that runs on almost all platforms.",
+        "logo": "/images/databases/relational-databases/mysql/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases"
+            ]
+        }
+    },
+    {
+        "id": "mariadb",
+        "link": "/databases/relational-databases/mariadb",
+        "external_link": "https://elest.io/open-source/mariadb",
+        "title": "MariaDB",
+        "description": "The open source relational database",
+        "logo": "/images/databases/relational-databases/mariadb/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases"
+            ]
+        }
+    },
+    {
+        "id": "columnstore",
+        "link": "/databases/relational-databases/columnstore",
+        "external_link": "https://elest.io/open-source/columnstore",
+        "title": "ColumnStore",
+        "description": "MariaDB ColumnStore is a GPLv2 open-source columnar database built on MariaDB Server.",
+        "logo": "/images/databases/relational-databases/columnstore/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases"
+            ]
+        }
+    },
+    {
+        "id": "timescaledb",
+        "link": "/databases/relational-databases/timescaledb",
+        "external_link": "https://elest.io/open-source/timescaledb",
+        "title": "TimescaleDB",
+        "description": "TimescaleDB is the leading open-source relational database with support for time-series data.",
+        "logo": "/images/databases/relational-databases/timescaledb/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "clickhouse",
+        "link": "/databases/relational-databases/clickhouse",
+        "external_link": "https://elest.io/open-source/clickhouse",
+        "title": "ClickHouse",
+        "description": "ClickHouse is an open-source, column-oriented DBMS for online analytical processing.",
+        "logo": "/images/databases/relational-databases/clickhouse/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "clickhouses3",
+        "link": "/databases/relational-databases/clickhouses3",
+        "external_link": "https://elest.io/open-source/clickhouses3",
+        "title": "ClickHouseS3",
+        "description": "ClickHouse + S3  is an open-source, column-oriented DBMS for online analytical processing.",
+        "logo": "/images/databases/relational-databases/clickhouses3/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "mssql",
+        "link": "/databases/relational-databases/mssql",
+        "external_link": "https://elest.io/open-source/mssql",
+        "title": "MSSQL",
+        "description": "SQL Server 2019 is a modern data platform designed to tackle the challenges of today's data professional.",
+        "logo": "/images/databases/relational-databases/mssql/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases"
+            ]
+        }
+    },
+    {
+        "id": "hydra",
+        "link": "/databases/relational-databases/hydra",
+        "external_link": "https://elest.io/open-source/hydra",
+        "title": "Hydra",
+        "description": "Hydra is an open-source alternative to enterprise data warehouses and it's simple, fast, and adaptable to your needs.",
+        "logo": "/images/databases/relational-databases/hydra/logo.png",
+        "category": {
+            "id": "relational-databases",
+            "name": "Relational databases",
+            "ids": [
+                "relational-databases",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "valkey",
+        "link": "/databases/nosql/valkey",
+        "external_link": "https://elest.io/open-source/valkey",
+        "title": "Valkey",
+        "description": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
+        "logo": "/images/databases/nosql/valkey/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "redis",
+        "link": "/databases/nosql/redis",
+        "external_link": "https://elest.io/open-source/redis",
+        "title": "Redis",
+        "description": "Redis is an open-source, in-memory database, cache and message broker.",
+        "logo": "/images/databases/nosql/redis/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "scylladb",
+        "link": "/databases/nosql/scylladb",
+        "external_link": "https://elest.io/open-source/scylladb",
+        "title": "ScyllaDB",
+        "description": "ScyllaDB is a true NoSQL database for the most demanding applications.",
+        "logo": "/images/databases/nosql/scylladb/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql"
+            ]
+        }
+    },
+    {
+        "id": "opensearch",
+        "link": "/databases/nosql/opensearch",
+        "external_link": "https://elest.io/open-source/opensearch",
+        "title": "OpenSearch",
+        "description": "Open source distributed and RESTful search engine.",
+        "logo": "/images/databases/nosql/opensearch/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql",
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "cassandra",
+        "link": "/databases/nosql/cassandra",
+        "external_link": "https://elest.io/open-source/cassandra",
+        "title": "Cassandra",
+        "description": "Open Source NoSQL Database",
+        "logo": "/images/databases/nosql/cassandra/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql"
+            ]
+        }
+    },
+    {
+        "id": "ferretdb",
+        "link": "/databases/nosql/ferretdb",
+        "external_link": "https://elest.io/open-source/ferretdb",
+        "title": "FerretDB",
+        "description": "Documents DB, built on Postgres. FerretDB allows you to use MongoDB drivers seamlessly with PostgreSQL as the database backend. Use all tools, drivers, UIs, and the same query language and stay open-source.",
+        "logo": "/images/databases/nosql/ferretdb/logo.png",
+        "category": {
+            "id": "nosql",
+            "name": "NoSQL",
+            "ids": [
+                "nosql"
+            ]
+        }
+    },
+    {
+        "id": "keydb",
+        "link": "/databases/specialized-databases/keydb",
+        "external_link": "https://elest.io/open-source/keydb",
+        "title": "KeyDB",
+        "description": "KeyDB is both your cache and database, for cloud-optimized solutions.",
+        "logo": "/images/databases/specialized-databases/keydb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "influxdb",
+        "link": "/databases/specialized-databases/influxdb",
+        "external_link": "https://elest.io/open-source/influxdb",
+        "title": "InfluxDB",
+        "description": "InfluxDB is a scalable datastore that empowers developers to build IoT, analytics and monitoring software.",
+        "logo": "/images/databases/specialized-databases/influxdb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "surrealdb",
+        "link": "/databases/specialized-databases/surrealdb",
+        "external_link": "https://elest.io/open-source/surrealdb",
+        "title": "SurrealDB",
+        "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web.",
+        "logo": "/images/databases/specialized-databases/surrealdb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "chromadb",
+        "link": "/databases/specialized-databases/chromadb",
+        "external_link": "https://elest.io/open-source/chromadb",
+        "title": "Chromadb",
+        "description": "The AI-native open-source embedding database",
+        "logo": "/images/databases/specialized-databases/chromadb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "milvus",
+        "link": "/databases/specialized-databases/milvus",
+        "external_link": "https://elest.io/open-source/milvus",
+        "title": "Milvus",
+        "description": "The High-Performance Vector Database Built for Scale",
+        "logo": "/images/databases/specialized-databases/milvus/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "neo4j",
+        "link": "/databases/specialized-databases/neo4j",
+        "external_link": "https://elest.io/open-source/neo4j",
+        "title": "Neo4j",
+        "description": "Neo4j is the world\u2019s leading Graph Database",
+        "logo": "/images/databases/specialized-databases/neo4j/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "kafka",
+        "link": "/databases/specialized-databases/kafka",
+        "external_link": "https://elest.io/open-source/kafka",
+        "title": "Kafka",
+        "description": "Apache Kafka is an open-source platform for high-performance data pipelines, streaming analytics, data integration and mission-critical applications.",
+        "logo": "/images/databases/specialized-databases/kafka/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "m3db",
+        "link": "/databases/specialized-databases/m3db",
+        "external_link": "https://elest.io/open-source/m3db",
+        "title": "M3DB",
+        "description": "M3 is a Prometheus compatible, easy to adopt metrics engine",
+        "logo": "/images/databases/specialized-databases/m3db/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "immudb",
+        "link": "/databases/specialized-databases/immudb",
+        "external_link": "https://elest.io/open-source/immudb",
+        "title": "ImmuDB",
+        "description": "immutable ledger database based on zero trust, SQL and Key-Value, tamperproof, data change history",
+        "logo": "/images/databases/specialized-databases/immudb/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    },
+    {
+        "id": "weaviate",
+        "link": "/databases/specialized-databases/weaviate",
+        "external_link": "https://elest.io/open-source/weaviate",
+        "title": "Weaviate",
+        "description": "Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models, and scale seamlessly into billions of data objects.",
+        "logo": "/images/databases/specialized-databases/weaviate/logo.png",
+        "category": {
+            "id": "specialized-databases",
+            "name": "Specialized Databases",
+            "ids": [
+                "specialized-databases"
+            ]
+        }
+    }
+]
