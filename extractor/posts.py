@@ -3,12 +3,12 @@ import json
 import time
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from pathlib import Path
 
 BASE_URL = "https://blog.elest.io"
 OUTPUT_DIR = "./posts"
-IMAGE_DIR = "./images"
+IMAGE_DIR = "../content/posts"
 SERVICE_DIR = "./services"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 PAGE_LIMIT = 8
@@ -80,9 +80,9 @@ def scrape_articles():
                 description = article.select_one(".post-card-excerpt").text.strip()
                 read_length_ele = article.select_one(".post-card-meta-length")
                 read_length = read_length_ele.text.strip() if read_length_ele else ""
-                link = article.select_one(".post-card-content-link")["href"]
-                if not link.startswith(BASE_URL):
-                    link = urljoin(BASE_URL, link)
+                href = article.select_one(".post-card-content-link")["href"]
+                if not href.startswith(BASE_URL):
+                    link = urljoin(BASE_URL, href)
 
                 # Find matching service data
                 service_id = find_service_id(title, tag)
@@ -93,24 +93,30 @@ def scrape_articles():
                 # Extract image data
                 image_tag = article.select_one(".post-card-image")
                 srcset = image_tag["srcset"]
+                src = image_tag["src"]
                 alt = image_tag.get("alt", "")
                 sizes = image_tag.get("sizes", "")
 
-                # Prepare image folder structure: ./images/{id}/{timestamp}/
-                timestamp = str(int(time.time()))
-                image_dir = os.path.join(IMAGE_DIR, service_id or "unknown", timestamp)
+                # Prepare image folder structure: ../content/post/id/link/images/
+                post_link = href.replace("/", "")
+                image_dir = os.path.join(IMAGE_DIR, service_id or "other", post_link, "images")
                 os.makedirs(image_dir, exist_ok=True)
 
                 # Prepare image paths and download
-                srcset_entries = []
-                for entry in srcset.split(","):
-                    image_url, size = entry.strip().split(" ")
-                    image_url = urljoin(BASE_URL, image_url)
-                    image_name = os.path.basename(image_url).replace("elestio-", "")
-                    image_size = size.replace("w", "")
-                    image_path = f"{image_dir}/{image_size}-{image_name}"
-                    download_image(image_url, image_path)
-                    srcset_entries.append({"size": size, "path": image_path})
+                image_url = urljoin(BASE_URL, src)
+                image_ext = os.path.splitext(urlparse(image_url).path)[-1].lstrip(".")
+                image_path = f"{image_dir}/cover.{image_ext}"
+                download_image(image_url, image_path)
+
+                # srcset_entries = []
+                # for entry in srcset.split(","):
+                #     image_url, size = entry.strip().split(" ")
+                #     image_url = urljoin(BASE_URL, image_url)
+                #     image_name = os.path.basename(image_url).replace("elestio-", "")
+                #     image_size = size.replace("w", "")
+                #     image_path = f"{image_dir}/{image_size}-{image_name}"
+                #     download_image(image_url, image_path)
+                #     srcset_entries.append({"size": size, "path": image_path})
 
                 
                 # Construct article entry
@@ -126,8 +132,7 @@ def scrape_articles():
                     "read_length": read_length,
                     "image": {
                         "alt": alt,
-                        "sizes": sizes,
-                        "srcset": srcset_entries
+                        "path": image_path
                     }
                 }
 
