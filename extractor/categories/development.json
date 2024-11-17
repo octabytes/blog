@@ -1,0 +1,38 @@
+[
+    {
+        "link": "/development/identity-and-access-management",
+        "external_link": "https://elest.io/fully-managed-services/development/identity-and-access-management",
+        "id": "identity-and-access-management",
+        "name": "Identity and access management"
+    },
+    {
+        "link": "/development/backend-as-a-service",
+        "external_link": "https://elest.io/fully-managed-services/development/backend-as-a-service",
+        "id": "backend-as-a-service",
+        "name": "Backend-as-a-Service"
+    },
+    {
+        "link": "/development/dev-tools",
+        "external_link": "https://elest.io/fully-managed-services/development/dev-tools",
+        "id": "dev-tools",
+        "name": "Dev tools"
+    },
+    {
+        "link": "/development/network",
+        "external_link": "https://elest.io/fully-managed-services/development/network",
+        "id": "network",
+        "name": "Network"
+    },
+    {
+        "link": "/development/dev-ops",
+        "external_link": "https://elest.io/fully-managed-services/development/dev-ops",
+        "id": "dev-ops",
+        "name": "devOps"
+    },
+    {
+        "link": "/development/nocode-lowcode",
+        "external_link": "https://elest.io/fully-managed-services/development/nocode-lowcode",
+        "id": "nocode-lowcode",
+        "name": "No-code / Low code"
+    }
+]
