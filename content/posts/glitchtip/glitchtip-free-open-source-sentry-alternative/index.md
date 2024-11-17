@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "GlitchTip: Free open-source error tracking, uptime and performance monitoring"
-date: "2024-05-03"
+date: "2024-04-25"
 description: "Discover GlitchTip, your go-to solution for open-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
 
 

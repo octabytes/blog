@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "LanguageTool: The Free Open-Source Alternative to Grammarly"
-date: "2024-12-18"
+date: "2024-01-26"
 description: "Do you struggle with writing in a non-native language? Introducing LanguageTool, an open-source proofreading and grammar-checking software that can improve your writing accuracy and clarity.
 
 If you prefer, the video version is available here:

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Lago: Free Open Source Metering and Usage Based Payment Platform"
-date: "2024-09-20"
+date: "2024-09-05"
 description: "Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. Lago emerges as a remedy to this, offering a free, open-source solution for metering and usage-based billing.
 
 Whether self-hosted or on the cloud, Lago boasts a scalable and modular architecture designed"

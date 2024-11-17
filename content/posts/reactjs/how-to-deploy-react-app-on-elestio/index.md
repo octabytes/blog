@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Deploy React App on Elestio"
-date: "2024-05-12"
+date: "2024-10-02"
 description: "So you made a React web application and want to deploy it to the cloud 🚀
 
 You probably heard about Kubernetes (and all its complexity) or various options to deploy your apps like Heroku, Render Fly, or Railways. They all have something in common, those products are building your own source"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Discover Cal.com - The Open Source Alternative to Calendly"
-date: "2024-08-02"
+date: "2024-07-09"
 description: "In the fast-paced world of modern business, efficient scheduling is a crucial element of success. The ability to book meetings seamlessly, integrate with various tools, and coordinate with your team effortlessly are all essential.
 
 That's where Cal.com steps in as a game-changing open-source alternative to Calendly. In"

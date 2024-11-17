@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Migrate to Elestio's managed services"
-date: "2024-07-17"
+date: "2024-09-10"
 description: "This migration document focuses on the migration of the applications supported by Elestio. Find the software list here
 
 This document provides a step-by-step guide for migrating your existing system to Elestio. Elestio is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Crater: Free Open-source Billing & Invoicing Platform"
-date: "2024-04-19"
+date: "2024-01-25"
 description: "When running a business, managing finances can quickly become overwhelming. That's where Crater, a free open-source billing and invoicing platform, steps in to simplify the process.
 
 Ideal for freelancers, small business owners, and entrepreneurs looking for an efficient way to track invoices, estimates, and payments. Crater offers a"

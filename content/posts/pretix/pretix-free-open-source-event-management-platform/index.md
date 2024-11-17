@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Pretix: Free Open Source Event Management Platform"
-date: "2024-04-04"
+date: "2024-11-21"
 description: "In the bustling world of event management, finding the right tools to streamline operations and enhance attendee experiences is essential.
 
 Pretix emerges as a promising solution, offering a comprehensive set of features tailored to meet the diverse needs of event organizers. As a free and open-source platform, Pretix stands out"

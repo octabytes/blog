@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Strapi: Free Open Source Headless CMS"
-date: "2024-02-13"
+date: "2024-09-24"
 description: "Developing a backend for content management has traditionally been a time-consuming and tedious task. From crafting CRUD operations to setting up complex role and permission systems, the process can quickly become overwhelming...
 
 But, brace yourself for a transformative solution that simplifies this entire ordeal - Strapi, the free and open-source"

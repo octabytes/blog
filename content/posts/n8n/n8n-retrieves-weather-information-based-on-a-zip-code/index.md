@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Retrieve weather information based on a zip code 🌤️"
-date: "2024-07-15"
+date: "2024-03-10"
 description: "Let's see how you can create an application that can retrieve weather information based on a zip code using API. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed"
 tags: []
 categories: [Automation]

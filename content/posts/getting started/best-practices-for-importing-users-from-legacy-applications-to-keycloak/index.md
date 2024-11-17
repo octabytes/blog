@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Implementing SSO Authentication with Keycloak"
-date: "2024-01-26"
+date: "2024-04-26"
 description: "In this blog, we will implement Single Sign-On (SSO) authentication with Keycloak. During this tutorial, we will take an example of SSO between Keycloak and Google Workspace accounts. You can also choose the cloud identity of your choice to get started. Before we start, make sure you have deployed Keycloak,"
 tags: []
 categories: [Other]

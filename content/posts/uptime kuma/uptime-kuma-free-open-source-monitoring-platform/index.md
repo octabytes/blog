@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Uptime Kuma: Free Open Source Monitoring Platform"
-date: "2024-08-18"
+date: "2024-12-18"
 description: "Say hello to Uptime Kuma – the go-to self-hosted monitoring tool that's here to simplify your monitoring journey.
 
 

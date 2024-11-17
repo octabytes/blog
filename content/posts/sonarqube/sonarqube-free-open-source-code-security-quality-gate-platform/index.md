@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "SonarQube: Free Open-source Code Security & Quality Gate Platform"
-date: "2024-08-24"
+date: "2024-11-08"
 description: "SonarQube has become a vital tool for developers and organizations prioritizing code quality and security in their software projects.
 
 As an open-source platform, it provides a comprehensive solution for tracking code vulnerabilities, enforcing code quality standards, and establishing a structured quality gate in the CI/CD pipeline.

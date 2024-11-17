@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "MinIO: Open Source High Performance Object Storage"
-date: "2024-06-16"
+date: "2024-08-25"
 description: "In today's digital landscape, the volume of data being generated and stored is growing exponentially. Whether it's for businesses managing vast amounts of customer data or individuals storing their personal files, the need for efficient and scalable storage solutions is essential.
 
 Enter MinIO – an open-source, high-performance"

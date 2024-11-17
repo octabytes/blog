@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Elestio Receives SOC 2 Type 1 Certification"
-date: "2024-01-17"
+date: "2024-08-07"
 description: "We are thrilled to announce that Elestio has achieved SOC 2 Type 1 certification! This certification underscores our ongoing commitment to the security and reliability of our services.
 
 What does this mean for our clients? Firstly, it confirms our dedication to maintaining high standards in data security. Companies using our"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Shlink URL shortener with analytics"
-date: "2024-08-10"
+date: "2024-04-29"
 description: "Discover Shlink, a powerful open-source URL shortener that offers a comprehensive range of features.
 
 Our platform overview of Shlink:

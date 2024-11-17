@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to use Browserless with N8N to capture screenshots"
-date: "2024-12-09"
+date: "2024-04-20"
 description: "Let's see how you can create an application that makes HTTP requests to Browserless and get screenshots. During this tutorial, we will be building the workflow from scratch. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.
 
 

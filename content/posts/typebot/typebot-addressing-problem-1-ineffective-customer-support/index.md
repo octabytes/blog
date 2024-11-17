@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Typebot: Building Effective Customer Support"
-date: "2024-09-27"
+date: "2024-08-21"
 description: "Let's see how you can create a simple customer support chatbot using Typebot. During this tutorial, we will be using a pre-defined template to create the chatbot. You can also choose to create the same from scratch. Before we start, ensure you have deployed Typebot, we will be"
 tags: []
 categories: [Live chat, Customer support]

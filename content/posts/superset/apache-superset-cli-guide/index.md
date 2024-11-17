@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Apache Superset CLI guide"
-date: "2024-10-28"
+date: "2024-06-08"
 description: "Hey everyone, In this blog we will be knowing more about Superset CLI. The Apache Superset CLI (Command Line Interface) is a tool that enhances the management, configuration, and usage of Superset, eliminating the need for direct web interface interaction. This guide provides a detailed overview of how to leverage"
 tags: []
 categories: [Business Intelligence]

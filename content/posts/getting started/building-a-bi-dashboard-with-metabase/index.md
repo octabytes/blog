@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Building a BI Dashboard with Metabase"
-date: "2024-03-15"
+date: "2024-02-26"
 description: "Let's see how you can build a BI Dashboard with Metabase. During this tutorial, we will be creating a BI dashboard to analyse the provided data and visualize it in a dashboard. We are going to create this application from scratch. Before we start, make sure you have"
 tags: []
 categories: [Other]

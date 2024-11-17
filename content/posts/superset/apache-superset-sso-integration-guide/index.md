@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Apache Superset SSO integration guide"
-date: "2024-04-26"
+date: "2024-04-05"
 description: "Integrating Single Sign-On (SSO) with Apache Superset enhances both security and user experience by enabling users to authenticate with their existing credentials. This guide provides a step-by-step process to set up SSO with Superset.
 
 Prerequisites

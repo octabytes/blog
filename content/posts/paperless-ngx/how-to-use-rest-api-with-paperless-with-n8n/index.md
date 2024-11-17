@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How To Use REST API with Paperless with N8N"
-date: "2024-06-30"
+date: "2024-06-16"
 description: "Paperless-ngx is an open-source document management system that allows you to easily archive, organize, and retrieve your documents. While its web interface provides a way to manage documents, Paperless-ngx also offers a REST API, which allows for programmatic access and integration with other applications. In this blog, we'll"
 tags: []
 categories: [Storage]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Using Superset for Real-Time Data Analytics"
-date: "2024-03-23"
+date: "2024-03-04"
 description: "In this guide, we will walk you through setting up real-time analytics by integrating Apache Superset with ClickHouse, a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
 
 

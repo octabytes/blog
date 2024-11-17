@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How To Import Existing DB In Directus"
-date: "2024-04-29"
+date: "2024-08-26"
 description: "Directus is an open-source headless CMS that allows you to manage your data effectively while keeping your existing database schema intact. If you've deployed Directus on Elestio as a self-hosted solution, you can easily import your existing database into this environment. This guide will walk you through the"
 tags: []
 categories: [CMS]

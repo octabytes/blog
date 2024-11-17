@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Uptime-Kuma, a great open-source alternative to uptime robot"
-date: "2024-12-06"
+date: "2024-01-18"
 description: "Uptime-Kuma is a self-hosted monitoring tool similar to 'Uptime Robot'."
 tags: []
 categories: [Other]

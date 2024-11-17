@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "5 Free Open Source Tools Every Developer Should Know"
-date: "2024-10-28"
+date: "2024-08-18"
 description: "Do not start your next project without knowing those 5 free open source tools.
 
 They will save you time and effort by preventing you from redeveloping common features.

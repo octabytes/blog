@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Build & engage your community with Discourse"
-date: "2024-10-24"
+date: "2024-01-15"
 description: "Building a community around your product or brand can have a significant positive impact on your business. A thriving community can help you grow your customer base, drive engagement, and foster brand loyalty. But building and managing a community is no easy feat. That's where Discourse comes in."
 tags: []
 categories: [Other]

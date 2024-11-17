@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Apache Guacamole: Free Open Source Remote Access Gateway"
-date: "2024-12-26"
+date: "2024-07-17"
 description: "In today's interconnected world, remote access to systems and resources is not just convenient but often essential for productivity.
 
 Apache Guacamole offers a robust and secure solution for remote access management. With its open-source nature and powerful features, Guacamole has become a go-to choice for enterprises looking for"

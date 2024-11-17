@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Wger: Free Open-source Workout Manager"
-date: "2024-09-23"
+date: "2024-04-26"
 description: "In the world of fitness tracking, finding the right tool that meets all your needs can be challenging.
 
 Enter Wger, the community-driven, free, and open-source fitness tracker. With over 35,000 users, 500 exercises, and a vast food database, Wger offers a comprehensive solution for anyone looking to track their"

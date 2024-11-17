@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Twenty: Free Open Source CRM"
-date: "2024-10-17"
+date: "2024-03-21"
 description: "In the dynamic landscape of customer relationship management (CRM) software, finding a solution that seamlessly aligns with your business's unique needs while being affordable and flexible can be challenging.
 
 Discover Twenty, an open-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface,"

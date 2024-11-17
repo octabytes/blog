@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Send marketing and transactional emails with Listmonk"
-date: "2024-04-23"
+date: "2024-09-08"
 description: "Looking for a free and powerful tool to manage your email marketing campaigns and transactional emails? Say hello to Listmonk! In our latest video, we showcase how Listmonk can help you achieve your email goals without the high price tag of other popular services like Mailchimp, Sendinblue, or Sendgrid.
 
 

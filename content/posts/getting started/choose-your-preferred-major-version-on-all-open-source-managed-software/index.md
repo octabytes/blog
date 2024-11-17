@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Choose your preferred major version on all open-source managed software!"
-date: "2024-02-26"
+date: "2024-01-24"
 description: "Security patches, new features, bug fixes, and performance improvements are all goods reason to always stay up-to-date. But, it can be really time-consuming for the DevOps team.
 This is why we have developed an automated update system on Elestio.
 

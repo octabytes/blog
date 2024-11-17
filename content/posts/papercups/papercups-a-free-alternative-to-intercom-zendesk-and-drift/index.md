@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Papercups: a free alternative to Intercom, Zendesk, and Drift"
-date: "2024-01-31"
+date: "2024-09-20"
 description: "In today's competitive business landscape, delivering exceptional customer experience is paramount. However, the cost and complexity of popular customer service solutions like Drift, Zendesk, and Intercom can be overwhelming, especially for small businesses and startups. But fear not!
 
 Enter Papercups, a game-changing free and open-source alternative that empowers"

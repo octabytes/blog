@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Grafana: Integrating Alert With Email And Slack"
-date: "2024-09-01"
+date: "2024-02-16"
 description: "In this tutorial, we will explore how to configure Slack and email for alert notifications in Grafana. We will cover how to integrate Slack using an API token or a Webhook URL and set up email notifications to ensure you receive alerts promptly. Properly configuring alert notifications is essential for"
 tags: []
 categories: [Monitoring]

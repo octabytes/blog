@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Migrating to Vaultwarden"
-date: "2024-03-16"
+date: "2024-01-23"
 description: "Let's see how you can migrate your already available passwords and secrets vault to Vaultwarden. During this tutorial, we will be using the already available Bitwarden vault. You can follow along with this tutorial on any other vault provider too. Before we start, ensure you have deployed Vaultwarden,"
 tags: []
 categories: [Other]

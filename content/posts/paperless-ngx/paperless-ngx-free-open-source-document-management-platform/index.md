@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Paperless-ngx: Free Open Source Document Management Platform"
-date: "2024-12-06"
+date: "2024-10-16"
 description: "In the digital age, businesses are constantly seeking ways to streamline operations and reduce clutter. In addition to obvious ecological motivations, going paperless is a crucial step in achieving this goal.
 
 Paperless-NGX is a free and open-source document management platform designed to transform your physical documents into a searchable online"

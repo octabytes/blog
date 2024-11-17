@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Superset Download as Image API Guide"
-date: "2024-02-27"
+date: "2024-07-28"
 description: "We will knowing more about Superset Download as Image API Guide. Apache Superset provides a powerful API for downloading dashboard images, making it easier to share visual insights without requiring direct access to the platform. This guide explains how to use the Superset API to export dashboard images seamlessly.
 
 Understanding"

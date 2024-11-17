@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "OpnForm: Free Open Source No-Code Form Builder"
-date: "2024-06-05"
+date: "2024-03-10"
 description: "In the rapidly evolving digital landscape, efficient data collection is vital. Whether you need a contact form, a survey, or a complex multi-step form, OpnForm offers a comprehensive solution.
 
 OpnForm is a free, open-source, no-code form builder designed to empower users to create beautiful, functional forms effortlessly. In this article,"

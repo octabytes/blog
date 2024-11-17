@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Huginn: Free Open Source Automated Agents Platform"
-date: "2024-01-24"
+date: "2024-04-28"
 description: "Automation has become an integral part of increasing efficiency across various business domains. From scheduling social media posts to monitoring website changes, automation tools have simplified tasks that would otherwise consume valuable time and resources.
 
 Among these tools, Huginn stands out as a powerful and versatile platform for creating automated"

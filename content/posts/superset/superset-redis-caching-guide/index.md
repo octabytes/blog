@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Superset Redis Caching Guide"
-date: "2024-04-12"
+date: "2024-05-27"
 description: "We will be knowing more about Superset Redis Caching. Optimize your Superset dashboards for better performance and scalability by integrating Redis caching. This guide explains how to set up and leverage Redis as a cache backend in Superset.
 
 Understanding Redis as a Cache Backend in Superset

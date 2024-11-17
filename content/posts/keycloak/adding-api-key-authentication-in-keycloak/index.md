@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Adding API Key Authentication In Keycloak"
-date: "2024-04-30"
+date: "2024-07-16"
 description: "We will be extending Keycloak by adding API key authentication with Elestio using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.
 
 

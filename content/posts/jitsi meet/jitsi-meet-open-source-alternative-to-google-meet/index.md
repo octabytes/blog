@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Jitsi Meet: Free Open Source Video Conferencing Platform"
-date: "2024-10-29"
+date: "2024-01-20"
 description: "In today's interconnected world, effective communication is paramount, and video conferencing has become an integral part of our professional and personal lives.
 
 One powerful solution that has gained significant popularity is Jitsi Meet a free and open-source alternative to Google Meet. In this article, we will delve into"

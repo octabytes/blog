@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Easy MySQL Database Migration with Elestio"
-date: "2024-08-21"
+date: "2024-05-02"
 description: "Moving databases can be difficult and may come with many problems, including downtime risks. At Elestio, we understand how important a smooth and efficient transition is. We are excited to announce our new DB Migration Service (DBMS). It is robust, easy to use, and created for a seamless database migration"
 tags: []
 categories: [Relational databases]

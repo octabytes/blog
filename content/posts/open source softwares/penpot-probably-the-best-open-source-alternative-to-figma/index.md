@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Penpot, the best open-source alternative to Figma & Adobe XD"
-date: "2024-07-04"
+date: "2024-05-01"
 description: "We’re blown away by the team at Kaleidos. Committed open-sourcers like us, they’ve developed the very popular open-source project management tool Taiga. But today we want to tell you about Penpot (16K stars on github), a phenomenal collaborative design tool.
 
 Penpot, an open-source alternative to Figma, is a"

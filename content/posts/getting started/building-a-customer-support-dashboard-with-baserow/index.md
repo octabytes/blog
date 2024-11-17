@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Building a Customer Support Dashboard with Baserow"
-date: "2024-08-20"
+date: "2024-01-28"
 description: "Let's see how you can build a Customer Support Dashboard with Baserow. During this tutorial, we will be creating a database and application which returns the particular record once the button is created. We are going to create this application from scratch. Before we start, ensure you have"
 tags: []
 categories: [Other]

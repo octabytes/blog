@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How To Customise Your Keycloak UI With React & Keycloakify"
-date: "2024-12-08"
+date: "2024-07-02"
 description: "Keycloak is a tool for managing authentication and authorization. However, you might want to tailor its user interface to better match your brand or meet specific design requirements. Using React and Keycloakify, you can create a custom Keycloak UI that provides a seamless experience for your users. This blog will"
 tags: []
 categories: [Identity and access management]

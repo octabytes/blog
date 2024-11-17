@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Corteza: Free Open Source Low Code Platform"
-date: "2024-03-21"
+date: "2024-10-23"
 description: "Businesses are constantly on the lookout for innovative solutions to streamline their operations and boost productivity. Enter Corteza, a revolutionary open-source low-code platform that promises to transform the way organizations develop applications and manage business processes.
 
 With its robust suite of tools and commitment to open standards, Corteza offers unparalleled"

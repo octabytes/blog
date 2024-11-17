@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Gophish: Free Open-source Phishing Framework"
-date: "2024-08-22"
+date: "2024-08-20"
 description: "In today's digital landscape, phishing attacks pose a significant threat to organizations of all sizes. These malicious attempts to obtain sensitive information can lead to severe financial and reputational damage.
 
 To combat this, Gophish, a powerful open-source phishing framework, offers a comprehensive solution to test and improve your"

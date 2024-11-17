@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Using Paperless To Consume Documents From Your Email Accounts"
-date: "2024-03-16"
+date: "2024-04-08"
 description: "Paperless-ngx allows you to automatically consume and archive documents from your email accounts. This feature is useful if you frequently receive important documents via email that you need to organize and store securely. In this blog, we’ll explore how to set up and configure Paperless-ngx to manage your email"
 tags: []
 categories: [Storage]

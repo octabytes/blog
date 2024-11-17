@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Create an Online Documentation for Free with Bookstack"
-date: "2024-12-14"
+date: "2024-10-21"
 description: "Creating a comprehensive online documentation for your project, website, or business can be a daunting task. It requires time, effort, and resources, especially if you want to create something that is user-friendly, organized, and easy to navigate. Fortunately, there is an open-source solution that can help you achieve this goal:"
 tags: []
 categories: [Other]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Keycloak Token Management: Expiration, Revocation, and Renewal"
-date: "2024-05-18"
+date: "2024-12-27"
 description: "Keycloak is an open-source identity and access management tool that simplifies authentication, authorization, and user management for modern applications. One of the features of Keycloak is token-based authentication. Tokens, such as access tokens, refresh tokens, and ID tokens, are central to how Keycloak handles user sessions and secure communication between"
 tags: []
 categories: [Other]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Grafana: Create Users And  Teams"
-date: "2024-09-15"
+date: "2024-11-24"
 description: "We will explore how to manage users in Grafana. Whether you are an admin or just someone looking to understand user management in Grafana, this guide will help you. We will cover how to add local users, organize them into teams, and ensure they have access only to the resources"
 tags: []
 categories: [Monitoring]

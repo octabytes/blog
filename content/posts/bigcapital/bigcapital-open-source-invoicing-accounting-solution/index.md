@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Bigcapital: Open Source Invoicing & Accounting Solution"
-date: "2024-08-26"
+date: "2024-01-22"
 description: "Bigcapital is an innovative online accounting software to automate business financial processes. Including all the required features and beyond, it empowers businesses to take control of their bookkeeping and make informed decisions quickly.
 
 

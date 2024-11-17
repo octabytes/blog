@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Bring Your Own AWS Account"
-date: "2024-03-26"
+date: "2024-12-07"
 description: "You can now use your own AWS Account to deploy services or your own project with our CICD Pipelines.
 
 The main benefits are the following:

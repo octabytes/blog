@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Migrate from Zapier/ Make to N8N"
-date: "2024-03-10"
+date: "2024-05-04"
 description: "Let's see how you can migrate your workflows and zaps from Zapier & Make to N8N. During this tutorial, we will be using simple workflows as examples and you can choose to do with complex workflows or multiple workflows. Before we start, ensure you have deployed N8N, we"
 tags: []
 categories: [Other]

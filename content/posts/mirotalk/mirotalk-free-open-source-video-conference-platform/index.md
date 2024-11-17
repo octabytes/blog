@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "MiroTalk: Free Open Source Video Conference Platform"
-date: "2024-02-18"
+date: "2024-03-28"
 description: "In an era where digital communication is paramount, finding the right video conferencing platform can be a game-changer.
 
 Enter MiroTalk, a revolutionary open-source solution that redefines the landscape of virtual meetings. With its browser-based real-time video calls and a plethora of innovative features, MiroTalk stands out as a versatile and"

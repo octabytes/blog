@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Dify: Free Open-source LLM AI Chatbots Builder Platform"
-date: "2024-02-21"
+date: "2024-06-21"
 description: "In the rapidly evolving field of Generative AI, Dify emerges as a powerful open-source platform for building Large Language Model (LLM) applications. Designed to streamline processes, simplify workflows, and enhance value delivery, Dify offers a comprehensive suite of tools for developing AI chatbots and assistants.
 
 Discover the core features of"

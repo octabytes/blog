@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Setup SSO With Keycloak And Multiple Services"
-date: "2024-12-10"
+date: "2024-02-13"
 description: "Integrating Keycloak as an OAuth provider with your applications, such as WordPress or Apache Superset, helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with"
 tags: []
 categories: [Identity and access management]

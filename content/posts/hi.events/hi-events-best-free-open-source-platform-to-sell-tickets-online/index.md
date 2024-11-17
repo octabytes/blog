@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Hi.Events: Best Free Open-source Platform to Sell Tickets Online"
-date: "2024-07-29"
+date: "2024-04-20"
 description: "Finding the right platform to host and manage events online that is both powerful and affordable can be a challenge. Hi.Events steps in as the perfect solution—an open-source platform that offers everything you need to create, manage, and sell tickets for your events, all for free.
 
 Whether you&"

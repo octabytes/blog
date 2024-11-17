@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to install a community node on N8N"
-date: "2024-03-12"
+date: "2024-02-20"
 description: "Hey everyone, we are going to install a community node manually on N8N. During this tutorial, we will be using the internal terminal tool to access the docker container running the N8N instance. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.
 
 

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Performing SQL query on MySQL server"
-date: "2024-04-28"
+date: "2024-07-30"
 description: "Let's see how you can create API Endpoints that perform SQL query on MySQL server. During this tutorial, we will be creating the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will"
 tags: []
 categories: [Automation]

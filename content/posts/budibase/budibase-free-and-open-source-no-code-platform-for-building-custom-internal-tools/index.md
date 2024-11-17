@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Budibase: free and open-source no-code platform for building custom internal tools"
-date: "2024-07-28"
+date: "2024-11-11"
 description: "Budibase is an innovative, no-code platform for building custom internal tools. It is free, open-source, and designed to help businesses of all sizes build their own CRMs, project management systems, inventory management tools, and more without any coding experience. In this blog post, we will take you through the platform&"
 tags: []
 categories: [No-code / Low code]

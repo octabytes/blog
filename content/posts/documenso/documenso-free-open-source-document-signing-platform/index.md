@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Documenso: Free Open-source Document Signing Platform"
-date: "2024-10-07"
+date: "2024-01-09"
 description: "In today’s digital landscape, document signing has become an essential process for both individuals and businesses. E-signature platforms have emerged as a convenient solution to sign documents.
 
 While there are plenty of paid options available, Documenso stands out as a free, open-source alternative that offers all the essential features"

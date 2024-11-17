@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "StirlingPDF: Free Open-source PDF Tools & API"
-date: "2024-03-16"
+date: "2024-04-10"
 description: "PDF files are a staple of digital document management, and having the right tools to handle them efficiently is essential.
 
 StirlingPDF is a robust, open-source solution that provides a comprehensive suite of PDF operations. Whether you need to organize, convert, secure, or edit your PDF files, StirlingPDF has you covered"

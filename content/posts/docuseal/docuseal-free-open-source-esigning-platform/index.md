@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "DocuSeal: Free Open Source eSigning Platform"
-date: "2024-02-02"
+date: "2024-02-26"
 description: "In today's digital age, the need for secure, efficient, and legally binding document signing solutions is essential. Whether you're an individual, a small team, or a large organization, the ability to streamline the document signing process can greatly enhance productivity and convenience.
 
 Enter DocuSeal - a"

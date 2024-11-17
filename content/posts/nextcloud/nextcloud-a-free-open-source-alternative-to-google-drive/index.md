@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "NextCloud: The Free Open-Source Alternative to Google Drive"
-date: "2024-04-06"
+date: "2024-09-04"
 description: "Are you tired of relying on cloud storage platforms that charge you an arm and a leg for additional storage space or are limited in their features? Are you concerned about the privacy and security of your data on these platforms? If so, then it's time to switch"
 tags: []
 categories: [Storage]

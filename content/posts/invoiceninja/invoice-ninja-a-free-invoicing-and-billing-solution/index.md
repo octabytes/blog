@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Invoice Ninja - A Free Invoicing and Billing Solution"
-date: "2024-01-08"
+date: "2024-04-01"
 description: "Invoicing is a critical aspect of any business, and finding the right solution can make a significant impact on your productivity and efficiency.
 
 In this blog post, we invite you to discover Invoice Ninja, a free and open-source solution designed to simplify your invoicing workflow, create professional quotes and invoices,"

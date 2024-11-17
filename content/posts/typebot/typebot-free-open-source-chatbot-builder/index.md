@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Typebot: Free Open Source Chatbot Builder"
-date: "2024-12-13"
+date: "2024-08-23"
 description: "In today's fast-paced digital world, businesses are constantly seeking innovative ways to engage with their customers. Chatbots have emerged as a powerful tool to streamline communication, enhance customer experiences, and automate routine tasks. Typebot, a free and open-source chatbot builder, offers a comprehensive solution to create intelligent chatbots"
 tags: []
 categories: [Live chat, Customer support]

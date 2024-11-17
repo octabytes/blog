@@ -1,13 +1,13 @@
 ---
 draft: true
-title: "Deploy examples & apps on Elestio using the "Import Third-Party Git Repository" feature"
-date: "2024-08-05"
+title: "Deploy examples & apps on Elestio using the 'Import Third-Party Git Repository' feature"
+date: "2024-04-19"
 description: "This tutorial will walk you through the process of deploying GitHub, GitLab, or Bitbucket public repositories in CI/CD using our Import Third-Party Git Repository feature. In our example, we'll use a Simple JavaScript web application public repository, but you can deploy it, in the same way, using"
 tags: []
 categories: [Other]
 cover:
   image: images/cover.png
-  caption: "Deploy examples & apps on Elestio using the "Import Third-Party Git Repository" feature"
+  caption: "Deploy examples & apps on Elestio using the 'Import Third-Party Git Repository' feature"
 ShowToc: true
 TocOpen: true
 ---

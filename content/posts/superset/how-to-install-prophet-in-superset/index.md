@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to install Prophet in Superset"
-date: "2024-07-10"
+date: "2024-01-29"
 description: "Hey everyone, In this blog we will see how you can install Prophet in superset. During this tutorial, we will be using an internal terminal tool provided at Elestio Dashboard. Before we start, ensure you have deployed Superset, we will be self-hosting it on Elestio.
 
 

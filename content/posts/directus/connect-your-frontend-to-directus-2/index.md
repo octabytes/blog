@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Connect Your Frontend To Directus"
-date: "2024-12-24"
+date: "2024-10-11"
 description: "Connecting your front end to a headless CMS like Directus offers flexibility and scalability. Whether you already have a front-end application or are planning to build one, this guide will show you how to integrate it with Directus using the Directus JavaScript SDK. We'll also walk through deploying"
 tags: []
 categories: [CMS]

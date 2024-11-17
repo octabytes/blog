@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Keycloak Session Configuration: Best Practices and Principles"
-date: "2024-12-24"
+date: "2024-05-06"
 description: "Let's see how to configure sessions on Elestio using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.
 
 In this tutorial, we explore the technicalities"

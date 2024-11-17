@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "FrappeHR: Free Open-source ERP, HR & Payroll Platform"
-date: "2024-09-23"
+date: "2024-10-16"
 description: "In the landscape of business management software, FrappeHR stands out as a robust, open-source solution designed to streamline human resources and payroll operations.
 
 Built on the Frappe Framework, FrappeHR offers a comprehensive suite of tools to manage everything from employee onboarding to payroll processing.

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to enable CICD on a Next.js project with GitHub"
-date: "2024-08-17"
+date: "2024-11-24"
 description: "In the dynamic landscape of software development, efficiency, and speed are paramount.
 
 Imagine a process where your code changes are automatically tested, built, and deployed to production without manual intervention. This is the power of Continuous Integration and Continuous Deployment (CI/CD), which enhances collaboration, reduces errors, and accelerates your"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Generating PDFs with N8N using Gotenberg"
-date: "2024-03-14"
+date: "2024-05-13"
 description: "Let's see how you can create an application that can generate PDFs with N8N using Gotenberg. During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we"
 tags: []
 categories: [Automation]

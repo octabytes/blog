@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Integrating Google Sign-In with Keycloak"
-date: "2024-10-12"
+date: "2024-08-31"
 description: "Hey everyone, in this blog we will be setting up the 'Sign in with Google' option using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak instance to get"
 tags: []
 categories: [Other]

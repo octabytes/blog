@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Buy a Domain from Elest.io"
-date: "2024-06-18"
+date: "2024-10-05"
 description: "In today's fast-paced digital world, establishing a strong online presence is crucial for businesses, individuals, and creative projects alike. One of the foundational steps in building this presence is securing a domain name that reflects your brand, vision, or purpose. In this guide, we'll walk you"
 tags: []
 categories: [Other]

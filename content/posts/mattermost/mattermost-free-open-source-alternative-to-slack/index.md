@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Mattermost: Free Open-source Alternative to Slack"
-date: "2024-08-19"
+date: "2024-01-18"
 description: "In today's fast-paced digital world, efficient communication within teams is paramount. Many organizations rely on platforms like Slack for this purpose. However, with rising concerns over cost, data privacy, and customization, open-source alternatives like Mattermost are gaining traction.
 
 Mattermost offers robust features, flexibility, and an open-source model, making"

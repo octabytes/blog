@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to connect your MySQL database with N8N"
-date: "2024-10-17"
+date: "2024-11-06"
 description: "n8n is a popular open-source workflow automation tool that allows you to automate repetitive tasks and create custom workflows. The installation process automatically includes a Database for you but if you want to have more control over it (like backups/sharing it with other projects/scalability) you can connect it"
 tags: []
 categories: [Other]

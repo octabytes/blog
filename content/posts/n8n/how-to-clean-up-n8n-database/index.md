@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to clean up the N8N database"
-date: "2024-04-13"
+date: "2024-12-29"
 description: "During this tutorial, we are going to use a self-hosted version of N8N deployed on Elestio. So before we start, ensure you have deployed the N8N service and have a connected database that is used to store the logs and execution records.
 
 

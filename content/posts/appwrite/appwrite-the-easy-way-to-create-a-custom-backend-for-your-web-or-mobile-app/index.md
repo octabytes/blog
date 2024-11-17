@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Appwrite: The Easy Way to Create a Custom Backend for Your Web or Mobile App"
-date: "2024-01-01"
+date: "2024-08-07"
 description: "Appwrite is a powerful open-source backend as a service (BaaS) platform that allows developers to create web and mobile applications quickly and easily. What makes Appwrite stand out from other BaaS providers is that it includes a variety of key features right out of the box, such as a built-in"
 tags: []
 categories: [Backend-as-a-Service, No-code / Low code]

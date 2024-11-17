@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Gitlab SaaS Free tier is now limited to 5 users. What can you do?"
-date: "2024-09-20"
+date: "2024-12-19"
 description: "Gitlab announced recently that they are limiting the number of users per namespace to 5. If you have more than 5 users in a group or subgroup you will be impacted by this change.
 
 

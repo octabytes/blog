@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Using Paperless with Gotenberg for Parsing & Converting Documents"
-date: "2024-11-03"
+date: "2024-09-19"
 description: "Paperless-ngx is an open-source document management system that helps you organize, search, and archive your documents. However, what if you need to parse and convert documents into different formats? This is where Gotenberg comes into play. Gotenberg is an API-based platform that allows you to convert HTML, Markdown, and Office"
 tags: []
 categories: [Storage]

@@ -77,11 +77,13 @@ def fetch_and_convert(post):
     link = post["link"]
     post_name = get_post_name(link)
     title = post["title"]
+    title = title.replace('"', "'")
     description = post["description"]
     description = description.replace('"', "'")
     category_ids = post.get("category", {}).get("ids", ["other"])
     category_names = get_category_names(category_ids)
     cover_caption = post["image"].get("alt", "")
+    cover_caption = cover_caption.replace('"', "'")
 
     print(f"Fetching content for link: {link}")
 

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Penpot: Free Open-source Alternative to Figma & AdobeXD"
-date: "2024-11-14"
+date: "2024-10-08"
 description: "In the fast-paced world of design and development, having a tool that bridges the gap between these two essential disciplines is crucial.
 
 Enter Penpot, the web-based open-source design tool that's making waves with its powerful features and seamless integration. As a robust alternative to Figma, Adobe XD, and"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Deploy Your Go API on Elestio"
-date: "2024-07-01"
+date: "2024-03-23"
 description: "As a developer, you might have built multiple APIs and integrated them with your web application. So, In today's tutorial, we are going to see how you can quickly build a simple Ping-Pong API and deploy it easily and quickly on Elestio.
 
 

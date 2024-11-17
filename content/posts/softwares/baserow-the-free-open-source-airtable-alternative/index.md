@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Baserow, the free open-source Airtable alternative"
-date: "2024-03-02"
+date: "2024-08-29"
 description: "Are you looking for a flexible and customizable database solution that doesn't require advanced coding skills? Discover Baserow, this powerful no-code tool that allows you to easily manage and organize your data. In this blog post, we'll explore the many features and benefits of Baserow, and"
 tags: []
 categories: [Other]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Publish Keycloak Events to RabbitMQ"
-date: "2024-06-10"
+date: "2024-10-18"
 description: "Let's see how you can publish Keycloak events to RabbitMQ. Before we start, make sure you have deployed Keycloak, we will be self-hosting it on Elestio.
 
 

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Outline: Free Open Source Team Knowledge Base & Wiki"
-date: "2024-06-08"
+date: "2024-09-06"
 description: "For the success of your team, the need for a centralized, efficient, and accessible knowledge base is paramount. If your team is grappling with the chaos of scattered documents, unclear access permissions, and redundant information requests, it’s time to explore the transformative power of Outline.
 
 This open-source team knowledge"

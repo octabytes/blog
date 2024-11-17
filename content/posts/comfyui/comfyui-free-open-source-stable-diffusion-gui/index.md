@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "ComfyUI: Free Open-source Stable Diffusion GUI"
-date: "2024-06-10"
+date: "2024-10-29"
 description: "ComfyUI is a web-based interface designed to bring the power of Stable Diffusion to your fingertips, enabling anyone to create stunning AI-generated images with ease.
 
 Stable Diffusion, a state-of-the-art deep learning model, excels at generating realistic images and art from text descriptions. With ComfyUI, you have the freedom to turn"

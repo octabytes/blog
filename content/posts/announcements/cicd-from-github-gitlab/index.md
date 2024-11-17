@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Deploy your own code from GitHub, GitLab and Registries with CI/CD on Elestio"
-date: "2024-01-17"
+date: "2024-09-04"
 description: "Elestio is the simplest and fastest way to deploy your source code from github/gitlab/docker registries to production.
 
 In 3 steps you can deploy any kind of project, frontend, backend, api, db, you name it.

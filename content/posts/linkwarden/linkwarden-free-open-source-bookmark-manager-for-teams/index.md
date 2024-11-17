@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Linkwarden: Free Open-source Bookmark Manager for Teams"
-date: "2024-07-08"
+date: "2024-07-05"
 description: "In the digital age, managing a plethora of bookmarks can be a daunting task, especially for teams working on collaborative projects.
 
 Enter Linkwarden, an open-source bookmark manager designed specifically for individuals and teams to collect, organize, and preserve webpages. Its feature-rich platform ensures that your bookmarks are not only organized"

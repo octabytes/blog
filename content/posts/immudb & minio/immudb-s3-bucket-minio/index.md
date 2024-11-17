@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "immudb & Minio: immutable ledger database instead connected to an object storage. A fast and safe alternative to blockchains."
-date: "2024-05-05"
+date: "2024-03-28"
 description: "Traditional database transactions and logs are mutable, and therefore there is no way to know for sure if your data has been compromised. immudb is immutable. You can add new versions of existing records, but never change or delete records.
 
 This lets you store critical data without fear of it"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Mastodon an Open Source Alternative to Twitter"
-date: "2024-02-19"
+date: "2024-10-19"
 description: "Mastodon is an open source alternative to Twitter that allows you to create private networks and forums.
 
 How to create your own Mastodon instance and start using it to communicate with your friends, coworkers or community ? Discover it in our YouTubeVideo.

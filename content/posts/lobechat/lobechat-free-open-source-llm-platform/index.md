@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "LobeChat: Free Open Source LLM Platform"
-date: "2024-06-15"
+date: "2024-09-18"
 description: "Meet LobeChat, an open-source, modern-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI-driven interactions.
 
 

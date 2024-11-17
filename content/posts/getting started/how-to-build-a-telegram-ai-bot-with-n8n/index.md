@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to build a Telegram AI bot with N8N"
-date: "2024-02-06"
+date: "2024-04-24"
 description: "Let's see how you can create a Telegram AI bot with N8N open-source. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio."
 tags: []
 categories: [Other]

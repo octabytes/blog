@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Build a graphQL API with Hasura low-code platform"
-date: "2024-02-05"
+date: "2024-06-11"
 description: "In the fast-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter Hasura, the low-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed.
 
 In this article, we will explore the power of"

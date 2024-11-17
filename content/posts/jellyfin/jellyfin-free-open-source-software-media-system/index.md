@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Jellyfin: Free Open Source Software Media System"
-date: "2024-01-27"
+date: "2024-11-28"
 description: "In a world dominated by subscription-based streaming services, Jellyfin emerges as a liberating force, offering users the ability to curate their own media universe. No longer tethered to the catalogs, Jellyfin empowers individuals to create a personalized Netflix/Spotify experience from the media they already own.
 
 

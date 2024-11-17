@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Adding Persistent Themes to Keycloak"
-date: "2024-11-01"
+date: "2024-12-08"
 description: "We will see how you can add persistent theme to Keycloak. Before we start, make sure you have deployed Keycloak, we will be self-hosting it on Elestio. Keycloak offers robust theme support for its web pages and emails, allowing you to tailor the look and feel of end-user-facing pages to"
 tags: []
 categories: [Identity and access management]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Chatwoot: Free Open-source Support Center Platform"
-date: "2024-06-01"
+date: "2024-04-10"
 description: "In today’s fast-paced, customer-centric world, providing timely and effective support is crucial for businesses of all sizes. Managing multiple communication channels can be challenging, and that's where platforms like Chatwoot come in.
 
 Chatwoot is a free, open-source support center platform designed to streamline communication and improve customer"

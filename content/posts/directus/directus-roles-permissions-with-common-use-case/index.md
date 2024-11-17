@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Directus Roles & Permissions with Common Use Case"
-date: "2024-06-13"
+date: "2024-10-10"
 description: "Directus is an open-source data platform that provides an interface for managing databases. It allows you to interact with your data through a customizable API, offering tools for managing content, roles, and permissions with ease. This guide will walk you through viewing, creating, configuring, and deleting roles, as well as"
 tags: []
 categories: [CMS]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "APITable: Free Open Source Visual Database"
-date: "2024-08-28"
+date: "2024-07-10"
 description: "Discover APITable, a fully featured data management platform and collaboration tools. APITable is more than just a database; it is a dynamic platform that offers features tailored to both personal and enterprise needs.
 
 What sets APITable apart is its commitment to being open-source, providing advanced technology stack, and delivering an"

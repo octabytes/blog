@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Zitadel: Free Open-source Identity Infrastructure Platform"
-date: "2024-11-08"
+date: "2024-02-05"
 description: "Businesses need robust and flexible identity management solutions to ensure security while providing seamless user experiences.
 
 Zitadel is an open-source identity infrastructure platform that addresses these challenges. Built for the cloud, Zitadel offers advanced authentication and authorization capabilities, making it an excellent choice for developers and enterprises alike.

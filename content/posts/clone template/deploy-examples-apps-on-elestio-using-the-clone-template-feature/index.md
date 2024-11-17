@@ -1,7 +1,7 @@
 ---
 draft: true
-title: "Deploy examples & apps on Elestio using the "clone template" feature"
-date: "2024-01-28"
+title: "Deploy examples & apps on Elestio using the 'clone template' feature"
+date: "2024-11-10"
 description: "This tutorial will show you how to use our clone template feature in CI/CD. We're going to use a Simple Javascript web application, but you can use any template and deploy it in the same way. 🚀
 
 The clone template feature was similar to forking our examples from"
@@ -9,7 +9,7 @@ tags: []
 categories: [Other]
 cover:
   image: images/cover.png
-  caption: "Deploy examples & apps on Elestio using the "clone template" feature"
+  caption: "Deploy examples & apps on Elestio using the 'clone template' feature"
 ShowToc: true
 TocOpen: true
 ---

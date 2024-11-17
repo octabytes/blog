@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "BookStack, create public or internal documentation easily"
-date: "2024-03-08"
+date: "2024-09-20"
 description: "BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information
 
 We used BookStack to create the public Elestio documentation, it allowed us to write the whole documentation in a week thanks to its intuitive UI.

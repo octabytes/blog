@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Discover Ghost: Build, Monetize, and Customize Your Online Presence"
-date: "2024-11-16"
+date: "2024-09-22"
 description: "In the dynamic world of content creation, having a versatile and user-friendly platform is essential. Enter Ghost, the free and open-source blogging platform that goes beyond a traditional content management system.
 
 With Ghost, you can effortlessly build and manage your website, publish captivating blog posts, and engage with your readers"

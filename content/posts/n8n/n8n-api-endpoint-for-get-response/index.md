@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "API Endpoint for GET method"
-date: "2024-01-01"
+date: "2024-12-03"
 description: "Hey everyone, In this blog we are going to see how you can create API Endpoints that responds to your GET requests using N8N. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you"
 tags: []
 categories: [Automation]

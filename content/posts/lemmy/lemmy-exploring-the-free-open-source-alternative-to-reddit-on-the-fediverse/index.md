@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Lemmy: Exploring the Free Open-Source Alternative to Reddit on the Fediverse"
-date: "2024-03-27"
+date: "2024-03-28"
 description: "In recent years, the rise of social media platforms has led to a growing interest in decentralized and open-source alternatives. Recent Reddit API pricing changes helped one software to gain a lot of exposure!
 
 Enter Lemmy, a free and open-source platform that offers an exciting alternative to the popular social"

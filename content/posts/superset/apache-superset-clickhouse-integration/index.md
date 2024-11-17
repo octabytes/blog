@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Apache Superset Clickhouse integration"
-date: "2024-01-24"
+date: "2024-05-21"
 description: "Discover how integrating Apache Superset with ClickHouse can elevate your data visualization and analytics capabilities. This guide walks you through setting up and optimizing this powerful combination.
 
 Apache Superset and ClickHouse Integration

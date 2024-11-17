@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Superset: Creating Your First Dashboard"
-date: "2024-03-11"
+date: "2024-05-07"
 description: "This guide is for end-users who are using a self-hosted instance of Apache Superset on Elestio for data analysis and exploration. In this tutorial, we'll guide you through connecting Superset to a new database, configuring it for analysis, and creating visualizations. This end-to-end walkthrough is designed to give"
 tags: []
 categories: [Business Intelligence]

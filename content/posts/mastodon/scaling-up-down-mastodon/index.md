@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Scaling Mastodon, the open-source alternative to Twitter"
-date: "2024-12-06"
+date: "2024-01-15"
 description: "Enter Mastodon, the open-source alternative to Twitter that has seen a surge in popularity in recent days. Mastodon is a decentralized social media platform that is not owned by any single entity, allowing users to have more control over their data and privacy.
 
 Since the news of Musk's"

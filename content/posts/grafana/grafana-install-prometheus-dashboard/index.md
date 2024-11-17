@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Grafana: Install Prometheus Dashboard"
-date: "2024-04-21"
+date: "2024-03-19"
 description: "Configuring a Prometheus data source in Grafana allows you to use Grafana's visualization capabilities with Prometheus' monitoring and alerting features. This guide will provide detailed steps to help you set up and configure the Prometheus data source in Grafana. For this tutorial, we will be using Grafana"
 tags: []
 categories: [Monitoring]

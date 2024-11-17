@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Importing Existing Projects into Directus"
-date: "2024-12-17"
+date: "2024-04-15"
 description: "If you have existing projects with data that you want to manage within Directus, this guide will walk you through the process of importing those projects into Directus. This can be especially useful for consolidating various data sources into a single, manageable interface, or for migrating from another CMS to"
 tags: []
 categories: [CMS]

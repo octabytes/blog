@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Repair N8N SQLite database"
-date: "2024-08-16"
+date: "2024-06-23"
 description: "We are going to use a self-hosted version of N8N deployed on Elestio. So before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.
 
 

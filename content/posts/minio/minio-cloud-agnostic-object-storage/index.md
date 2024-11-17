@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Minio: high-performance multi-Cloud Object Storage"
-date: "2024-07-04"
+date: "2024-08-21"
 description: "With industry-leading performance and scalability, MinIO can deliver a range of use cases from AI/ML, analytics, backup/restore, and modern web and mobile apps. It's packed with powerful features.
 
 Update: since June 2022, MinIO supports all the advanced features like Quota / Versioning / Object locking / Retention in all"

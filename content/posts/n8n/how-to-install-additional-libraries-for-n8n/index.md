@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to install additional libraries on N8N"
-date: "2024-04-12"
+date: "2024-07-06"
 description: "n8n is a popular open-source workflow automation tool that allows you to automate repetitive tasks and create custom workflows. However, sometimes you may need to install additional libraries to enhance its functionality. In this article, we'll walk you through the steps of how to install additional libraries for"
 tags: []
 categories: [Automation]

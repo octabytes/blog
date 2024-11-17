@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Grafana: Create MySQL Data Source"
-date: "2024-11-06"
+date: "2024-03-10"
 description: "Configuring a MySQL data source in Grafana allows you to use Grafana's visualization capabilities alongside MySQL's data management features. This guide will provide detailed steps to help you set up and configure the MySQL data source in Grafana. For this tutorial, we will be using Grafana"
 tags: []
 categories: [Monitoring]

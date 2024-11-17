@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Creating custom integration in N8N"
-date: "2024-03-01"
+date: "2024-11-27"
 description: "Let's see how you can create custom integration in N8N. During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.
 
 

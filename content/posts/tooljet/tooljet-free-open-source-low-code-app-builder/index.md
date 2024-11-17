@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "ToolJet: Free Open-source Low-Code App Builder"
-date: "2024-09-06"
+date: "2024-06-22"
 description: "In today's fast-paced business environment, the ability to quickly develop and deploy custom internal tools is essential. ToolJet, a free open-source low-code app builder, offers a solution that streamlines the development process, allowing organizations to create powerful tools with minimal coding.
 
 This article explores ToolJet's features"

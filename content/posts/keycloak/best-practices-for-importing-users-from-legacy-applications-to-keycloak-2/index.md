@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Best Practices for Importing Users from Legacy Applications to Keycloak"
-date: "2024-03-23"
+date: "2024-07-25"
 description: "Migrating users from legacy applications into a modern identity and access management system like Keycloak can be a complex process. It requires careful planning and execution to ensure that existing users’ credentials, permissions, and data are securely transferred and that the transition causes minimal disruption. In this blog, we’ll"
 tags: []
 categories: [Identity and access management]

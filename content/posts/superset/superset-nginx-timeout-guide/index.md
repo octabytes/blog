@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Superset Nginx timeout guide"
-date: "2024-03-21"
+date: "2024-03-18"
 description: "Discover troubleshooting tips to resolve Superset Nginx timeout issues effectively.
 
 

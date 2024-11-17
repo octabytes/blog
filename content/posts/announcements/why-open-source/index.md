@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Why open source?"
-date: "2024-06-04"
+date: "2024-06-10"
 description: "From our perspective, open-source software is a revolution in decentralized, distributed and collective research, engineering, decision-making, governance, and economics, directly connecting developers and users.
 
 

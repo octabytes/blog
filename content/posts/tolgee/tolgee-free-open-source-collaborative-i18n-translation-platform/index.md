@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Tolgee: Free Open-source Collaborative i18n Translation Platform"
-date: "2024-04-02"
+date: "2024-01-18"
 description: "Localization is a critical aspect of software development, especially for apps and websites targeting a global audience. A seamless and efficient translation process ensures that users can interact with applications in their native language, enhancing user experience and engagement.
 
 Enter Tolgee, a free open-source collaborative i18n (internationalization) translation platform that"

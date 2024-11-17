@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Misskey: Free Open Source Decentralized Social Media Platform"
-date: "2024-10-31"
+date: "2024-04-14"
 description: "In the vast landscape of social media platforms, there's a rising star that's not just another app in the crowd. Misskey is redefining the social media experience by offering a free, open-source, decentralized platform where users have the power to control their digital interactions.
 
 Let'"

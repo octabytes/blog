@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Elestio API now GA"
-date: "2024-04-08"
+date: "2024-06-07"
 description: "We have just published our REST API, it's covering 100% of what you can do through our dashboard (because this is what we use internally)
 
 Elestio API Documentation: https://api-doc.elest.io/

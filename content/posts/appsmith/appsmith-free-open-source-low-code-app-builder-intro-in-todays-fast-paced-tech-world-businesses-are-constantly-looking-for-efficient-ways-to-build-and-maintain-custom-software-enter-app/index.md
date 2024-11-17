@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Appsmith: Free Open-source Low-Code App Builder"
-date: "2024-09-08"
+date: "2024-04-13"
 description: "In today’s fast-paced tech world, businesses are constantly looking for efficient ways to build and maintain custom software.
 
 Enter Appsmith, an open-source, low-code platform that’s designed to help professional developers create applications faster without sacrificing control or flexibility. With Appsmith, developers can enjoy the speed of low-code while"

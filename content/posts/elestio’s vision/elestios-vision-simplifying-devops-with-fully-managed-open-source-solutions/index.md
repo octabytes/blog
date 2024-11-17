@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Elestio’s Vision: Simplifying DevOps with Fully Managed Open-Source Solutions"
-date: "2024-11-09"
+date: "2024-04-20"
 description: "Managing DevOps can feel overwhelming, especially for small to mid-sized businesses with limited resources. At Elestio, we understand that while open-source technology provides incredible flexibility and power, it also brings unique challenges. That’s why we’re thrilled to have been featured on HostingAdvice, where we had the chance to"
 tags: []
 categories: [Other]

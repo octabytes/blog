@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Metabase, the best open-source and no-code Business Intelligence tool"
-date: "2024-08-15"
+date: "2024-09-13"
 description: "Metabase is one of the simplest and most powerful business intelligence tools I have tried in the last few years.
 
 It's the kind of tool you can't wait to start using barely 5 minutes after you start to see the demo! I tried it for the"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Snipe-IT: Free Open-source IT Asset Management Platform"
-date: "2024-09-21"
+date: "2024-10-04"
 description: "In today's digital age, managing IT assets effectively is crucial for organizations of all sizes. An IT asset management platform helps track and manage hardware, software licenses, accessories, and consumables, ensuring that every piece of equipment is accounted for and utilized efficiently.
 
 Snipe-IT is a free and open-source"

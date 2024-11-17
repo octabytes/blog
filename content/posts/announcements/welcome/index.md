@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "We're going live!"
-date: "2024-05-09"
+date: "2024-10-03"
 description: "We help companies to deploy, secure, backup and update open source softwares on scalable cloud infrastructure."
 tags: []
 categories: [Other]
