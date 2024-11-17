@@ -20,7 +20,7 @@ tags: [
   "firewall",
   "cloud-platform",
   "automation",
-  "IT-solutions",
+  "IT solutions",
   "team-collaboration",
   "data-security",
   "system-monitoring"
