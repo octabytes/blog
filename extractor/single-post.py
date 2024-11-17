@@ -69,7 +69,7 @@ def get_random_date():
 
 def get_category_names(category_ids):
     """Fetch category names using category IDs."""
-    return [categories_dict.get(cat_id, "Unknown Category") for cat_id in category_ids]
+    return [categories_dict.get(cat_id, "Other") for cat_id in category_ids]
 
 def fetch_and_convert(post):
     """Fetch content from the link, download the high-res image, and convert to markdown."""
@@ -78,7 +78,8 @@ def fetch_and_convert(post):
     post_name = get_post_name(link)
     title = post["title"]
     description = post["description"]
-    category_ids = post["category"]["ids"]
+    description = description.replace('"', "'")
+    category_ids = post.get("category", {}).get("ids", ["other"])
     category_names = get_category_names(category_ids)
     cover_caption = post["image"].get("alt", "")
 
@@ -108,13 +109,14 @@ def fetch_and_convert(post):
 
         # YAML front matter
         yaml_content = f"""---
+draft: true
 title: "{title}"
 date: "{get_random_date()}"
 description: "{description}"
 tags: []
 categories: [{', '.join(category_names)}]
 cover:
-  image: images/{os.path.basename(image_path)}
+  image: images/cover.png
   caption: "{cover_caption}"
 ShowToc: true
 TocOpen: true
