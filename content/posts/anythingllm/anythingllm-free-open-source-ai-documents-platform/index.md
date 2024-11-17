@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "AnythingLLM: Free Open-source AI Documents Platform"
 date: "2024-01-16"
 description: "AnythingLLM is an open-source, full-stack application designed to empower users to leverage large language models (LLMs) with their own documents and content. It simplifies interactions between LLMs and user-provided resources, allowing users to build their own private AI document platform.

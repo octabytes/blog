@@ -46,10 +46,10 @@ outputs:
     - JSON
 
 params:
-  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "OctaByte - https://octabyte.io"
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Latest news about OctaByte, open source software, and DevOps techniques"
+  keywords: [octabyte,devops,open source,deployment,open source applications]
   author: OctaByte
-  # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
   # disableThemeToggle: true
@@ -65,13 +65,13 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  images: ["images/cover.png"]
 
   profileMode:
     enabled: false
     title: OctaByte
     imageUrl: "#"
-    imageTitle: my image
+    imageTitle: OctaByte Blog
     # imageWidth: 120
     # imageHeight: 120
     buttons:

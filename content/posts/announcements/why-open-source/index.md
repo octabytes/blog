@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Why open source?"
-date: "2024-06-10"
+date: "2024-11-17"
 description: "Discover the power of open source software and why it’s a game-changer for businesses. Learn about its benefits, including transparency, cost-effectiveness, flexibility, and security, and how OctaByte’s fully managed service makes deploying open source applications seamless and hassle-free."
 tags: [
   "open source",

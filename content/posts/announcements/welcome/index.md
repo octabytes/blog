@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "We're going live!"
-date: "2024-10-03"
+date: "2024-11-17"
 description: "We help companies to deploy, secure, backup and update open source softwares on scalable cloud infrastructure."
 tags: [
   "open-source",
@@ -29,6 +29,7 @@ categories: [Announcements]
 cover:
   image: images/cover.jpg
   caption: "We're going live!"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
