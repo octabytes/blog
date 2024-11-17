@@ -156,4 +156,6 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+extractor/
+
 # End of https://www.toptal.com/developers/gitignore/api/hugo,node
