@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "BTCPay Server: Accept Bitcoin Payments without fees"
-date: "2024-07-07"
+date: "2024-07-01"
 description: "In today's digital age, cryptocurrency has emerged as a formidable force in the financial landscape. Among the various cryptocurrencies, Bitcoin stands out as a widely recognized and accepted form of digital currency.
 
 For businesses and individuals alike, accepting Bitcoin payments can be a game-changer, offering several advantages over"

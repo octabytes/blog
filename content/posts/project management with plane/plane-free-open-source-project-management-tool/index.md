@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Project Management with Plane: A free Open Source alternative to Jira, Asana, and Trello"
-date: "2024-08-22"
+date: "2024-10-17"
 description: "Project management is the cornerstone of any successful venture, whether it's a large corporation, a startup, or even a personal project. Over the years, several project management tools have risen to prominence, each with its own set of features and capabilities.
 
 While Jira, Asana, and Trello have earned"

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Infisical: Open Source Secrets Management Platform"
-date: "2024-01-03"
+date: "2024-07-31"
 description: "In today's fast-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration - Infisical."
 tags: []
 categories: [Password manager]

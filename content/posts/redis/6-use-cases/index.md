@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "What is Redis? 6 use cases to boost your projects"
-date: "2024-10-28"
+date: "2024-11-27"
 description: "What is Redis?
 
 Redis, short for Remote Dictionary Server, is an open-source, in-memory data store that serves as a versatile tool for various data storage and caching needs. It's designed for high-speed data retrieval and manipulation, making it a popular choice for optimizing various types of projects.

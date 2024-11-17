@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Taiga: Free Open Source Agile Project Management"
-date: "2024-04-30"
+date: "2024-07-24"
 description: "Taiga stands out as a powerful and free open-source project management tool tailored for cross-functional agile teams. With its features, it provides a simple start for seamless team project collaborations.
 
 

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Parse: Free Open Source Backend as a Service"
-date: "2024-04-01"
+date: "2024-12-13"
 description: "In the fast-paced world of app development, the importance of a robust backend system cannot be overstated. However, for developers, diving into the complexities of server management and backend development can often feel like navigating a labyrinth. This is where Parse, an open-source platform, comes to the rescue.
 
 Parse simplifies"

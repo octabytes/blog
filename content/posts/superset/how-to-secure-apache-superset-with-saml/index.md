@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Secure Apache Superset with SAML"
-date: "2024-04-29"
+date: "2024-10-08"
 description: "In this guide, we'll explore how to secure your self-hosted instance of Apache Superset using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This"
 tags: []
 categories: [Business Intelligence]

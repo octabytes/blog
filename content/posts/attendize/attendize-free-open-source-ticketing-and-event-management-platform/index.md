@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Attendize: Free Open Source Ticketing and Event Management Platform"
-date: "2024-11-02"
+date: "2024-02-17"
 description: "Welcome to the future of event organization with Attendize—an open-source platform that puts the power of seamless ticketing and event management in the hands of organizers.
 
 In this article, we'll explore how Attendize transforms the event landscape, offering a robust and fully customizable solution for creating, organizing,"

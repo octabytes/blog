@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Connecting Apache Superset to Popular Databases"
-date: "2024-01-20"
+date: "2024-11-29"
 description: "This guide is for users running an instance of Apache Superset looking to explore and analyze data. In this tutorial, we’ll walk you through how to connect Superset to a new database, set it up for data analysis, and create visualizations. This step-by-step guide will help you get hands-on"
 tags: []
 categories: [Business Intelligence]

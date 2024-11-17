@@ -1,7 +1,7 @@
 ---
-draft: false
+draft: true
 title: "How to Build a Marketing Campaign Dashboard in Superset"
-date: "2024-07-20"
+date: "2024-12-13"
 description: "Apache Superset provides a platform to visualize key metrics, enabling marketing teams to monitor campaigns in real-time and adjust strategies accordingly. This guide will walk you through the steps of building a marketing campaign dashboard in Superset, incorporating data from various sources such as Google Ads, Facebook, and more. By"
 tags: []
 categories: [Business Intelligence]

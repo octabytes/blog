@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Logto: Free Open Source Identity Infrastructure for Developers"
-date: "2024-05-15"
+date: "2024-10-09"
 description: "Empower your projects with Logto, the ultimate free open-source identity infrastructure tailored for developers. Say goodbye to the complexities of authentication and authorization, and welcome a seamless, modern solution.
 
 

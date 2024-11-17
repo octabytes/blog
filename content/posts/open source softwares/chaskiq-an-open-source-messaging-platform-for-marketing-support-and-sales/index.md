@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Chaskiq, an open-source messaging platform for marketing, support, and sales"
-date: "2024-10-04"
+date: "2024-03-23"
 description: "In a digital age where seamless communication is essential for businesses to thrive, Chaskiq stands as an open-source beacon of innovation. This messaging platform is designed to be the one-stop solution for marketing, support, and sales. It offers the ability to craft complete experiences within a single conversation thread, combining"
 tags: []
 categories: [Other]

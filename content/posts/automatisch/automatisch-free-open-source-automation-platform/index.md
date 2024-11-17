@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Automatisch: Free Open-source Automation Platform"
-date: "2024-04-06"
+date: "2024-01-20"
 description: "Automation is key to scaling tasks and improving efficiency, especially for small teams or individual creators. While popular automation tools exist, they often come with high subscription fees and privacy concerns.
 
 Automatisch is a powerful, free, and open-source alternative that offers flexibility without sacrificing privacy or affordability. Let's"

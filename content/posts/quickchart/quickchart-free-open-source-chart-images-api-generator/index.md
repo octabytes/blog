@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "QuickChart: Free Open Source Chart Images API Generator"
-date: "2024-07-31"
+date: "2024-07-22"
 description: "Dive into the world of QuickChart, where chart creation meets simplicity! 🚀 Generate chart images effortlessly with its open API and create any form of visualization for your data.
 
 

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Secure Apache Superset with OAuth2"
-date: "2024-11-01"
+date: "2024-12-17"
 description: "This guide will explain how to set up OAuth2 authentication in Apache Superset. OAuth2 is a popular open standard used for access delegation, allowing users to log in securely using third-party providers like Google or GitHub. By integrating OAuth2 into your Superset instance, you can streamline the login process, ensure"
 tags: []
 categories: [Business Intelligence]

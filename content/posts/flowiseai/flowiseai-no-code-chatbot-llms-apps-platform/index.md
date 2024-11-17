@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "FlowiseAI: No Code ChatBot & LLMs Apps Platform"
-date: "2024-11-23"
+date: "2024-06-06"
 description: "Welcome to the future of application development—introducing FlowiseAI, the cutting-edge platform that propels the creation of Chatbots and Large Language Model (LLM) applications into an era of simplicity and innovation. This blog unwraps the transformative features that position FlowiseAI as the go-to solution for both seasoned developers and those"
 tags: []
 categories: [Other]

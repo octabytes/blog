@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "What is CI/CD Pipeline?-Comparing pipelines!"
-date: "2024-07-26"
+date: "2024-06-02"
 description: "What is the CI/CD Pipeline?
 
 CI/CD stands for 'Continous Integrations & Continuous Delivery or Deployment', this is a standard software practice where the software is handled after development to be able to be deployed on production servers. Then why is it called a pipeline? - So,"

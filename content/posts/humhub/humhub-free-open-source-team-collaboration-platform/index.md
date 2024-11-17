@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "HumHub: Free Open Source Team Collaboration Platform"
-date: "2024-10-25"
+date: "2024-02-25"
 description: "In the landscape of modern work, effective team collaboration is essential. Enter HumHub, an innovative and open-source team collaboration platform designed to connect and engage all members of your organization seamlessly.
 
 Open-Source and originating from Germany, HumHub is not just a collaboration tool; it's a digital hub where"

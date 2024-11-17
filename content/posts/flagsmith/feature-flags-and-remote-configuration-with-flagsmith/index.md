@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Feature Flagging and Remote Configuration with Flagsmith"
-date: "2024-03-16"
+date: "2024-10-21"
 description: "In the ever-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data-driven decisions can make all the difference. This is where Flagsmith, the Feature Flag & Remote Config Service, comes into play.
 
 In this article, we'll explore"

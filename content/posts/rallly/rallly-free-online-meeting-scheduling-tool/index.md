@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Rallly:  Free Online Meeting Scheduling Tool"
-date: "2024-07-04"
+date: "2024-01-17"
 description: "Coordinating events, meetups, and meetings can be a challenging endeavor. Enter Rallly, an ingenious open-source solution designed to simplify the process. To organize a team meeting or a casual get-together with friends and family, Rallly offers a user-friendly platform to streamline your scheduling needs.
 
 From seamlessly setting up events to"

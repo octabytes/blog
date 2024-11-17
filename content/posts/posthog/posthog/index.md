@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Posthog: The ultimate Open Source Product Analytics Platform"
-date: "2024-10-18"
+date: "2024-10-22"
 description: "In today's data-driven world, understanding your users and their interactions with your digital products is key to success.
 
 Accurate analytics tools can provide invaluable insights that drive informed decision-making. One such tool, PostHog, is making waves as an open-source alternative to traditional analytics platforms.

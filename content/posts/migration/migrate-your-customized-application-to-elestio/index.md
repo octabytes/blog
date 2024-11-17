@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Migrate your customized application to Elestio"
-date: "2024-03-03"
+date: "2024-11-07"
 description: "This migration document is only for services that are not being supported by Elestio as a fully managed option. If you are unaware of the software supported, take a look here. If Elestio is supporting the software then you can follow this migration document
 
 

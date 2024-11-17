@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Create smart forms and surveys with FormBricks"
-date: "2024-07-27"
+date: "2024-09-06"
 description: "Understanding your customers is essential This is where FormBricks, an open-source Experience Management tool, steps in. In this comprehensive guide, we'll explore how FormBricks can help you gain invaluable insights into what your customers think and feel about your product.
 
 Discover how FormBricks seamlessly integrates user research with"

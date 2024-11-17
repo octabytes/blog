@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Directus: How to install Extensions & Overview"
-date: "2024-05-16"
+date: "2024-06-14"
 description: "Extensions in Directus are additional modules or plugins that enhance the core functionalities of the platform. They allow you to add custom interfaces, hooks, endpoints, and more, providing a way to tailor the system to specific requirements. Installing extensions is a great way to expand the functionality of your Directus"
 tags: []
 categories: [CMS]

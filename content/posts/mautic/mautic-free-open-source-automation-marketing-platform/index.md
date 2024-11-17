@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Mautic: Free Open Source Automation Marketing Platform"
-date: "2024-02-22"
+date: "2024-02-20"
 description: "Mautic is a powerful open-source marketing automation platform that empowers businesses to streamline their marketing efforts, engage customers, and drive growth.
 
 With an array of robust features and flexible customization options, Mautic offers a cost-effective solution for marketers seeking to enhance their marketing strategies.

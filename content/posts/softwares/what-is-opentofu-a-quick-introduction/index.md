@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "What is OpenTofu? - A quick introduction!"
-date: "2024-03-13"
+date: "2024-04-21"
 description: "Hello everyone, welcome to the introduction of a brand new open-source tool. Although the name sounds a bit abstract there is a good purpose behind it and that's exactly what I am going to tell you about today. So without any further due let's understand more"
 tags: []
 categories: [Other]

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "How to Deploy or Integrate a Service with Tor Onion on Elestio"
-date: "2024-12-12"
+date: "2024-01-05"
 description: "To make your services accessible over Tor, you can configure a Tor service within your service Docker Compose setup. This will allow your service to function as an onion site, providing enhanced privacy and limiting access to Tor-compatible browsers. Here’s a guide to setting up your service with Tor"
 tags: []
 categories: [Identity and access management]

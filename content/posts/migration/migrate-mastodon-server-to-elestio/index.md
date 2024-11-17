@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Migrate Mastodon server to Elestio"
-date: "2024-10-25"
+date: "2024-02-08"
 description: "This migration document focuses on the migration of the applications supported by Elestio. Find the software list here
 
 This document provides a step-by-step guide for migrating your existing Mastodon database system to Elestio. Elestio is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process,"
