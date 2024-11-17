@@ -65,7 +65,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/cover.png"]
+  images: ["images/cover.jpg"]
 
   profileMode:
     enabled: false
