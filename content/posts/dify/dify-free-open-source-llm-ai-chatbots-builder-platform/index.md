@@ -6,7 +6,7 @@ description: "In the rapidly evolving field of Generative AI, Dify emerges as a 
 
 Discover the core features of"
 tags: []
-categories: [No-code / Low code]
+categories: [No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "Dify: Free Open-source LLM AI Chatbots Builder Platform"

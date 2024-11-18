@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Appsmith: Free Open-source Low-Code App Builder"
-date: "2024-04-13"
-description: "In today’s fast-paced tech world, businesses are constantly looking for efficient ways to build and maintain custom software.
-
-Enter Appsmith, an open-source, low-code platform that’s designed to help professional developers create applications faster without sacrificing control or flexibility. With Appsmith, developers can enjoy the speed of low-code while"
-tags: []
-categories: [No-code / Low code]
+date: "2024-11-18"
+description: "Appsmith is an open-source, low-code platform that enables rapid application development without sacrificing control or customization. It offers a drag-and-drop UI builder, JS customization, and seamless data connectivity, making it a versatile solution for building and deploying custom applications quickly and efficiently."
+tags: ["Appsmith", "low-code", "open-source", "app-development", "UI-builder", "JavaScript", "database-connection", "custom-software", "deployment", "rapid-development"]
+categories: [Development, No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "Appsmith: Free Open-source Low-Code App Builder"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In today’s fast\-paced tech world, businesses are constantly looking for efficient ways to build and maintain custom software. 
 
-Enter [Appsmith](https://elest.io/open-source/appsmith?ref=blog.elest.io), an open\-source, low\-code platform that’s designed to help professional developers create applications faster without sacrificing control or flexibility. With Appsmith, developers can enjoy the speed of low\-code while maintaining the customizability of full\-code. 
+Enter [Appsmith](https://octabyte.io/development/nocode-lowcode/appsmith), an open\-source, low\-code platform that’s designed to help professional developers create applications faster without sacrificing control or flexibility. With Appsmith, developers can enjoy the speed of low\-code while maintaining the customizability of full\-code. 
 
 From drag\-and\-drop UI tools to powerful JS customization, Appsmith enables you to build, deploy, and manage apps with ease and speed—up to 80% faster than traditional methods.
 
@@ -63,7 +62,6 @@ Appsmith offers a comprehensive low\-code solution that accelerates development 
 
 For developers looking to create applications 80% faster, Appsmith’s open\-source model provides the tools to innovate and iterate quickly, all while keeping control firmly in the hands of the developers.
 
-[Deploy your Appsmith instance with Elestio.](https://elest.io/open-source/appsmith?ref=blog.elest.io)
-
+[Deploy your Appsmith instance with OctaByte.](https://octabyte.io/start-trial/?service=Appsmith)
 
 

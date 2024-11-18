@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "AnythingLLM: Free Open-source AI Documents Platform"
-date: "2024-01-16"
-description: "AnythingLLM is an open-source, full-stack application designed to empower users to leverage large language models (LLMs) with their own documents and content. It simplifies interactions between LLMs and user-provided resources, allowing users to build their own private AI document platform.
-
-This tool offers flexibility, enabling users to choose from a"
-tags: []
-categories: [Other]
+date: "2024-11-18"
+description: "AnythingLLM is an open-source platform that integrates with large language models (LLMs) to enable interactive, AI-driven document management. It offers customizable features, including multi-user workspaces, support for various LLMs and vector databases, an embeddable chat widget, and a robust API, making it a versatile solution for both local and cloud deployment."
+tags: ["OpenSource", "AI", "LargeLanguageModels", "DocumentManagement", "EmbeddableChat", "APIs", "Customization", "LLMIntegration"]
+categories: [Applications, LLM, Others]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "AnythingLLM: Free Open-source AI Documents Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[AnythingLLM](https://elest.io/open-source/anythingllm?ref=blog.elest.io) is an open\-source, full\-stack application designed to empower users to leverage large language models (LLMs) with their own documents and content. It simplifies interactions between LLMs and user\-provided resources, allowing users to build their own private AI document platform. 
+[AnythingLLM](https://octabyte.io/applications/others/anythingllm) is an open\-source, full\-stack application designed to empower users to leverage large language models (LLMs) with their own documents and content. It simplifies interactions between LLMs and user\-provided resources, allowing users to build their own private AI document platform. 
 
 This tool offers flexibility, enabling users to choose from a variety of LLMs and vector databases, while also providing a customizable experience with multi\-user management and embeddable chat functionalities. Whether you want to run the platform locally or host it in the cloud, AnythingLLM offers a solution to make AI\-driven document interaction effortless.
 
@@ -63,7 +62,7 @@ AnythingLLM is an incredibly versatile platform that enables users to create a t
 
 Whether you're embedding it into a website or using the built\-in chat interface, AnythingLLM ensures that managing and interacting with documents becomes more efficient and intelligent. This open\-source solution is a powerful tool for anyone looking to bring the capabilities of large language models to their own content, free of cost and full of customization possibilities.
 
-[Deploy your instance of AnythingLLM with Elestio.](https://elest.io/open-source/anythingllm?ref=blog.elest.io)
+[Deploy your instance of AnythingLLM with OctaByte.](https://octabyte.io/start-trial/?service=AnythingLLM)
 
 
 

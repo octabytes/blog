@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "APITable: Free Open Source Visual Database"
-date: "2024-07-10"
-description: "Discover APITable, a fully featured data management platform and collaboration tools. APITable is more than just a database; it is a dynamic platform that offers features tailored to both personal and enterprise needs.
-
-What sets APITable apart is its commitment to being open-source, providing advanced technology stack, and delivering an"
-tags: []
-categories: [No-code / Low code]
+date: "2024-11-18"
+description: "APITable is an open-source visual database platform offering robust data management and collaboration tools for both individuals and enterprises. It features customizable views, pre-designed templates, an extensive API, widgets, and automation capabilities, making it a versatile and efficient solution for various use cases."
+tags: ["APITable", "visual database", "data management", "open-source", "collaboration", "automation", "API integration", "custom views", "templates", "widgets"]
+categories: [Development, No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "APITable: Free Open Source Visual Database"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Discover [APITable](https://elest.io/open-source/apitable?ref=blog.elest.io), a fully featured data management platform and collaboration tools. APITable is more than just a database; it is a dynamic platform that offers features tailored to both personal and enterprise needs. 
+Discover [APITable](https://octabyte.io/development/nocode-lowcode/apitable), a fully featured data management platform and collaboration tools. APITable is more than just a database; it is a dynamic platform that offers features tailored to both personal and enterprise needs. 
 
 What sets APITable apart is its commitment to being open\-source, providing advanced technology stack, and delivering an intuitive, visually\-oriented interface that streamlines database operations. 
 
@@ -70,9 +69,10 @@ From robot automation to customizable formulas and actions, users can automate d
 
 ### Conclusion
 
-[APITable](elest.io/open-source/apitable) stands out as a free, open\-source visual database platform that caters to the diverse needs of individuals and enterprises alike. With its intuitive interface, extensive feature set, and commitment to extensibility, APITable offers a compelling solution for those seeking a modern, flexible approach to database management. 
+[APITable](https://octabyte.io/development/nocode-lowcode/apitable) stands out as a free, open\-source visual database platform that caters to the diverse needs of individuals and enterprises alike. With its intuitive interface, extensive feature set, and commitment to extensibility, APITable offers a compelling solution for those seeking a modern, flexible approach to database management. 
 
-Whether you're a project manager, marketer, or business analyst, APITable provides the tools and capabilities to transform your data into actionable insights. [Embrace the power of APITable and unlock the full potential of your data infrastructure.](elest.io/open-source/apitable)
+Whether you're a project manager, marketer, or business analyst, APITable provides the tools and capabilities to transform your data into actionable insights. [Embrace the power of APITable and unlock the full potential of your data infrastructure.](https://octabyte.io/development/nocode-lowcode/apitable)
 
 
 
+[Deploy your instance of APITable with OctaByte.](https://octabyte.io/start-trial/?service=APITable)

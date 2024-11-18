@@ -9,7 +9,7 @@ What is N8N?
 
 N8N is"
 tags: []
-categories: [Network, No-code / Low code]
+categories: [Network, No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "How to use Browserless with N8N to capture screenshots"

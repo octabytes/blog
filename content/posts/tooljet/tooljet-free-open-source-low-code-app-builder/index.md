@@ -6,7 +6,7 @@ description: "In today's fast-paced business environment, the ability to quickly
 
 This article explores ToolJet's features"
 tags: []
-categories: [No-code / Low code]
+categories: [No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "ToolJet: Free Open-source Low-Code App Builder"
