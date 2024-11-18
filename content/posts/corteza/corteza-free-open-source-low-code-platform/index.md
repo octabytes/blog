@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Corteza: Free Open Source Low Code Platform"
-date: "2024-10-23"
-description: "Businesses are constantly on the lookout for innovative solutions to streamline their operations and boost productivity. Enter Corteza, a revolutionary open-source low-code platform that promises to transform the way organizations develop applications and manage business processes.
-
-With its robust suite of tools and commitment to open standards, Corteza offers unparalleled"
-tags: []
-categories: [Dev tools]
+date: "2024-11-18"
+description: "Corteza is an open-source low-code platform designed to transform business operations with tools like PageBuilder, CRM templates, workflows, and reporting. Its drag-and-drop interface, automation features, and robust security make it ideal for streamlining processes and driving productivity."
+tags: [corteza, low-code platform, open-source, business tools, productivity, automation, CRM, workflows, reporting, data-driven insights, security, page builder, digital transformation]
+categories: [Development, Dev tools]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Corteza: Free Open Source Low Code Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Businesses are constantly on the lookout for innovative solutions to streamline their operations and boost productivity. [Enter Corteza](https://elest.io/open-source/corteza?ref=blog.elest.io), a revolutionary open\-source low\-code platform that promises to transform the way organizations develop applications and manage business processes. 
+Businesses are constantly on the lookout for innovative solutions to streamline their operations and boost productivity. [Enter Corteza](https://octabyte.io/development/dev-tools/corteza), a revolutionary open\-source low\-code platform that promises to transform the way organizations develop applications and manage business processes. 
 
 With its robust suite of tools and commitment to open standards, Corteza offers unparalleled flexibility and agility to businesses of all sizes.
 
@@ -61,7 +60,7 @@ Additionally, the Users \& Roles module integrates seamlessly with other Corteza
 
 ### **Conclusion**
 
-[Corteza](https://elest.io/open-source/corteza?ref=blog.elest.io) is a powerful low\-code platform, offering businesses an extended toolkit for digital transformation. With its comprehensive suite of modules, including PageBuilder, CRM Template, Workflows, Reports, and Users \& Roles, Corteza provides organizations with the flexibility and agility they need to thrive in today's fast\-paced business environment. 
+[Corteza](https://octabyte.io/development/dev-tools/corteza) is a powerful low\-code platform, offering businesses an extended toolkit for digital transformation. With its comprehensive suite of modules, including PageBuilder, CRM Template, Workflows, Reports, and Users \& Roles, Corteza provides organizations with the flexibility and agility they need to thrive in today's fast\-paced business environment. 
 
 
 

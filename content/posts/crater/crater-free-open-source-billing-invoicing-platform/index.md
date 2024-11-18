@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Crater: Free Open-source Billing & Invoicing Platform"
-date: "2024-01-25"
-description: "When running a business, managing finances can quickly become overwhelming. That's where Crater, a free open-source billing and invoicing platform, steps in to simplify the process.
-
-Ideal for freelancers, small business owners, and entrepreneurs looking for an efficient way to track invoices, estimates, and payments. Crater offers a"
-tags: []
-categories: [Invoicing and payments]
+date: "2024-11-18"
+description: "Crater is a free open-source billing and invoicing platform designed for freelancers, small businesses, and entrepreneurs. It offers features like customer management, customizable invoices, recurring payments, expense tracking, and financial reports. With a dedicated customer portal and multi-user support, Crater simplifies financial management and enhances professional workflows."
+tags: [business, invoicing, billing, open-source, Crater, financial management, freelancers, small businesses, entrepreneurs, customer management, recurring payments, expense tracking, financial reports]
+categories: [Applications, Invoicing and payments]
 cover:
   image: images/cover.png
   caption: "Crater: Free Open-source Billing & Invoicing Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-When running a business, managing finances can quickly become overwhelming. That's where [Crater](https://elest.io/open-source/crater?ref=blog.elest.io), a free open\-source billing and invoicing platform, steps in to simplify the process. 
+When running a business, managing finances can quickly become overwhelming. That's where [Crater](https://octabyte.io/applications/invoicing-and-payments/crater), a free open\-source billing and invoicing platform, steps in to simplify the process. 
 
 Ideal for freelancers, small business owners, and entrepreneurs looking for an efficient way to track invoices, estimates, and payments. Crater offers a feature\-rich solution for free with their open\-source self\-hosted version. 
 
@@ -63,7 +62,7 @@ Managing a team? Crater supports multiple **users and roles**, enabling you to a
 
 Crater proves that managing finances doesn’t have to be complicated or expensive. With features ranging from customer management and recurring payments to expense tracking and reports, it provides a comprehensive solution for businesses of all sizes. If you're looking for a free, customizable invoicing platform, Crater might just be the perfect tool for you.
 
-[Deploy your Crater instance with Elestio.](https://elest.io/open-source/crater?ref=blog.elest.io)
+[Deploy your Crater instance with OctaByte.](https://octabyte.io/start-trial/?service=Crater)
 
 
 

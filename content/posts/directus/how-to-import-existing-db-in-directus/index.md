@@ -1,25 +1,24 @@
 ---
-draft: true
+draft: false
 title: "How To Import Existing DB In Directus"
-date: "2024-08-26"
-description: "Directus is an open-source headless CMS that allows you to manage your data effectively while keeping your existing database schema intact. If you've deployed Directus on Elestio as a self-hosted solution, you can easily import your existing database into this environment. This guide will walk you through the"
-tags: []
-categories: [CMS]
+date: "2024-11-18"
+description: "Learn how to import an existing SQL database into a Directus instance hosted on OctaByte. This guide covers the installation, configuration, export, import, and post-import setup for smooth integration."
+tags: [Directus, OctaByte, CMS, SQL, Database Import, Self-Hosting, MySQL, SSH, Data Management, Open-Source]
+categories: [Applications, CMS]
 cover:
   image: images/cover.png
   caption: "How To Import Existing DB In Directus"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[Directus](https://elest.io/open-source/directus?ref=blog.elest.io) is an open\-source headless CMS that allows you to manage your data effectively while keeping your existing database schema intact. If you've deployed Directus on Elestio as a self\-hosted solution, you can easily import your existing database into this environment. This guide will walk you through the process of importing an existing SQL database into your Directus instance hosted on Elestio.
+[Directus](https://octabyte.io/applications/cms/directus) is an open\-source headless CMS that allows you to manage your data effectively while keeping your existing database schema intact. If you've deployed Directus on OctaByte as a self\-hosted solution, you can easily import your existing database into this environment. This guide will walk you through the process of importing an existing SQL database into your Directus instance hosted on OctaByte.
 
 ## **Installing \& Configuring Directus**
 
-To begin, you'll need to set up your Directus instance on Elestio if you haven't already. First, log in to your Elestio dashboard and navigate to the **Services \> Create New Service** section. Select **Directus** from the list of available services. Configure your deployment settings, including domain name, resource allocation, and database options. After completing the deployment process, Elestio will automatically set up Directus for you. Once your deployment is complete, you can access the Directus admin interface via the domain or IP address provided by Elestio. Log in using the admin credentials set during the deployment process.
-
-![Deploying Directus service on Elestio](images/Screenshot-2024-08-09-at-12.02.36-PM.jpg)## Export and Import Your Database
+To begin, you'll need to set up your Directus instance on [OctaByte](https://octabyte.io/start-trial/?service=Directus)
 
 ### Exporting Database
 
@@ -29,13 +28,13 @@ Before importing your database into Directus, it's important to prepare it prope
 ```
 mysqldump -u username -p database_name > database_export.sql
 ```
- Make sure that the exported SQL file is accessible from your Directus server on Elestio. Additionally, verify that your database is compatible with Directus by ensuring all tables have primary keys, data types are supported, and relationships are correctly defined.
+ Make sure that the exported SQL file is accessible from your Directus server on OctaByte. Additionally, verify that your database is compatible with Directus by ensuring all tables have primary keys, data types are supported, and relationships are correctly defined.
 
 ### Importing Database
 
-Now that your database is prepared, you can proceed to import it into your Directus instance. Start by accessing the Elestio server via **SSH** using the credentials provided by Elestio. Navigate to the directory where you want to store your SQL file or transfer the SQL file to the server. 
+Now that your database is prepared, you can proceed to import it into your Directus instance. Start by accessing the OctaByte server via **SSH** using the credentials provided by OctaByte. Navigate to the directory where you want to store your SQL file or transfer the SQL file to the server. 
 
-![Accessing terminal of the deployed directus service](https://blog.elest.io/content/images/2024/08/Screenshot-2024-08-08-at-8.15.27-PM.jpg)Then, use the following command to import your SQL file into the Directus database: 
+Then, use the following command to import your SQL file into the Directus database: 
 
 
 ```
@@ -55,16 +54,16 @@ UPDATE your_table SET user_created_id = (SELECT id FROM directus_users WHERE ema
 
 ## **Troubleshooting**
 
-If you encounter any issues during the import process, check the logs available in your Elestio dashboard for any errors related to the Directus instance. You can also access Directus logs through the admin interface or via SSH to diagnose issues. Make sure that the Directus version on Elestio is compatible with your database structure. Common issues can be the format of dump/export files.
+If you encounter any issues during the import process, check the logs available in your OctaByte dashboard for any errors related to the Directus instance. You can also access Directus logs through the admin interface or via SSH to diagnose issues. Make sure that the Directus version on OctaByte is compatible with your database structure. Common issues can be the format of dump/export files.
 
 ## **Thanks for reading ❤️**
 
-By following these steps, you can ensure the transition, enabling you to take full advantage of Directus's capabilities while benefiting from the robust hosting environment provided by Elestio. Directus on Elestio offers the flexibility and control you need. For more detailed guidance, be sure to explore the official [Directus documentation](https://docs.directus.io/?ref=blog.elest.io). Ready to enhance your project? Click below to start with Directus on Elestio. See you in the next one! 👋
+By following these steps, you can ensure the transition, enabling you to take full advantage of Directus's capabilities while benefiting from the robust hosting environment provided by OctaByte. Directus on OctaByte offers the flexibility and control you need. For more detailed guidance, be sure to explore the official [Directus documentation](https://docs.directus.io/). Ready to enhance your project? Click below to start with Directus on OctaByte. See you in the next one! 👋
 
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/directus?ref=blog.elest.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/start-trial/?service=Directus)
 
 
 

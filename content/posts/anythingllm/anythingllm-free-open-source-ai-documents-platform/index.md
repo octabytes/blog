@@ -4,7 +4,7 @@ title: "AnythingLLM: Free Open-source AI Documents Platform"
 date: "2024-11-18"
 description: "AnythingLLM is an open-source platform that integrates with large language models (LLMs) to enable interactive, AI-driven document management. It offers customizable features, including multi-user workspaces, support for various LLMs and vector databases, an embeddable chat widget, and a robust API, making it a versatile solution for both local and cloud deployment."
 tags: ["OpenSource", "AI", "LargeLanguageModels", "DocumentManagement", "EmbeddableChat", "APIs", "Customization", "LLMIntegration"]
-categories: [Applications, LLM, Others]
+categories: [Applications, LLM, AI, Others]
 cover:
   image: images/cover.jpg
   caption: "AnythingLLM: Free Open-source AI Documents Platform"

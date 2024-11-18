@@ -1,21 +1,30 @@
 ---
-draft: true
+draft: false
 title: "ComfyUI: Free Open-source Stable Diffusion GUI"
-date: "2024-10-29"
-description: "ComfyUI is a web-based interface designed to bring the power of Stable Diffusion to your fingertips, enabling anyone to create stunning AI-generated images with ease.
-
-Stable Diffusion, a state-of-the-art deep learning model, excels at generating realistic images and art from text descriptions. With ComfyUI, you have the freedom to turn"
-tags: []
-categories: [Other]
+date: "2024-11-18"
+description: "ComfyUI is a free, web-based interface for Stable Diffusion, enabling users to create stunning AI-generated images with ease. Its modular node-based pipeline system supports custom models, image upscaling, and LoRA integration, providing powerful tools for artists, designers, and enthusiasts without requiring coding skills."
+tags: [
+  "AI",
+  "Stable Diffusion",
+  "Image Generation",
+  "ComfyUI",
+  "Node-Based Interface",
+  "Custom Models",
+  "Image Upscaling",
+  "LoRA Integration",
+  "Creative Tools"
+]
+categories: [Applications, AI, Others]
 cover:
   image: images/cover.png
   caption: "ComfyUI: Free Open-source Stable Diffusion GUI"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[ComfyUI](https://elest.io/open-source/comfyui?ref=blog.elest.io) is a web\-based interface designed to bring the power of Stable Diffusion to your fingertips, enabling anyone to create stunning AI\-generated images with ease. 
+[ComfyUI](https://octabyte.io/applications/others/comfyui) is a web\-based interface designed to bring the power of Stable Diffusion to your fingertips, enabling anyone to create stunning AI\-generated images with ease. 
 
 Stable Diffusion, a state\-of\-the\-art deep learning model, excels at generating realistic images and art from text descriptions. With ComfyUI, you have the freedom to turn your creative visions into reality without any constraints, all within a user\-friendly interface that requires no coding skills.
 
@@ -59,7 +68,7 @@ ComfyUI stands out as one of the most powerful and modular interfaces for Stable
 
 Whether you're looking to create stunning high\-resolution images, experiment with complex workflows, or fine\-tune models for specific applications, ComfyUI provides all the tools you need in a single, easy\-to\-use platform. Best of all, it's completely free, ensuring that anyone can access and benefit from the cutting\-edge capabilities of Stable Diffusion.
 
-[Start your AI image generation journey with ComfyUI](https://elest.io/open-source/comfyui?ref=blog.elest.io)
+[Start your AI image generation journey with ComfyUI](https://octabyte.io/applications/others/comfyui)
 
 
 

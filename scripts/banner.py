@@ -1,6 +1,6 @@
 from PIL import Image
 
-post_name = "browserless/how-to-use-browserless-with-n8n-to-capture-screenshots"
+post_name = "directus/importing-existing-projects-into-directus"
 
 # Paths to images
 banner_path = "../static/images/octabyte-banner.png"

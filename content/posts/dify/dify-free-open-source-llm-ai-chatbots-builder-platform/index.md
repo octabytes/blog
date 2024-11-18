@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Dify: Free Open-source LLM AI Chatbots Builder Platform"
-date: "2024-06-21"
-description: "In the rapidly evolving field of Generative AI, Dify emerges as a powerful open-source platform for building Large Language Model (LLM) applications. Designed to streamline processes, simplify workflows, and enhance value delivery, Dify offers a comprehensive suite of tools for developing AI chatbots and assistants.
-
-Discover the core features of"
-tags: []
-categories: [No-code, Low-code]
+date: "2024-11-18"
+description: "Dify is an open-source platform for building Large Language Model (LLM) applications. It offers templates, an AI visual builder, workflow orchestration, robust API integration, and embedding options to simplify AI development and deployment. Perfect for creating custom chatbots and AI assistants across industries."
+tags: [Generative AI, open-source, LLM, AI applications, chatbots, AI assistants, AI templates, workflow automation, API integration, embedding, AI innovation, low-code tools, Dify platform]
+categories: [Development, No-code, Low-code, AI]
 cover:
   image: images/cover.png
   caption: "Dify: Free Open-source LLM AI Chatbots Builder Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In the rapidly evolving field of Generative AI, [Dify](https://elest.io/open-source/dify?ref=blog.elest.io) emerges as a powerful open\-source platform for building Large Language Model (LLM) applications. Designed to streamline processes, simplify workflows, and enhance value delivery, Dify offers a comprehensive suite of tools for developing AI chatbots and assistants. 
+In the rapidly evolving field of Generative AI, [Dify](https://octabyte.io/development/nocode-lowcode/dify) emerges as a powerful open\-source platform for building Large Language Model (LLM) applications. Designed to streamline processes, simplify workflows, and enhance value delivery, Dify offers a comprehensive suite of tools for developing AI chatbots and assistants. 
 
 Discover the core features of Dify, exploring its templates, AI visual builder, workflows, API, and embedding capabilities, and how these elements combine to create a robust platform for AI innovation.
 
@@ -66,7 +65,7 @@ With its diverse templates, intuitive AI visual builder, flexible workflows, rob
 
 Whether you are looking to deploy customized chatbots or build complex AI workflows, Dify provides the innovation engine needed to turn your AI aspirations into reality.
 
-[Try Dify on Elestio.](https://elest.io/open-source/dify?ref=blog.elest.io)
+[Try Dify on OctaByte.](https://octabyte.io/start-trial/?service=dify)
 
 
 

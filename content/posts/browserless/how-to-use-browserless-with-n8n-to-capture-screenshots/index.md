@@ -57,7 +57,7 @@ Log into the N8N instance using the credentials provided in the OctaByte dashboa
 
 ![Configuring HTTP Request](images/Screenshot-2024-05-29-at-11.55.51-AM.jpg)Next head over to the **Markdown** component and configure it as follows. 
 
-💡Remember this component is changeable according to the need of your application. You can also use the built\-in [Browserless integration](https://n8n.io/integrations/browserless/?ref=blog.elest.io) on N8N.**Mode:** HTML to Markdown
+💡Remember this component is changeable according to the need of your application. You can also use the built\-in [Browserless integration](https://n8n.io/integrations/browserless) on N8N.**Mode:** HTML to Markdown
 
 **HTML:** `{{$json.data}}` 
 
@@ -67,6 +67,6 @@ Log into the N8N instance using the credentials provided in the OctaByte dashboa
 
 ![Final output screen](images/Screenshot-2024-05-29-at-11.56.23-AM.jpg)## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.elest.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and create a workflow to get screenshots from the web. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and create a workflow to get screenshots from the web. See you in the next one👋
 
 [![Deploy on OctaByte](/images/octabyte-deploy2.png)](https://octabyte.io/start-trial/?service=Bigcapital)
