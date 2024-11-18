@@ -6,7 +6,7 @@ description: "In the dynamic landscape of customer relationship management (CRM)
 
 Discover Twenty, an open-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface,"
 tags: []
-categories: [CRM / ERP]
+categories: [CRM, ERP]
 cover:
   image: images/cover.png
   caption: "Twenty: Free Open Source CRM"

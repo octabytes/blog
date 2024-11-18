@@ -6,7 +6,7 @@ description: "Invoicing is a critical aspect of any business, and finding the ri
 
 In this blog post, we invite you to discover Invoice Ninja, a free and open-source solution designed to simplify your invoicing workflow, create professional quotes and invoices,"
 tags: []
-categories: [CRM / ERP, Invoicing and payments]
+categories: [CRM, ERP, Invoicing and payments]
 cover:
   image: images/cover.png
   caption: "Invoice Ninja - A Free Invoicing and Billing Solution"

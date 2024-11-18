@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Automatisch: Free Open-source Automation Platform"
-date: "2024-09-23"
-description: "Automation is key to scaling tasks and improving efficiency, especially for small teams or individual creators. While popular automation tools exist, they often come with high subscription fees and privacy concerns.
-
-Automatisch is a powerful, free, and open-source alternative that offers flexibility without sacrificing privacy or affordability. Let's"
-tags: []
-categories: [Automation]
+date: "2024-11-18"
+description: "Automatisch is a powerful, open-source automation tool that offers a cost-effective and privacy-focused alternative to popular automation services. It features customizable flows with triggers, actions, app integrations (e.g., Stripe, Google, Slack), and built-in functions like delays and conditions. Automatisch enables efficient and versatile workflow automation, supporting webhooks and custom integrations for maximum flexibility."
+tags: ["automation", "open-source", "workflow", "integration", "triggers", "actions", "webhooks", "apps", "productivity", "privacy"]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "Automatisch: Free Open-source Automation Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 Automation is key to scaling tasks and improving efficiency, especially for small teams or individual creators. While popular automation tools exist, they often come with high subscription fees and privacy concerns. 
 
-[Automatisch](https://elest.io/open-source/automatisch?ref=blog.elest.io) is a powerful, free, and open\-source alternative that offers flexibility without sacrificing privacy or affordability. Let's dive into what Automatisch has to offer and how it can be used for efficient workflow automation.
+[Automatisch](https://octabyte.io/applications/automation/automatisch) is a powerful, free, and open\-source alternative that offers flexibility without sacrificing privacy or affordability. Let's dive into what Automatisch has to offer and how it can be used for efficient workflow automation.
 
 
 
@@ -73,9 +72,9 @@ This feature is perfect for connecting with specialized tools, internal systems,
 
 ## Conclusion
 
-[Automatisch](https://elest.io/open-source/automatisch?ref=blog.elest.io) offers a robust, privacy\-focused, and cost\-effective solution for automating workflows across multiple platforms. Its straightforward interface, versatile triggers, built\-in functions, and wide app support make it an excellent choice for users who need powerful automation without the high price tag. With Automatisch, you can streamline tasks, save time, and focus on what matters most — all while keeping your data secure.
+[Automatisch](https://octabyte.io/applications/automation/automatisch) offers a robust, privacy\-focused, and cost\-effective solution for automating workflows across multiple platforms. Its straightforward interface, versatile triggers, built\-in functions, and wide app support make it an excellent choice for users who need powerful automation without the high price tag. With Automatisch, you can streamline tasks, save time, and focus on what matters most — all while keeping your data secure.
 
-[Deploy your Automatisch instance on Elestio.](https://elest.io/open-source/automatisch?ref=blog.elest.io)
+[Deploy your Automatisch instance with OctaByte.](https://octabyte.io/start-trial/?service=Automatisch)
 
 
 

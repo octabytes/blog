@@ -6,7 +6,7 @@ description: "In the bustling world of event management, finding the right tools
 
 Pretix emerges as a promising solution, offering a comprehensive set of features tailored to meet the diverse needs of event organizers. As a free and open-source platform, Pretix stands out"
 tags: []
-categories: [CRM / ERP]
+categories: [CRM, ERP]
 cover:
   image: images/cover.png
   caption: "Pretix: Free Open Source Event Management Platform"

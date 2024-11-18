@@ -8,7 +8,7 @@ Built on the Frappe Framework, FrappeHR offers a comprehensive suite of tools to
 
 This article explores the various features"
 tags: []
-categories: [CRM / ERP, HRMS]
+categories: [CRM, ERP, HRMS]
 cover:
   image: images/cover.png
   caption: "FrappeHR: Free Open-source ERP, HR & Payroll Platform"

@@ -6,7 +6,7 @@ description: "In the landscape of modern work, effective team collaboration is e
 
 Open-Source and originating from Germany, HumHub is not just a collaboration tool; it's a digital hub where"
 tags: []
-categories: [CRM / ERP, Forum / Community]
+categories: [CRM, ERP, Forum / Community]
 cover:
   image: images/cover.png
   caption: "HumHub: Free Open Source Team Collaboration Platform"
