@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to use Browserless with N8N to capture screenshots"
-date: "2024-04-20"
-description: "Let's see how you can create an application that makes HTTP requests to Browserless and get screenshots. During this tutorial, we will be building the workflow from scratch. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.
-
-
-What is N8N?
-
-N8N is"
-tags: []
-categories: [Network, No-code, Low-code]
+date: "2024-11-18"
+description: "Learn how to use N8N and Browserless to create automated workflows for web screenshot tasks. This tutorial covers deploying N8N on OctaByte, setting up Browserless, and building a workflow to capture screenshots programmatically."
+tags: [N8N, Browserless, automation, workflow, web scraping, headless browser, screenshots, OctaByte, tutorial, open-source]
+categories: [Development, Network, No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "How to use Browserless with N8N to capture screenshots"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can create an application that makes HTTP requests to [Browserless](https://elest.io/open-source/browserless?ref=blog.elest.io) and get screenshots. During this tutorial, we will be building the workflow from scratch. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [Elestio](https://elest.io/open-source/n8n?ref=blog.elest.io).
+Let's see how you can create an application that makes HTTP requests to [Browserless](https://octabyte.io/development/network/browserless) and get screenshots. During this tutorial, we will be building the workflow from scratch. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -30,7 +26,7 @@ Browserless is a service and platform that provides remote, headless browser aut
 
 ## Creating Browserless Application
 
-If you are building a Browserless Application along with this tutorial then we would recommend you go ahead and create an instance on [Elestio](https://elest.io/open-source/browserless?ref=blog.elest.io). Once you log into the Browserless instance using the credentials provided on the Elestio dashboard, you will be presented with the dashboard with some example scripts. One we will be using is Screenshot.
+If you are building a Browserless Application along with this tutorial then we would recommend you go ahead and create an instance on [OctaByte](https://octabyte.io/development/network/browserless). Once you log into the Browserless instance using the credentials provided on the OctaByte dashboard, you will be presented with the dashboard with some example scripts. One we will be using is Screenshot.
 
 ![Browserless Service Home page](images/Screenshot-2024-05-29-at-11.54.30-AM.jpg)If the script is unavailable for some reason, you can create a new script page and add the following script.
 
@@ -49,9 +45,9 @@ export default async ({ page }: { page: Page }) => {
 ```
 ## Setting Up N8N
 
-Log into the N8N instance using the credentials provided in the Elestio dashboard. Once logged in, add three components as shown below. To keep the tutorial simple, we will just convert the HTML page into a markdown after receiving the response from the HTTP request.
+Log into the N8N instance using the credentials provided in the OctaByte dashboard. Once logged in, add three components as shown below. To keep the tutorial simple, we will just convert the HTML page into a markdown after receiving the response from the HTTP request.
 
-![Final Workflow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-29-at-11.55.31-AM.jpg)Now, head over to the **HTTP Request** component and configure the following follows
+![Final Workflow](images/Screenshot-2024-05-29-at-11.55.31-AM.jpg)Now, head over to the **HTTP Request** component and configure the following follows
 
 **Method:** GET
 
@@ -59,7 +55,7 @@ Log into the N8N instance using the credentials provided in the Elestio dashboar
 
 **Authentication:** None
 
-![Configuring HTTP Request](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-29-at-11.55.51-AM.jpg)Next head over to the **Markdown** component and configure it as follows. 
+![Configuring HTTP Request](images/Screenshot-2024-05-29-at-11.55.51-AM.jpg)Next head over to the **Markdown** component and configure it as follows. 
 
 💡Remember this component is changeable according to the need of your application. You can also use the built\-in [Browserless integration](https://n8n.io/integrations/browserless/?ref=blog.elest.io) on N8N.**Mode:** HTML to Markdown
 
@@ -67,11 +63,10 @@ Log into the N8N instance using the credentials provided in the Elestio dashboar
 
 **Destination Key**: data
 
-![Setting up the Markdown component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-29-at-11.56.04-AM.jpg)And done! The following window shows the landing HTML page for now but can be configured to invoke specific scripts and receive the responses. You can form multiple such workflows based on the script type.
+![Setting up the Markdown component](images/Screenshot-2024-05-29-at-11.56.04-AM.jpg)And done! The following window shows the landing HTML page for now but can be configured to invoke specific scripts and receive the responses. You can form multiple such workflows based on the script type.
 
-![Final output screen](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-29-at-11.56.23-AM.jpg)## **Thanks for reading ❤️**
+![Final output screen](images/Screenshot-2024-05-29-at-11.56.23-AM.jpg)## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.elest.io) to learn more about N8N. You can click the button below to create your service on [Elestio](https://elest.io/open-source/n8n?ref=blog.elest.io) and create a workflow to get screenshots from the web. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.elest.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and create a workflow to get screenshots from the web. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/n8n?ref=blog.elest.io)
-
+[![Deploy on OctaByte](/images/octabyte-deploy2.png)](https://octabyte.io/start-trial/?service=Bigcapital)

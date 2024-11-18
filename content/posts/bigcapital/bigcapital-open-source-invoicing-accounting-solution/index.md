@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Bigcapital: Open Source Invoicing & Accounting Solution"
-date: "2024-01-22"
-description: "Bigcapital is an innovative online accounting software to automate business financial processes. Including all the required features and beyond, it empowers businesses to take control of their bookkeeping and make informed decisions quickly.
-
-
-Sales & Purchases Invoicing
-
-Managing invoices is made easy with Bigcapital. Whether it's creating sell"
-tags: []
-categories: [Invoicing and payments]
+date: "2024-11-18"
+description: "Bigcapital is an innovative online accounting software designed to streamline financial processes for businesses. It offers features like sales and purchase invoicing, inventory management, multi-currency transactions, expense tracking, financial reporting, and role-based user collaboration, empowering businesses to make informed decisions efficiently."
+tags: [Bigcapital, accounting software, invoicing, inventory management, financial reports, expense tracking, multi-currency, bookkeeping, business tools, automation]
+categories: [Applications, Invoicing and payments]
 cover:
   image: images/cover.png
   caption: "Bigcapital: Open Source Invoicing & Accounting Solution"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[Bigcapital](https://elest.io/open-source/bigcapital?ref=blog.elest.io) is an innovative online accounting software to automate business financial processes. Including all the required features and beyond, it empowers businesses to take control of their bookkeeping and make informed decisions quickly.
+[Bigcapital](https://octabyte.io/applications/invoicing-and-payments/bigcapital) is an innovative online accounting software to automate business financial processes. Including all the required features and beyond, it empowers businesses to take control of their bookkeeping and make informed decisions quickly.
 
 
 
@@ -56,7 +52,7 @@ Conducting transactions in multiple currencies is made simple with Bigcapital. Y
 
 In conclusion, Bigcapital is more than just an invoicing and accounting solution—it's a powerful tool that empowers businesses to streamline their financial processes, make data\-driven decisions, and achieve greater efficiency. With its user\-friendly interface and robust features, Bigcapital is the ideal choice for businesses looking to take their financial management to the next level.
 
-[Start using Bigcapital on Elestio.](https://elest.io/open-source/bigcapital?ref=blog.elest.io)
+[Start using Bigcapital on OctaByte.](https://octabyte.io/start-trial/?service=Bigcapital)
 
 
 

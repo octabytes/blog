@@ -1,19 +1,14 @@
 ---
-draft: true
+draft: false
 title: "BaaS Showdown: A Comprehensive Look at 5 Top Open Source Solutions"
-date: "2024-11-28"
-description: "Backend as a Service is the solution for developers who want to focus on building web and mobile apps without worrying about the backend infrastructure.
-
-
-BaaS providers offer a set of tools and services that help developers build apps faster and easier.
-
-
-It generally includes Database, Authentication, File Storage, Cloud"
-tags: []
-categories: [Other]
+date: "2024-11-18"
+description: "Discover the best open-source Backend as a Service (BaaS) solutions to simplify app development. Compare Appwrite, Directus, Parse, PocketBase, and Supabase based on features like authentication, database support, file storage, and more. Learn how these platforms help developers focus on building apps while handling backend infrastructure."
+tags: [BaaS, App Development, Open Source, Backend Solutions, Appwrite, Directus, Parse, PocketBase, Supabase, Authentication, File Storage, Database, Realtime, Cloud Functions, Push Notifications, App Comparison, Developer Tools]
+categories: [Applications, Development]
 cover:
   image: images/cover.png
   caption: "BaaS Showdown: A Comprehensive Look at 5 Top Open Source Solutions"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -36,7 +31,7 @@ Now, the question is which BaaS solution is the best for your app?
 
 Today we will compare 5 Open Source Backend as a Service solutions and find out which one is the best for your app:  
 
-[Appwrite](https://elest.io/open-source/appwrite?ref=blog.elest.io), [Directus](https://elest.io/open-source/directus?ref=blog.elest.io), [Parse](https://elest.io/open-source/parse?ref=blog.elest.io), [PocketBase](https://elest.io/open-source/pocketbase?ref=blog.elest.io), and [Supabase](https://elest.io/open-source/appwrite?ref=blog.elest.io).
+[Appwrite](https://octabyte.io/development/backend-as-a-service/appwrite), [Directus](https://octabyte.io/applications/cms/directus), [Parse](https://octabyte.io/development/backend-as-a-service/parse), [PocketBase](https://octabyte.io/development/backend-as-a-service/pocketbase), and [Supabase](https://octabyte.io/development/backend-as-a-service/supabase).
 
 
 
@@ -222,10 +217,10 @@ I would put Parse slightly behind the others, it's a great solution but it's a b
 Our biggest recommendation is to try them before making a decision. They are all open source and free to use, so you can try them and see which one fits your needs better.
 
 
-Each are available as fully managed services on our platform Elestio, which means we take care of the setup, backups, updates, maintenance, and hosting for you.
+Each are available as fully managed services on our platform OctaByte, which means we take care of the setup, backups, updates, maintenance, and hosting for you.
 
 
-[Give it a try on Elestio](https://elest.io/?ref=blog.elest.io)
+[Give it a try on OctaByte](https://octabyte.io)
 
 
 
