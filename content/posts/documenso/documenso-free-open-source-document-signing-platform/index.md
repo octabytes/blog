@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Documenso: Free Open-source Document Signing Platform"
-date: "2024-01-09"
-description: "In today’s digital landscape, document signing has become an essential process for both individuals and businesses. E-signature platforms have emerged as a convenient solution to sign documents.
-
-While there are plenty of paid options available, Documenso stands out as a free, open-source alternative that offers all the essential features"
-tags: []
+date: "2024-11-19"
+description: "Discover Documenso, a free and open-source e-signature platform offering features like customizable forms, signer ordering, reusable templates, webhooks, and a robust API. It provides a seamless, secure, and efficient solution for digital document signing, catering to businesses of all sizes without subscription costs."
+tags: [eSignature, document signing, open-source, digital workflow, Documenso, form builder, templates, webhooks, API integration, business automation, free alternative]
 categories: [Documentation]
 cover:
   image: images/cover.png
   caption: "Documenso: Free Open-source Document Signing Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In today’s digital landscape, document signing has become an essential process for both individuals and businesses. E\-signature platforms have emerged as a convenient solution to sign documents. 
 
-While there are plenty of paid options available, [*Documenso*](https://elest.io/open-source/documenso?ref=blog.elest.io) stands out as a free, open\-source alternative that offers all the essential features you need for secure and efficient document signing. 
+While there are plenty of paid options available, [*Documenso*](https://octabyte.io/applications/documentation/documenso) stands out as a free, open\-source alternative that offers all the essential features you need for secure and efficient document signing. 
 
 In this article, we’ll explore the key features that make *Documenso* a powerful tool for digital document workflows.
 
@@ -76,7 +75,7 @@ Whether you're a freelancer, a small business owner, or a large enterprise, *Doc
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/documenso?ref=blog.elest.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/start-trial/?service=Documenso)
 
 
 

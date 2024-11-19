@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "OpnForm: Free Open Source No-Code Form Builder"
-date: "2024-03-10"
-description: "In the rapidly evolving digital landscape, efficient data collection is vital. Whether you need a contact form, a survey, or a complex multi-step form, OpnForm offers a comprehensive solution.
-
-OpnForm is a free, open-source, no-code form builder designed to empower users to create beautiful, functional forms effortlessly. In this article,"
-tags: []
-categories: [Dev tools]
+date: "2024-11-19"
+description: "OpnForm is a free, open-source, no-code form builder designed for creating functional, customizable forms effortlessly. With advanced logic, templates, and integrations, it empowers users to build dynamic forms tailored to their needs."
+tags: [OpnForm, no-code, form builder, data collection, templates, integrations, advanced logic, surveys, multi-step forms, drag-and-drop, webhooks, automation]
+categories: [Development, Dev tools]
 cover:
   image: images/cover.png
   caption: "OpnForm: Free Open Source No-Code Form Builder"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In the rapidly evolving digital landscape, efficient data collection is vital. Whether you need a contact form, a survey, or a complex multi\-step form, [OpnForm](https://elest.io/open-source/opnform?ref=blog.elest.io) offers a comprehensive solution. 
+In the rapidly evolving digital landscape, efficient data collection is vital. Whether you need a contact form, a survey, or a complex multi\-step form, [OpnForm](https://octabyte.io/development/dev-tools/opnform) offers a comprehensive solution. 
 
 OpnForm is a free, open\-source, no\-code form builder designed to empower users to create beautiful, functional forms effortlessly. In this article, we'll explore the features that make OpnForm a standout choice for your form\-building needs.
 
@@ -55,7 +54,7 @@ OpnForm redefines form building by combining ease of use with powerful features.
 
 With OpnForm, form building is no longer a tedious task. Instead, it's a straightforward and enjoyable process, allowing you to focus on what matters most – collecting and utilizing your data effectively.
 
-[Try OpnForm today and discover how easy it can be to create beautiful, functional forms in minutes.](https://elest.io/open-source/opnform?ref=blog.elest.io)
+[Try OpnForm today and discover how easy it can be to create beautiful, functional forms in minutes.](https://octabyte.io/development/dev-tools/opnform)
 
 
 

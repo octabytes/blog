@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Outline: Free Open Source Team Knowledge Base & Wiki"
-date: "2024-09-06"
-description: "For the success of your team, the need for a centralized, efficient, and accessible knowledge base is paramount. If your team is grappling with the chaos of scattered documents, unclear access permissions, and redundant information requests, it’s time to explore the transformative power of Outline.
-
-This open-source team knowledge"
-tags: []
-categories: [Documentation]
+date: "2024-11-19"
+description: "Outline is an open-source team knowledge base and wiki that simplifies knowledge management. With a Notion-like editor, robust sharing and permissions, and integrations with over 20 popular tools, it ensures your team's knowledge is organized, accessible, and secure."
+tags: [open-source, team, knowledge-base, wiki, documentation, integrations, Notion-alternative, collaboration, productivity, permissions, markdown, API]
+categories: [Applications, Documentation]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Outline: Free Open Source Team Knowledge Base & Wiki"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-For the success of your team, the need for a centralized, efficient, and accessible knowledge base is paramount. If your team is grappling with the chaos of scattered documents, unclear access permissions, and redundant information requests, it’s time to explore the transformative power of [Outline](https://elest.io/open-source/outline?ref=blog.elest.io). 
+For the success of your team, the need for a centralized, efficient, and accessible knowledge base is paramount. If your team is grappling with the chaos of scattered documents, unclear access permissions, and redundant information requests, it’s time to explore the transformative power of [Outline](https://octabyte.io/applications/documentation/outline). 
 
 This open\-source team knowledge base and wiki offer a plethora of features designed to streamline your team's knowledge management processes.
 
@@ -49,7 +48,7 @@ In conclusion, Outline emerges as a great free open\-source solution for team kn
 
 Its features, ranging from an intuitive document editor to robust sharing and permission controls, make it a comprehensive solution for teams seeking order and efficiency in their collaborative efforts. The seamless integrations with popular tools ensure a smooth transition, and the open\-source nature of Outline opens up possibilities for customization to fit your unique needs. 
 
-[Try Outline today and experience the transformation firsthand. Your team's knowledge deserves nothing less.](https://elest.io/open-source/outline?ref=blog.elest.io)
+[Try Outline today and experience the transformation firsthand. Your team's knowledge deserves nothing less.](https://octabyte.io/applications/documentation/outline)
 
 
 

@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to Create an Online Documentation for Free with Bookstack"
-date: "2024-10-21"
-description: "Creating a comprehensive online documentation for your project, website, or business can be a daunting task. It requires time, effort, and resources, especially if you want to create something that is user-friendly, organized, and easy to navigate. Fortunately, there is an open-source solution that can help you achieve this goal:"
-tags: []
-categories: [Other]
+date: "2024-11-19"
+description: "Bookstack is an open-source software for creating and managing online documentation effortlessly. It offers an intuitive interface, robust organization tools, and collaborative features, making it ideal for teams and businesses. Easily customizable and free to use, Bookstack is perfect for creating user-friendly, comprehensive documentation."
+tags: [documentation, open-source, bookstack, online-docs, project-management, team-collaboration, free-tool, laravel, markdown, user-friendly, content-management]
+categories: [Applications, Documentation]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "How to Create an Online Documentation for Free with Bookstack"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Creating a comprehensive online documentation for your project, website, or business can be a daunting task. It requires time, effort, and resources, especially if you want to create something that is user\-friendly, organized, and easy to navigate. Fortunately, there is an open\-source solution that can help you achieve this goal: [**Bookstack**](https://www.bookstackapp.com/?ref=blog.elest.io).
+Creating a comprehensive online documentation for your project, website, or business can be a daunting task. It requires time, effort, and resources, especially if you want to create something that is user\-friendly, organized, and easy to navigate. Fortunately, there is an open\-source solution that can help you achieve this goal: [**Bookstack**](https://octabyte.io/applications/documentation/bookstack).
 
 In this article, we'll take a closer look at Bookstack, its features, and how you can use it to create your online documentation for your project, website, or business for free.
 
@@ -39,7 +40,7 @@ This makes it ideal for teams who need to work together to create and maintain a
 
 Getting started with Bookstack is simple. All you need to do is download the software from the official website, install it on your server, and follow the setup instructions. Once you've installed Bookstack, you can start creating your online documentation.
 
-You can deploy it with Elestio with a single click [here](https://elest.io/open-source/bookstack?ref=blog.elest.io), and we'll take care of the setup, maintenance, updates, and backups for you.
+You can deploy it with OctaByte with a single click [here](https://octabyte.io/start-trial/?service=Bookstack), and we'll take care of the setup, maintenance, updates, and backups for you.
 
 ## Conclusion
 

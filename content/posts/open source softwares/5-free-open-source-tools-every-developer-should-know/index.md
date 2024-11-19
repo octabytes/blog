@@ -1,17 +1,14 @@
 ---
-draft: true
+draft: false
 title: "5 Free Open Source Tools Every Developer Should Know"
-date: "2024-08-18"
-description: "Do not start your next project without knowing those 5 free open source tools.
-
-They will save you time and effort by preventing you from redeveloping common features.
-
-With these tools, you can have robust, efficient solutions ready in no time, often performing even better than what you could create"
-tags: []
-categories: [Other]
+date: "2024-11-19"
+description: "Discover 5 free open-source tools that can streamline your development process by saving time and effort. These tools offer robust solutions for authentication, backend management, feature flagging, code quality, and document conversion, helping you focus on building core features instead of reinventing the wheel."
+tags: [open-source, tools, development, productivity, authentication, backend, feature-flags, code-quality, document-conversion, dev-tools, CI/CD, low-code, PDF-generation]
+categories: [Development, Low code]
 cover:
-  image: images/cover.png
+  image: images/cover.jpeg
   caption: "5 Free Open Source Tools Every Developer Should Know"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -29,13 +26,13 @@ Watch our video on YouTube
 
 
 
-### [**Logto**](https://elest.io/open-source/logto?ref=blog.elest.io)
+### [**Logto**](https://octabyte.io/development/identity-and-access-management/logto)
 
 If like me you’re tired of setting up login, signup, and forgotten password functionality for every new project, you will love LogTo. It simplifies the entire authentication process, allowing you to integrate: user management, email and sms passwordless, social sign\-in from many providers with minimal effort.
 
 It’s easy to implement and customize, freeing you up to focus on the core features of your application.
 
-### [**Directus**](https://elest.io/open-source/directus?ref=blog.elest.io)
+### [**Directus**](https://octabyte.io/development/backend-as-a-service/directus)
 
 Why spend time developing a backend with a custom administration dashboard when you can have one up and ready in no time?
 
@@ -45,7 +42,7 @@ By using a low code solution, any member of the team can create the views and fo
 
 With Directus, you can accelerate your backend development without losing total control of your project.
 
-### [**FlagSmith**](https://elest.io/open-source/flagsmith?ref=blog.elest.io)
+### [**FlagSmith**](https://octabyte.io/development/dev-tools/flagsmith)
 
 Project development is rarely linear. There are features you want to test and release to a subset of users, and others that you need to hide until they're production\-ready. Flagsmith helps you manage feature flags with ease, offering functionalities such as:
 
@@ -56,7 +53,7 @@ Project development is rarely linear. There are features you want to test and re
 
 Flagsmith empowers you to handle these complexities seamlessly, making your development process more agile and controlled.
 
-### [**SonarQube**](https://elest.io/open-source/sonarqube?ref=blog.elest.io)
+### [**SonarQube**](https://octabyte.io/development/dev-ops/sonarqube)
 
 Ensure your code remains clean, secure, and maintainable throughout your project's lifecycle with SonarQube. This comprehensive code quality and security solution helps you consistently deploy high\-quality code.
 
@@ -64,7 +61,7 @@ SonarQube integrates seamlessly into your CI/CD pipeline, automatically analyzin
 
 By integrating SonarQube into your development workflow, you can enhance your code's reliability and security, ultimately delivering a better product.
 
-### [**Gotenberg**](https://elest.io/open-source/gotenberg?ref=blog.elest.io)
+### [**Gotenberg**](https://octabyte.io/development/dev-tools/gotenberg)
 
 Turn any document or URL into a PDF file with this developer\-friendly API.
 
