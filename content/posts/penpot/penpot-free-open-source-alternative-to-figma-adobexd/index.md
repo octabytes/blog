@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Penpot: Free Open-source Alternative to Figma & AdobeXD"
-date: "2024-10-08"
-description: "In the fast-paced world of design and development, having a tool that bridges the gap between these two essential disciplines is crucial.
-
-Enter Penpot, the web-based open-source design tool that's making waves with its powerful features and seamless integration. As a robust alternative to Figma, Adobe XD, and"
-tags: []
-categories: [Other]
+date: "2024-11-19"
+description: "Penpot is a web-based, open-source design tool that offers a powerful, flexible, and scalable alternative to Figma, Adobe XD, and Canvas. Its version 2 update introduces flex/grid layouts, enhanced components, and improved collaboration features, making it an ideal choice for teams seeking seamless design and development integration."
+tags: [Penpot, open-source, design tool, Figma alternative, Adobe XD, Canvas, flex layout, grid layout, components, design system, collaboration, responsive design, interface design, CSS, SVG, HTML, real-time collaboration, prototyping, developers, design workflow]
+categories: [Applications, Design, Other]
 cover:
   image: images/cover.png
   caption: "Penpot: Free Open-source Alternative to Figma & AdobeXD"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In the fast\-paced world of design and development, having a tool that bridges the gap between these two essential disciplines is crucial. 
 
-Enter [Penpot](https://elest.io/open-source/penpot?ref=blog.elest.io), the web\-based open\-source design tool that's making waves with its powerful features and seamless integration. As a robust alternative to Figma, Adobe XD, and Canvas, Penpot is not just catching up but setting new standards in collaborative design. 
+Enter [Penpot](https://octabyte.io/applications/others/penpot), the web\-based open\-source design tool that's making waves with its powerful features and seamless integration. As a robust alternative to Figma, Adobe XD, and Canvas, Penpot is not just catching up but setting new standards in collaborative design. 
 
 With the release of version 2, Penpot brings significant updates, including flex/grid layout, enhanced components, and improved collaboration capabilities, making it a compelling choice for teams looking to streamline their workflow.
 
@@ -61,7 +60,7 @@ With its powerful flex/grid layout, enhanced components, and improved collaborat
 
 By embracing open standards and providing complete ownership of tools and work, Penpot empowers teams to design and code beautiful products together, without the frustration of traditional handoffs. If you're seeking a flexible, scalable, and collaborative design tool, Penpot is well worth exploring.
 
-[Deploy your own Penpot instance on Elestio.](https://elest.io/open-source/penpot?ref=blog.elest.io)
+[Deploy your own Penpot instance on OctaByte.](https://octabyte.io/applications/others/penpot)
 
 
 

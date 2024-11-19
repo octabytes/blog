@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "PocketBase: Free Open Source Backend as a Service Platform"
-date: "2024-05-10"
+date: "2024-11-19"
 description: "Backend as a Service is the solution for developers who want to focus on building web and mobile apps without worrying about the backend infrastructure.
 BaaS providers offer a set of tools and services that help developers build apps faster and easier.
 It generally includes Database, Authentication, File Storage, Functions,"
@@ -10,6 +10,7 @@ categories: [Backend-as-a-Service]
 cover:
   image: images/cover.png
   caption: "PocketBase: Free Open Source Backend as a Service Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +18,7 @@ TocOpen: true
 
 Backend as a Service is the solution for developers who want to focus on building web and mobile apps without worrying about the backend infrastructure.  
 BaaS providers offer a set of tools and services that help developers build apps faster and easier.  
-It generally includes Database, Authentication, File Storage, Functions, Emails, and more... [PocketBase](https://elest.io/open-source/pocketbase?ref=blog.elest.io) emerges as a versatile and free open\-source BaaS platform, providing developers with a comprehensive set of tools to streamline backend development.
+It generally includes Database, Authentication, File Storage, Functions, Emails, and more... [PocketBase](https://octabyte.io/development/backend-as-a-service/pocketbase) emerges as a versatile and free open\-source BaaS platform, providing developers with a comprehensive set of tools to streamline backend development.
 
 
 
@@ -51,15 +52,15 @@ PocketBase offers customizable transactional emails, including signup confirmati
 
 ## **SDK**
 
-To communicate with your PocketBase backend, [SDKs in JavaScript/TypeScript and Dart](https://pocketbase.io/docs/client-side-sdks?ref=blog.elest.io) are provided. Ideal for web and mobile application development. For developers using other languages, a Rest API is available.
+To communicate with your PocketBase backend, [SDKs in JavaScript/TypeScript and Dart](https://pocketbase.io/docs/client-side-sdks?ref=blog.octabyte.io) are provided. Ideal for web and mobile application development. For developers using other languages, a Rest API is available.
 
 ## **Conclusion**
 
-[PocketBase](https://elest.io/open-source/pocketbase?ref=blog.elest.io) stands as a formidable alternative in BaaS, challenging proprietary solutions like Firebase and other open\-source platforms such as Supabase and Appwrite. 
+[PocketBase](https://octabyte.io/development/backend-as-a-service/pocketbase) stands as a formidable alternative in BaaS, challenging proprietary solutions like Firebase and other open\-source platforms such as Supabase and Appwrite. 
 
 With its feature\-rich architecture, extensive customization options, and a commitment to open\-source principles, PocketBase empowers developers to create scalable and innovative applications without the constraints of traditional backend development.
 
-PocketBase beckons with the promise of a robust, scalable, open, and free platform for transforming your backend development experience. [Give it a try on Elestio.](https://elest.io/open-source/pocketbase?ref=blog.elest.io)
+PocketBase beckons with the promise of a robust, scalable, open, and free platform for transforming your backend development experience. [Give it a try on OctaByte.](https://octabyte.io/development/backend-as-a-service/pocketbase)
 
 
 
