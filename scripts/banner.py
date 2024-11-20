@@ -1,6 +1,10 @@
 from PIL import Image
 
-post_name = "softwares/vaultwarden-migrate-to-vaultwarden"
+post_name = "content/posts/getting started/best-practices-for-importing-users-from-legacy-applications-to-keycloak/images/cover.png"
+
+post_name = post_name.replace("content/posts/", "")
+post_name = post_name.replace("/images/cover.png", "")
+post_name = post_name.replace("/images/cover.jpg", "")
 
 # Paths to images
 banner_path = "../static/images/octabyte-banner.png"
