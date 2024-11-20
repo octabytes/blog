@@ -21,7 +21,7 @@ with open(markdown_file, "r", encoding="utf-8") as file:
 # Find all image URLs
 image_urls = re.findall(image_url_pattern, content)
 
-# Download each image
+# Download each image and replace URLs in the Markdown content
 for url in image_urls:
     try:
         # Get the filename from the URL
@@ -38,5 +38,15 @@ for url in image_urls:
                 image_file.write(chunk)
 
         print(f"Downloaded: {image_name}")
+
+        # Replace the URL in the Markdown content
+        local_image_path = f"images/{image_name}"
+        content = content.replace(url, local_image_path)
     except Exception as e:
         print(f"Failed to download {url}: {e}")
+
+# Write the updated content back to the Markdown file
+with open(markdown_file, "w", encoding="utf-8") as file:
+    file.write(content)
+
+print("Markdown file updated successfully.")
