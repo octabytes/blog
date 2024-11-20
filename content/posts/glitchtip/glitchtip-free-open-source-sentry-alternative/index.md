@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "GlitchTip: Free open-source error tracking, uptime and performance monitoring"
-date: "2024-04-25"
-description: "Discover GlitchTip, your go-to solution for open-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
-
-
-Error Tracking System
-
-Say goodbye to scattered error reports. GlitchTip consolidates every error from your"
-tags: []
-categories: [Monitoring]
+date: "2024-11-20"
+description: "GlitchTip offers open-source solutions for error tracking, uptime monitoring, and performance analysis, focusing on simplicity, affordability, and flexibility. It integrates with Sentry SDKs and provides real-time error tracking, uptime alerts, and easy performance insights."
+tags: [error tracking, uptime monitoring, performance monitoring, open-source, software monitoring, Sentry, alerts, affordability, simplicity, GlitchTip]
+categories: [Hosting and Infrastructure,Monitoring]
 cover:
   image: images/cover.png
   caption: "GlitchTip: Free open-source error tracking, uptime and performance monitoring"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Discover [GlitchTip](https://octabyte.io/open-source/glitchtip?ref=blog.octabyte.io), your go\-to solution for open\-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
+Discover [GlitchTip](https://octabyte.io/hosting-and-infrastructure/monitoring/glitchtip), your go\-to solution for open\-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
 
 
 
@@ -48,7 +44,7 @@ Choose GlitchTip if you prioritize simplicity, affordability, and the advantages
 
 Whether you run it on your server, the cloud version, or opt for our hosting, GlitchTip empowers you to monitor errors, track performance, and ensure uptime, all in one convenient platform. 
 
-[Experience the ease of software monitoring with GlitchTip.](https://octabyte.io/open-source/glitchtip?ref=blog.octabyte.io)
+[Experience the ease of software monitoring with GlitchTip.](https://octabyte.io/hosting-and-infrastructure/monitoring/glitchtip)
 
 
 

@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Feature Flagging and Remote Configuration with Flagsmith"
-date: "2024-01-20"
-description: "In the ever-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data-driven decisions can make all the difference. This is where Flagsmith, the Feature Flag & Remote Config Service, comes into play.
-
-In this article, we'll explore"
-tags: []
-categories: [Dev tools]
+date: "2024-11-20"
+description: "Flagsmith is a powerful Feature Flag and Remote Configuration service that allows developers to manage feature flags efficiently, customize user experiences, and streamline development across multiple platforms. It offers fine-grained control, supports A/B and multivariate testing, and enables remote configuration for rapid iteration without code changes."
+tags: [feature flags, remote configuration, A/B testing, multivariate testing, feature toggles, software development, Flagsmith, web development, mobile development, server-side development, experimentation, canary deployments, customization]
+categories: [Development, Dev tools]
 cover:
   image: images/cover.png
   caption: "Feature Flagging and Remote Configuration with Flagsmith"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In the ever\-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data\-driven decisions can make all the difference. This is where [Flagsmith](https://octabyte.io/open-source/flagsmith?ref=blog.octabyte.io), the Feature Flag \& Remote Config Service, comes into play. 
+In the ever\-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data\-driven decisions can make all the difference. This is where [Flagsmith](https://octabyte.io/development/dev-tools/flagsmith), the Feature Flag \& Remote Config Service, comes into play. 
 
 In this article, we'll explore how [Flagsmith](https://www.flagsmith.com/?ref=blog.octabyte.io) empowers developers to manage feature flags efficiently, tailor experiences, and streamline the development process.
 
@@ -57,7 +56,7 @@ This level of flexibility empowers you to deploy functional and visual changes t
 
 Flagsmith is your go\-to solution for managing feature flags and remote configurations. It streamlines the development process, enhances control, and enables data\-driven decisions. 
 
-[Enable feature flags and remote configuration with Flagsmith](https://octabyte.io/open-source/flagsmith?ref=blog.octabyte.io)
+[Enable feature flags and remote configuration with Flagsmith](https://octabyte.io/development/dev-tools/flagsmith)
 
 
 

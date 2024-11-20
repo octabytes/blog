@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Gophish: Free Open-source Phishing Framework"
-date: "2024-08-20"
-description: "In today's digital landscape, phishing attacks pose a significant threat to organizations of all sizes. These malicious attempts to obtain sensitive information can lead to severe financial and reputational damage.
-
-To combat this, Gophish, a powerful open-source phishing framework, offers a comprehensive solution to test and improve your"
-tags: []
-categories: [Dev tools]
+date: "2024-11-20"
+description: "Gophish is an open-source phishing framework that helps organizations assess their vulnerability to phishing attacks by simulating real-world phishing campaigns, tracking results in real-time, and enhancing overall security with customizable email templates, landing pages, and detailed analytics."
+tags: [Gophish, phishing, cybersecurity, open-source, security, email templates, phishing simulation, campaigns, analytics, human error, training, phishing attacks, email security, digital security, vulnerability testing]
+categories: [Development, Dev tools]
 cover:
   image: images/cover.png
   caption: "Gophish: Free Open-source Phishing Framework"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In today's digital landscape, phishing attacks pose a significant threat to organizations of all sizes. These malicious attempts to obtain sensitive information can lead to severe financial and reputational damage. 
 
-To combat this, [Gophish](https://octabyte.io/open-source/gophish?ref=blog.octabyte.io), a powerful open\-source phishing framework, offers a comprehensive solution to test and improve your organization's resilience against phishing attacks. With Gophish, you can easily launch phishing campaigns, track results in real\-time, and enhance your overall security posture.
+To combat this, [Gophish](https://octabyte.io/development/dev-tools/gophish), a powerful open\-source phishing framework, offers a comprehensive solution to test and improve your organization's resilience against phishing attacks. With Gophish, you can easily launch phishing campaigns, track results in real\-time, and enhance your overall security posture.
 
 
 
@@ -65,7 +64,7 @@ By identifying vulnerabilities and training employees, you can significantly red
 
 Embrace Gophish and take a proactive approach to securing your organization's digital landscape.
 
-[Deploy your Gophish instance with OctaByte](https://octabyte.io/open-source/gophish?ref=blog.octabyte.io)
+[Deploy your Gophish instance with OctaByte](https://octabyte.io/development/dev-tools/gophish)
 
 
 

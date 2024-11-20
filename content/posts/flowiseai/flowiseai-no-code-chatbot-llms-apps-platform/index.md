@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "FlowiseAI: No Code ChatBot & LLMs Apps Platform"
-date: "2024-04-07"
-description: "Welcome to the future of application development—introducing FlowiseAI, the cutting-edge platform that propels the creation of Chatbots and Large Language Model (LLM) applications into an era of simplicity and innovation. This blog unwraps the transformative features that position FlowiseAI as the go-to solution for both seasoned developers and those"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "FlowiseAI is an innovative platform that simplifies the creation of Chatbots and Large Language Model (LLM) applications. It empowers developers and no-code enthusiasts to design and integrate sophisticated applications through a visual editor, marketplace, and easy embedding features."
+tags: [FlowiseAI, Chatbots, LLM, No-code, Application Development, Visual Editor, Embed, Marketplace, Development, Technology, Innovation, API, Integration]
+categories: [Development, Others]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "FlowiseAI: No Code ChatBot & LLMs Apps Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Welcome to the future of application development—introducing [FlowiseAI](https://octabyte.io/open-source/flowiseai?ref=blog.octabyte.io), the cutting\-edge platform that propels the creation of Chatbots and Large Language Model (LLM) applications into an era of simplicity and innovation. This blog unwraps the transformative features that position FlowiseAI as the go\-to solution for both seasoned developers and those embracing the world of no\-code application design.
+Welcome to the future of application development—introducing [FlowiseAI](https://octabyte.io/development/others/flowiseai), the cutting\-edge platform that propels the creation of Chatbots and Large Language Model (LLM) applications into an era of simplicity and innovation. This blog unwraps the transformative features that position FlowiseAI as the go\-to solution for both seasoned developers and those embracing the world of no\-code application design.
 
 
 
@@ -47,7 +48,7 @@ In conclusion, FlowiseAI stands as a trailblazer in the realm of no\-code LLMs a
 
 It empowers creators, fuels collaboration, and propels the industry toward a future where application development is accessible to all. 
 
-[Experience the magic of building No Code ChatBot \& LLM Apps with FlowiseAI and OctaByte.](https://octabyte.io/open-source/flowiseai?ref=blog.octabyte.io)
+[Experience the magic of building No Code ChatBot \& LLM Apps with FlowiseAI and OctaByte.](https://octabyte.io/development/others/flowiseai)
 
 
 

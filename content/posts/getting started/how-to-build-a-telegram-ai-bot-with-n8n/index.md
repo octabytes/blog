@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to build a Telegram AI bot with N8N"
-date: "2024-04-24"
-description: "Let's see how you can create a Telegram AI bot with N8N open-source. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, ensure you have deployed N8N, we will be self-hosting it on OctaByte."
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This tutorial guides you through creating a Telegram AI bot using the open-source N8N automation tool. You will learn how to set up the Telegram and OpenAI credentials, use a workflow template, and integrate the AI bot to generate images based on user inputs in Telegram chats."
+tags: [Telegram, AI bot, N8N, automation, OpenAI, LangChain, workflow, self-hosting, OctaByte, credentials, tutorial, image generation]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "How to build a Telegram AI bot with N8N"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can create a Telegram AI bot with [N8N](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) open\-source. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Let's see how you can create a Telegram AI bot with [N8N](https://octabyte.io/applications/automation/n8n) open\-source. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -53,7 +54,7 @@ And done! You have successfully created atelegram AI bot that takes inputs and r
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and start building your Telegram AI bot that generates images as requested in the chats. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and start building your Telegram AI bot that generates images as requested in the chats. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "immudb & Minio: immutable ledger database instead connected to an object storage. A fast and safe alternative to blockchains."
-date: "2024-03-28"
-description: "Traditional database transactions and logs are mutable, and therefore there is no way to know for sure if your data has been compromised. immudb is immutable. You can add new versions of existing records, but never change or delete records.
-
-This lets you store critical data without fear of it"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "immudb is an immutable database that offers a high-performance alternative to blockchains and centralized systems like AWS QLDB. It provides versioned, timestamped, and cryptographically verifiable data storage, making it ideal for secure and tamper-proof applications. It supports both SQL and NoSQL and can be integrated with storage solutions like MinIO for scalability. Additionally, it offers SDKs, REST API, and a web UI for easy interaction."
+tags: [immutable, database, open-source, blockchain, ledger, SQL, NoSQL, MinIO, cloud, storage, security, audit, compliance, supply chain, finance, identity management, Prometheus, SDK, REST API, web UI]
+categories: [Databases, Specialized databases]
 cover:
   image: images/cover.png
   caption: "immudb & Minio: immutable ledger database instead connected to an object storage. A fast and safe alternative to blockchains."
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -53,7 +52,7 @@ OctaByte makes it easy to deploy a dedicated instance of immudb on any cloud, we
 ## Quickstart
 
 **Step 1: deploy a dedicated immudb instance**  
-click here: [https://dash.elest.io/deploy?soft\=immudb\&id\=251](https://dash.elest.io/deploy?soft=ImmuDB&id=251&ref=blog.octabyte.io)
+click here: [https://octabyte.io/databases/specialized-databases/immudb](https://octabyte.io/databases/specialized-databases/immudb)
 
 ![OctaByte dashboard > Services > New](https://lh3.googleusercontent.com/623C2wihgsCCfKctGqYum9wvoIIKnBmXyLQNv3gmMhvOlmGn4FbBtx62XCTIt7APxypIzDUoCMGSsBGvIM-i8kVoIuRDskz0zEmXWU3HaPDffV_RZpgZURIcaK1wJHnzjrGw_AnSHLXqo8I6Dw)
 
@@ -176,5 +175,5 @@ If you want automated backups, reverse proxy with SSL termination, DOS protectio
 
 Click on the button below to get a fully managed instance of immudb ready to use in less than 3 minutes. 
 
-[Deploy immudb](https://dash.elest.io/deploy?soft=ImmuDB&id=251&ref=blog.octabyte.io)
+[Deploy immudb](https://octabyte.io/databases/specialized-databases/immudb)
 

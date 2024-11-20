@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Implementing SSO Authentication with Keycloak"
-date: "2024-04-26"
-description: "In this blog, we will implement Single Sign-On (SSO) authentication with Keycloak. During this tutorial, we will take an example of SSO between Keycloak and Google Workspace accounts. You can also choose the cloud identity of your choice to get started. Before we start, make sure you have deployed Keycloak,"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This blog explains how to implement Single Sign-On (SSO) authentication with Keycloak, using Google Workspace as an example. It covers configuring Keycloak, creating a SAML client, exporting and converting signing certificates, and setting up Cloud Identity for SSO integration."
+tags: [Keycloak, SSO, Authentication, Google Workspace, Identity Management, SAML, Cloud Identity, Single Sign-On, Red Hat, Security, Web Applications]
+categories: [Development, Identity, Access Management]
 cover:
   image: images/cover.png
   caption: "Implementing SSO Authentication with Keycloak"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In this blog, we will implement Single Sign\-On (SSO) authentication with Keycloak. During this tutorial, we will take an example of SSO between Keycloak and Google Workspace accounts. You can also choose the cloud identity of your choice to get started. Before we start, make sure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io).
+In this blog, we will implement Single Sign\-On (SSO) authentication with Keycloak. During this tutorial, we will take an example of SSO between Keycloak and Google Workspace accounts. You can also choose the cloud identity of your choice to get started. Before we start, make sure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak).
 
 ## What is Keycloak?
 
@@ -82,7 +83,7 @@ MIICmzCCAYMCBgF7v8/V1TANBgkq...
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official Keycloak documentation to learn more about the Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and implement this SSO authentication method. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official Keycloak documentation to learn more about the Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak) and implement this SSO authentication method. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

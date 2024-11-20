@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Hi.Events: Best Free Open-source Platform to Sell Tickets Online"
-date: "2024-04-20"
-description: "Finding the right platform to host and manage events online that is both powerful and affordable can be a challenge. Hi.Events steps in as the perfect solution—an open-source platform that offers everything you need to create, manage, and sell tickets for your events, all for free.
-
-Whether you&"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Hi.Events is a free, open-source platform designed for event organizers to manage and sell tickets online. It offers a user-friendly interface for event creation, customizable ticketing options, and powerful check-in tools. With flexibility in ticket types, branding, and real-time attendee tracking, Hi.Events is the ideal solution for both small and large-scale events."
+tags: [event management, ticketing, open-source, event platform, online events, event tickets, customizable tickets, QR code check-in, Stripe, event page builder, flexible pricing, donation tickets, event organizers, event tools]
+categories: [Applications, Others]
 cover:
   image: images/cover.png
   caption: "Hi.Events: Best Free Open-source Platform to Sell Tickets Online"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Finding the right platform to host and manage events online that is both powerful and affordable can be a challenge. [Hi.Events](https://octabyte.io/open-source/hi-events?ref=blog.octabyte.io) steps in as the perfect solution—an open\-source platform that offers everything you need to create, manage, and sell tickets for your events, all for free. 
+Finding the right platform to host and manage events online that is both powerful and affordable can be a challenge. [Hi.Events](https://octabyte.io/applications/others/hi-events) steps in as the perfect solution—an open\-source platform that offers everything you need to create, manage, and sell tickets for your events, all for free. 
 
 Whether you're hosting a virtual workshop, a local meet\-up, or a large\-scale conference, Hi.Events gives you full control over your event management process. Let’s dive into its key features that make it stand out from other ticketing platforms.
 
@@ -69,7 +68,7 @@ With full control over your event management and ticket sales, Hi.Events empower
 
 Whether you're planning a small gathering or a large conference, Hi.Events offers all the tools you need to sell tickets and manage your event efficiently. 
 
-[Give it a try and experience the freedom of open\-source event management today!](https://octabyte.io/open-source/hi-events?ref=blog.octabyte.io)
+[Give it a try and experience the freedom of open\-source event management today!](https://octabyte.io/applications/others/hi-events)
 
 
 

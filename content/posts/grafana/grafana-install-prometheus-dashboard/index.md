@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Grafana: Install Prometheus Dashboard"
-date: "2024-03-19"
-description: "Configuring a Prometheus data source in Grafana allows you to use Grafana's visualization capabilities with Prometheus' monitoring and alerting features. This guide will provide detailed steps to help you set up and configure the Prometheus data source in Grafana. For this tutorial, we will be using Grafana"
-tags: []
-categories: [Monitoring]
+date: "2024-11-20"
+description: "This guide walks through the steps to configure Prometheus as a data source in Grafana, enabling the use of Grafana's visualization features with Prometheus' monitoring and alerting capabilities. The tutorial includes setting up basic configurations and creating dashboards using the Prometheus data source."
+tags: [Prometheus, Grafana, data source, configuration, tutorial, monitoring, dashboards, OctaByte, visualization, query builder, PromQL]
+categories: [Hosting and Infrastructure, Monitoring]
 cover:
   image: images/cover.png
   caption: "Grafana: Install Prometheus Dashboard"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Configuring a [Prometheus](https://octabyte.io/open-source/prometheus?ref=blog.octabyte.io) data source in [Grafana](https://octabyte.io/open-source/grafana?ref=blog.octabyte.io) allows you to use Grafana's visualization capabilities with Prometheus' monitoring and alerting features. This guide will provide detailed steps to help you set up and configure the Prometheus data source in Grafana. For this tutorial, we will be using Grafana and Prometheus services hosted on OctaByte.
+Configuring a [Prometheus](https://octabyte.io/hosting-and-infrastructure/monitoring/prometheus) data source in [Grafana](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana) allows you to use Grafana's visualization capabilities with Prometheus' monitoring and alerting features. This guide will provide detailed steps to help you set up and configure the Prometheus data source in Grafana. For this tutorial, we will be using Grafana and Prometheus services hosted on OctaByte.
 
 ## Adding Prometheus as a Data Source
 
@@ -44,7 +45,7 @@ With the Prometheus data source configured, you can now start creating dashboard
 
 ## **Thanks for reading ❤️**
 
-This tutorial has walked you through the detailed steps of accessing the data source configuration, setting up basic configuration options, and utilizing the Prometheus data source in Grafana. By following these steps, you can now create dynamic and informative dashboards. Thank you for reading, and be sure to check out additional resources and the official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more. Click the button below to get started with your service on [OctaByte](https://octabyte.io/open-source/grafana?ref=blog.octabyte.io). See you in the next one! 👋
+This tutorial has walked you through the detailed steps of accessing the data source configuration, setting up basic configuration options, and utilizing the Prometheus data source in Grafana. By following these steps, you can now create dynamic and informative dashboards. Thank you for reading, and be sure to check out additional resources and the official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more. Click the button below to get started with your service on [OctaByte](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). See you in the next one! 👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/grafana?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana)
 

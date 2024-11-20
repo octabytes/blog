@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Grafana: Create Users And  Teams"
-date: "2024-11-24"
-description: "We will explore how to manage users in Grafana. Whether you are an admin or just someone looking to understand user management in Grafana, this guide will help you. We will cover how to add local users, organize them into teams, and ensure they have access only to the resources"
-tags: []
-categories: [Monitoring]
+date: "2024-11-20"
+description: "This guide explains how to manage users in Grafana, covering the creation of users, teams, and assigning roles to ensure proper access control. It outlines the types of roles available in Grafana and provides step-by-step instructions on how to add users, create teams, and manage permissions."
+tags: [Grafana, user management, teams, roles, permissions, dashboard, access control, admin, editor, viewer, Grafana Admin, Organization Administrator, team management, security]
+categories: [Hosting and Infrastructure, Monitoring]
 cover:
   image: images/cover.png
   caption: "Grafana: Create Users And  Teams"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will explore how to manage users in [Grafana](https://octabyte.io/open-source/grafana?ref=blog.octabyte.io). Whether you are an admin or just someone looking to understand user management in Grafana, this guide will help you. We will cover how to add local users, organize them into teams, and ensure they have access only to the resources they need. Managing users and teams effectively is crucial for maintaining security and organization within your Grafana instance.
+We will explore how to manage users in [Grafana](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). Whether you are an admin or just someone looking to understand user management in Grafana, this guide will help you. We will cover how to add local users, organize them into teams, and ensure they have access only to the resources they need. Managing users and teams effectively is crucial for maintaining security and organization within your Grafana instance.
 
 ## Types Of Users
 
@@ -63,7 +64,7 @@ By default, new users are granted the viewer role, which means they can't change
 
 ## **Thanks for reading ❤️**
 
-By organizing users into teams and assigning appropriate roles, you can ensure that each user has the access they need while maintaining control over your resources. This tutorial has walked you through the process of adding users, creating teams, and managing permissions, setting you up for efficient user management in Grafana. Thank you so much for reading and do check out the OctaByte resources and Official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more about Grafana. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/grafana?ref=blog.octabyte.io). See you in the next one👋
+By organizing users into teams and assigning appropriate roles, you can ensure that each user has the access they need while maintaining control over your resources. This tutorial has walked you through the process of adding users, creating teams, and managing permissions, setting you up for efficient user management in Grafana. Thank you so much for reading and do check out the OctaByte resources and Official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more about Grafana. You can click the button below to create your service on [OctaByte](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/grafana?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana)
 

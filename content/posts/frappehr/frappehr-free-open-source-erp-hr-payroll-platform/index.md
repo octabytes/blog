@@ -1,23 +1,20 @@
 ---
-draft: true
+draft: false
 title: "FrappeHR: Free Open-source ERP, HR & Payroll Platform"
-date: "2024-10-16"
-description: "In the landscape of business management software, FrappeHR stands out as a robust, open-source solution designed to streamline human resources and payroll operations.
-
-Built on the Frappe Framework, FrappeHR offers a comprehensive suite of tools to manage everything from employee onboarding to payroll processing.
-
-This article explores the various features"
-tags: []
-categories: [CRM, ERP, HRMS]
+date: "2024-11-20"
+description: "FrappeHR is an open-source, integrated HR and payroll management system built on the Frappe Framework, offering comprehensive tools for employee management, payroll processing, and ERP functionality. It streamlines business operations and ensures efficiency across HR, payroll, and ERP modules."
+tags: [FrappeHR, HR management, payroll, ERP, employee management, onboarding, offboarding, performance management, training, tax compliance, CRM, business software, open-source, integration, automation, expense management, fleet management]
+categories: [Applications, CRM, ERP, HRMS]
 cover:
   image: images/cover.png
   caption: "FrappeHR: Free Open-source ERP, HR & Payroll Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In the landscape of business management software, [FrappeHR](https://octabyte.io/open-source/frappehr?ref=blog.octabyte.io) stands out as a robust, open\-source solution designed to streamline human resources and payroll operations. 
+In the landscape of business management software, [FrappeHR](https://octabyte.io/applications/crm-erp/frappehr) stands out as a robust, open\-source solution designed to streamline human resources and payroll operations. 
 
 Built on the Frappe Framework, FrappeHR offers a comprehensive suite of tools to manage everything from employee onboarding to payroll processing. 
 
@@ -70,7 +67,7 @@ FrappeHR is an ultimate all\-in\-one solution for organizations looking to optim
 
 With FrappeHR, businesses can enjoy a seamless, integrated experience that drives efficiency and supports growth. Whether you are a small startup or a large enterprise, FrappeHR is the perfect solution to elevate your HR and payroll operations to the next level.
 
-[Deploy your FrappeHR with OctaByte.](https://octabyte.io/open-source/frappehr?ref=blog.octabyte.io)
+[Deploy your FrappeHR with OctaByte.](https://octabyte.io/applications/crm-erp/frappehr)
 
 
 

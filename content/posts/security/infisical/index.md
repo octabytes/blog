@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Infisical: Open Source Secrets Management Platform"
-date: "2024-12-28"
-description: "In today's fast-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration - Infisical."
-tags: []
-categories: [Password manager]
+date: "2024-11-20"
+description: "Infisical is an open-source platform for secure, efficient secrets and environment variable management. It centralizes sensitive information, streamlines onboarding, and simplifies permissions and access control, empowering teams to focus on development."
+tags: [Infisical, open-source, secrets management, environment variables, security, team collaboration, permissions, onboarding, CLI, SecretOps, development tools]
+categories: [Applications, Password manager]
 cover:
   image: images/cover.png
   caption: "Infisical: Open Source Secrets Management Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In today's fast\-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration \- [Infisical](https://octabyte.io/open-source/infisical?ref=blog.octabyte.io).
+In today's fast\-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration \- [Infisical](https://octabyte.io/applications/password-manager/infisical).
 
 
 
@@ -45,7 +46,7 @@ To further simplify operations and enhance developers' productivity, Infisical p
 
 ## Conclusion
 
-[Infisical](https://octabyte.io/open-source/infisical?ref=blog.octabyte.io) is a game\-changer in the world of secrets management. 
+[Infisical](https://octabyte.io/applications/password-manager/infisical) is a game\-changer in the world of secrets management. 
 
 By providing a centralized, secure, and intuitive platform, Infisical empowers teams to streamline their development workflows, boost collaboration, and ensure data security. 
 

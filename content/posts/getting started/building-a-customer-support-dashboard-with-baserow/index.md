@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Building a Customer Support Dashboard with Baserow"
-date: "2024-01-28"
-description: "Let's see how you can build a Customer Support Dashboard with Baserow. During this tutorial, we will be creating a database and application which returns the particular record once the button is created. We are going to create this application from scratch. Before we start, ensure you have"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Learn how to build a customer support dashboard using Baserow, an open-source no-code database platform. This tutorial guides you through creating a database, building an application, and setting up a button that shows notifications with data from your database."
+tags: [Baserow, No-code, Database, Dashboard, Customer Support, Self-hosting, Application, Tutorial, OctaByte]
+categories: [Development, No code, Low code]
 cover:
   image: images/cover.png
   caption: "Building a Customer Support Dashboard with Baserow"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can build a Customer Support Dashboard with [Baserow](https://octabyte.io/open-source/baserow?ref=blog.octabyte.io). During this tutorial, we will be creating a database and application which returns the particular record once the button is created. We are going to create this application from scratch. Before we start, ensure you have deployed Baserow, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/baserow?ref=blog.octabyte.io).
+Let's see how you can build a Customer Support Dashboard with [Baserow](https://octabyte.io/development/nocode-lowcode/baserow). During this tutorial, we will be creating a database and application which returns the particular record once the button is created. We are going to create this application from scratch. Before we start, ensure you have deployed Baserow, we will be self\-hosting it on [OctaByte](https://octabyte.io/development/nocode-lowcode/baserow).
 
 ## What is Baserow?
 
@@ -57,7 +58,7 @@ Head over to the preview section or publish it if you wish. To test the working 
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Baserow documentation](https://baserow.io/docs/index?ref=blog.octabyte.io) to learn more about Baserow. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/baserow?ref=blog.octabyte.io) and build your customer support dashboards. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Baserow documentation](https://baserow.io/docs/index?ref=blog.octabyte.io) to learn more about Baserow. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/nocode-lowcode/baserow) and build your customer support dashboards. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/baserow?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/nocode-lowcode/baserow)
 

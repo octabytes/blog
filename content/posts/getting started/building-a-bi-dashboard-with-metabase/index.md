@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Building a BI Dashboard with Metabase"
-date: "2024-02-26"
-description: "Let's see how you can build a BI Dashboard with Metabase. During this tutorial, we will be creating a BI dashboard to analyse the provided data and visualize it in a dashboard. We are going to create this application from scratch. Before we start, make sure you have"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This tutorial walks through creating a Business Intelligence (BI) dashboard using Metabase, including collection creation, data modeling, dashboard building, and data visualization for customer feedback analysis."
+tags: [Metabase, BI Dashboard, Data Visualization, Business Intelligence, Data Analysis, Dashboard Creation, Self-Hosting, OctaByte, Tutorial]
+categories: [Applications, Business intelligence]
 cover:
   image: images/cover.png
   caption: "Building a BI Dashboard with Metabase"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can build a BI Dashboard with [Metabase](https://octabyte.io/open-source/metabase?ref=blog.octabyte.io). During this tutorial, we will be creating a BI dashboard to analyse the provided data and visualize it in a dashboard. We are going to create this application from scratch. Before we start, make sure you have deployed Metabase, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/metabase?ref=blog.octabyte.io).
+Let's see how you can build a BI Dashboard with [Metabase](https://octabyte.io/applications/business-intelligence/metabase). During this tutorial, we will be creating a BI dashboard to analyse the provided data and visualize it in a dashboard. We are going to create this application from scratch. Before we start, make sure you have deployed Metabase, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/business-intelligence/metabase).
 
 ## What is Metabase?
 
@@ -51,7 +52,7 @@ You can add your visualizations and data to the dashboard by clicking on the "**
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Metabase documentation](https://www.metabase.com/docs/latest/?ref=blog.octabyte.io) to learn more about Metabase. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/metabase?ref=blog.octabyte.io) and build your BI dashboards. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Metabase documentation](https://www.metabase.com/docs/latest/?ref=blog.octabyte.io) to learn more about Metabase. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/metabase) and build your BI dashboards. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/metabase?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/metabase)
 
