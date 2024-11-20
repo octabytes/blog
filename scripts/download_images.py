@@ -2,7 +2,10 @@ import os
 import re
 import requests
 
-post_name = "directus/importing-existing-projects-into-directus"
+post_name = "content/posts/getting started/building-a-bi-dashboard-with-metabase/index.md"
+
+post_name = post_name.replace("content/posts/", "")
+post_name = post_name.replace("/index.md", "")
 
 # Paths
 markdown_file = f"../content/posts/{post_name}/index.md"

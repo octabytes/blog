@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-In this blog, we will implement Single Sign\-On (SSO) authentication with Keycloak. During this tutorial, we will take an example of SSO between Keycloak and Google Workspace accounts. You can also choose the cloud identity of your choice to get started. Before we start, make sure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak).
+In this blog, we will implement Single Sign\-On (SSO) authentication with Keycloak. During this tutorial, we will take an example of SSO between Keycloak and Google Workspace accounts. You can also choose the cloud identity of your choice to get started. Before we start, make sure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](images/keycloak).
 
 ## What is Keycloak?
 
@@ -30,21 +30,21 @@ Once logged in to Keycloak, create or switch to your preferred realm and head ov
 
 ![](images/Screenshot-2024-04-24-at-7.34.33-PM.jpg)We will be using SAML federation for setup here so we will set client type as **SAML**, client id becomes **google.com** and name can be anything of your choice like I have given here as **Google Cloud**.
 
-![](https://blog.elest.io/content/images/2024/04/Screenshot-2024-04-24-at-7.36.23-PM.jpg)In the next step add **https://www.google.com/\*** as valid redirect URIs. You can add multiple URIs.
+![](images/Screenshot-2024-04-24-at-7.36.23-PM.jpg)In the next step add **https://www.google.com/\*** as valid redirect URIs. You can add multiple URIs.
 
-![](https://blog.elest.io/content/images/2024/04/Screenshot-2024-04-24-at-7.36.54-PM.jpg)Now we will be configuring additional settings for **google.com**. Select **email** from the dropdown for **Force Name ID format** and toggle it **on**.
+![](images/Screenshot-2024-04-24-at-7.36.54-PM.jpg)Now we will be configuring additional settings for **google.com**. Select **email** from the dropdown for **Force Name ID format** and toggle it **on**.
 
-![](https://blog.elest.io/content/images/2024/04/Screenshot-2024-04-24-at-8.11.09-PM.jpg)Next, under signature and encryption section toggle **off** the **Sign documents** option and toggle **on Sign assertions**.
+![](images/Screenshot-2024-04-24-at-8.11.09-PM.jpg)Next, under signature and encryption section toggle **off** the **Sign documents** option and toggle **on Sign assertions**.
 
-![](https://blog.elest.io/content/images/2024/04/Screenshot-2024-04-24-at-8.14.38-PM.jpg)Now head over to the Keys section and turn **off** the **Client Signature required** settings. This step is optional and you can choose to validate the keys and move ahead. For the simplicity of this article we are going to keep it off.
+![](images/Screenshot-2024-04-24-at-8.14.38-PM.jpg)Now head over to the Keys section and turn **off** the **Client Signature required** settings. This step is optional and you can choose to validate the keys and move ahead. For the simplicity of this article we are going to keep it off.
 
-![](https://blog.elest.io/content/images/2024/04/Screenshot-2024-04-24-at-8.16.00-PM.jpg)## Exporting Signing Certificate
+![](images/Screenshot-2024-04-24-at-8.16.00-PM.jpg)## Exporting Signing Certificate
 
 Keycloak after authenticating a user passes SAML assertion to Cloud Identity and to enable it to verify the authenticity of that assertion, Keycloak signs the assertion with unique token\-signing key that then provides the certificate that enables cloud identity to check the signature.
 
 To view the certificate, head over to the **Realm Settings** and then go to the **Keys** tab. You will see a row **Algorithm: RS256** and **Use: SIG** and select **Certificate.** A pop up will appear with your certificate content. Now copy this certificate content safely to a notepad or text editor.
 
-![](https://blog.elest.io/content/images/2024/04/Screenshot-2024-04-24-at-8.21.55-PM.jpg)## Converting Signing Certificate
+![](images/Screenshot-2024-04-24-at-8.21.55-PM.jpg)## Converting Signing Certificate
 
 Open your notepad or text editor and paste the following at the begining of the certificate followed by new line
 
@@ -83,7 +83,7 @@ MIICmzCCAYMCBgF7v8/V1TANBgkq...
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official Keycloak documentation to learn more about the Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak) and implement this SSO authentication method. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official Keycloak documentation to learn more about the Keycloak. You can click the button below to create your service on [OctaByte](images/keycloak) and implement this SSO authentication method. See you in the next one👋
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
+[![](/images/octabyte-deploy.png)](images/keycloak)
 

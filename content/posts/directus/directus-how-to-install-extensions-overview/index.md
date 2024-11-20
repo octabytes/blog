@@ -37,7 +37,7 @@ Logged in to VSCode if you don't have credentials then contact with support, ope
 
 
 ```
-FROM elestio/directus:10.x.y
+FROM directus/directus:10.x.y
 
 USER root
 RUN corepack enable
@@ -79,7 +79,7 @@ By following these steps, you can easily extend the capabilities of your Directu
 
 
 
-[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/start-trial/?service=Directus)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](images/?service=Directus)
 
 
 
