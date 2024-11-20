@@ -17,7 +17,7 @@ TocOpen: true
 
 In the ever\-evolving landscape of education, digital tools have become indispensable for educators and institutions alike. Among these tools, Learning Management Systems (LMS) stand out as a cornerstone, enabling the creation, management, and delivery of educational content in a structured and efficient manner. 
 
-One of the most popular and versatile LMS platforms available today is [Moodle](https://elest.io/open-source/moodle?ref=blog.elest.io). As a free, open\-source solution, [Moodle](https://elest.io/open-source/moodle?ref=blog.elest.io) has empowered educators worldwide to craft tailored learning experiences that meet the diverse needs of students. 
+One of the most popular and versatile LMS platforms available today is [Moodle](https://octabyte.io/open-source/moodle?ref=blog.octabyte.io). As a free, open\-source solution, [Moodle](https://octabyte.io/open-source/moodle?ref=blog.octabyte.io) has empowered educators worldwide to craft tailored learning experiences that meet the diverse needs of students. 
 
 In this article, we'll explore the various features of Moodle, including course and lesson creation, enrollment management, and customization options, and why it remains a top choice for institutions and educators seeking a robust and flexible LMS.
 
@@ -73,7 +73,7 @@ Moodle stands out as a powerful, flexible, and cost\-effective Learning Manageme
 
 Whether you're looking to create a simple online course or manage a complex educational program, Moodle provides the tools you need to deliver a high\-quality learning experience. With its strong community support and continuous development, Moodle remains a leading option for anyone seeking a reliable and adaptable LMS.
 
-[![](https://blog.elest.io/content/images/2024/08/Frame-10--13-.png)](https://elest.io/open-source/moodle?ref=blog.elest.io)
+[![](https://blog.octabyte.io/content/images/2024/08/Frame-10--13-.png)](https://octabyte.io/open-source/moodle?ref=blog.octabyte.io)
 
 Try Moodle
 

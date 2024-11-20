@@ -17,7 +17,7 @@ TocOpen: true
 
 In today's fast\-paced digital world, efficient communication within teams is paramount. Many organizations rely on platforms like Slack for this purpose. However, with rising concerns over cost, data privacy, and customization, open\-source alternatives like Mattermost are gaining traction. 
 
-[Mattermost](https://elest.io/open-source/mattermost?ref=blog.elest.io) offers robust features, flexibility, and an open\-source model, making it a compelling choice for businesses and teams of all sizes. This article delves into the various aspects of Mattermost, showcasing why it stands out as a premier alternative to Slack.
+[Mattermost](https://octabyte.io/open-source/mattermost?ref=blog.octabyte.io) offers robust features, flexibility, and an open\-source model, making it a compelling choice for businesses and teams of all sizes. This article delves into the various aspects of Mattermost, showcasing why it stands out as a premier alternative to Slack.
 
 
 
@@ -53,7 +53,7 @@ Mattermost supports end\-to\-end encryption, multi\-factor authentication, and s
 
 Mattermost emerges as a robust, flexible, and secure alternative to Slack, offering a comprehensive communication platform tailored to meet the needs of modern teams. Its open\-source nature, coupled with advanced features like Playbooks and AI integration, makes it an excellent choice for organizations seeking control, customization, and efficiency. 
 
-[Start using Mattermost with Elestio](https://elest.io/open-source/mattermost?ref=blog.elest.io)
+[Start using Mattermost with OctaByte](https://octabyte.io/open-source/mattermost?ref=blog.octabyte.io)
 
 
 

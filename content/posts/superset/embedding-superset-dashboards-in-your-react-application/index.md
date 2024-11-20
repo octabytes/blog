@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-We will knowing more about embedding [Superset](https://elest.io/open-source/superset?ref=blog.elest.io) dashboards in your react application. 
+We will knowing more about embedding [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) dashboards in your react application. 
 
 ### Maximizing Data Insights: Integrating Superset's Image Export with External Applications
 
@@ -64,7 +64,7 @@ embedDashboard({
 ```
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.elest.io) to learn more about Superset. You can click the button below to create your service on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/superset?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
 

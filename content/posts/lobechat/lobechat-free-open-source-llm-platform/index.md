@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-Meet [LobeChat](https://elest.io/open-source/lobechat?ref=blog.elest.io), an open\-source, modern\-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI\-driven interactions.
+Meet [LobeChat](https://octabyte.io/open-source/lobechat?ref=blog.octabyte.io), an open\-source, modern\-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI\-driven interactions.
 
 
 
@@ -30,7 +30,7 @@ Watch our LobeChat platform overview on YouTube
 
 One of the standout features of LobeChat is its support for multiple model service providers. Rather than being confined to a single provider, LobeChat offers users the flexibility to choose from a variety of options, ensuring a rich and diverse selection of conversations. Whether it's AWS Bedrock, Google AI, ChatGLM, or Moonshot AI, LobeChat has you covered, providing access to powerful natural language processing capabilities and deeper conversation understanding.
 
-To meet the specific needs of users, LobeChat also supports the use of local models based on [Ollama](https://ollama.ai/?ref=blog.elest.io), allowing users to flexibly use their own or third\-party models.
+To meet the specific needs of users, LobeChat also supports the use of local models based on [Ollama](https://ollama.ai/?ref=blog.octabyte.io), allowing users to flexibly use their own or third\-party models.
 
 ### **Plugin System**
 
@@ -54,11 +54,11 @@ Whether it's a light mode for daytime or a dark mode for nighttime, users can ta
 
 ### **Conclusion**
 
-[LobeChat](https://elest.io/open-source/lobechat?ref=blog.elest.io) is not just another AI conversation platform—it's a complete solution. With its support for multiple model service providers, extensive plugin ecosystem, seamless mobile experience, and customizable themes, LobeChat is redefining what it means to interact with AI. 
+[LobeChat](https://octabyte.io/open-source/lobechat?ref=blog.octabyte.io) is not just another AI conversation platform—it's a complete solution. With its support for multiple model service providers, extensive plugin ecosystem, seamless mobile experience, and customizable themes, LobeChat is redefining what it means to interact with AI. 
 
 Whether you're a developer looking to create innovative agents or a user seeking personalized AI\-driven experiences, LobeChat has something for everyone. 
 
-[Join the revolution today and experience the future of conversational AI with LobeChat.](https://elest.io/open-source/lobechat?ref=blog.elest.io)
+[Join the revolution today and experience the future of conversational AI with LobeChat.](https://octabyte.io/open-source/lobechat?ref=blog.octabyte.io)
 
 
 

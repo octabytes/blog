@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-In this guide, we'll explore how to secure your self\-hosted instance of[**Apache Superset**](https://elest.io/open-source/superset?ref=blog.elest.io) using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign\-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This guide will take you through the entire process, from setting up your identity provider to configuring Superset for SAML authentication.
+In this guide, we'll explore how to secure your self\-hosted instance of[**Apache Superset**](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign\-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This guide will take you through the entire process, from setting up your identity provider to configuring Superset for SAML authentication.
 
 ### Why Use SAML?
 
@@ -27,7 +27,7 @@ Using SAML for Superset authentication offers several benefits:
 
 Before starting, ensure you have:
 
-* Deployed service **of Apache Superset** on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io).
+* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io).
 * Access to your organization’s **Identity Provider (IdP)** that supports SAML 2\.0 (e.g., Okta, Azure AD, OneLogin).
 * Administrative access to Superset and your IdP.
 
@@ -37,7 +37,7 @@ You need to install the necessary SAML libraries for your Superset instance runn
 
 In the `docker-compose.yml` file, under the Superset service, modify the `superset` image section to add the required `python3-saml` package. You can update the compose config by clicking on **Update config** button in the service dashboard and update it like follows.
 
-![Update cofig option in Elestio](images/Screenshot-2024-10-01-at-6.17.29-PM.jpg)
+![Update cofig option in OctaByte](images/Screenshot-2024-10-01-at-6.17.29-PM.jpg)
 ```
 services:
   superset:
@@ -83,7 +83,7 @@ https://<your_superset_instance>/saml/callback
 
 Next, update the `superset_config.py` file, which holds the configurations for Superset. Since you’re using Docker Compose, the `superset_config.py` file will be located in your mounted volume, if not you can create one by discovering it on **VS Code** under **Tools**.
 
-![Accessing VS Code in Elestio](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-01-at-4.26.11-PM-1.jpg)Open the `superset_config.py` file and add the SAML\-related configurations:
+![Accessing VS Code in OctaByte](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-01-at-4.26.11-PM-1.jpg)Open the `superset_config.py` file and add the SAML\-related configurations:
 
 
 ```
@@ -172,12 +172,12 @@ SAML_SLO_URL = 'https://<your_idp_logout_url>'
 ```
 ## **Thanks for reading ❤️**
 
-Integrating SAML with Apache Superset on Elestio provides a highly secure and streamlined way to authenticate users. By following this guide, you can centralize user management using your IdP, enhance security with SSO, and offer your team a seamless login experience. Thank you so much for reading and do check out the Elestio resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.elest.io) to learn more about Superset. You can click the button below to create your service on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io). See you in the next one👋
+Integrating SAML with Apache Superset on OctaByte provides a highly secure and streamlined way to authenticate users. By following this guide, you can centralize user management using your IdP, enhance security with SSO, and offer your team a seamless login experience. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
 
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/superset?ref=blog.elest.io)
+[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
 
 
 

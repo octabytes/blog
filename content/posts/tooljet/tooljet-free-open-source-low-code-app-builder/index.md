@@ -15,7 +15,7 @@ TocOpen: true
 ---
 
 
-In today's fast\-paced business environment, the ability to quickly develop and deploy custom internal tools is essential. [ToolJet](https://elest.io/open-source/tooljet?ref=blog.elest.io), a free open\-source low\-code app builder, offers a solution that streamlines the development process, allowing organizations to create powerful tools with minimal coding. 
+In today's fast\-paced business environment, the ability to quickly develop and deploy custom internal tools is essential. [ToolJet](https://octabyte.io/open-source/tooljet?ref=blog.octabyte.io), a free open\-source low\-code app builder, offers a solution that streamlines the development process, allowing organizations to create powerful tools with minimal coding. 
 
 This article explores ToolJet's features and how it can revolutionize internal tool development.
 
@@ -67,7 +67,7 @@ ToolJet offers a practical solution for organizations aiming to streamline their
 
 By enabling teams to develop custom applications quickly and efficiently, ToolJet helps businesses remain adaptable and efficient in a competitive market.
 
-[Deploy your ToolJet instance on Elestio.](https://elest.io/open-source/tooljet?ref=blog.elest.io)
+[Deploy your ToolJet instance on OctaByte.](https://octabyte.io/open-source/tooljet?ref=blog.octabyte.io)
 
 
 

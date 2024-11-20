@@ -21,7 +21,7 @@ When it comes to data caching, session management, and real\-time analytics, Red
 
 However, recent changes to Redis’s licensing model and a growing interest in fully open\-source alternatives have led many developers to seek out new options. 
 
-This is where [Valkey](https://elest.io/open-source/valkey?ref=blog.elest.io) comes into play. As a powerful, free, open\-source alternative to Redis, Valkey promises high performance and Redis\-compatibility, all while staying true to a truly open\-source ethos.
+This is where [Valkey](https://octabyte.io/open-source/valkey?ref=blog.octabyte.io) comes into play. As a powerful, free, open\-source alternative to Redis, Valkey promises high performance and Redis\-compatibility, all while staying true to a truly open\-source ethos.
 
 In this article, we'll explore Valkey’s features, its use cases, and why it might be the perfect choice for projects requiring a lightweight, reliable caching solution.
 
@@ -71,7 +71,7 @@ Valkey presents a promising alternative for developers looking to move away from
 
 Whether you need caching, session management, real\-time analytics, or message queuing, Valkey is a reliable option that bridges the gap between the functionality of Redis and the freedom of open\-source software.
 
-[Start using Valkey with Elestio.](https://elest.io/open-source/valkey?ref=blog.elest.io)
+[Start using Valkey with OctaByte.](https://octabyte.io/open-source/valkey?ref=blog.octabyte.io)
 
 
 

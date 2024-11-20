@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-In today's fast\-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration \- [Infisical](https://elest.io/open-source/infisical?ref=blog.elest.io).
+In today's fast\-paced and dynamic development landscape, managing secrets and environment variables efficiently and securely is paramount. Traditional methods often involve juggling multiple repositories, manually granting permissions, and risking security breaches. However, there's an innovative solution that streamlines secrets management and enhances team collaboration \- [Infisical](https://octabyte.io/open-source/infisical?ref=blog.octabyte.io).
 
 
 
@@ -45,7 +45,7 @@ To further simplify operations and enhance developers' productivity, Infisical p
 
 ## Conclusion
 
-[Infisical](https://elest.io/open-source/infisical?ref=blog.elest.io) is a game\-changer in the world of secrets management. 
+[Infisical](https://octabyte.io/open-source/infisical?ref=blog.octabyte.io) is a game\-changer in the world of secrets management. 
 
 By providing a centralized, secure, and intuitive platform, Infisical empowers teams to streamline their development workflows, boost collaboration, and ensure data security. 
 

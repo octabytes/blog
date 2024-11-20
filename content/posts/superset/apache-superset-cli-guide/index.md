@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-Hey everyone, In this blog we will be knowing more about [Superset](https://elest.io/open-source/superset?ref=blog.elest.io) CLI. The Apache Superset CLI (Command Line Interface) is a tool that enhances the management, configuration, and usage of Superset, eliminating the need for direct web interface interaction. This guide provides a detailed overview of how to leverage the Superset CLI effectively.
+Hey everyone, In this blog we will be knowing more about [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) CLI. The Apache Superset CLI (Command Line Interface) is a tool that enhances the management, configuration, and usage of Superset, eliminating the need for direct web interface interaction. This guide provides a detailed overview of how to leverage the Superset CLI effectively.
 
 #### Installation
 
@@ -148,7 +148,7 @@ npm run build
 superset run -p 8088 --with-threads --reload --debugger
 
 ```
-1. Access Superset by visiting [http://localhost:8088](http://localhost:8088/?ref=blog.elest.io) and logging in with the credentials you created.
+1. Access Superset by visiting [http://localhost:8088](http://localhost:8088/?ref=blog.octabyte.io) and logging in with the credentials you created.
 
 ## Initializing the Superset Database
 
@@ -202,7 +202,7 @@ cd ..
 superset run -p 8088 --with-threads --reload --debugger
 
 ```
-Following these steps ensures Superset's database is set up correctly. Access Superset by visiting [http://localhost:8088](http://localhost:8088/?ref=blog.elest.io) in your browser and logging in with the credentials you created.
+Following these steps ensures Superset's database is set up correctly. Access Superset by visiting [http://localhost:8088](http://localhost:8088/?ref=blog.octabyte.io) in your browser and logging in with the credentials you created.
 
 ## Creating an Admin User via Superset CLI
 
@@ -249,7 +249,7 @@ Apache Superset offers a convenient command\-line interface (CLI) for loading ex
 	* Create a file named "my\_values.yaml".
 	* Deploy the configuration as instructed in the Configure your setting overrides section.
 3. **Log in to Superset:**
-	* Access your local Superset instance at [http://localhost:8088](http://localhost:8088/?ref=blog.elest.io).
+	* Access your local Superset instance at [http://localhost:8088](http://localhost:8088/?ref=blog.octabyte.io).
 	* Log in using the default credentials:
 		+ Username: admin
 		+ Password: admin
@@ -270,7 +270,7 @@ Following these steps allows users to efficiently import data into Superset and 
 Apache Superset's command\-line interface (CLI) provides an efficient way to configure the platform, preparing it for seamless data exploration. Follow these steps to configure Superset using the CLI:
 
 1. **Accessing Superset:**
-	* Navigate to [http://localhost:8088](http://localhost:8088/?ref=blog.elest.io) and log in with the admin credentials you created.
+	* Navigate to [http://localhost:8088](http://localhost:8088/?ref=blog.octabyte.io) and log in with the admin credentials you created.
 2. **Configuration File:**
 	* Customize your Superset instance by creating a superset\_config.py file.
 	* Set the SECRET\_KEY and any other desired configurations.
@@ -380,7 +380,7 @@ npm run build
 superset run -p 8088 --with-threads --reload --debugger
 
 ```
-1. Access Superset by opening [http://localhost:8088](http://localhost:8088/?ref=blog.elest.io) in your web browser. Log in using the admin credentials established earlier. For production environments, ensure the SECRET\_KEY is properly configured following official guidelines.
+1. Access Superset by opening [http://localhost:8088](http://localhost:8088/?ref=blog.octabyte.io) in your web browser. Log in using the admin credentials established earlier. For production environments, ensure the SECRET\_KEY is properly configured following official guidelines.
 
 ## Cloning the Superset Repository via Command Line
 
@@ -408,7 +408,7 @@ Ensure that Git is installed on your system before running the clone command. Yo
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.elest.io) to learn more about Superset. You can click the button below to create your service on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/superset?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
 

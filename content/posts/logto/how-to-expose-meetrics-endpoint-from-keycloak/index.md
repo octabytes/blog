@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-Monitoring and tracking the performance and health of your [Keycloak](https://elest.io/open-source/keycloak?ref=blog.elest.io) server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have deployed Keycloak, we will be self\-hosting it on [Elestio](https://elest.io/open-source/keycloak?ref=blog.elest.io). 
+Monitoring and tracking the performance and health of your [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). 
 
 ## Downloading \& Installing Metics SPI
 
@@ -21,11 +21,11 @@ To begin, you need to use the Keycloak Metrics SPI (Service Provider Interface) 
 
 ### Copy the Metrics SPI Jar
 
-First, download the latest jar file by [clicking here](https://github.com/aerogear/keycloak-metrics-spi/releases/download/5.0.0/keycloak-metrics-spi-5.0.0.jar?ref=blog.elest.io) or build it from the source. You can use the [GitHub repository](https://github.com/aerogear/keycloak-metrics-spi?ref=blog.elest.io) and the following command to build from the source. Depending on your Keycloak version, place the jar file in the appropriate directory
+First, download the latest jar file by [clicking here](https://github.com/aerogear/keycloak-metrics-spi/releases/download/5.0.0/keycloak-metrics-spi-5.0.0.jar?ref=blog.octabyte.io) or build it from the source. You can use the [GitHub repository](https://github.com/aerogear/keycloak-metrics-spi?ref=blog.octabyte.io) and the following command to build from the source. Depending on your Keycloak version, place the jar file in the appropriate directory
 
 ![Downloading Jar file from GitHub](images/Screenshot-2024-06-28-at-12.44.51-PM-1.jpg)**Keycloak version 17\+ (Quarkus):**
 
-Elestio is using Keycloak version 17\+ hence we will be placing `.jar` file in the following location. To do the same, head over to the **Tools** section from the navigation bar in the **Elestio Dashboard** and click on **VS Code** to access the VS Code window. You can do the same with the **File Explorer** menu which can be similar found under the **Tools** section.
+OctaByte is using Keycloak version 17\+ hence we will be placing `.jar` file in the following location. To do the same, head over to the **Tools** section from the navigation bar in the **OctaByte Dashboard** and click on **VS Code** to access the VS Code window. You can do the same with the **File Explorer** menu which can be similar found under the **Tools** section.
 
 
 > Ensure that the volume mounted for the provider is correctly set up in `/opt/app/providers`.
@@ -35,7 +35,7 @@ Elestio is using Keycloak version 17\+ hence we will be placing `.jar` file in t
 /opt/app/providers/keycloak-metrics-spi-5.0.0.jar
 
 ```
-![Jar file in providers folder](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-28-at-1.02.22-PM-1.jpg)If performing externally you can add the same process to your `Dockerfile`. You can add it to `build` stage or `run` stage.
+![Jar file in providers folder](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-28-at-1.02.22-PM-1.jpg)If performing externally you can add the same process to your `Dockerfile`. You can add it to `build` stage or `run` stage.
 
 **On Build Stage:**
 
@@ -84,5 +84,5 @@ Replace `<your-keycloak-domain>`, `<http_relative_path>`, and `<realm>` with you
 
 You have successfully exposed the metrics endpoint from your Keycloak server, enabling you to monitor and track its performance effectively. With the metrics endpoint in place, you can integrate Keycloak metrics with your preferred monitoring and alerting tools to keep your system running smoothly.
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/keycloak?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
 

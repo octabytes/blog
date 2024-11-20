@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-Say hello to [Uptime Kuma](https://elest.io/open-source/uptimekuma?ref=blog.elest.io) – the go\-to self\-hosted monitoring tool that's here to simplify your monitoring journey.
+Say hello to [Uptime Kuma](https://octabyte.io/open-source/uptimekuma?ref=blog.octabyte.io) – the go\-to self\-hosted monitoring tool that's here to simplify your monitoring journey.
 
 
 
@@ -50,7 +50,7 @@ You can share the current app/servers/DNS you're monitoring but also inform your
 
 With a fancy, reactive UI/UX, 20\-second intervals, multi\-language support, and proxy compatibility, Uptime Kuma stands as a robust choice for those seeking a comprehensive monitoring platform.
 
-Ready to embark on a monitoring revolution? [Dive into the world of Uptime Kuma with Elestio.](https://elest.io/open-source/uptimekuma?ref=blog.elest.io)
+Ready to embark on a monitoring revolution? [Dive into the world of Uptime Kuma with OctaByte.](https://octabyte.io/open-source/uptimekuma?ref=blog.octabyte.io)
 
 
 

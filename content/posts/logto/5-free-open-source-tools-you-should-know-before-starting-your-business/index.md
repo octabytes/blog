@@ -28,7 +28,7 @@ Watch the video version
 
 
 
-### [\#1 Invoice Ninja](https://elest.io/open-source/invoiceninja?ref=blog.elest.io)
+### [\#1 Invoice Ninja](https://octabyte.io/open-source/invoiceninja?ref=blog.octabyte.io)
 
 If you're looking for a comprehensive invoicing solution, this is the tool for you. Invoice Ninja allows you to create professional invoices, track payments, and manage your expenses.
 
@@ -44,7 +44,7 @@ Watch our dedicated Invoice Ninja platform overview
 
 
 
-### [\#2 NextCloud](https://elest.io/open-source/nextcloud?ref=blog.elest.io)
+### [\#2 NextCloud](https://octabyte.io/open-source/nextcloud?ref=blog.octabyte.io)
 
 A free open\-source alternative to Google Workspace with a suite containing 4 main products, perfectly replacing Google Drive, Meet, Calendar, and Docs.
 
@@ -66,7 +66,7 @@ Watch our dedicated NextCloud platform overview
 
 
 
-### [\#3 Mattermost](https://elest.io/open-source/mattermost?ref=blog.elest.io)
+### [\#3 Mattermost](https://octabyte.io/open-source/mattermost?ref=blog.octabyte.io)
 
 Let’s continue with another free alternative to a widely adopted product: Slack.
 
@@ -74,7 +74,7 @@ Communication is key in any business, and Mattermost is here to help. This open\
 
 In addition, come unique features such as Playbooks, to create checklist\-based process playbooks with workflow orchestration. But also Integrated AI, and advanced security settings.
 
-### [\#4 Vaultwarden](https://elest.io/open-source/vaultwarden?ref=blog.elest.io)
+### [\#4 Vaultwarden](https://octabyte.io/open-source/vaultwarden?ref=blog.octabyte.io)
 
 When running a business, you will probably have many subscriptions to facilitate your operations. Unfortunately, not all software provides a reliable way to invite team members and handle permissions. In those situations, you might need to share passwords with your team.
 
@@ -84,7 +84,7 @@ With features such as Groups, Access controls, and two\-step login, you can make
 
 Besides the unique collaboration features, it’s a great product that you can also use privately as your go\-to password manager.
 
-### [\#5 Paperless\-ngx](https://elest.io/open-source/paperless-ngx?ref=blog.elest.io)
+### [\#5 Paperless\-ngx](https://octabyte.io/open-source/paperless-ngx?ref=blog.octabyte.io)
 
 Unfortunately, even if you decide to operate your business entirely digitally and paperless, you cannot control what administrations, banks, and other companies will do. You will surely continue to receive letters and documents that you will rarely need. But, when you need them you will spend way too much time finding them.
 

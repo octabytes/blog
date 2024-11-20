@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-This guide will explain how to set up **OAuth2 authentication** in [Apache Superset](https://elest.io/open-source/superset?ref=blog.elest.io). OAuth2 is a popular open standard used for access delegation, allowing users to log in securely using third\-party providers like Google or GitHub. By integrating OAuth2 into your Superset instance, you can streamline the login process, ensure proper authentication, and improve user experience. In this tutorial, you’ll learn how to configure OAuth2 in your self\-hosted Superset instance, enabling users to log in with their preferred OAuth2 provider.
+This guide will explain how to set up **OAuth2 authentication** in [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). OAuth2 is a popular open standard used for access delegation, allowing users to log in securely using third\-party providers like Google or GitHub. By integrating OAuth2 into your Superset instance, you can streamline the login process, ensure proper authentication, and improve user experience. In this tutorial, you’ll learn how to configure OAuth2 in your self\-hosted Superset instance, enabling users to log in with their preferred OAuth2 provider.
 
 ### Why Use OAuth2 for Apache Superset?
 
@@ -27,7 +27,7 @@ Integrating OAuth2 with Superset offers several advantages:
 
 Before starting, ensure you have:
 
-* Deployed service **of Apache Superset** on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io).
+* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io).
 * Access to an **OAuth2 provider**, such as Google, GitHub, or any provider that supports OAuth2\.
 * Administrative access to both Superset and your OAuth2 provider account.
 
@@ -37,7 +37,7 @@ To enable OAuth2, you must register Superset as an application with your chosen 
 
 ### For Google OAuth2:
 
-1. Go to the [Google Developers Console](https://console.developers.google.com/?ref=blog.elest.io) and create a new project.
+1. Go to the [Google Developers Console](https://console.developers.google.com/?ref=blog.octabyte.io) and create a new project.
 2. Enable **OAuth 2\.0 APIs** by navigating to APIs \& Services \> Library, and searching for the "Google OAuth API."
 3. In the **Credentials** section, create OAuth2 credentials:
 4. Take note of the **Client ID** and **Client Secret**, as these will be needed in the next step.
@@ -51,7 +51,7 @@ https://<your_superset_instance>/oauth-authorized/google
 ```
 ### For GitHub OAuth2:
 
-1. Go to [GitHub Developer Settings](https://github.com/settings/developers?ref=blog.elest.io) and register a new OAuth2 application.
+1. Go to [GitHub Developer Settings](https://github.com/settings/developers?ref=blog.octabyte.io) and register a new OAuth2 application.
 2. Save the **Client ID** and **Client Secret** for use in the Superset configuration.
 
 Set the **Authorization callback URL** as:
@@ -69,7 +69,7 @@ Next, you'll configure your Superset instance to work with the OAuth2 provider.
 
 1. Edit the `superset_config.py` file in your Docker Compose setup. This file holds Superset’s configuration, if not found head over to **VS Code**  under **Tools** section and create one in specified location (eg: volume mounts)
 
-![Access VS Code in Elestio](images/image-2.png)2. Add the following OAuth2 configurations based on the provider you chose:
+![Access VS Code in OctaByte](images/image-2.png)2. Add the following OAuth2 configurations based on the provider you chose:
 
 ##### For Google OAuth2:
 
@@ -188,12 +188,12 @@ This will automatically create a new user in Superset if they log in using OAuth
 
 ## **Thanks for reading ❤️**
 
-By following this guide, you’ve successfully enabled OAuth2 authentication, created a login process, and improved the overall security of your Superset instance. Now, your team members can securely login with just a few clicks, accessing all the data they need without friction. Thank you so much for reading and do check out the Elestio resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.elest.io) to learn more about Superset. You can click the button below to create your service on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io). See you in the next one👋
+By following this guide, you’ve successfully enabled OAuth2 authentication, created a login process, and improved the overall security of your Superset instance. Now, your team members can securely login with just a few clicks, accessing all the data they need without friction. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
 
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/superset?ref=blog.elest.io)
+[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
 
 
 

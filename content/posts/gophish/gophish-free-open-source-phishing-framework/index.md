@@ -17,7 +17,7 @@ TocOpen: true
 
 In today's digital landscape, phishing attacks pose a significant threat to organizations of all sizes. These malicious attempts to obtain sensitive information can lead to severe financial and reputational damage. 
 
-To combat this, [Gophish](https://elest.io/open-source/gophish?ref=blog.elest.io), a powerful open\-source phishing framework, offers a comprehensive solution to test and improve your organization's resilience against phishing attacks. With Gophish, you can easily launch phishing campaigns, track results in real\-time, and enhance your overall security posture.
+To combat this, [Gophish](https://octabyte.io/open-source/gophish?ref=blog.octabyte.io), a powerful open\-source phishing framework, offers a comprehensive solution to test and improve your organization's resilience against phishing attacks. With Gophish, you can easily launch phishing campaigns, track results in real\-time, and enhance your overall security posture.
 
 
 
@@ -65,7 +65,7 @@ By identifying vulnerabilities and training employees, you can significantly red
 
 Embrace Gophish and take a proactive approach to securing your organization's digital landscape.
 
-[Deploy your Gophish instance with Elestio](https://elest.io/open-source/gophish?ref=blog.elest.io)
+[Deploy your Gophish instance with OctaByte](https://octabyte.io/open-source/gophish?ref=blog.octabyte.io)
 
 
 

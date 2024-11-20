@@ -1,31 +1,31 @@
 ---
 draft: true
-title: "Migrate Mastodon server to Elestio"
+title: "Migrate Mastodon server to OctaByte"
 date: "2024-04-01"
-description: "This migration document focuses on the migration of the applications supported by Elestio. Find the software list here
+description: "This migration document focuses on the migration of the applications supported by OctaByte. Find the software list here
 
-This document provides a step-by-step guide for migrating your existing Mastodon database system to Elestio. Elestio is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process,"
+This document provides a step-by-step guide for migrating your existing Mastodon database system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process,"
 tags: []
 categories: [Other]
 cover:
   image: images/cover.png
-  caption: "Migrate Mastodon server to Elestio"
+  caption: "Migrate Mastodon server to OctaByte"
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document focuses on the migration of the applications supported by Elestio. Find the software list [here](https://elest.io/fully-managed-services?ref=blog.elest.io)
+> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
 
-This document provides a step\-by\-step guide for migrating your existing Mastodon database system to Elestio. Elestio is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
+This document provides a step\-by\-step guide for migrating your existing Mastodon database system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
 
 ### 1️⃣ Pre\-requisites
 
-1. Create an account on [Elestio](https://elest.io/?ref=blog.elest.io)
+1. Create an account on [OctaByte](https://octabyte.io/?ref=blog.octabyte.io)
 2. Log in to your Mastodon admin dashboard account where your current server is hosted
 3. Ensure the UI for the application is working fine and no critical errors are detected in the application logs. If found otherwise please feel free to create a support ticket
-4. When deploying the service on Elestio, use the same software version as your present service, or your data migration will fail.
+4. When deploying the service on OctaByte, use the same software version as your present service, or your data migration will fail.
 
 ### 2️⃣ Exporting the Data
 
@@ -41,15 +41,15 @@ This document provides a step\-by\-step guide for migrating your existing Mastod
 
 ### 3️⃣ Importing the Data
 
-1. Login to your Elestio account
+1. Login to your OctaByte account
 2. Go to Create Services and select "Mastodon"
 3. Select your service provider, region, and machine preferences
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/7UXimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/7UXimage.png?ref=blog.elest.io)4. Name your service, configurations, and support layer, and hit "Create Service"
+[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/7UXimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/7UXimage.png?ref=blog.octabyte.io)4. Name your service, configurations, and support layer, and hit "Create Service"
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/qIJimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qIJimage.png?ref=blog.elest.io)5. Once deployed, head over to the service details URL provided under "Admin UI" to access the Mastodon Server UI
+[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/qIJimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qIJimage.png?ref=blog.octabyte.io)5. Once deployed, head over to the service details URL provided under "Admin UI" to access the Mastodon Server UI
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/qakimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qakimage.png?ref=blog.elest.io)6. Once you are in, head over to the UI you should head over and log in with the credentials on the server.
+[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/qakimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qakimage.png?ref=blog.octabyte.io)6. Once you are in, head over to the UI you should head over and log in with the credentials on the server.
 
 ![](https://i.imgur.com/bzt53zf.png)7. Head over to the "Import and Export" and click on the import
 
@@ -57,22 +57,22 @@ This document provides a step\-by\-step guide for migrating your existing Mastod
 9. Confirm your imports by clicking on the confirm button
 
 ![](https://i.imgur.com/crMpWQm.png)
-> If you imported the Postgres database in the previous step then make sure to import the database in the Elestio instance by using the Postgres credentials provided on the Elestio dashboard and also import the media storage.
+> If you imported the Postgres database in the previous step then make sure to import the database in the OctaByte instance by using the Postgres credentials provided on the OctaByte dashboard and also import the media storage.
 
-10. Woohoo! Your data is successfully migrated to Elestio, wait for a couple of minutes for the data to be imported. You can check the progress for the same on the same tab
+10. Woohoo! Your data is successfully migrated to OctaByte, wait for a couple of minutes for the data to be imported. You can check the progress for the same on the same tab
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/cbfimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/cbfimage.png?ref=blog.elest.io)### 4️⃣ Testing the Migration
+[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/cbfimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/cbfimage.png?ref=blog.octabyte.io)### 4️⃣ Testing the Migration
 
-1. You have successfully migrated to Elestio, now it's time for testing if your application is running as you intended
+1. You have successfully migrated to OctaByte, now it's time for testing if your application is running as you intended
 2. Head over to the Mastodon server and check the bookmarks, posts, and list you have imported in their respective tabs and you will notice the mention of your previous server to set the differentiations
-3. Here as you can see, my bookmarks were successfully imported into the new instance of Elestio
+3. Here as you can see, my bookmarks were successfully imported into the new instance of OctaByte
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/76Oimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/76Oimage.png?ref=blog.elest.io)### 5️⃣ Need additional help?
+[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/76Oimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/76Oimage.png?ref=blog.octabyte.io)### 5️⃣ Need additional help?
 
-Stuck somewhere? We are here to help you, go ahead and create a [support ticket](https://dash.elest.io/support/creation?ref=blog.elest.io) and we will get back to you in no time.
+Stuck somewhere? We are here to help you, go ahead and create a [support ticket](https://dash.elest.io/support/creation?ref=blog.octabyte.io) and we will get back to you in no time.
 
 
-> *Originally published at*[*https://docs.elest.io*](https://docs.elest.io/books/migrations/page/migrate-mastodon-server-to-elestio?ref=blog.elest.io)*on November 25, 2023\.*
+> *Originally published at*[*https://docs.elest.io*](https://docs.elest.io/books/migrations/page/migrate-mastodon-server-to-elestio?ref=blog.octabyte.io)*on November 25, 2023\.*
 
 
 

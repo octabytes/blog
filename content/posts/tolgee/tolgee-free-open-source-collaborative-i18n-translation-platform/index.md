@@ -17,7 +17,7 @@ TocOpen: true
 
 Localization is a critical aspect of software development, especially for apps and websites targeting a global audience. A seamless and efficient translation process ensures that users can interact with applications in their native language, enhancing user experience and engagement. 
 
-Enter [Tolgee](https://elest.io/open-source/tolgee?ref=blog.elest.io), a free open\-source collaborative i18n (internationalization) translation platform that simplifies and accelerates the localization process. With its smart platform, fast integration, and user\-friendly features, Tolgee is transforming how developers and teams manage translations.
+Enter [Tolgee](https://octabyte.io/open-source/tolgee?ref=blog.octabyte.io), a free open\-source collaborative i18n (internationalization) translation platform that simplifies and accelerates the localization process. With its smart platform, fast integration, and user\-friendly features, Tolgee is transforming how developers and teams manage translations.
 
 
 
@@ -53,7 +53,7 @@ Tolgee stands out as a robust, user\-friendly solution for teams looking to stre
 
 With Tolgee, the days of cumbersome and inefficient translation workflows are over. The platform not only speeds up the translation process by up to 90% but also fosters collaboration and ensures high\-quality, contextually accurate translations. Whether you're a small startup or a large enterprise, Tolgee provides the tools you need to make your app truly multilingual.
 
-[Embrace the future of localization with Tolgee and see how it can revolutionize your translation workflow.](https://elest.io/open-source/tolgee?ref=blog.elest.io)
+[Embrace the future of localization with Tolgee and see how it can revolutionize your translation workflow.](https://octabyte.io/open-source/tolgee?ref=blog.octabyte.io)
 
 
 

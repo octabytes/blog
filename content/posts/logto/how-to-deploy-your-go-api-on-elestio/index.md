@@ -1,8 +1,8 @@
 ---
 draft: true
-title: "How to Deploy Your Go API on Elestio"
+title: "How to Deploy Your Go API on OctaByte"
 date: "2024-03-23"
-description: "As a developer, you might have built multiple APIs and integrated them with your web application. So, In today's tutorial, we are going to see how you can quickly build a simple Ping-Pong API and deploy it easily and quickly on Elestio.
+description: "As a developer, you might have built multiple APIs and integrated them with your web application. So, In today's tutorial, we are going to see how you can quickly build a simple Ping-Pong API and deploy it easily and quickly on OctaByte.
 
 
 Let's set it up!"
@@ -10,13 +10,13 @@ tags: []
 categories: [Identity and access management]
 cover:
   image: images/cover.png
-  caption: "How to Deploy Your Go API on Elestio"
+  caption: "How to Deploy Your Go API on OctaByte"
 ShowToc: true
 TocOpen: true
 ---
 
 
-As a developer, you might have built multiple APIs and integrated them with your web application. So, In today's tutorial, we are going to see how you can quickly build a simple Ping\-Pong API and deploy it easily and quickly on Elestio.
+As a developer, you might have built multiple APIs and integrated them with your web application. So, In today's tutorial, we are going to see how you can quickly build a simple Ping\-Pong API and deploy it easily and quickly on OctaByte.
 
 ## Let's set it up!
 
@@ -111,11 +111,11 @@ webUI:
   - url: "https://[CI_CD_DOMAIN]/ping"
     label: "Website"
 ```
-This file states the configurations for your applications like the build and run commands you want to run to start your go API, then ports. Here the reverse proxy configuration is listening to the port `443` of the public IP address and the port `8080` is the port exposed by the Docker containers. All the traffic to the port `443` will be redirected to the port `8080` . Environment variables are stated with the `webUI` link you want to show to quickly access the API from the Elestio dashboard.
+This file states the configurations for your applications like the build and run commands you want to run to start your go API, then ports. Here the reverse proxy configuration is listening to the port `443` of the public IP address and the port `8080` is the port exposed by the Docker containers. All the traffic to the port `443` will be redirected to the port `8080` . Environment variables are stated with the `webUI` link you want to show to quickly access the API from the OctaByte dashboard.
 
 After adding this file, commit your code to the repository.
 
-Now go to [Elestio](https://elest.io/?ref=blog.elest.io), and login and set up the account if you don't already have one set up.
+Now go to [OctaByte](https://octabyte.io/?ref=blog.octabyte.io), and login and set up the account if you don't already have one set up.
 
 Click on the "CI/CD" section from the left panel select your repository host and the repository that has your Api and click on "Import"
 
@@ -161,9 +161,9 @@ curl <url-from-the-dashboard>/ping
 ```
 ## Where to go from here?
 
-You can now successfully go ahead and insert this URL into your frontend application and fetch the responses from the new hosted API endpoints. Additionally, you can integrate your Go API with a couple of other databases (again all of them are present on Elestio to easily configure).
+You can now successfully go ahead and insert this URL into your frontend application and fetch the responses from the new hosted API endpoints. Additionally, you can integrate your Go API with a couple of other databases (again all of them are present on OctaByte to easily configure).
 
-More tutorials around the same will be published to help your Go API integrate seamlessly with different databases and effortlessly host them onto Elestio
+More tutorials around the same will be published to help your Go API integrate seamlessly with different databases and effortlessly host them onto OctaByte
 
 ## Thanks for reading ❤️
 

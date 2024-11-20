@@ -17,7 +17,7 @@ TocOpen: true
 
 In the world of fitness tracking, finding the right tool that meets all your needs can be challenging. 
 
-Enter [Wger](https://elest.io/open-source/wger?ref=blog.elest.io), the community\-driven, free, and open\-source fitness tracker. With over 35,000 users, 500 exercises, and a vast food database, Wger offers a comprehensive solution for anyone looking to track their way to their ideal body. 
+Enter [Wger](https://octabyte.io/open-source/wger?ref=blog.octabyte.io), the community\-driven, free, and open\-source fitness tracker. With over 35,000 users, 500 exercises, and a vast food database, Wger offers a comprehensive solution for anyone looking to track their way to their ideal body. 
 
 In this post, we'll explore the features of Wger, including workout routines, measurements and tracking, nutritional plans, and mobile apps, to see how it stands out in the crowded fitness app market.
 
@@ -59,7 +59,7 @@ Wger stands out as a powerful and versatile fitness tracker that caters to a wid
 
 With its community\-driven approach, extensive exercise database, comprehensive tracking tools, and detailed meal planning features, Wger is an excellent choice for anyone serious about their fitness journey. Whether you want to use the web version, set up a private server, or integrate it with your app, Wger provides the flexibility and functionality needed to help you achieve your fitness goals. 
 
-[Join the growing community of Wger users today and take the first step towards your ideal body.](https://elest.io/open-source/wger?ref=blog.elest.io)
+[Join the growing community of Wger users today and take the first step towards your ideal body.](https://octabyte.io/open-source/wger?ref=blog.octabyte.io)
 
 
 

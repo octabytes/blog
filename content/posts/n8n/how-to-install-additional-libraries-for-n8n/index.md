@@ -13,11 +13,11 @@ TocOpen: true
 ---
 
 
-[n8n](https://elest.io/open-source/n8n?ref=blog.elest.io) is a popular open\-source workflow automation tool that allows you to automate repetitive tasks and create custom workflows. However, sometimes you may need to install additional libraries to enhance its functionality. In this article, we'll walk you through the steps of how to install additional libraries for n8n using the command line interface (CLI).
+[n8n](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) is a popular open\-source workflow automation tool that allows you to automate repetitive tasks and create custom workflows. However, sometimes you may need to install additional libraries to enhance its functionality. In this article, we'll walk you through the steps of how to install additional libraries for n8n using the command line interface (CLI).
 
 ### Step 1: Add an Environment Variable
 
-The first step is to add an environment variable. You can do this in the .env file in Visual Studio Code (VSCode) or from the Elestio Dashboard \> Update config button. The environment variable you need to add is `NODE_FUNCTION_ALLOW_EXTERNAL=*`. This allows you to install additional libraries to n8n.
+The first step is to add an environment variable. You can do this in the .env file in Visual Studio Code (VSCode) or from the OctaByte Dashboard \> Update config button. The environment variable you need to add is `NODE_FUNCTION_ALLOW_EXTERNAL=*`. This allows you to install additional libraries to n8n.
 
 ### Step 2: Create a Dockerfile
 
@@ -73,9 +73,9 @@ sed -i 's/--debug;/--debug;\ncd \/opt\/app;\nsource .env;\ndocker-compose pull;\
 
 In conclusion, installing additional libraries for n8n is a straightforward process that involves adding an environment variable, creating a Dockerfile, modifying the Docker Compose file, and running a few commands. With these steps, you'll be able to enhance the functionality of n8n and automate even more tasks with ease.
 
-If you don't want to worry about maintenance .... of your N8N server... [deploy N8N on elest.io](https://elest.io/open-source/n8n?ref=blog.elest.io) and get automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of N8N stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, UP and running.
+If you don't want to worry about maintenance .... of your N8N server... [deploy N8N on elest.io](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and get automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of N8N stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, UP and running.
 
 Click on the button below to get a fully managed instance of N8N ready to use in less than 3 minutes. 
 
-[Deploy N8N](https://elest.io/open-source/n8n?ref=blog.elest.io)
+[Deploy N8N](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
 

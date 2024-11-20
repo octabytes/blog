@@ -17,7 +17,7 @@ TocOpen: true
 
 In the dynamic landscape of customer relationship management (CRM) software, finding a solution that seamlessly aligns with your business's unique needs while being affordable and flexible can be challenging. 
 
-Discover [Twenty](https://elest.io/open-source/twenty?ref=blog.elest.io), an open\-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface, customizable features, and robust functionality, Twenty offers an unparalleled CRM experience entirely free.
+Discover [Twenty](https://octabyte.io/open-source/twenty?ref=blog.octabyte.io), an open\-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface, customizable features, and robust functionality, Twenty offers an unparalleled CRM experience entirely free.
 
 
 
@@ -65,7 +65,7 @@ With its customizable objects, intuitive views, comprehensive notes and task man
 
 Whether you're a startup or an established enterprise, Twenty provides the tools and features you need to succeed, making it a top choice for businesses seeking a free open\-source CRM solution.
 
-[Deploy your Twenty instance on Elestio.](https://elest.io/open-source/twenty?ref=blog.elest.io)
+[Deploy your Twenty instance on OctaByte.](https://octabyte.io/open-source/twenty?ref=blog.octabyte.io)
 
 
 

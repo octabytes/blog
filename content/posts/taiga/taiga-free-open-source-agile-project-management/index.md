@@ -21,7 +21,7 @@ TocOpen: true
 ---
 
 
-[Taiga](https://elest.io/open-source/taiga?ref=blog.elest.io) stands out as a powerful and free open\-source project management tool tailored for cross\-functional agile teams. With its features, it provides a simple start for seamless team project collaborations.
+[Taiga](https://octabyte.io/open-source/taiga?ref=blog.octabyte.io) stands out as a powerful and free open\-source project management tool tailored for cross\-functional agile teams. With its features, it provides a simple start for seamless team project collaborations.
 
 
 
@@ -75,7 +75,7 @@ For those seeking unparalleled control, Taiga's self\-hosted option is an ideal 
 
 Taiga, with its user\-friendly interface and extensive features, is a standout choice for agile project management. It facilitates effective communication, transparent insights, and adaptability, making it an invaluable tool for teams aiming to streamline their workflows and achieve successful project deliveries. Whether you are a small team or a large enterprise, Taiga's versatility and open\-source nature make it a compelling solution for agile project management needs.
 
-[Give a try to Taiga on Elestio.](https://elest.io/open-source/taiga?ref=blog.elest.io)
+[Give a try to Taiga on OctaByte.](https://octabyte.io/open-source/taiga?ref=blog.octabyte.io)
 
 
 

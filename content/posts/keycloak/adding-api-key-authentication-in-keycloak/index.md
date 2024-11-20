@@ -2,7 +2,7 @@
 draft: true
 title: "Adding API Key Authentication In Keycloak"
 date: "2024-07-16"
-description: "We will be extending Keycloak by adding API key authentication with Elestio using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.
+description: "We will be extending Keycloak by adding API key authentication with OctaByte using Keycloak. We will be using a self-hosted Keycloak instance deployed on OctaByte. So, to get started head over to OctaByte Dashboard and deploy and login into the Keycloak service to get started.
 
 
 Background
@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-We will be extending Keycloak by adding API key authentication with Elestio using [Keycloak](https://elest.io/open-source/keycloak?ref=blog.elest.io). We will be using a self\-hosted Keycloak instance deployed on Elestio. So, to get started head over to [Elestio Dashboard](https://elest.io/open-source/keycloak?ref=blog.elest.io) and deploy and login into the Keycloak service to get started.
+We will be extending Keycloak by adding API key authentication with OctaByte using [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and deploy and login into the Keycloak service to get started.
 
 ### Background
 
@@ -202,7 +202,7 @@ api-key-module
 pom.xml
 
 ```
-Full source code is available at [GitHub](https://github.com/zak905/keycloak-api-key-demo?ref=blog.elest.io).
+Full source code is available at [GitHub](https://github.com/zak905/keycloak-api-key-demo?ref=blog.octabyte.io).
 
 #### Testing your API key
 
@@ -229,7 +229,7 @@ curl -v -H "X-API-KEY: wrongkey" https://[CNAME]
 ```
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.elest.io) to learn more about Keycloak. You can click the button below to create your service on [Elestio](https://elest.io/open-source/keycloak?ref=blog.elest.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/keycloak?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
 

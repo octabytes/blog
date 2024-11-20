@@ -17,7 +17,7 @@ TocOpen: true
 
 In today's digital landscape, the volume of data being generated and stored is growing exponentially. Whether it's for businesses managing vast amounts of customer data or individuals storing their personal files, the need for efficient and scalable storage solutions is essential. 
 
-Enter [MinIO](https://elest.io/open-source/minio?ref=blog.elest.io) – an open\-source, high\-performance object storage system designed for handling large\-scale data infrastructure needs. Founded in 2014, MinIO has quickly gained popularity among developers and enterprises alike for its speed, scalability, and compatibility with the Amazon S3 API.
+Enter [MinIO](https://octabyte.io/open-source/minio?ref=blog.octabyte.io) – an open\-source, high\-performance object storage system designed for handling large\-scale data infrastructure needs. Founded in 2014, MinIO has quickly gained popularity among developers and enterprises alike for its speed, scalability, and compatibility with the Amazon S3 API.
 
 
 
@@ -55,7 +55,7 @@ As data volumes grow, so do the demands on storage infrastructure. MinIO address
 
 MinIO stands out as a powerful and versatile object storage solution for modern data\-centric applications. Its open\-source nature, compatibility with the S3 API, and robust features make it a compelling choice for organizations seeking scalable, high\-performance storage infrastructure. Whether it's storing petabytes of data, hosting static websites, or ensuring data security and compliance, MinIO offers the flexibility and reliability needed to meet the demands of today's data\-driven world. 
 
-[Discover MinIO on Elestio](https://elest.io/open-source/minio?ref=blog.elest.io)
+[Discover MinIO on OctaByte](https://octabyte.io/open-source/minio?ref=blog.octabyte.io)
 
 
 

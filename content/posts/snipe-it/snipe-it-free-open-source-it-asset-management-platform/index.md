@@ -17,7 +17,7 @@ TocOpen: true
 
 In today's digital age, managing IT assets effectively is crucial for organizations of all sizes. An IT asset management platform helps track and manage hardware, software licenses, accessories, and consumables, ensuring that every piece of equipment is accounted for and utilized efficiently. 
 
-[Snipe\-IT](https://elest.io/open-source/snipe-it?ref=blog.elest.io) is a free and open\-source IT asset management platform designed to meet these needs. It provides a comprehensive suite of features to manage your IT assets with ease and flexibility, all while being completely free to use. 
+[Snipe\-IT](https://octabyte.io/open-source/snipe-it?ref=blog.octabyte.io) is a free and open\-source IT asset management platform designed to meet these needs. It provides a comprehensive suite of features to manage your IT assets with ease and flexibility, all while being completely free to use. 
 
 In this article, we'll explore the key features of Snipe\-IT, including its ability to manage assets, licenses, predefined kits, and more.
 
@@ -61,9 +61,9 @@ In addition to code\-level customization, Snipe\-IT also offers a range of confi
 
 ### **Conclusion**
 
-[Snipe\-IT](https://youtu.be/oxwFatEqTsc?ref=blog.elest.io) is a powerful, free, and open\-source IT asset management platform that provides a comprehensive solution for managing your organization’s assets, licenses, accessories, and consumables. With its user\-friendly interface, robust features, and extensive customization options, Snipe\-IT is an excellent choice for organizations looking to streamline their IT asset management processes. Whether you’re a small business or a large enterprise, Snipe\-IT offers the flexibility and scalability to meet your needs while keeping costs under control.
+[Snipe\-IT](https://youtu.be/oxwFatEqTsc?ref=blog.octabyte.io) is a powerful, free, and open\-source IT asset management platform that provides a comprehensive solution for managing your organization’s assets, licenses, accessories, and consumables. With its user\-friendly interface, robust features, and extensive customization options, Snipe\-IT is an excellent choice for organizations looking to streamline their IT asset management processes. Whether you’re a small business or a large enterprise, Snipe\-IT offers the flexibility and scalability to meet your needs while keeping costs under control.
 
-[Deploy your instance of Snipe\-IT with Elestio](https://youtu.be/oxwFatEqTsc?ref=blog.elest.io)
+[Deploy your instance of Snipe\-IT with OctaByte](https://youtu.be/oxwFatEqTsc?ref=blog.octabyte.io)
 
 
 

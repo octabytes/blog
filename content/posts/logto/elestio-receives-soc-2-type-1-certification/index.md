@@ -1,21 +1,21 @@
 ---
 draft: true
-title: "Elestio Receives SOC 2 Type 1 Certification"
+title: "OctaByte Receives SOC 2 Type 1 Certification"
 date: "2024-08-07"
-description: "We are thrilled to announce that Elestio has achieved SOC 2 Type 1 certification! This certification underscores our ongoing commitment to the security and reliability of our services.
+description: "We are thrilled to announce that OctaByte has achieved SOC 2 Type 1 certification! This certification underscores our ongoing commitment to the security and reliability of our services.
 
 What does this mean for our clients? Firstly, it confirms our dedication to maintaining high standards in data security. Companies using our"
 tags: []
 categories: [Identity and access management]
 cover:
   image: images/cover.png
-  caption: "Elestio Receives SOC 2 Type 1 Certification"
+  caption: "OctaByte Receives SOC 2 Type 1 Certification"
 ShowToc: true
 TocOpen: true
 ---
 
 
-We are thrilled to announce that Elestio has achieved SOC 2 Type 1 certification! This certification underscores our ongoing commitment to the security and reliability of our services.
+We are thrilled to announce that OctaByte has achieved SOC 2 Type 1 certification! This certification underscores our ongoing commitment to the security and reliability of our services.
 
 What does this mean for our clients? Firstly, it confirms our dedication to maintaining high standards in data security. Companies using our services can trust that their sensitive information is in safe hands.
 

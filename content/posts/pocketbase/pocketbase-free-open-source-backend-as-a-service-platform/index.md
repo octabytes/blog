@@ -1,12 +1,10 @@
 ---
 draft: false
 title: "PocketBase: Free Open Source Backend as a Service Platform"
-date: "2024-11-19"
-description: "Backend as a Service is the solution for developers who want to focus on building web and mobile apps without worrying about the backend infrastructure.
-BaaS providers offer a set of tools and services that help developers build apps faster and easier.
-It generally includes Database, Authentication, File Storage, Functions,"
-tags: []
-categories: [Backend-as-a-Service]
+date: "2024-11-20"
+description: "PocketBase is a free, open-source Backend as a Service (BaaS) platform built with Go and SQLite, offering tools like real-time database updates, authentication, file storage, webhooks, and email functionality. It provides SDKs and APIs for seamless integration, challenging proprietary solutions like Firebase and open-source platforms like Supabase."
+tags: [BaaS, PocketBase, backend development, SQLite, Go, real-time updates, authentication, file storage, SDKs, open-source, Firebase alternative, Supabase alternative]
+categories: [Development, Backend-as-a-Service]
 cover:
   image: images/cover.png
   caption: "PocketBase: Free Open Source Backend as a Service Platform"

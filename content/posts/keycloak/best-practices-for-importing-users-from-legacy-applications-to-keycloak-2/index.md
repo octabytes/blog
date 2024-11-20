@@ -19,7 +19,7 @@ Migrating users from legacy applications into a modern identity and access manag
 
 Before starting the migration process, it’s essential to thoroughly assess the legacy system where the user data currently resides. Understanding the structure of the existing database, how user credentials are stored (e.g., hash algorithms used), and what kind of metadata is available is crucial.
 
-For instance, if your legacy system stores passwords using bcrypt, as many systems do, you’ll need to take that into account. Keycloak doesn't natively support bcrypt, but third\-party plugins like [keycloak\-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt?ref=blog.elest.io) can be added to allow the use of bcrypt hashes. This allows Keycloak to verify user passwords without requiring them to change their credentials after migration.
+For instance, if your legacy system stores passwords using bcrypt, as many systems do, you’ll need to take that into account. Keycloak doesn't natively support bcrypt, but third\-party plugins like [keycloak\-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt?ref=blog.octabyte.io) can be added to allow the use of bcrypt hashes. This allows Keycloak to verify user passwords without requiring them to change their credentials after migration.
 
 ### 2\. **Choose the Right Federation or Import Strategy**
 
@@ -65,12 +65,12 @@ Additionally, consider setting up logging and analytics to track user behaviour 
 
 ## **Thanks for reading ❤️**
 
-Following these best practices ensures that the migration process is efficient and user\-friendly, setting up Keycloak as an identity management solution for your organization. Thank you so much for reading and do check out the Elestio resources and official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.elest.io) to learn more about Keycloak. You can click the button below to create your service on [Elestio](https://elest.io/open-source/keycloak?ref=blog.elest.io). See you in the next one👋
+Following these best practices ensures that the migration process is efficient and user\-friendly, setting up Keycloak as an identity management solution for your organization. Thank you so much for reading and do check out the OctaByte resources and official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/keycloak?ref=blog.elest.io)
+[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
 
 
 

@@ -2,7 +2,7 @@
 draft: true
 title: "Keycloak Session Configuration: Best Practices and Principles"
 date: "2024-05-06"
-description: "Let's see how to configure sessions on Elestio using Keycloak. We will be using a self-hosted Keycloak instance deployed on Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.
+description: "Let's see how to configure sessions on OctaByte using Keycloak. We will be using a self-hosted Keycloak instance deployed on OctaByte. So, to get started head over to OctaByte Dashboard and deploy and login into the Keycloak service to get started.
 
 In this tutorial, we explore the technicalities"
 tags: []
@@ -15,7 +15,7 @@ TocOpen: true
 ---
 
 
-Let's see how to configure sessions on Elestio using [Keycloak](https://elest.io/open-source/keycloak?ref=blog.elest.io). We will be using a self\-hosted Keycloak instance deployed on Elestio. So, to get started head over to [Elestio Dashboard](https://elest.io/open-source/keycloak?ref=blog.elest.io) and deploy and login into the Keycloak service to get started.
+Let's see how to configure sessions on OctaByte using [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and deploy and login into the Keycloak service to get started.
 
 In this tutorial, we explore the technicalities of Keycloak session and token configuration, emphasizing the importance of session timeouts and optimal settings for effective session management. By understanding and applying the recommended best practices, administrators can create a secure and efficient authentication environment within Keycloak.
 
@@ -64,7 +64,7 @@ To illustrate, consider the following settings:
 * Set "Access Token Lifespan For Implicit Flow" to 30 minutes or less.
 * Set "Refresh Token Max Reuse" to 0\.
 
-![Session Settings](images/Screenshot-2024-06-12-at-6.13.17-PM.jpg)![Token Settings](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-12-at-6.13.55-PM.jpg)### Best Practices for Session Management
+![Session Settings](images/Screenshot-2024-06-12-at-6.13.17-PM.jpg)![Token Settings](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-12-at-6.13.55-PM.jpg)### Best Practices for Session Management
 
 Effective session management in Keycloak relies on two core principles:
 
@@ -75,7 +75,7 @@ By following these guidelines and configuring session durations appropriately, a
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.elest.io) to learn more about Keycloak. You can click the button below to create your service on [Elestio](https://elest.io/open-source/keycloak?ref=blog.elest.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/keycloak?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
 

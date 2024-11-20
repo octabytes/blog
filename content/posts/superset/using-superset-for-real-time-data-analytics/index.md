@@ -18,21 +18,21 @@ TocOpen: true
 ---
 
 
-In this guide, we will walk you through setting up real\-time analytics by integrating [Apache Superset](https://elest.io/open-source/superset?ref=blog.elest.io) with [ClickHouse](https://elest.io/open-source/clickhouse?ref=blog.elest.io), a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
+In this guide, we will walk you through setting up real\-time analytics by integrating [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) with [ClickHouse](https://octabyte.io/open-source/clickhouse?ref=blog.octabyte.io), a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
 
 ## Deploying ClickHouse and Superset
 
-The first step in setting up real\-time data analytics is to deploy both Apache Superset and ClickHouse on Elestio. On the Elestio dashboard, you can create instances for both ClickHouse and Superset. Once the instances are deployed, you’ll have access to the necessary details, such as IP addresses, ports, and credentials, to proceed with the configuration. After deployment you can view both of the deployments under your project like the following
+The first step in setting up real\-time data analytics is to deploy both Apache Superset and ClickHouse on OctaByte. On the OctaByte dashboard, you can create instances for both ClickHouse and Superset. Once the instances are deployed, you’ll have access to the necessary details, such as IP addresses, ports, and credentials, to proceed with the configuration. After deployment you can view both of the deployments under your project like the following
 
-![Deployed ClickHouse and Superset on Elestio](images/image-3.png)## Installing the ClickHouse Driver for Superset
+![Deployed ClickHouse and Superset on OctaByte](images/image-3.png)## Installing the ClickHouse Driver for Superset
 
 To connect Superset to ClickHouse, you'll need the `clickhouse-sqlalchemy` driver, which facilitates communication between Superset and ClickHouse using SQLAlchemy, a common toolkit for database connections in Python. You can run this command in the terminal by accessing **VS Code** under the tools section from the dashboard. Add the `clickhouse-sqlalchemy` package to `reqiurements-local.txt` . This ensures that Superset can interface with ClickHouse and execute queries on real\-time data.
 
 ## Adding the ClickHouse Database in Superset
 
-Before we add ClickHouse Database to Superset, we need to construct SQLAlchemy URI for our ClickHouse. Head over to the deployed service on your Elestio Dashboard and click on **Database Admin** button to access the information required for the URI.
+Before we add ClickHouse Database to Superset, we need to construct SQLAlchemy URI for our ClickHouse. Head over to the deployed service on your OctaByte Dashboard and click on **Database Admin** button to access the information required for the URI.
 
-![Database admin infomation of ClickHouse](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-11.55.47-AM.jpg)You can use the above information to replace the information in the below URI
+![Database admin infomation of ClickHouse](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-03-at-11.55.47-AM.jpg)You can use the above information to replace the information in the below URI
 
 
 ```
@@ -43,9 +43,9 @@ clickhouse+native://[user:password]@host[:port]/database[?options]
 * Navigate to the **Data** tab in the top menu and select **Databases**.
 * Click on **\+ Add Database**.
 
-![Connecting Database in Superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-12.01.34-PM.jpg)* In the **SQLAlchemy URI** field, paste the ClickHouse connection string.
+![Connecting Database in Superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-03-at-12.01.34-PM.jpg)* In the **SQLAlchemy URI** field, paste the ClickHouse connection string.
 
-![SQLAlchemy URI in Superset](https://blog.elest.io/content/images/2024/10/image-4.png)* Fill in any additional details, such as a display name, and click **Test Connection** to ensure everything works properly.
+![SQLAlchemy URI in Superset](https://blog.octabyte.io/content/images/2024/10/image-4.png)* Fill in any additional details, such as a display name, and click **Test Connection** to ensure everything works properly.
 
 Once the connection is verified, the ClickHouse database will be available for use in Superset.
 
@@ -67,7 +67,7 @@ A **time series chart** is a type of graph used to display data points at succes
 * Choose the dataset you created from ClickHouse.
 * Configure the time settings, metrics, and filters to suit your real\-time analytics requirements.
 
-![Creating new chart in superset](https://blog.elest.io/content/images/2024/10/image-5.png)This chart will visualize how your data evolves over time, providing real\-time insights.
+![Creating new chart in superset](https://blog.octabyte.io/content/images/2024/10/image-5.png)This chart will visualize how your data evolves over time, providing real\-time insights.
 
 ## Creating a ClickHouse Query in Superset
 
@@ -77,7 +77,7 @@ A **time series chart** is a type of graph used to display data points at succes
 * Select the ClickHouse database, and write your custom SQL queries.
 * Execute the queries to fetch real\-time data, which you can use for analysis or building additional visualizations.
 
-![SQL Lab in Superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-1.23.21-PM.jpg)This flexibility in writing queries ensures that you can extract the precise insights needed for your business.
+![SQL Lab in Superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-03-at-1.23.21-PM.jpg)This flexibility in writing queries ensures that you can extract the precise insights needed for your business.
 
 ## Creating Dashboards in Superset
 
@@ -86,9 +86,9 @@ Once you have created your charts and visualizations, you can combine them into 
 * Navigate to the **Dashboards** section in Superset.
 * Click on **\+ Create Dashboard**, and start adding the charts you've built.
 
-![Creating dashboards in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-1.29.08-PM.jpg)* Organize the layout, adjust filters, and ensure that the data updates in real time.
+![Creating dashboards in superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-03-at-1.29.08-PM.jpg)* Organize the layout, adjust filters, and ensure that the data updates in real time.
 
-![Adding new chart to dashboard in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-1.30.46-PM.jpg)These dashboards serve as a centralized view for monitoring live data, making them ideal for businesses that rely on up\-to\-the\-minute information.
+![Adding new chart to dashboard in superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-03-at-1.30.46-PM.jpg)These dashboards serve as a centralized view for monitoring live data, making them ideal for businesses that rely on up\-to\-the\-minute information.
 
 ## Caching and Clustering for Performance
 
@@ -98,12 +98,12 @@ Enable caching by configuring the **CACHE\_CONFIG** in Superset’s configuratio
 
 ## **Thanks for reading ❤️**
 
-By following these steps, you can set up Apache Superset to handle real\-time data analytics with ClickHouse. Thank you so much for reading and do check out the Elestio resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.elest.io) to learn more about Superset. You can click the button below to create your service on [Elestio](https://elest.io/open-source/superset?ref=blog.elest.io). See you in the next one👋
+By following these steps, you can set up Apache Superset to handle real\-time data analytics with ClickHouse. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
 
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/superset?ref=blog.elest.io)
+[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
 
 
 

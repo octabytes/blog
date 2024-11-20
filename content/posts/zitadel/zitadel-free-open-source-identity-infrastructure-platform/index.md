@@ -19,7 +19,7 @@ TocOpen: true
 
 Businesses need robust and flexible identity management solutions to ensure security while providing seamless user experiences. 
 
-[Zitadel](https://elest.io/open-source/zitadel?ref=blog.elest.io) is an open\-source identity infrastructure platform that addresses these challenges. Built for the cloud, Zitadel offers advanced authentication and authorization capabilities, making it an excellent choice for developers and enterprises alike. 
+[Zitadel](https://octabyte.io/open-source/zitadel?ref=blog.octabyte.io) is an open\-source identity infrastructure platform that addresses these challenges. Built for the cloud, Zitadel offers advanced authentication and authorization capabilities, making it an excellent choice for developers and enterprises alike. 
 
 This article will explore its features, focusing on authentication, modern methods like single sign\-on (SSO), social logins, multifactor authentication (MFA), and authorization.
 
@@ -61,7 +61,7 @@ Zitadel is a powerful open\-source platform that simplifies both authentication 
 
 Whether you're building a cloud\-native application or enhancing the security of existing services, Zitadel offers a scalable, customizable, and secure identity infrastructure platform to meet your needs.
 
-[Deploy your Zitadel instance with Elestio](https://elest.io/open-source/zitadel?ref=blog.elest.io)
+[Deploy your Zitadel instance with OctaByte](https://octabyte.io/open-source/zitadel?ref=blog.octabyte.io)
 
 
 

@@ -17,7 +17,7 @@ TocOpen: true
 
 In an era where digital communication is paramount, finding the right video conferencing platform can be a game\-changer. 
 
-Enter [MiroTalk](https://elest.io/open-source/mirotalk?ref=blog.elest.io), a revolutionary open\-source solution that redefines the landscape of virtual meetings. With its browser\-based real\-time video calls and a plethora of innovative features, MiroTalk stands out as a versatile and secure platform for various communication needs.
+Enter [MiroTalk](https://octabyte.io/open-source/mirotalk?ref=blog.octabyte.io), a revolutionary open\-source solution that redefines the landscape of virtual meetings. With its browser\-based real\-time video calls and a plethora of innovative features, MiroTalk stands out as a versatile and secure platform for various communication needs.
 
 
 
@@ -57,7 +57,7 @@ MiroTalk caters to a diverse range of use cases, making it a versatile solution 
 
 MiroTalk emerges as a standout contender in the realm of video conferencing platforms. With its browser\-based approach, innovative features, and commitment to privacy and security, MiroTalk offers a compelling solution for individuals and organizations alike. 
 
-[Start using MiroTalk with Elestio](https://elest.io/open-source/mirotalk?ref=blog.elest.io)
+[Start using MiroTalk with OctaByte](https://octabyte.io/open-source/mirotalk?ref=blog.octabyte.io)
 
 
 

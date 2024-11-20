@@ -20,21 +20,21 @@ TocOpen: true
 ---
 
 
-Discover [Shlink](https://elest.io/open-source/shlink?ref=blog.elest.io), a powerful open\-source URL shortener that offers a comprehensive range of features. 
+Discover [Shlink](https://octabyte.io/open-source/shlink?ref=blog.octabyte.io), a powerful open\-source URL shortener that offers a comprehensive range of features. 
 
 **Our platform overview of Shlink:**
 
 ## Link Shortener
 
-[Shlink](https://elest.io/open-source/shlink?ref=blog.elest.io) excels in simplifying the process of creating shorter and more manageable links. With its user\-friendly interface, you can effortlessly generate custom short URLs that align with your brand. 
+[Shlink](https://octabyte.io/open-source/shlink?ref=blog.octabyte.io) excels in simplifying the process of creating shorter and more manageable links. With its user\-friendly interface, you can effortlessly generate custom short URLs that align with your brand. 
 
 Additionally, Shlink allows you to specify links based on the user's device (Android, iOS, and Desktop). Ideal for mobile app download links!
 
 ## Automation enabled with API
 
-Shlink goes beyond just a web interface by providing command\-line interface (CLI) tools and a robust API. The [CLI](https://shlink.io/documentation/command-line-interface/entry-point/?ref=blog.elest.io) empowers advanced users to efficiently manage their links directly from the command line, offering flexibility and automation possibilities. 
+Shlink goes beyond just a web interface by providing command\-line interface (CLI) tools and a robust API. The [CLI](https://shlink.io/documentation/command-line-interface/entry-point/?ref=blog.octabyte.io) empowers advanced users to efficiently manage their links directly from the command line, offering flexibility and automation possibilities. 
 
-The [API](https://shlink.io/documentation/api-docs/?ref=blog.elest.io) integration allows seamless integration with existing workflows and systems, enabling developers to incorporate Shlink's URL shortening capabilities into their applications or services.
+The [API](https://shlink.io/documentation/api-docs/?ref=blog.octabyte.io) integration allows seamless integration with existing workflows and systems, enabling developers to incorporate Shlink's URL shortening capabilities into their applications or services.
 
 ## Analytics
 
@@ -48,7 +48,7 @@ With Shlink, you can generate QR codes for your shortened links, making it easie
 
 ## Conclusion
 
-[Shlink](https://elest.io/open-source/shlink?ref=blog.elest.io) is a great solution in the realm of link management, offering an extensive suite of features tailored to meet the needs of businesses and individuals. From its intuitive web interface and CLI tools to its robust analytics and additional functionalities like QR code generation and custom domains, Shlink provides a comprehensive solution for shortening, tracking, and managing URLs effectively. 
+[Shlink](https://octabyte.io/open-source/shlink?ref=blog.octabyte.io) is a great solution in the realm of link management, offering an extensive suite of features tailored to meet the needs of businesses and individuals. From its intuitive web interface and CLI tools to its robust analytics and additional functionalities like QR code generation and custom domains, Shlink provides a comprehensive solution for shortening, tracking, and managing URLs effectively. 
 
 Shlink empowers you to optimize your link strategies, enhance user experience, and unlock new levels of efficiency.
 

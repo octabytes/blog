@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-[Keycloak](https://elest.io/open-source/keycloak?ref=blog.elest.io) is an open\-source identity and access management tool that simplifies authentication, authorization, and user management for modern applications. One of the features of Keycloak is token\-based authentication. Tokens, such as access tokens, refresh tokens, and ID tokens, are central to how Keycloak handles user sessions and secure communication between applications. In this blog, we will explore the key concepts of **Keycloak token management**, focusing on token expiration, revocation, and renewal.
+[Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) is an open\-source identity and access management tool that simplifies authentication, authorization, and user management for modern applications. One of the features of Keycloak is token\-based authentication. Tokens, such as access tokens, refresh tokens, and ID tokens, are central to how Keycloak handles user sessions and secure communication between applications. In this blog, we will explore the key concepts of **Keycloak token management**, focusing on token expiration, revocation, and renewal.
 
 ## Types of Tokens in Keycloak
 
@@ -39,11 +39,11 @@ To change token expiration times go to the **Realm Settings** in the Keycloak ad
 
 ![Token settings in keycloak](images/Screenshot-2024-09-26-at-11.44.40-AM.jpg)If you scroll down you will find a section to enable or disable your refresh tokens.
 
-![Refresh token settings in keycloak](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.28-AM.jpg)Upon scrolling furthermore, you will get a section to work with your access tokens. You can change the lifespan of the token, timeouts etc from here.
+![Refresh token settings in keycloak](https://blog.octabyte.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.28-AM.jpg)Upon scrolling furthermore, you will get a section to work with your access tokens. You can change the lifespan of the token, timeouts etc from here.
 
-![Access token setting in keycloak](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.36-AM.jpg)The next field you will encounter is action tokens. You can configure and set these values according to your personal needs. You can also choose Override action tokens from here.
+![Access token setting in keycloak](https://blog.octabyte.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.36-AM.jpg)The next field you will encounter is action tokens. You can configure and set these values according to your personal needs. You can also choose Override action tokens from here.
 
-![Action token section in keycloak](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.51-AM.jpg)You can configure custom token expiration settings for each client under **Clients \> \[client name] \> Settings**.
+![Action token section in keycloak](https://blog.octabyte.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.51-AM.jpg)You can configure custom token expiration settings for each client under **Clients \> \[client name] \> Settings**.
 
 ### Best Practices for Expiration
 
@@ -92,12 +92,12 @@ When an access token expires, the application can use the refresh token to reque
 
 ## **Thanks for reading ❤️**
 
-Token management is a critical aspect of secure authentication and session handling in Keycloak. By understanding how token expiration, revocation, and renewal work, administrators and developers can ensure their applications are secure while maintaining a smooth user experience. Thank you so much for reading and do check out the Elestio resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.elest.io) to learn more about Keycloak. You can click the button below to create your service on [Elestio](https://elest.io/open-source/keycloak?ref=blog.elest.io). See you in the next one👋
+Token management is a critical aspect of secure authentication and session handling in Keycloak. By understanding how token expiration, revocation, and renewal work, administrators and developers can ensure their applications are secure while maintaining a smooth user experience. Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 
 
 
 
-[![Deploy to Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/keycloak?ref=blog.elest.io)
+[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
 
 
 

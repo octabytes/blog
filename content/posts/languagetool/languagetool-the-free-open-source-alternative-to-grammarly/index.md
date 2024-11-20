@@ -27,7 +27,7 @@ You can use LanguageTool directly on your browser with extensions or on your des
 
 LanguageTool uses advanced algorithms and language models to analyze your text and suggest corrections or improvements. It can detect a wide range of errors, such as missing articles, incorrect verb conjugations, redundant phrases, and ambiguous expressions. You can customize its settings and rules to fit your specific needs or writing style.
 
-In our demo, we show how LanguageTool can be hosted on your own server with Elestio to enable the API and browser extension. We also showcase the software's capabilities by demonstrating how it differs from the cloud version with example sentences. We show how LanguageTool can be used to detect and suggest alternatives to misspelled words, and how it compares to Grammarly, which requires a premium subscription for advanced features.
+In our demo, we show how LanguageTool can be hosted on your own server with OctaByte to enable the API and browser extension. We also showcase the software's capabilities by demonstrating how it differs from the cloud version with example sentences. We show how LanguageTool can be used to detect and suggest alternatives to misspelled words, and how it compares to Grammarly, which requires a premium subscription for advanced features.
 
 Overall, LanguageTool is a free and highly customizable tool that can help improve your writing skills. Whether you're a student, writer, translator, or non\-native speaker, LanguageTool is a no\-brainer when it comes to spelling, grammar, and style checking. 
 

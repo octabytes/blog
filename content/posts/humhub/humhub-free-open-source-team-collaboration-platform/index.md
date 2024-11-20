@@ -15,7 +15,7 @@ TocOpen: true
 ---
 
 
-In the landscape of modern work, effective team collaboration is essential. Enter [HumHub](https://elest.io/open-source/humhub?ref=blog.elest.io), an innovative and open\-source team collaboration platform designed to connect and engage all members of your organization seamlessly. 
+In the landscape of modern work, effective team collaboration is essential. Enter [HumHub](https://octabyte.io/open-source/humhub?ref=blog.octabyte.io), an innovative and open\-source team collaboration platform designed to connect and engage all members of your organization seamlessly. 
 
 Open\-Source and originating from Germany, HumHub is not just a collaboration tool; it's a digital hub where people, communication, and productivity converge.
 
@@ -49,7 +49,7 @@ With its open\-source core, you can expand it even further by building your own 
 
 ## **Conclusion**
 
-[HumHub](https://elest.io/open-source/humhub?ref=blog.elest.io) transcends traditional collaboration tools by placing users at the heart of its design. 
+[HumHub](https://octabyte.io/open-source/humhub?ref=blog.octabyte.io) transcends traditional collaboration tools by placing users at the heart of its design. 
 
 Whether it's posting informative articles, creating surveys, collaborating on projects, or managing files and documents, HumHub provides a comprehensive suite of tools. 
 
@@ -57,7 +57,7 @@ With individualized permissions, a robust search function, file management capab
 
 In a world where effective collaboration is a strategic advantage, HumHub stands out as a beacon of innovation, offering a secure, customizable, and feature\-rich platform for teams to thrive. 
 
-[Elevate your team collaboration experience with HumHub – where connectivity meets productivity.](https://elest.io/open-source/humhub?ref=blog.elest.io)
+[Elevate your team collaboration experience with HumHub – where connectivity meets productivity.](https://octabyte.io/open-source/humhub?ref=blog.octabyte.io)
 
 
 

@@ -21,7 +21,7 @@ Terraform was opensourced in 2014 under Mozilla Public License (v2\.0 MPL). For 
 
 ![OpenTofu is public fork of Terraform](https://cdn.hashnode.com/res/hashnode/image/upload/v1699363293928/18e13a5b-cb64-4842-a12f-4542d9649eef.webp)## What is OpenTofu?
 
-OpenTofu is a fully open\-source fork of Terraform. OpenTofu will be managed under a Linux foundation similar to how Linux is managed with the help of multiple companies and contributors. OpenTofu was announced at [Open Source Summit Europe 2023](https://youtu.be/_-9LhcPgoaY?list=PLbzoR-pLrL6pDxQxPguJTiqVC31JtMgxd&ref=blog.elest.io) and on 14th August 2023 published an [OpenTofu manifesto](https://opentofu.org/manifesto/?ref=blog.elest.io) followed by officially launching as a Linux Foundation project on 20th August 2023\. OpenTofu has crossed over 15K public stars on GitHub and is being supported by multiple organisations. Some organisations have even pledged software engineers over a period of time to work on OpenTofu and contribute to its engineering.
+OpenTofu is a fully open\-source fork of Terraform. OpenTofu will be managed under a Linux foundation similar to how Linux is managed with the help of multiple companies and contributors. OpenTofu was announced at [Open Source Summit Europe 2023](https://youtu.be/_-9LhcPgoaY?list=PLbzoR-pLrL6pDxQxPguJTiqVC31JtMgxd&ref=blog.octabyte.io) and on 14th August 2023 published an [OpenTofu manifesto](https://opentofu.org/manifesto/?ref=blog.octabyte.io) followed by officially launching as a Linux Foundation project on 20th August 2023\. OpenTofu has crossed over 15K public stars on GitHub and is being supported by multiple organisations. Some organisations have even pledged software engineers over a period of time to work on OpenTofu and contribute to its engineering.
 
 ![OpenTofu announcement image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699363433423/28d16e90-1c40-45c5-a97b-d5b08c103639.png)## Why do we need OpenTofu?
 
@@ -39,15 +39,15 @@ OpenTofu plans to remain compatible with the newer releases of Terraform as long
 
 ## Resources
 
-* [OpenTofu Project Overview \- Open Source Summit Europe 2023](https://youtu.be/_-9LhcPgoaY?si=PsFTCWadVyDOircv&ref=blog.elest.io)
-* [OpenTofu Blogs](https://opentofu.org/blog?ref=blog.elest.io)
-* [OpenTofu Documentation](https://opentofu.org/docs/intro/?ref=blog.elest.io)
-* [OpenTofu Manifesto](https://opentofu.org/manifesto?ref=blog.elest.io)
-* [Elestio Terraform Registry](https://registry.terraform.io/providers/elestio/elestio/latest?ref=blog.elest.io)
+* [OpenTofu Project Overview \- Open Source Summit Europe 2023](https://youtu.be/_-9LhcPgoaY?si=PsFTCWadVyDOircv&ref=blog.octabyte.io)
+* [OpenTofu Blogs](https://opentofu.org/blog?ref=blog.octabyte.io)
+* [OpenTofu Documentation](https://opentofu.org/docs/intro/?ref=blog.octabyte.io)
+* [OpenTofu Manifesto](https://opentofu.org/manifesto?ref=blog.octabyte.io)
+* [OctaByte Terraform Registry](https://registry.terraform.io/providers/elestio/elestio/latest?ref=blog.octabyte.io)
 
 ## Thanks for reading ❤️
 
-And that's it for this blog, thank you so much for reading. Do check out the resources provided to learn more about the OpenTofu project. You can click the button below to create your service on [Elestio](https://elest.io/?ref=blog.elest.io) and copy the terraform config of your service to try out OpenTofu. We will see how to set up and use OpenTofu in upcoming blogs 👋
+And that's it for this blog, thank you so much for reading. Do check out the resources provided to learn more about the OpenTofu project. You can click the button below to create your service on [OctaByte](https://octabyte.io/?ref=blog.octabyte.io) and copy the terraform config of your service to try out OpenTofu. We will see how to set up and use OpenTofu in upcoming blogs 👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](http://dash.elest.io/?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](http://dash.elest.io/?ref=blog.octabyte.io)
 

@@ -17,7 +17,7 @@ TocOpen: true
 ---
 
 
-[SonarQube](https://elest.io/open-source/sonarqube?ref=blog.elest.io) has become a vital tool for developers and organizations prioritizing code quality and security in their software projects. 
+[SonarQube](https://octabyte.io/open-source/sonarqube?ref=blog.octabyte.io) has become a vital tool for developers and organizations prioritizing code quality and security in their software projects. 
 
 As an open\-source platform, it provides a comprehensive solution for tracking code vulnerabilities, enforcing code quality standards, and establishing a structured quality gate in the CI/CD pipeline. 
 
@@ -75,7 +75,7 @@ SonarQube provides an effective, open\-source solution for maintaining code qual
 
 Whether integrated into the CI/CD pipeline or used for periodic code assessments, SonarQube helps foster a culture of proactive quality assurance, enhancing project security and robustness.
 
-[Deploy your instance of SonarQube with Elestio.](https://elest.io/open-source/sonarqube?ref=blog.elest.io)
+[Deploy your instance of SonarQube with OctaByte.](https://octabyte.io/open-source/sonarqube?ref=blog.octabyte.io)
 
 
 

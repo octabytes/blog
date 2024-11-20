@@ -1,28 +1,28 @@
 ---
 draft: true
-title: "Creating Keycloak cluster with Elestio"
+title: "Creating Keycloak cluster with OctaByte"
 date: "2024-06-14"
-description: "We will be creating a Keycloak cluster using Elestio. So, to get started head over to Elestio Dashboard and deploy and login into the Keycloak service to get started.
+description: "We will be creating a Keycloak cluster using OctaByte. So, to get started head over to OctaByte Dashboard and deploy and login into the Keycloak service to get started.
 
 
 Terraform Module for Keycloak Cluster
 
-A comprehensive Terraform module developed by Elestio significantly simplifies the process of deploying and scaling Keycloak"
+A comprehensive Terraform module developed by OctaByte significantly simplifies the process of deploying and scaling Keycloak"
 tags: []
 categories: [Identity and access management]
 cover:
   image: images/cover.png
-  caption: "Creating Keycloak cluster with Elestio"
+  caption: "Creating Keycloak cluster with OctaByte"
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will be creating a [Keycloak](https://elest.io/open-source/keycloak?ref=blog.elest.io) cluster using Elestio. So, to get started head over to [Elestio Dashboard](https://elest.io/open-source/keycloak?ref=blog.elest.io) and deploy and login into the Keycloak service to get started.
+We will be creating a [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) cluster using OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and deploy and login into the Keycloak service to get started.
 
 ### Terraform Module for Keycloak Cluster
 
-A comprehensive Terraform module developed by Elestio significantly simplifies the process of deploying and scaling Keycloak clusters. By leveraging this module, users can streamline their infrastructure setup, ensuring consistency and reliability in their Keycloak deployments. The module is designed to handle the complexities of scaling and maintaining a Keycloak cluster, making it an essential tool for developers and DevOps engineers looking to optimize their authentication and authorization workflows.
+A comprehensive Terraform module developed by OctaByte significantly simplifies the process of deploying and scaling Keycloak clusters. By leveraging this module, users can streamline their infrastructure setup, ensuring consistency and reliability in their Keycloak deployments. The module is designed to handle the complexities of scaling and maintaining a Keycloak cluster, making it an essential tool for developers and DevOps engineers looking to optimize their authentication and authorization workflows.
 
 #### Why Choose Keycloak?
 
@@ -34,19 +34,19 @@ In a Keycloak cluster, multiple independent nodes work together using a distribu
 
 ![Keycloak cluster architecture](images/cluster_architecture.png)#### Terraform Module Design
 
-This Terraform module focuses primarily on deploying Keycloak nodes. It is designed to be used in conjunction with other essential services, such as a load balancer and a database, to create a fully functional Keycloak cluster. While Elestio offers these services as part of their platform, the module is flexible enough to integrate with other compatible services you might already be using. This flexibility allows you to tailor the deployment to meet specific requirements and infrastructure setups. By using this module, you can automate the deployment process, ensuring that each Keycloak node is configured correctly and consistently.
+This Terraform module focuses primarily on deploying Keycloak nodes. It is designed to be used in conjunction with other essential services, such as a load balancer and a database, to create a fully functional Keycloak cluster. While OctaByte offers these services as part of their platform, the module is flexible enough to integrate with other compatible services you might already be using. This flexibility allows you to tailor the deployment to meet specific requirements and infrastructure setups. By using this module, you can automate the deployment process, ensuring that each Keycloak node is configured correctly and consistently.
 
-![Terraform architecture](https://blog.elest.io/content/images/2024/06/terraform_architecture.png)#### About Elestio
+![Terraform architecture](https://blog.octabyte.io/content/images/2024/06/terraform_architecture.png)#### About OctaByte
 
-Elestio is a comprehensive DevOps platform that simplifies the deployment and management of various services. Their fully managed approach means that you don't have to spend extensive time configuring and maintaining your infrastructure. Elestio handles crucial aspects like security, DNS management, SMTP configuration, SSL setup, monitoring and alerts, backups, and updates. This allows developers to focus on building and deploying their applications rather than dealing with operational overhead. An Elestio account is required to use the Terraform module, and the platform offers various services that can be seamlessly integrated into your deployment.
+OctaByte is a comprehensive DevOps platform that simplifies the deployment and management of various services. Their fully managed approach means that you don't have to spend extensive time configuring and maintaining your infrastructure. OctaByte handles crucial aspects like security, DNS management, SMTP configuration, SSL setup, monitoring and alerts, backups, and updates. This allows developers to focus on building and deploying their applications rather than dealing with operational overhead. An OctaByte account is required to use the Terraform module, and the platform offers various services that can be seamlessly integrated into your deployment.
 
-##### Getting Started with Elestio
+##### Getting Started with OctaByte
 
-1. **Create an account**: Sign up on Elestio's platform to get started.
-2. **Request free credits**: Take advantage of the free credits offered by Elestio to explore their services.
-3. **Explore services**: Browse the growing list of deployable services on Elestio. If a service you need is missing, you can request its inclusion.
+1. **Create an account**: Sign up on OctaByte's platform to get started.
+2. **Request free credits**: Take advantage of the free credits offered by OctaByte to explore their services.
+3. **Explore services**: Browse the growing list of deployable services on OctaByte. If a service you need is missing, you can request its inclusion.
 
-Elestio's platform is user\-friendly and designed to cater to both novice users and experienced developers. Their support team is available to assist with any questions or issues, ensuring that you can get your services up and running smoothly.
+OctaByte's platform is user\-friendly and designed to cater to both novice users and experienced developers. Their support team is available to assist with any questions or issues, ensuring that you can get your services up and running smoothly.
 
 #### Usage
 
@@ -98,7 +98,7 @@ This configuration sets up a Keycloak cluster with specified database and node d
 
 To deploy a complete setup including the database, load balancer, and nodes, follow these steps:
 
-1. **Install Terraform**: Download and install the Terraform client from the official [Terraform website](https://learn.hashicorp.com/tutorials/terraform/install-cli?ref=blog.elest.io). This tool will enable you to manage your infrastructure as code, simplifying deployment and scaling processes.
+1. **Install Terraform**: Download and install the Terraform client from the official [Terraform website](https://learn.hashicorp.com/tutorials/terraform/install-cli?ref=blog.octabyte.io). This tool will enable you to manage your infrastructure as code, simplifying deployment and scaling processes.
 	* Create a new directory for your project.
 	* Inside this directory, create the following files: `main.tf`, `terraform.tfvars`, `terraform_rsa`, `terraform_rsa.pub`, and `.gitignore`.
 * Populate `main.tf` with your configuration details.
@@ -158,9 +158,9 @@ This information is crucial for managing and accessing your deployed services.
 
 #### Verify Deployment
 
-To ensure your deployment is successful, check the logs of the deployed services via the Elestio dashboard:
+To ensure your deployment is successful, check the logs of the deployed services via the OctaByte dashboard:
 
-1. Navigate to the [Elestio Dashboard](https://dash.elest.io/?ref=blog.elest.io).
+1. Navigate to the [OctaByte Dashboard](https://dash.elest.io/?ref=blog.octabyte.io).
 2. Select your cluster project.
 3. View the logs for each Keycloak service under the "Overview" section.
 
@@ -205,7 +205,7 @@ Run `terraform apply` again and confirm the changes. The new node will join the 
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.elest.io) to learn more about Keycloak. You can click the button below to create your service on [Elestio](https://elest.io/open-source/keycloak?ref=blog.elest.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/keycloak?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
 

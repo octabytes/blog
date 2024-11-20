@@ -15,9 +15,9 @@ TocOpen: true
 ---
 
 
-In the ever\-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data\-driven decisions can make all the difference. This is where [Flagsmith](https://elest.io/open-source/flagsmith?ref=blog.elest.io), the Feature Flag \& Remote Config Service, comes into play. 
+In the ever\-evolving landscape of software development, flexibility, control, and speed are essential. The ability to release features with confidence and make data\-driven decisions can make all the difference. This is where [Flagsmith](https://octabyte.io/open-source/flagsmith?ref=blog.octabyte.io), the Feature Flag \& Remote Config Service, comes into play. 
 
-In this article, we'll explore how [Flagsmith](https://www.flagsmith.com/?ref=blog.elest.io) empowers developers to manage feature flags efficiently, tailor experiences, and streamline the development process.
+In this article, we'll explore how [Flagsmith](https://www.flagsmith.com/?ref=blog.octabyte.io) empowers developers to manage feature flags efficiently, tailor experiences, and streamline the development process.
 
 
 
@@ -57,7 +57,7 @@ This level of flexibility empowers you to deploy functional and visual changes t
 
 Flagsmith is your go\-to solution for managing feature flags and remote configurations. It streamlines the development process, enhances control, and enables data\-driven decisions. 
 
-[Enable feature flags and remote configuration with Flagsmith](https://elest.io/open-source/flagsmith?ref=blog.elest.io)
+[Enable feature flags and remote configuration with Flagsmith](https://octabyte.io/open-source/flagsmith?ref=blog.octabyte.io)
 
 
 

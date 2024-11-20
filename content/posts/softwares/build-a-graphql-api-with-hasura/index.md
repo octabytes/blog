@@ -15,7 +15,7 @@ TocOpen: true
 ---
 
 
-In the fast\-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter [Hasura](https://elest.io/open-source/hasura?ref=blog.elest.io), the low\-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed. 
+In the fast\-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter [Hasura](https://octabyte.io/open-source/hasura?ref=blog.octabyte.io), the low\-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed. 
 
 In this article, we will explore the power of Hasura and dive into its key features, showing you how it empowers your development team.
 
@@ -83,7 +83,7 @@ Hasura is a high\-value option to consider when it comes to API development. By 
 
 Whether you're building a new application or modernizing an existing one, Hasura can increase your development time and the overall quality of your backend.
 
-[Try Hasura self\-hosted version on Elestio](https://elest.io/open-source/hasura?ref=blog.elest.io)
+[Try Hasura self\-hosted version on OctaByte](https://octabyte.io/open-source/hasura?ref=blog.octabyte.io)
 
 
 

@@ -17,7 +17,7 @@ TocOpen: true
 
 In the digital age, managing a plethora of bookmarks can be a daunting task, especially for teams working on collaborative projects. 
 
-Enter [Linkwarden](https://elest.io/open-source/linkwarden?ref=blog.elest.io), an open\-source bookmark manager designed specifically for individuals and teams to collect, organize, and preserve webpages. Its feature\-rich platform ensures that your bookmarks are not only organized but also preserved for future access, even if the original webpages are taken down. 
+Enter [Linkwarden](https://octabyte.io/open-source/linkwarden?ref=blog.octabyte.io), an open\-source bookmark manager designed specifically for individuals and teams to collect, organize, and preserve webpages. Its feature\-rich platform ensures that your bookmarks are not only organized but also preserved for future access, even if the original webpages are taken down. 
 
 With its self\-hostable nature, Linkwarden provides transparency and trust, allowing users to have full control over their data. Let's dive into the core functionalities that make Linkwarden an indispensable tool for teams.
 
@@ -65,9 +65,9 @@ This feature is particularly useful for project collaboration, where sharing ess
 
 ### Conclusion
 
-In summary, [Linkwarden](https://elest.io/open-source/linkwarden?ref=blog.elest.io) is a powerful, open\-source bookmark manager that caters to the needs of both individuals and teams. Its comprehensive features for collecting, organizing, and preserving webpages make it an indispensable tool for modern web users. By offering a self\-hostable solution, Linkwarden ensures transparency and control over your data, while its responsive design guarantees accessibility across all devices. 
+In summary, [Linkwarden](https://octabyte.io/open-source/linkwarden?ref=blog.octabyte.io) is a powerful, open\-source bookmark manager that caters to the needs of both individuals and teams. Its comprehensive features for collecting, organizing, and preserving webpages make it an indispensable tool for modern web users. By offering a self\-hostable solution, Linkwarden ensures transparency and control over your data, while its responsive design guarantees accessibility across all devices. 
 
-[Try Linkwarden on Elestio.](https://elest.io/open-source/linkwarden?ref=blog.elest.io)
+[Try Linkwarden on OctaByte.](https://octabyte.io/open-source/linkwarden?ref=blog.octabyte.io)
 
 
 

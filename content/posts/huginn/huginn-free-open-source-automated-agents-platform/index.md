@@ -17,7 +17,7 @@ TocOpen: true
 
 Automation has become an integral part of increasing efficiency across various business domains. From scheduling social media posts to monitoring website changes, automation tools have simplified tasks that would otherwise consume valuable time and resources. 
 
-Among these tools, [Huginn](https://elest.io/open-source/huginn?ref=blog.elest.io) stands out as a powerful and versatile platform for creating automated agents to perform tasks on your behalf. In this article, we'll delve into what Huginn is, how it works, and how it can benefit users across different scenarios.
+Among these tools, [Huginn](https://octabyte.io/open-source/huginn?ref=blog.octabyte.io) stands out as a powerful and versatile platform for creating automated agents to perform tasks on your behalf. In this article, we'll delve into what Huginn is, how it works, and how it can benefit users across different scenarios.
 
 
 
@@ -31,7 +31,7 @@ At the heart of Huginn lies its concept of agents. Agents are small, task\-speci
 
 Huginn provides a vast library of pre\-built agents to handle common tasks, including ones for Twitter, RSS feeds, weather updates, and more. 
 
-[Read the Wiki for usage examples and to get started making new Agents.](https://github.com/huginn/huginn/wiki?ref=blog.elest.io)
+[Read the Wiki for usage examples and to get started making new Agents.](https://github.com/huginn/huginn/wiki?ref=blog.octabyte.io)
 
 ### **Scenarios**
 
@@ -57,7 +57,7 @@ In conclusion, Huginn is a powerful and versatile platform for creating automate
 
 Whether you're an individual looking to simplify your daily routine or a business seeking to optimize operations, Huginn offers the flexibility and scalability to meet your automation needs. Best of all, Huginn is open\-source and free to use, making it accessible to everyone regardless of budget or technical expertise.
 
-[Embrace the power of automation with Huginn and unlock new possibilities for efficiency and innovation in your personal and professional endeavors with Elestio.](https://elest.io/open-source/huginn?ref=blog.elest.io)
+[Embrace the power of automation with Huginn and unlock new possibilities for efficiency and innovation in your personal and professional endeavors with OctaByte.](https://octabyte.io/open-source/huginn?ref=blog.octabyte.io)
 
 
 

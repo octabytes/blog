@@ -13,7 +13,7 @@ TocOpen: true
 ---
 
 
-Welcome to the future of application development—introducing [FlowiseAI](https://elest.io/open-source/flowiseai?ref=blog.elest.io), the cutting\-edge platform that propels the creation of Chatbots and Large Language Model (LLM) applications into an era of simplicity and innovation. This blog unwraps the transformative features that position FlowiseAI as the go\-to solution for both seasoned developers and those embracing the world of no\-code application design.
+Welcome to the future of application development—introducing [FlowiseAI](https://octabyte.io/open-source/flowiseai?ref=blog.octabyte.io), the cutting\-edge platform that propels the creation of Chatbots and Large Language Model (LLM) applications into an era of simplicity and innovation. This blog unwraps the transformative features that position FlowiseAI as the go\-to solution for both seasoned developers and those embracing the world of no\-code application design.
 
 
 
@@ -47,7 +47,7 @@ In conclusion, FlowiseAI stands as a trailblazer in the realm of no\-code LLMs a
 
 It empowers creators, fuels collaboration, and propels the industry toward a future where application development is accessible to all. 
 
-[Experience the magic of building No Code ChatBot \& LLM Apps with FlowiseAI and Elestio.](https://elest.io/open-source/flowiseai?ref=blog.elest.io)
+[Experience the magic of building No Code ChatBot \& LLM Apps with FlowiseAI and OctaByte.](https://octabyte.io/open-source/flowiseai?ref=blog.octabyte.io)
 
 
 

@@ -2,7 +2,7 @@
 draft: true
 title: "Creating custom integration in N8N"
 date: "2024-11-27"
-description: "Let's see how you can create custom integration in N8N. During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self-hosting it on Elestio.
+description: "Let's see how you can create custom integration in N8N. During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self-hosting it on OctaByte.
 
 
 What is N8N?
@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-Let's see how you can create custom integration in [N8N](https://elest.io/open-source/n8n?ref=blog.elest.io). During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [Elestio](https://elest.io/open-source/n8n?ref=blog.elest.io).
+Let's see how you can create custom integration in [N8N](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io). During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
 
 ## What is N8N?
 
@@ -40,13 +40,13 @@ Custom integrations in n8n, while useful, can have drawbacks such as increased c
 
 To create custom integrations, N8N provides an example template. Head over to the following link and follow the instructions to get started with creating custom integrations for N8N. This repository contains example nodes to help you build custom integrations for n8n, including a node linter and dependencies. To share your custom node with the community, you need to create it as an npm package and submit it to the npm registry. Prerequisites include git, Node.js, and npm (minimum version Node 16\). Install n8n globally with `npm install n8n -g` and follow n8n's development environment setup guide. To use the starter, generate a new repository from the template, clone it, install dependencies, and modify or replace example nodes and credentials. Update `package.json`, lint your code, test locally, replace the README, update the LICENSE, and publish to npm.
 
-[GitHub \- n8n\-io/n8n\-nodes\-starter: Example starter module for custom n8n nodes.Example starter module for custom n8n nodes. Contribute to n8n\-io/n8n\-nodes\-starter development by creating an account on GitHub.![](https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg)GitHubn8n\-io![](https://opengraph.githubassets.com/d51e8112d74ac31c4b7e8c7bd89a8058c80e7e93f2b53b906473d7db1aea3644/n8n-io/n8n-nodes-starter)](https://github.com/n8n-io/n8n-nodes-starter?ref=blog.elest.io)## Conclusion
+[GitHub \- n8n\-io/n8n\-nodes\-starter: Example starter module for custom n8n nodes.Example starter module for custom n8n nodes. Contribute to n8n\-io/n8n\-nodes\-starter development by creating an account on GitHub.![](https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg)GitHubn8n\-io![](https://opengraph.githubassets.com/d51e8112d74ac31c4b7e8c7bd89a8058c80e7e93f2b53b906473d7db1aea3644/n8n-io/n8n-nodes-starter)](https://github.com/n8n-io/n8n-nodes-starter?ref=blog.octabyte.io)## Conclusion
 
 Custom integrations in n8n unlock a world of possibilities for automation and efficiency. While they come with certain challenges such as increased complexity, technical requirements, and maintenance efforts the ability to create tailored, scalable, and highly specific workflows can provide significant benefits. By understanding these cons and following best practices for development and maintenance, you can effectively leverage custom integrations to enhance your n8n workflows and drive business success.
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the Elestio resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.elest.io) to learn more about N8N. You can click the button below to create your service on [Elestio](https://elest.io/open-source/n8n?ref=blog.elest.io) and start building and installing custom integrations. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and start building and installing custom integrations. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/n8n?ref=blog.elest.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
 

@@ -1,23 +1,23 @@
 ---
 draft: true
-title: "How to Deploy or Integrate a Service with Tor Onion on Elestio"
+title: "How to Deploy or Integrate a Service with Tor Onion on OctaByte"
 date: "2024-04-09"
 description: "To make your services accessible over Tor, you can configure a Tor service within your service Docker Compose setup. This will allow your service to function as an onion site, providing enhanced privacy and limiting access to Tor-compatible browsers. Here’s a guide to setting up your service with Tor"
 tags: []
 categories: [Identity and access management]
 cover:
   image: images/cover.png
-  caption: "How to Deploy or Integrate a Service with Tor Onion on Elestio"
+  caption: "How to Deploy or Integrate a Service with Tor Onion on OctaByte"
 ShowToc: true
 TocOpen: true
 ---
 
 
-To make your services accessible over Tor, you can configure a Tor service within your service Docker Compose setup. This will allow your service to function as an onion site, providing enhanced privacy and limiting access to Tor\-compatible browsers. Here’s a guide to setting up your service with Tor on Elestio.
+To make your services accessible over Tor, you can configure a Tor service within your service Docker Compose setup. This will allow your service to function as an onion site, providing enhanced privacy and limiting access to Tor\-compatible browsers. Here’s a guide to setting up your service with Tor on OctaByte.
 
 **Step 1: Set Up Your Service**
 
-First, deploy a new service on Elestio or select an existing one you’ve already deployed.
+First, deploy a new service on OctaByte or select an existing one you’ve already deployed.
 
 **Step 2: Open the Editor**
 
@@ -113,7 +113,7 @@ To restrict access exclusively to the Tor network and block regular web traffic,
 
 **Summary**
 
-With these steps, you’ve configured your Elestio\-deployed service to be accessible through a Tor onion address. This setup allows for private, anonymous access via Tor, enhancing your service's privacy and security.
+With these steps, you’ve configured your OctaByte\-deployed service to be accessible through a Tor onion address. This setup allows for private, anonymous access via Tor, enhancing your service's privacy and security.
 
 
 

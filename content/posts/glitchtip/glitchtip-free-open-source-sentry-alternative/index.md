@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-Discover [GlitchTip](https://elest.io/open-source/glitchtip?ref=blog.elest.io), your go\-to solution for open\-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
+Discover [GlitchTip](https://octabyte.io/open-source/glitchtip?ref=blog.octabyte.io), your go\-to solution for open\-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
 
 
 
@@ -48,7 +48,7 @@ Choose GlitchTip if you prioritize simplicity, affordability, and the advantages
 
 Whether you run it on your server, the cloud version, or opt for our hosting, GlitchTip empowers you to monitor errors, track performance, and ensure uptime, all in one convenient platform. 
 
-[Experience the ease of software monitoring with GlitchTip.](https://elest.io/open-source/glitchtip?ref=blog.elest.io)
+[Experience the ease of software monitoring with GlitchTip.](https://octabyte.io/open-source/glitchtip?ref=blog.octabyte.io)
 
 
 

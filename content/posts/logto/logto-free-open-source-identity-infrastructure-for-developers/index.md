@@ -18,7 +18,7 @@ TocOpen: true
 ---
 
 
-Empower your projects with [Logto](https://elest.io/open-source/logto?ref=blog.elest.io), the ultimate free open\-source identity infrastructure tailored for developers. Say goodbye to the complexities of authentication and authorization, and welcome a seamless, modern solution.
+Empower your projects with [Logto](https://octabyte.io/open-source/logto?ref=blog.octabyte.io), the ultimate free open\-source identity infrastructure tailored for developers. Say goodbye to the complexities of authentication and authorization, and welcome a seamless, modern solution.
 
 
 
@@ -48,7 +48,7 @@ Designed for the modern era, Logto prioritizes an excellent developer experience
 
 From proof of concept to managing multiple products, Logto is your go\-to solution for reliable identity infrastructure. 
 
-[Deploy your fully managed Logto instance on Elestio.](https://elest.io/open-source/logto?ref=blog.elest.io)and 
+[Deploy your fully managed Logto instance on OctaByte.](https://octabyte.io/open-source/logto?ref=blog.octabyte.io)and 
 
 
 

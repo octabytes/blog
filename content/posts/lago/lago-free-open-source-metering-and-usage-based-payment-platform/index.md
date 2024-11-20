@@ -15,7 +15,7 @@ TocOpen: true
 ---
 
 
-Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. [Lago](https://elest.io/open-source/lago?ref=blog.elest.io) emerges as a remedy to this, offering a free, open\-source solution for metering and usage\-based billing. 
+Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. [Lago](https://octabyte.io/open-source/lago?ref=blog.octabyte.io) emerges as a remedy to this, offering a free, open\-source solution for metering and usage\-based billing. 
 
 Whether self\-hosted or on the cloud, Lago boasts a scalable and modular architecture designed to address the persistent challenges in metering and billing. 
 
@@ -61,7 +61,7 @@ Lago is the best alternative to Chargebee, Recurly, or Stripe Billing, empowerin
 
 With its open\-source foundation, Lago propels businesses toward a future where billing is a strategic advantage rather than a hindrance.
 
-[Deploy your instance on Elestio and give a try to Lago](https://elest.io/open-source/lago?ref=blog.elest.io)
+[Deploy your instance on OctaByte and give a try to Lago](https://octabyte.io/open-source/lago?ref=blog.octabyte.io)
 
 
 

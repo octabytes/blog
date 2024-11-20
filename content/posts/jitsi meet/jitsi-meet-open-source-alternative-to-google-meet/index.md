@@ -17,7 +17,7 @@ TocOpen: true
 
 In today's interconnected world, effective communication is paramount, and video conferencing has become an integral part of our professional and personal lives. 
 
-One powerful solution that has gained significant popularity is [Jitsi Meet](https://elest.io/open-source/jitsi?ref=blog.elest.io) a free and open\-source alternative to Google Meet. In this article, we will delve into the features and advantages of Jitsi Meet. Let's embark on this journey to discover a reliable and flexible video conferencing solution.
+One powerful solution that has gained significant popularity is [Jitsi Meet](https://octabyte.io/open-source/jitsi?ref=blog.octabyte.io) a free and open\-source alternative to Google Meet. In this article, we will delve into the features and advantages of Jitsi Meet. Let's embark on this journey to discover a reliable and flexible video conferencing solution.
 
 
 
@@ -33,34 +33,34 @@ The cloud version is an excellent choice for quick and hassle\-free video confer
 
 On the other hand, the self\-hosted deployment provides users with complete control over their video conferencing infrastructure. Organizations can leverage their existing infrastructure and security measures, ensuring data privacy and compliance. Self\-hosting allows customization, scalability, and integration with other tools. However, it requires technical expertise and resources for installation, configuration, and ongoing maintenance.
 
-With Elestio, you get the best of both worlds, as we take care of automatic updates and maintenance while offering you the self\-hosted free version.
+With OctaByte, you get the best of both worlds, as we take care of automatic updates and maintenance while offering you the self\-hosted free version.
 
 ## Meeting
 
-[Jitsi Meet](https://elest.io/open-source/jitsi?ref=blog.elest.io) offers a user\-friendly interface, allowing participants to join meetings effortlessly from any device with a web browser. With no downloads or registrations required, participants can quickly enter a virtual meeting room and engage in high\-quality video and audio conversations. 
+[Jitsi Meet](https://octabyte.io/open-source/jitsi?ref=blog.octabyte.io) offers a user\-friendly interface, allowing participants to join meetings effortlessly from any device with a web browser. With no downloads or registrations required, participants can quickly enter a virtual meeting room and engage in high\-quality video and audio conversations. 
 
 The platform supports large meetings, breakout rooms, and simultaneous screen sharing, enhancing collaboration and productivity.  
 
 
 ## iOS/Android Apps
 
-Jitsi Meet extends its functionality with dedicated mobile apps for [iOS](https://apps.apple.com/us/app/jitsi-meet/id1165103905?ref=blog.elest.io) and [Android devices](https://play.google.com/store/apps/details?id=org.jitsi.meet&ref=blog.elest.io). 
+Jitsi Meet extends its functionality with dedicated mobile apps for [iOS](https://apps.apple.com/us/app/jitsi-meet/id1165103905?ref=blog.octabyte.io) and [Android devices](https://play.google.com/store/apps/details?id=org.jitsi.meet&ref=blog.octabyte.io). 
 
 These apps provide a seamless mobile experience, allowing users to join meetings on the go. With the same robust features as the web version, participants can enjoy video conferencing from their smartphones or tablets, ensuring flexibility and convenience.
 
 ## Documentation
 
-Jitsi Meet offers [comprehensive documentation](https://jitsi.github.io/handbook/docs/intro/?ref=blog.elest.io) to support users at every stage of their video conferencing journey. 
+Jitsi Meet offers [comprehensive documentation](https://jitsi.github.io/handbook/docs/intro/?ref=blog.octabyte.io) to support users at every stage of their video conferencing journey. 
 
 The documentation covers installation and configuration guides for self\-hosted deployments, troubleshooting tips, and advanced customization options. 
 
-Users can access resources such as forums, [community discussions](https://community.jitsi.org/?ref=blog.elest.io), and [FAQs](https://jitsi.github.io/handbook/docs/faq?ref=blog.elest.io), ensuring a smooth and successful experience with Jitsi Meet.
+Users can access resources such as forums, [community discussions](https://community.jitsi.org/?ref=blog.octabyte.io), and [FAQs](https://jitsi.github.io/handbook/docs/faq?ref=blog.octabyte.io), ensuring a smooth and successful experience with Jitsi Meet.
 
 ## Conclusion
 
 In a world where effective communication and collaboration are vital, Jitsi Meet emerges as a reliable and flexible video conferencing solution. Whether you opt for the cloud version or prefer self\-hosting, Jitsi Meet provides seamless and feature\-rich video meetings, fostering productivity and connection. With its user\-friendly interface, mobile apps, and extensive documentation, Jitsi Meet empowers individuals, teams, and organizations to embrace the power of video conferencing, no matter their location or device. 
 
-[Elevate your virtual meetings with Jitsi Meet and experience a new era of communication.](https://elest.io/open-source/jitsi?ref=blog.elest.io)
+[Elevate your virtual meetings with Jitsi Meet and experience a new era of communication.](https://octabyte.io/open-source/jitsi?ref=blog.octabyte.io)
 
 
 

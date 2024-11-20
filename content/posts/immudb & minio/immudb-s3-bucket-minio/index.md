@@ -37,7 +37,7 @@ Immudb can operate both as a key\-value store, and/or as a relational database (
 
 **Separating compute and storage**
 
-Immudb can store its data in an AWS S3 bucket or a compatible alternative. Here we are going to use Minio to deploy an object storage with low latency close to the immudb instance. That way the increased storage space usage over time is easy to manage and the performance much better than AWS S3\. On Elestio It’s possible to resize network disks up to 10 TB per volume. You can also create a cluster of several MinIO instances to enable high availability and increase the global storage size.  
+Immudb can store its data in an AWS S3 bucket or a compatible alternative. Here we are going to use Minio to deploy an object storage with low latency close to the immudb instance. That way the increased storage space usage over time is easy to manage and the performance much better than AWS S3\. On OctaByte It’s possible to resize network disks up to 10 TB per volume. You can also create a cluster of several MinIO instances to enable high availability and increase the global storage size.  
 
 
 **SDK, REST API and Web UI**
@@ -46,44 +46,44 @@ SDKs are available for Java, Go, .NET, Python and Node.js. A REST API is availab
 
 ![](https://lh5.googleusercontent.com/trqsvyC1fyj-foiyXTUjR1ZyFFTYT8hZKQIrwmpv1dgzOQpJZDPvKeg0kXUfFEw1WZ4gbNZ62usrLmq3dh6Jq6KWFEaEZldgkdsWVNChnemE7Fjkk_2CNEt64Hgb9MHoVTtwVYRfc_vCiMph-w)  
 **Get a running instance of immudb in few minutes**  
-Elestio makes it easy to deploy a dedicated instance of immudb on any cloud, we take care of providing the cloud resources (except if you prefer to [BYOVM](https://docs.elest.io/books/cloud-providers/page/byovm-bring-your-own-vm?ref=blog.elest.io) or deploy on\-premise) and doing all the devOps part including security, reverse proxy with SSL configuration, monitoring/alerts, backups, updates and migrations.   
+OctaByte makes it easy to deploy a dedicated instance of immudb on any cloud, we take care of providing the cloud resources (except if you prefer to [BYOVM](https://docs.elest.io/books/cloud-providers/page/byovm-bring-your-own-vm?ref=blog.octabyte.io) or deploy on\-premise) and doing all the devOps part including security, reverse proxy with SSL configuration, monitoring/alerts, backups, updates and migrations.   
   
 
 
 ## Quickstart
 
 **Step 1: deploy a dedicated immudb instance**  
-click here: [https://dash.elest.io/deploy?soft\=immudb\&id\=251](https://dash.elest.io/deploy?soft=ImmuDB&id=251&ref=blog.elest.io)
+click here: [https://dash.elest.io/deploy?soft\=immudb\&id\=251](https://dash.elest.io/deploy?soft=ImmuDB&id=251&ref=blog.octabyte.io)
 
-![Elestio dashboard > Services > New](https://lh3.googleusercontent.com/623C2wihgsCCfKctGqYum9wvoIIKnBmXyLQNv3gmMhvOlmGn4FbBtx62XCTIt7APxypIzDUoCMGSsBGvIM-i8kVoIuRDskz0zEmXWU3HaPDffV_RZpgZURIcaK1wJHnzjrGw_AnSHLXqo8I6Dw)
+![OctaByte dashboard > Services > New](https://lh3.googleusercontent.com/623C2wihgsCCfKctGqYum9wvoIIKnBmXyLQNv3gmMhvOlmGn4FbBtx62XCTIt7APxypIzDUoCMGSsBGvIM-i8kVoIuRDskz0zEmXWU3HaPDffV_RZpgZURIcaK1wJHnzjrGw_AnSHLXqo8I6Dw)
 
-Elestio dashboard \> Services \> New
+OctaByte dashboard \> Services \> New
 
   
-There you can select your prefered cloud provider or use [BYOVM](https://docs.elest.io/books/cloud-providers/page/byovm-bring-your-own-vm?ref=blog.elest.io) to deploy on your own cloud or on\-premise. Then select your prefered region, it should be as close as possible to your users. We have a selection of 80 datacenters in 27 countries.
+There you can select your prefered cloud provider or use [BYOVM](https://docs.elest.io/books/cloud-providers/page/byovm-bring-your-own-vm?ref=blog.octabyte.io) to deploy on your own cloud or on\-premise. Then select your prefered region, it should be as close as possible to your users. We have a selection of 80 datacenters in 27 countries.
 
 Then choose the instance size from 1 CPU/1GB RAM up to 32 CPU/128GB RAM
 
 Finally click on the “Create service” button. Few minutes later your immudb instance will be ready to use. You will receive by email a quickstart with few samples.  
 
 
-![Elestio dashboard > Services > Overview of immudb instance](https://lh4.googleusercontent.com/TWvZzWuypSpiLNNQN-yBxsfG2J9y0ZZPpbeaKgamXkagVez02dskW6Jmu2Fg2MK8vwTEfLQopbEjS6fb5YwQ-kRLUhfshgl7lDT3fkFsu4uVRmjM6e5YonOYjA7RC-eK4iFho85AV2jSKy5SKw)
+![OctaByte dashboard > Services > Overview of immudb instance](https://lh4.googleusercontent.com/TWvZzWuypSpiLNNQN-yBxsfG2J9y0ZZPpbeaKgamXkagVez02dskW6Jmu2Fg2MK8vwTEfLQopbEjS6fb5YwQ-kRLUhfshgl7lDT3fkFsu4uVRmjM6e5YonOYjA7RC-eK4iFho85AV2jSKy5SKw)
 
-Elestio dashboard \> Services \> Overview of immudb instance
+OctaByte dashboard \> Services \> Overview of immudb instance
 
   
   
 **Step 2: deploy a dedicated MinIO instance**  
-Click here: [https://dash.elest.io/deploy?soft\=MinIO\&id\=63](https://dash.elest.io/deploy?soft=MinIO&id=63&ref=blog.elest.io)
+Click here: [https://dash.elest.io/deploy?soft\=MinIO\&id\=63](https://dash.elest.io/deploy?soft=MinIO&id=63&ref=blog.octabyte.io)
 
 The MinIO instance should be deployed in the same dc to reduce latency. You should choose the instance size based on your needs. you can start with the smallest one and increase as needed.
 
 Once deployed, click on the “Admin UI” button to get the endpoint and credentials for your MinIO instance:   
 
 
-![Elestio dashboard > Services > Overview of MinIO instance](https://lh6.googleusercontent.com/IWPkBRUVZkf9ap609yLGD9K5vtEU-YkYG7_R_8ScTS79tlPESGAOumwCvLWoxDwUu0XUd1LoZqEXGVUYmeuNLlZ0fiRL6LBLAYnxbLls0LTRBpCCYQkM0XEmFwDbhcGjMBPQSdzsXYPpAN-V7g)
+![OctaByte dashboard > Services > Overview of MinIO instance](https://lh6.googleusercontent.com/IWPkBRUVZkf9ap609yLGD9K5vtEU-YkYG7_R_8ScTS79tlPESGAOumwCvLWoxDwUu0XUd1LoZqEXGVUYmeuNLlZ0fiRL6LBLAYnxbLls0LTRBpCCYQkM0XEmFwDbhcGjMBPQSdzsXYPpAN-V7g)
 
-Elestio dashboard \> Services \> Overview of MinIO instance
+OctaByte dashboard \> Services \> Overview of MinIO instance
 
   
 
@@ -95,7 +95,7 @@ Log into MinIO with the credentials then create a new S3 bucket for immudb (my\-
 MinIO web UI \> Create Bucket
 
 **Step 3: Configure immudb to store data in our new bucket**  
-Go back to Elestio dashboard \> your deployed immudb instance \> there click on “Update config” button \> Env tab \> add those env variables there: 
+Go back to OctaByte dashboard \> your deployed immudb instance \> there click on “Update config” button \> Env tab \> add those env variables there: 
 
 
 
@@ -164,17 +164,17 @@ You can find many examples how to use immudb in your applications
 
 in the online manual:  
 
-[https://docs.immudb.io/master/](https://docs.immudb.io/master/?ref=blog.elest.io)
+[https://docs.immudb.io/master/](https://docs.immudb.io/master/?ref=blog.octabyte.io)
 
 
 or in the SDK examples repository:  
 
-[https://github.com/codenotary/immudb\-client\-examples](https://github.com/codenotary/immudb-client-examples?ref=blog.elest.io)
+[https://github.com/codenotary/immudb\-client\-examples](https://github.com/codenotary/immudb-client-examples?ref=blog.octabyte.io)
 
 
 If you want automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of immudb stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, and functional.
 
 Click on the button below to get a fully managed instance of immudb ready to use in less than 3 minutes. 
 
-[Deploy immudb](https://dash.elest.io/deploy?soft=ImmuDB&id=251&ref=blog.elest.io)
+[Deploy immudb](https://dash.elest.io/deploy?soft=ImmuDB&id=251&ref=blog.octabyte.io)
 

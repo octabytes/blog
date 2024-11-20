@@ -17,7 +17,7 @@ TocOpen: true
 ---
 
 
-In the landscape of business management software, [FrappeHR](https://elest.io/open-source/frappehr?ref=blog.elest.io) stands out as a robust, open\-source solution designed to streamline human resources and payroll operations. 
+In the landscape of business management software, [FrappeHR](https://octabyte.io/open-source/frappehr?ref=blog.octabyte.io) stands out as a robust, open\-source solution designed to streamline human resources and payroll operations. 
 
 Built on the Frappe Framework, FrappeHR offers a comprehensive suite of tools to manage everything from employee onboarding to payroll processing. 
 
@@ -70,7 +70,7 @@ FrappeHR is an ultimate all\-in\-one solution for organizations looking to optim
 
 With FrappeHR, businesses can enjoy a seamless, integrated experience that drives efficiency and supports growth. Whether you are a small startup or a large enterprise, FrappeHR is the perfect solution to elevate your HR and payroll operations to the next level.
 
-[Deploy your FrappeHR with Elestio.](https://elest.io/open-source/frappehr?ref=blog.elest.io)
+[Deploy your FrappeHR with OctaByte.](https://octabyte.io/open-source/frappehr?ref=blog.octabyte.io)
 
 
 

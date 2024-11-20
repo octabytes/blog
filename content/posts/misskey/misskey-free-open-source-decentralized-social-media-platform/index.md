@@ -15,7 +15,7 @@ TocOpen: true
 ---
 
 
-In the vast landscape of social media platforms, there's a rising star that's not just another app in the crowd. [Misskey](https://elest.io/open-source/misskey?ref=blog.elest.io) is redefining the social media experience by offering a free, open\-source, decentralized platform where users have the power to control their digital interactions. 
+In the vast landscape of social media platforms, there's a rising star that's not just another app in the crowd. [Misskey](https://octabyte.io/open-source/misskey?ref=blog.octabyte.io) is redefining the social media experience by offering a free, open\-source, decentralized platform where users have the power to control their digital interactions. 
 
 Let's delve into what makes Misskey stand out in the bustling realm of social networking.
 
@@ -49,7 +49,7 @@ One of the defining aspects of Misskey is the level of control it offers to user
 
 Misskey represents a paradigm shift in the world of social media. It champions the principles of openness, decentralization, and user empowerment. With its array of features and commitment to community building, Misskey is not just a platform; it's a movement towards a more inclusive and democratic digital landscape. So why settle for being a product of corporate algorithms when you can be part of a platform that prioritizes your freedom and autonomy? 
 
-[Join Misskey today and experience social networking on your own terms.](https://elest.io/open-source/misskey?ref=blog.elest.io)
+[Join Misskey today and experience social networking on your own terms.](https://octabyte.io/open-source/misskey?ref=blog.octabyte.io)
 
 
 

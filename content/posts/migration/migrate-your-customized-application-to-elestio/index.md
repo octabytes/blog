@@ -1,8 +1,8 @@
 ---
 draft: true
-title: "Migrate your customized application to Elestio"
+title: "Migrate your customized application to OctaByte"
 date: "2024-12-10"
-description: "This migration document is only for services that are not being supported by Elestio as a fully managed option. If you are unaware of the software supported, take a look here. If Elestio is supporting the software then you can follow this migration document
+description: "This migration document is only for services that are not being supported by OctaByte as a fully managed option. If you are unaware of the software supported, take a look here. If OctaByte is supporting the software then you can follow this migration document
 
 
 1️⃣ Pre-requisites
@@ -12,25 +12,25 @@ tags: []
 categories: [Other]
 cover:
   image: images/cover.png
-  caption: "Migrate your customized application to Elestio"
+  caption: "Migrate your customized application to OctaByte"
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document is only for services that are not being supported by Elestio as a fully managed option. If you are unaware of the software supported, take a look [here](https://elest.io/fully-managed-services?ref=blog.elest.io). If Elestio is supporting the software then you can follow [this migration document](https://docs.elest.io/books/migrations/page/migrate-to-elestio-managed-services?ref=blog.elest.io)
+> This migration document is only for services that are not being supported by OctaByte as a fully managed option. If you are unaware of the software supported, take a look [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io). If OctaByte is supporting the software then you can follow [this migration document](https://docs.elest.io/books/migrations/page/migrate-to-elestio-managed-services?ref=blog.octabyte.io)
 
 ### 1️⃣ Pre\-requisites
 
-1. Make sure the service you are trying to migrate from is being supported by Elestio. You can find the entire software catalogue [here](https://elest.io/fully-managed-services?ref=blog.elest.io)
-2. Create an account on [Elestio](https://dash.elest.io/?ref=blog.elest.io)
+1. Make sure the service you are trying to migrate from is being supported by OctaByte. You can find the entire software catalogue [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
+2. Create an account on [OctaByte](https://dash.elest.io/?ref=blog.octabyte.io)
 3. Make sure the UI for the application is working fine and there are no critical errors detected in the application logs. If found otherwise please feel free to create a support ticket
-4. When deploying the service on Elestio, use the same software version as your present service, or your data migration will fail.
+4. When deploying the service on OctaByte, use the same software version as your present service, or your data migration will fail.
 
 ### 2️⃣ Using Git Repository
 
-If your service/application is hosted on Git repositories (public \& private) you can follow the following steps to migrate easily to Elestio.
+If your service/application is hosted on Git repositories (public \& private) you can follow the following steps to migrate easily to OctaByte.
 
 1. Head over to the CI/CD section and choose and import your Git repository
 
@@ -43,9 +43,9 @@ If your service/application is hosted on Git repositories (public \& private) yo
 
 ### 3️⃣ Containerized Migration
 
-If your application is containerized and you want to use pre\-built docker images. If you have a git repository you use to build these images then you can directly use these git repositories to deploy your application to Elestio from the steps given above
+If your application is containerized and you want to use pre\-built docker images. If you have a git repository you use to build these images then you can directly use these git repositories to deploy your application to OctaByte from the steps given above
 
-1. Go to the Elestio dashboard and use the Docker Compose option in the CI/CD section choose a custom docker\-compose and click on Deploy.
+1. Go to the OctaByte dashboard and use the Docker Compose option in the CI/CD section choose a custom docker\-compose and click on Deploy.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698853208409/3e9cd64d-40df-4e70-8374-b4e7a4658bff.png)2. Choose the cloud service provider, region and service plan of your choice
 
@@ -53,7 +53,7 @@ If your application is containerized and you want to use pre\-built docker image
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698854448643/53d614a9-cb7b-4fa7-8195-1d0540339a33.png)### 4️⃣ Manual Migration
 
-If you don't use containerization then you will be guided to do a manual migration. Follow the following steps to effortlessly migrate to Elestio.
+If you don't use containerization then you will be guided to do a manual migration. Follow the following steps to effortlessly migrate to OctaByte.
 
 1. You should head over to the dashboard and select the template that works with your application tech stack
 
@@ -67,13 +67,13 @@ If you don't use containerization then you will be guided to do a manual migrati
 
 If you are trying to migrate the database data then follow the instructions below to complete the migration without any data loss
 
-1. If you are using a database that provides a UI option eg: phpMyAdmin or pgAdmin then you can go ahead with to export setting of the original database export the data in the file and import that data from the file inside the Elestio instance
+1. If you are using a database that provides a UI option eg: phpMyAdmin or pgAdmin then you can go ahead with to export setting of the original database export the data in the file and import that data from the file inside the OctaByte instance
 2. If the database does not have UI or provide dedicated options for import and export in UI then follow the same above steps to manually add the exported data file to the VM and then restore the file in the database
 
 ### 6️⃣ Testing the Migration
 
-1. You have successfully migrated to Elestio, now it's time for testing if your database is running as you intended
-2. Make use of integrated tools in Elestio like File Explorer, VScode, or Filezilla to set the additional data and assets
+1. You have successfully migrated to OctaByte, now it's time for testing if your database is running as you intended
+2. Make use of integrated tools in OctaByte like File Explorer, VScode, or Filezilla to set the additional data and assets
 3. If you find any issues with the migration, try to restart your instance and restart containers using the following commands
 
 
@@ -82,14 +82,14 @@ If you are trying to migrate the database data then follow the instructions belo
 
 > docker\-compose up \-d \-\-build
 
-1. Checkout logs if something is failing. Note that there can be a version lapse between your currently hosted database and the running instance on Elestio (Latest version) as mentioned in the Pre\-requisites section
+1. Checkout logs if something is failing. Note that there can be a version lapse between your currently hosted database and the running instance on OctaByte (Latest version) as mentioned in the Pre\-requisites section
 
 ### 7️⃣ Need additional help?
 
-Stuck somewhere? We are here to help you, go ahead and create a [support ticket](https://dash.elest.io/support/creation?ref=blog.elest.io) and we will get back to you in no time.
+Stuck somewhere? We are here to help you, go ahead and create a [support ticket](https://dash.elest.io/support/creation?ref=blog.octabyte.io) and we will get back to you in no time.
 
 
-> *Originally published at*[*https://docs.elest.io*](https://docs.elest.io/books/migrations/page/migrate-your-customized-application-to-elestio?ref=blog.elest.io)*on November 7, 2023\.*
+> *Originally published at*[*https://docs.elest.io*](https://docs.elest.io/books/migrations/page/migrate-your-customized-application-to-elestio?ref=blog.octabyte.io)*on November 7, 2023\.*
 
 
 
