@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to Secure Apache Superset with SAML"
-date: "2024-03-27"
-description: "In this guide, we'll explore how to secure your self-hosted instance of Apache Superset using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This"
-tags: []
+date: "2024-11-20"
+description: "This guide explains how to secure a self-hosted Apache Superset instance using SAML (Security Assertion Markup Language) for authentication. It covers the setup of Single Sign-On (SSO), centralized user management, and enhanced security through the integration of Superset with an organization's Identity Provider (IdP). The guide walks you through the necessary steps, including installing SAML packages, configuring the IdP, updating Superset’s settings, and testing the integration."
+tags: ["Apache Superset", "SAML", "Authentication", "Single Sign-On", "Identity Provider", "User Management", "Security", "Docker", "Configuration", "Superset Setup"]
 categories: [Business Intelligence]
 cover:
   image: images/cover.png
   caption: "How to Secure Apache Superset with SAML"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In this guide, we'll explore how to secure your self\-hosted instance of[**Apache Superset**](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign\-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This guide will take you through the entire process, from setting up your identity provider to configuring Superset for SAML authentication.
+In this guide, we'll explore how to secure your self\-hosted instance of[**Apache Superset**](https://octabyte.io/applications/business-intelligence/superset) using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign\-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This guide will take you through the entire process, from setting up your identity provider to configuring Superset for SAML authentication.
 
 ### Why Use SAML?
 
@@ -27,7 +28,7 @@ Using SAML for Superset authentication offers several benefits:
 
 Before starting, ensure you have:
 
-* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io).
+* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/applications/business-intelligence/superset).
 * Access to your organization’s **Identity Provider (IdP)** that supports SAML 2\.0 (e.g., Okta, Azure AD, OneLogin).
 * Administrative access to Superset and your IdP.
 
@@ -172,12 +173,12 @@ SAML_SLO_URL = 'https://<your_idp_logout_url>'
 ```
 ## **Thanks for reading ❤️**
 
-Integrating SAML with Apache Superset on OctaByte provides a highly secure and streamlined way to authenticate users. By following this guide, you can centralize user management using your IdP, enhance security with SSO, and offer your team a seamless login experience. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Integrating SAML with Apache Superset on OctaByte provides a highly secure and streamlined way to authenticate users. By following this guide, you can centralize user management using your IdP, enhance security with SSO, and offer your team a seamless login experience. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 
 
 

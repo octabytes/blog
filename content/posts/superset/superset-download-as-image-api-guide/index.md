@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Superset Download as Image API Guide"
-date: "2024-07-28"
-description: "We will knowing more about Superset Download as Image API Guide. Apache Superset provides a powerful API for downloading dashboard images, making it easier to share visual insights without requiring direct access to the platform. This guide explains how to use the Superset API to export dashboard images seamlessly.
-
-Understanding"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "Learn how to use the Apache Superset API to export dashboard images, making it easy to share visual insights without needing direct access to the platform. This guide walks through the API endpoint, request method, payload, and response for seamless image export."
+tags: [Superset, API, Image Export, Dashboard, Business Intelligence, API Guide, cURL, Data Insights, Apache Superset, Export]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Superset Download as Image API Guide"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will knowing more about [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) Download as Image API Guide. Apache Superset provides a powerful API for downloading dashboard images, making it easier to share visual insights without requiring direct access to the platform. This guide explains how to use the Superset API to export dashboard images seamlessly.
+We will knowing more about [Superset](https://octabyte.io/applications/business-intelligence/superset) Download as Image API Guide. Apache Superset provides a powerful API for downloading dashboard images, making it easier to share visual insights without requiring direct access to the platform. This guide explains how to use the Superset API to export dashboard images seamlessly.
 
 #### Understanding Superset's Image Export Feature
 
@@ -55,7 +54,7 @@ By using the Superset API to export dashboard images, you can streamline the sha
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

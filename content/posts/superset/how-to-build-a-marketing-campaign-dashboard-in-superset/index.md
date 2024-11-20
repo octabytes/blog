@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to Build a Marketing Campaign Dashboard in Superset"
-date: "2024-08-15"
-description: "Apache Superset provides a platform to visualize key metrics, enabling marketing teams to monitor campaigns in real-time and adjust strategies accordingly. This guide will walk you through the steps of building a marketing campaign dashboard in Superset, incorporating data from various sources such as Google Ads, Facebook, and more. By"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This guide shows how to build a marketing campaign dashboard using Apache Superset. It covers integrating data from platforms like Google Ads and Facebook, visualizing key metrics (CTR, CPC, ROI), and setting up real-time tracking and alerts to optimize marketing campaigns."
+tags: [Apache Superset, marketing dashboard, Google Ads, Facebook Ads, campaign tracking, CTR, CPC, ROI, data integration, data visualization, real-time insights, business intelligence, analytics]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "How to Build a Marketing Campaign Dashboard in Superset"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) provides a platform to visualize key metrics, enabling marketing teams to monitor campaigns in real\-time and adjust strategies accordingly. This guide will walk you through the steps of building a marketing campaign dashboard in Superset, incorporating data from various sources such as Google Ads, Facebook, and more. By the end of this tutorial, you'll have a dashboard that tracks crucial metrics like click\-through rates (CTR), cost per conversion (CPC), and return on investment (ROI).
+[Apache Superset](https://octabyte.io/applications/business-intelligence/superset) provides a platform to visualize key metrics, enabling marketing teams to monitor campaigns in real\-time and adjust strategies accordingly. This guide will walk you through the steps of building a marketing campaign dashboard in Superset, incorporating data from various sources such as Google Ads, Facebook, and more. By the end of this tutorial, you'll have a dashboard that tracks crucial metrics like click\-through rates (CTR), cost per conversion (CPC), and return on investment (ROI).
 
 ## **Why Use a Marketing Dashboard in Superset?**
 
@@ -81,12 +82,12 @@ With frequent data refreshes, your dashboard can show the most up\-to\-date metr
 
 ![Configuring Alerts in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.37.23-PM.jpg)## **Thanks for reading ❤️**
 
-By integrating data from various marketing platforms, creating meaningful visualizations, and tracking key metrics, you can better assess your campaigns' effectiveness and optimize for higher returns. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+By integrating data from various marketing platforms, creating meaningful visualizations, and tracking key metrics, you can better assess your campaigns' effectiveness and optimize for higher returns. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 
 
 

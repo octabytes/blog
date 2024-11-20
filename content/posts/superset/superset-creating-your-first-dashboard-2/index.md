@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Superset: Creating Your First Dashboard"
-date: "2024-05-07"
-description: "This guide is for end-users who are using a self-hosted instance of Apache Superset on OctaByte for data analysis and exploration. In this tutorial, we'll guide you through connecting Superset to a new database, configuring it for analysis, and creating visualizations. This end-to-end walkthrough is designed to give"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This guide walks end-users through setting up and using Apache Superset for data analysis and visualization on OctaByte. It covers connecting to a new database, registering datasets, creating visualizations, and customizing dashboards for effective data exploration."
+tags: [Apache Superset, Data Analysis, Data Visualization, SQL, Database Connection, Dashboards, OctaByte, Business Intelligence, SQL Lab, No-Code Interface, Dashboard Customization, Data Exploration, Open-Source]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Superset: Creating Your First Dashboard"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-This guide is for end\-users who are using a self\-hosted instance of [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) on OctaByte for data analysis and exploration. In this tutorial, we'll guide you through connecting Superset to a new database, configuring it for analysis, and creating visualizations. This end\-to\-end walkthrough is designed to give you a hands\-on experience with Superset's features.
+This guide is for end\-users who are using a self\-hosted instance of [Apache Superset](https://octabyte.io/applications/business-intelligence/superset) on OctaByte for data analysis and exploration. In this tutorial, we'll guide you through connecting Superset to a new database, configuring it for analysis, and creating visualizations. This end\-to\-end walkthrough is designed to give you a hands\-on experience with Superset's features.
 
 ## Introduction to Superset
 
@@ -119,7 +120,7 @@ By following this guide, you’ve successfully set up and configured Apache Supe
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 
 
 

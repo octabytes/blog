@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to Secure Apache Superset with OAuth2"
-date: "2024-11-23"
-description: "This guide will explain how to set up OAuth2 authentication in Apache Superset. OAuth2 is a popular open standard used for access delegation, allowing users to log in securely using third-party providers like Google or GitHub. By integrating OAuth2 into your Superset instance, you can streamline the login process, ensure"
-tags: []
+date: "2024-11-20"
+description: "This guide explains how to set up OAuth2 authentication in Apache Superset, allowing users to log in securely via third-party providers like Google or GitHub. It covers registration, configuration, and testing of OAuth2 integration, along with security measures and user attribute mapping."
+tags: [OAuth2, Apache Superset, authentication, Google login, GitHub login, security, Docker Compose, user management, token, OAuth2 provider, auto-registration, role-based access control, VS Code, configuration, API]
 categories: [Business Intelligence]
 cover:
   image: images/cover.png
   caption: "How to Secure Apache Superset with OAuth2"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-This guide will explain how to set up **OAuth2 authentication** in [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). OAuth2 is a popular open standard used for access delegation, allowing users to log in securely using third\-party providers like Google or GitHub. By integrating OAuth2 into your Superset instance, you can streamline the login process, ensure proper authentication, and improve user experience. In this tutorial, you’ll learn how to configure OAuth2 in your self\-hosted Superset instance, enabling users to log in with their preferred OAuth2 provider.
+This guide will explain how to set up **OAuth2 authentication** in [Apache Superset](https://octabyte.io/applications/business-intelligence/superset). OAuth2 is a popular open standard used for access delegation, allowing users to log in securely using third\-party providers like Google or GitHub. By integrating OAuth2 into your Superset instance, you can streamline the login process, ensure proper authentication, and improve user experience. In this tutorial, you’ll learn how to configure OAuth2 in your self\-hosted Superset instance, enabling users to log in with their preferred OAuth2 provider.
 
 ### Why Use OAuth2 for Apache Superset?
 
@@ -27,7 +28,7 @@ Integrating OAuth2 with Superset offers several advantages:
 
 Before starting, ensure you have:
 
-* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io).
+* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/applications/business-intelligence/superset).
 * Access to an **OAuth2 provider**, such as Google, GitHub, or any provider that supports OAuth2\.
 * Administrative access to both Superset and your OAuth2 provider account.
 
@@ -188,12 +189,12 @@ This will automatically create a new user in Superset if they log in using OAuth
 
 ## **Thanks for reading ❤️**
 
-By following this guide, you’ve successfully enabled OAuth2 authentication, created a login process, and improved the overall security of your Superset instance. Now, your team members can securely login with just a few clicks, accessing all the data they need without friction. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+By following this guide, you’ve successfully enabled OAuth2 authentication, created a login process, and improved the overall security of your Superset instance. Now, your team members can securely login with just a few clicks, accessing all the data they need without friction. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 
 
 

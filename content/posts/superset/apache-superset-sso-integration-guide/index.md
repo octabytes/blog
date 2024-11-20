@@ -1,18 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Apache Superset SSO integration guide"
-date: "2024-04-05"
-description: "Integrating Single Sign-On (SSO) with Apache Superset enhances both security and user experience by enabling users to authenticate with their existing credentials. This guide provides a step-by-step process to set up SSO with Superset.
-
-Prerequisites
-
- * A Superset instance (v0.34.0 or later)
- * An SSO provider (e.g., Okta, Auth0)"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This guide provides step-by-step instructions on integrating Single Sign-On (SSO) with Apache Superset, including configuration, testing, and managing user roles and permissions. It covers OAuth integration with providers like Okta and Google, along with troubleshooting common issues."
+tags: [SSO, Apache Superset, OAuth, Okta, Google, Authentication, Security, Roles, Permissions, Configuration, Troubleshooting]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Apache Superset SSO integration guide"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -163,7 +159,7 @@ DEBUG = True
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

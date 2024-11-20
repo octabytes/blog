@@ -1,23 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Superset Redis Caching Guide"
-date: "2024-05-27"
-description: "We will be knowing more about Superset Redis Caching. Optimize your Superset dashboards for better performance and scalability by integrating Redis caching. This guide explains how to set up and leverage Redis as a cache backend in Superset.
-
-Understanding Redis as a Cache Backend in Superset
-
-Superset integrates with Redis"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This post explains how to integrate Redis caching with Superset to optimize dashboard performance and scalability. It covers Redis setup, cache configuration, and the benefits of using Redis for faster insights and improved user experience."
+tags: [Superset, Redis, Caching, Performance Optimization, Scalability, Business Intelligence, Data Caching, Backend Configuration, BI Tools, Redis Integration]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Superset Redis Caching Guide"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will be knowing more about [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) Redis Caching. Optimize your Superset dashboards for better performance and scalability by integrating Redis caching. This guide explains how to set up and leverage Redis as a cache backend in Superset.
+We will be knowing more about [Superset](https://octabyte.io/applications/business-intelligence/superset) Redis Caching. Optimize your Superset dashboards for better performance and scalability by integrating Redis caching. This guide explains how to set up and leverage Redis as a cache backend in Superset.
 
 #### Understanding Redis as a Cache Backend in Superset
 
@@ -61,7 +58,7 @@ Integrating Redis into Superset's architecture not only improves performance but
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

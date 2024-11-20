@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Apache Superset CLI guide"
-date: "2024-06-08"
-description: "Hey everyone, In this blog we will be knowing more about Superset CLI. The Apache Superset CLI (Command Line Interface) is a tool that enhances the management, configuration, and usage of Superset, eliminating the need for direct web interface interaction. This guide provides a detailed overview of how to leverage"
-tags: []
+date: "2024-11-20"
+description: "This blog provides a detailed guide on using the Apache Superset Command Line Interface (CLI) for installation, database initialization, creating an admin user, loading example data, configuring Superset, and running the web server. It also covers how to clone the Superset repository and access additional resources."
+tags: [Superset, CLI, Apache Superset, Installation, Database Initialization, Admin User, Configuration, Data Visualization, Business Intelligence, Server Setup, Frontend, Example Data, Security, Git, Web Server]
 categories: [Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Apache Superset CLI guide"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Hey everyone, In this blog we will be knowing more about [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) CLI. The Apache Superset CLI (Command Line Interface) is a tool that enhances the management, configuration, and usage of Superset, eliminating the need for direct web interface interaction. This guide provides a detailed overview of how to leverage the Superset CLI effectively.
+Hey everyone, In this blog we will be knowing more about [Superset](https://octabyte.io/applications/business-intelligence/superset) CLI. The Apache Superset CLI (Command Line Interface) is a tool that enhances the management, configuration, and usage of Superset, eliminating the need for direct web interface interaction. This guide provides a detailed overview of how to leverage the Superset CLI effectively.
 
 #### Installation
 
@@ -408,7 +409,7 @@ Ensure that Git is installed on your system before running the clone command. Yo
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

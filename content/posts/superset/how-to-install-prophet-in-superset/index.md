@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to install Prophet in Superset"
-date: "2024-01-29"
-description: "Hey everyone, In this blog we will see how you can install Prophet in superset. During this tutorial, we will be using an internal terminal tool provided at OctaByte Dashboard. Before we start, ensure you have deployed Superset, we will be self-hosting it on OctaByte.
-
-
-What is Superset?
-
-Apache Superset"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "Learn how to install Prophet, a time series forecasting tool, in Apache Superset using OctaByte's terminal tool. This tutorial covers editing the requirements-local.txt file and executing Docker commands to add Prophet to your Superset instance."
+tags: [Superset, Prophet, Time Series, Forecasting, Docker, Apache, Business Intelligence, OctaByte, Installation, Tutorial]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "How to install Prophet in Superset"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Hey everyone, In this blog we will see how you can install Prophet in superset. During this tutorial, we will be using an internal terminal tool provided at OctaByte Dashboard. Before we start, ensure you have deployed [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io), we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io).
+Hey everyone, In this blog we will see how you can install Prophet in superset. During this tutorial, we will be using an internal terminal tool provided at OctaByte Dashboard. Before we start, ensure you have deployed [Superset](https://octabyte.io/applications/business-intelligence/superset), we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/business-intelligence/superset).
 
 ## What is Superset?
 
@@ -54,5 +50,5 @@ docker-compose up -d
 
 Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and install Prophet in a superset instance. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

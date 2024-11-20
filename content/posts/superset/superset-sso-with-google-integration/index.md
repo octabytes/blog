@@ -1,25 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Superset SSO with Google integration"
-date: "2024-02-17"
-description: "We will be knowing more about Superset SSO with Google integration. Seamless Integration of Superset with Google SSO for Enhanced Data Analysis
-
-
-Understanding Superset SSO with Google Integration
-
-
-Incorporating Single Sign-On (SSO) with Google in Apache Superset not only streamlines the authentication process but also enhances the overall user experience."
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This post covers the integration of Single Sign-On (SSO) with Google in Apache Superset, offering a step-by-step guide on setup and troubleshooting. It also highlights the process of connecting Google Sheets as a data source and resolving common SSO challenges."
+tags: [Superset, SSO, Google, Integration, Apache Superset, OAuth, Google Sheets, Authentication, Troubleshooting, Data Analysis]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Superset SSO with Google integration"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will be knowing more about [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) SSO with Google integration. Seamless Integration of Superset with Google SSO for Enhanced Data Analysis
+We will be knowing more about [Superset](https://octabyte.io/applications/business-intelligence/superset) SSO with Google integration. Seamless Integration of Superset with Google SSO for Enhanced Data Analysis
 
 ### Understanding Superset SSO with Google Integration
 
@@ -134,7 +129,7 @@ By addressing these common challenges, users can ensure the reliability and secu
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

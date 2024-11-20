@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Embedding Superset dashboards in your React application"
-date: "2024-12-02"
-description: "We will knowing more about embedding Superset dashboards in your react application.
-
-
-Maximizing Data Insights: Integrating Superset's Image Export with External Applications
-
-Apache Superset stands out as a powerful tool for data visualization, boasting a user-friendly interface for rapid chart creation across diverse databases. Among its extensive feature"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This post covers integrating Apache Superset dashboards into React applications using iframes. It explains how to export Superset visualizations as images and embed them, while also addressing multi-tenancy, role-based security, and required configurations."
+tags: [Superset, React, Data Analytics, Embedding Dashboards, Image Export, Iframes, Embedded SDK, Multi-Tenancy, Role-Based Security, Docker, Authentication, Web Integration, Business Intelligence]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Embedding Superset dashboards in your React application"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will knowing more about embedding [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) dashboards in your react application. 
+We will knowing more about embedding [Superset](https://octabyte.io/applications/business-intelligence/superset) dashboards in your react application. 
 
 ### Maximizing Data Insights: Integrating Superset's Image Export with External Applications
 
@@ -64,7 +60,7 @@ embedDashboard({
 ```
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

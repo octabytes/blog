@@ -1,17 +1,27 @@
 ---
-draft: true
+draft: false
 title: "Apache Superset Clickhouse integration"
-date: "2024-05-21"
-description: "Discover how integrating Apache Superset with ClickHouse can elevate your data visualization and analytics capabilities. This guide walks you through setting up and optimizing this powerful combination.
-
-Apache Superset and ClickHouse Integration
-
-Combining Apache Superset with ClickHouse offers a robust solution for data analytics, enabling users to visualize and interact"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-22"
+description: "This guide explains how to integrate Apache Superset with ClickHouse to enhance data visualization and analytics, covering setup, connection strings, dashboards, and best practices for scalability and security."
+tags: [
+  "Apache Superset",
+  "ClickHouse",
+  "Data Visualization",
+  "Analytics",
+  "Docker Compose",
+  "Connection String",
+  "Dashboards",
+  "SQL Query",
+  "Cloud Native",
+  "Security",
+  "Scalability",
+  "Data Insights"
+]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Apache Superset Clickhouse integration"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -70,7 +80,7 @@ ORDER BY event_date
 ```
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 

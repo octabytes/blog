@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Connecting Apache Superset to Popular Databases"
-date: "2024-08-09"
-description: "This guide is for users running an instance of Apache Superset looking to explore and analyze data. In this tutorial, we’ll walk you through how to connect Superset to a new database, set it up for data analysis, and create visualizations. This step-by-step guide will help you get hands-on"
-tags: []
-categories: [Business Intelligence]
+date: "2024-11-20"
+description: "This guide walks users through connecting a PostgreSQL database to Apache Superset on OctaByte, setting it up for data analysis and creating visualizations. It includes step-by-step instructions on configuring database connections and using Superset’s features."
+tags: ["Apache Superset", "PostgreSQL", "Database Connection", "Data Analysis", "Visualization", "OctaByte", "Business Intelligence"]
+categories: [Applications, Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Connecting Apache Superset to Popular Databases"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-This guide is for users running an instance of [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) looking to explore and analyze data. In this tutorial, we’ll walk you through how to connect Superset to a new database, set it up for data analysis, and create visualizations. This step\-by\-step guide will help you get hands\-on experience with Superset’s features for data exploration.
+This guide is for users running an instance of [Apache Superset](https://octabyte.io/applications/business-intelligence/superset) looking to explore and analyze data. In this tutorial, we’ll walk you through how to connect Superset to a new database, set it up for data analysis, and create visualizations. This step\-by\-step guide will help you get hands\-on experience with Superset’s features for data exploration.
 
 ## Connecting Database
 
@@ -35,12 +36,12 @@ For this tutorial, we will connect [PostgreSQL](https://octabyte.io/open-source/
 
 ![All database connections in superset](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-25-at-11.56.03-AM.jpg)## **Thanks for reading ❤️**
 
-By following this guide, you’ve successfully connected your databases with Apache Superset on OctaByte. Learn more about it through official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io). Click below to start exploring with Superset on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next guide! 👋
+By following this guide, you’ve successfully connected your databases with Apache Superset on OctaByte. Learn more about it through official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io). Click below to start exploring with Superset on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next guide! 👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 
 
 
