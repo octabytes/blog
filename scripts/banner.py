@@ -1,6 +1,6 @@
 from PIL import Image
 
-post_name = "content/posts/getting started/best-practices-for-importing-users-from-legacy-applications-to-keycloak/images/cover.png"
+post_name = "content/posts/typebot/typebot-addressing-problem-1-ineffective-customer-support/images/cover.png"
 
 post_name = post_name.replace("content/posts/", "")
 post_name = post_name.replace("/images/cover.png", "")
@@ -9,7 +9,7 @@ post_name = post_name.replace("/images/cover.jpg", "")
 # Paths to images
 banner_path = "../static/images/octabyte-banner.png"
 cover_path = f"../content/posts/{post_name}/images/cover.png"
-output_path = f"../content/posts/{post_name}/images/cover_with_banner.png"
+output_path = f"../content/posts/{post_name}/images/cover.png"
 
 # Open images
 cover_image = Image.open(cover_path)
