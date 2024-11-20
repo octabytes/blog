@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Adding API Key Authentication In Keycloak"
-date: "2024-07-16"
-description: "We will be extending Keycloak by adding API key authentication with OctaByte using Keycloak. We will be using a self-hosted Keycloak instance deployed on OctaByte. So, to get started head over to OctaByte Dashboard and deploy and login into the Keycloak service to get started.
-
-
-Background
-
-API key authentication is"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "This guide demonstrates how to extend Keycloak with API key authentication using OctaByte, covering key generation, validation, and integration into a microservices architecture. It includes step-by-step implementation, source code, and testing instructions."
+tags: [Keycloak, API key, OctaByte, authentication, microservices, Spring Boot, Node.js, REST API, security, Keycloak extension, Java, event listener, JAX-RS, Wildfly, testing]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Adding API Key Authentication In Keycloak"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will be extending Keycloak by adding API key authentication with OctaByte using [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and deploy and login into the Keycloak service to get started.
+We will be extending Keycloak by adding API key authentication with OctaByte using [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak) and deploy and login into the Keycloak service to get started.
 
 ### Background
 
@@ -229,7 +225,7 @@ curl -v -H "X-API-KEY: wrongkey" https://[CNAME]
 ```
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

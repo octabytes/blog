@@ -1,19 +1,20 @@
 ---
 draft: true
 title: "Keycloak Token Management: Expiration, Revocation, and Renewal"
-date: "2024-12-27"
-description: "Keycloak is an open-source identity and access management tool that simplifies authentication, authorization, and user management for modern applications. One of the features of Keycloak is token-based authentication. Tokens, such as access tokens, refresh tokens, and ID tokens, are central to how Keycloak handles user sessions and secure communication between"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Keycloak is an open-source identity and access management tool that simplifies authentication and user management for modern applications. This post explores Keycloak's token management system, including token types, expiration, revocation, and renewal, providing best practices for secure session handling."
+tags: [Keycloak, identity-and-access-management, authentication, token-management, access-tokens, refresh-tokens, ID-tokens, token-expiration, token-renewal, token-revocation, OpenID-Connect, OAuth-2.0, security, session-management, user-experience]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Keycloak Token Management: Expiration, Revocation, and Renewal"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) is an open\-source identity and access management tool that simplifies authentication, authorization, and user management for modern applications. One of the features of Keycloak is token\-based authentication. Tokens, such as access tokens, refresh tokens, and ID tokens, are central to how Keycloak handles user sessions and secure communication between applications. In this blog, we will explore the key concepts of **Keycloak token management**, focusing on token expiration, revocation, and renewal.
+[Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) is an open\-source identity and access management tool that simplifies authentication, authorization, and user management for modern applications. One of the features of Keycloak is token\-based authentication. Tokens, such as access tokens, refresh tokens, and ID tokens, are central to how Keycloak handles user sessions and secure communication between applications. In this blog, we will explore the key concepts of **Keycloak token management**, focusing on token expiration, revocation, and renewal.
 
 ## Types of Tokens in Keycloak
 
@@ -92,12 +93,12 @@ When an access token expires, the application can use the refresh token to reque
 
 ## **Thanks for reading ❤️**
 
-Token management is a critical aspect of secure authentication and session handling in Keycloak. By understanding how token expiration, revocation, and renewal work, administrators and developers can ensure their applications are secure while maintaining a smooth user experience. Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
+Token management is a critical aspect of secure authentication and session handling in Keycloak. By understanding how token expiration, revocation, and renewal work, administrators and developers can ensure their applications are secure while maintaining a smooth user experience. Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 
 
 

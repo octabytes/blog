@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "MinIO: Open Source High Performance Object Storage"
-date: "2024-08-25"
-description: "In today's digital landscape, the volume of data being generated and stored is growing exponentially. Whether it's for businesses managing vast amounts of customer data or individuals storing their personal files, the need for efficient and scalable storage solutions is essential.
-
-Enter MinIO – an open-source, high-performance"
-tags: []
+date: "2024-11-20"
+description: "MinIO is an open-source, high-performance object storage system designed for scalable data management. Compatible with the Amazon S3 API, it offers secure access policies, logging, metrics, and features like static website hosting and horizontal scaling."
+tags: [MinIO, object storage, S3 compatible, data security, access policies, scalability, high-performance, cloud storage, static website hosting, erasure coding, open-source, data management]
 categories: [Storage]
 cover:
   image: images/cover.png
   caption: "MinIO: Open Source High Performance Object Storage"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In today's digital landscape, the volume of data being generated and stored is growing exponentially. Whether it's for businesses managing vast amounts of customer data or individuals storing their personal files, the need for efficient and scalable storage solutions is essential. 
 
-Enter [MinIO](https://octabyte.io/open-source/minio?ref=blog.octabyte.io) – an open\-source, high\-performance object storage system designed for handling large\-scale data infrastructure needs. Founded in 2014, MinIO has quickly gained popularity among developers and enterprises alike for its speed, scalability, and compatibility with the Amazon S3 API.
+Enter [MinIO](https://octabyte.io/hosting-and-infrastructure/storage/minio) – an open\-source, high\-performance object storage system designed for handling large\-scale data infrastructure needs. Founded in 2014, MinIO has quickly gained popularity among developers and enterprises alike for its speed, scalability, and compatibility with the Amazon S3 API.
 
 
 
@@ -55,7 +54,7 @@ As data volumes grow, so do the demands on storage infrastructure. MinIO address
 
 MinIO stands out as a powerful and versatile object storage solution for modern data\-centric applications. Its open\-source nature, compatibility with the S3 API, and robust features make it a compelling choice for organizations seeking scalable, high\-performance storage infrastructure. Whether it's storing petabytes of data, hosting static websites, or ensuring data security and compliance, MinIO offers the flexibility and reliability needed to meet the demands of today's data\-driven world. 
 
-[Discover MinIO on OctaByte](https://octabyte.io/open-source/minio?ref=blog.octabyte.io)
+[Discover MinIO on OctaByte](https://octabyte.io/hosting-and-infrastructure/storage/minio)
 
 
 

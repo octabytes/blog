@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Generating PDFs with N8N using Gotenberg"
-date: "2024-05-13"
-description: "Let's see how you can create an application that can generate PDFs with N8N using Gotenberg. During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "This tutorial explains how to create an N8N workflow to generate PDFs using Gotenberg. It covers the configuration of different components, including HTML generation, file conversion, and making an HTTP request to the Gotenberg API for PDF creation."
+tags: [N8N, Gotenberg, PDF Generation, Workflow Automation, Open-Source, Tutorial, OctaByte, Self-Hosting, API, HTTP Request, Automation]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "Generating PDFs with N8N using Gotenberg"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can create an application that can generate PDFs with [N8N](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) using [Gotenberg](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Let's see how you can create an application that can generate PDFs with [N8N](https://octabyte.io/applications/automation/n8n) using [Gotenberg](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -101,7 +102,7 @@ This HTTP request is to send a request to the provided URL to fetch the HTML pag
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. Click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and generate PDFs using Gotenberg. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. Click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and generate PDFs using Gotenberg. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

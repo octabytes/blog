@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to clean up the N8N database"
-date: "2024-12-29"
-description: "During this tutorial, we are going to use a self-hosted version of N8N deployed on OctaByte. So before we start, ensure you have deployed the N8N service and have a connected database that is used to store the logs and execution records.
-
-
-What is N8N?
-
-N8N is an open-source workflow"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "This tutorial walks you through setting up a self-hosted N8N instance on OctaByte, including how to manage database storage using the EXECUTIONS_DATA_PRUNE variable and create a workflow for pruning logs in N8N. It covers configuring environment variables and maintaining a clean, efficient database."
+tags: ["N8N", "OctaByte", "Automation", "Workflow", "Environment Variables", "Database", "Pruning", "Self-hosted"]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "How to clean up the N8N database"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-During this tutorial, we are going to use a self\-hosted version of N8N deployed on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io). So before we start, ensure you have deployed the N8N service and have a connected database that is used to store the logs and execution records.
+During this tutorial, we are going to use a self\-hosted version of N8N deployed on [OctaByte](https://octabyte.io/applications/automation/n8n). So before we start, ensure you have deployed the N8N service and have a connected database that is used to store the logs and execution records.
 
 ## What is N8N?
 
@@ -44,7 +40,7 @@ Another method can be creating a workflow for pruning and cleaning the unnecessa
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) start cleaning your N8N database and have a smooth running service again. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) start cleaning your N8N database and have a smooth running service again. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
+[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/applications/automation/n8n)
 

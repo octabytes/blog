@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Scaling Mastodon, the open-source alternative to Twitter"
-date: "2024-01-15"
-description: "Enter Mastodon, the open-source alternative to Twitter that has seen a surge in popularity in recent days. Mastodon is a decentralized social media platform that is not owned by any single entity, allowing users to have more control over their data and privacy.
-
-Since the news of Musk's"
-tags: []
-categories: [Forum / Community, Fediverse]
+date: "2024-11-20"
+description: "Mastodon is a decentralized, open-source alternative to Twitter, offering a more ethical, ad-free social media experience. It focuses on user privacy and community inclusivity but requires more technical setup compared to Twitter. This post covers how to scale up a Mastodon instance, manage disk space, and configure cache retention, with tips for OctaByte users and Docker setups."
+tags: [Mastodon, social media, privacy, decentralized, open-source, scaling, server management, Docker, OctaByte, cache, disk space, community, ethical social media]
+categories: [Applications, Forum, Community, Fediverse]
 cover:
   image: images/cover.png
   caption: "Scale up Mastodon, image generated with OpenAI Dall-E"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -47,7 +46,7 @@ In case your server disk is full, you can run this command over SSH in your inst
 > docker\-compose down \-v \-\-remove\-orphans  
 > tootctl media remove \-\-days 0;
 
-For Docker installations (like here with [Mastodon fully managed](https://octabyte.io/open-source/mastodon?ref=blog.octabyte.io) by OctaByte) you will have to use this command instead:
+For Docker installations (like here with [Mastodon fully managed](https://octabyte.io/applications/forum-community/mastodon) by OctaByte) you will have to use this command instead:
 
 
 > cd /opt/app \&\& docker\-compose exec streaming sh \-c "RAILS\_ENV\=production bin/tootctl media remove \-\-days 0;"
@@ -72,5 +71,5 @@ For users outside of OctaByte you have to check with your cloud provider their p
 
 Thank you so much for reading and do check out the OctaByte resources and Official [Mastodon documentation](https://docs.joinmastodon.org/?ref=blog.octabyte.io) to learn more about Mastodon. Click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/mastodon?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/forum-community/mastodon)
 

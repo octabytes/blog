@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Creating Keycloak cluster with OctaByte"
-date: "2024-06-14"
-description: "We will be creating a Keycloak cluster using OctaByte. So, to get started head over to OctaByte Dashboard and deploy and login into the Keycloak service to get started.
-
-
-Terraform Module for Keycloak Cluster
-
-A comprehensive Terraform module developed by OctaByte significantly simplifies the process of deploying and scaling Keycloak"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "This post provides a detailed guide on setting up a Keycloak cluster using OctaByte, with a focus on deploying Keycloak nodes using a Terraform module. It covers the architecture, deployment, and scaling of the cluster, as well as the necessary configurations and recommendations for a successful deployment."
+tags: [Keycloak, Terraform, OctaByte, Cluster, Authentication, Authorization, SSO, DevOps, User Management, Infrastructure, Deployment, High Availability, Scaling, Security, OAuth2, OpenID Connect, SAML]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Creating Keycloak cluster with OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-We will be creating a [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) cluster using OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and deploy and login into the Keycloak service to get started.
+We will be creating a [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) cluster using OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/development/identity-and-access-management/keycloak) and deploy and login into the Keycloak service to get started.
 
 ### Terraform Module for Keycloak Cluster
 
@@ -205,7 +201,7 @@ Run `terraform apply` again and confirm the changes. The new node will join the 
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

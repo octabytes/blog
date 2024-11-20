@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Jellyfin: Free Open Source Software Media System"
-date: "2024-11-28"
-description: "In a world dominated by subscription-based streaming services, Jellyfin emerges as a liberating force, offering users the ability to curate their own media universe. No longer tethered to the catalogs, Jellyfin empowers individuals to create a personalized Netflix/Spotify experience from the media they already own.
-
-
-What is Jellyfin?
-
-Jellyfin"
-tags: []
-categories: [Dev tools]
+date: "2024-11-20"
+description: "Jellyfin is a free, open-source media server platform that lets users organize, manage, and stream their media collections on their own terms, without the constraints of subscription services. It offers powerful features like customizable media libraries, cross-platform clients, SyncPlay for shared entertainment, and a range of plugins for enhanced functionality."
+tags: [Jellyfin, media server, streaming, open-source, customization, SyncPlay, cross-platform, media libraries, privacy, plugins, entertainment, client apps]
+categories: [Development, Dev tools]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Jellyfin: Free Open Source Software Media System"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In a world dominated by subscription\-based streaming services, [Jellyfin](https://octabyte.io/open-source/jellyfin?ref=blog.octabyte.io) emerges as a liberating force, offering users the ability to curate their own media universe. No longer tethered to the catalogs, Jellyfin empowers individuals to create a personalized Netflix/Spotify experience from the media they already own.
+In a world dominated by subscription\-based streaming services, [Jellyfin](https://octabyte.io/development/dev-tools/jellyfin) emerges as a liberating force, offering users the ability to curate their own media universe. No longer tethered to the catalogs, Jellyfin empowers individuals to create a personalized Netflix/Spotify experience from the media they already own.
 
 
 
@@ -56,7 +52,7 @@ In a landscape dominated by closed ecosystems and subscription models, Jellyfin 
 
 With its extensive features, cross\-platform compatibility, commitment to privacy, and vibrant community support, Jellyfin represents more than just a media server—it's a gateway to a world of endless entertainment possibilities, all at your fingertips, and all entirely on your terms. 
 
-[Join the Jellyfin revolution today and unlock the full potential of your media library.](https://octabyte.io/open-source/jellyfin?ref=blog.octabyte.io)
+[Join the Jellyfin revolution today and unlock the full potential of your media library.](https://octabyte.io/development/dev-tools/jellyfin)
 
 
 

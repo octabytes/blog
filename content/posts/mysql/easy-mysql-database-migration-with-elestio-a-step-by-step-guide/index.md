@@ -1,13 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Easy MySQL Database Migration with OctaByte"
-date: "2024-05-02"
-description: "Moving databases can be difficult and may come with many problems, including downtime risks. At OctaByte, we understand how important a smooth and efficient transition is. We are excited to announce our new DB Migration Service (DBMS). It is robust, easy to use, and created for a seamless database migration"
-tags: []
-categories: [Relational databases]
+date: "2024-11-20"
+description: "OctaByte's new Database Migration Service (DBMS) offers a seamless and efficient solution for migrating MySQL databases with minimal downtime. This step-by-step guide walks users through the process of migrating their databases from on-premise setups or other cloud providers to OctaByte, ensuring a smooth transition."
+tags: [DB Migration, MySQL, OctaByte, Cloud Migration, Database Service, Migration Guide, On-premise, Cloud Providers, Step-by-step, Migration Tool, Database Transition]
+categories: [Databases, Relational databases]
 cover:
   image: images/cover.png
   caption: "Easy MySQL Database Migration with OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -47,5 +48,5 @@ With the new DB Migration Service (DBMS) by OctaByte, the migration of your data
 
 Thank you for reading ❤️. You can click the button below to create your MySQL service on OctaByte. See you in the next one 👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/mysql?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/databases/relational-databases/mysql)
 

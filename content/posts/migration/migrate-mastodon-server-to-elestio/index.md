@@ -1,28 +1,27 @@
 ---
-draft: true
+draft: false
 title: "Migrate Mastodon server to OctaByte"
-date: "2024-04-01"
-description: "This migration document focuses on the migration of the applications supported by OctaByte. Find the software list here
-
-This document provides a step-by-step guide for migrating your existing Mastodon database system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process,"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This document provides a step-by-step guide for migrating a Mastodon database to OctaByte, including pre-requisites, exporting and importing data, and testing the migration. It also offers support in case of issues during the process."
+tags: [Mastodon, migration, OctaByte, database, import, export, Postgres, support, scalability, system efficiency, guide, tutorial, server, troubleshooting]
+categories: [Applications, Forum, Community]
 cover:
   image: images/cover.png
   caption: "Migrate Mastodon server to OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
+> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/applications/forum-community/mastodon)
 
 This document provides a step\-by\-step guide for migrating your existing Mastodon database system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
 
 ### 1️⃣ Pre\-requisites
 
-1. Create an account on [OctaByte](https://octabyte.io/?ref=blog.octabyte.io)
+1. Create an account on [OctaByte](https://octabyte.io/applications/forum-community/mastodon)
 2. Log in to your Mastodon admin dashboard account where your current server is hosted
 3. Ensure the UI for the application is working fine and no critical errors are detected in the application logs. If found otherwise please feel free to create a support ticket
 4. When deploying the service on OctaByte, use the same software version as your present service, or your data migration will fail.

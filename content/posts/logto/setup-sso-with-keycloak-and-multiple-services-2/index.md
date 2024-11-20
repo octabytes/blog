@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Setup SSO With Keycloak And Multiple Services"
-date: "2024-02-13"
-description: "Integrating Keycloak as an OAuth provider with your applications, such as WordPress or Apache Superset, helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "This guide explains how to integrate Keycloak as an OAuth provider for applications like WordPress and Apache Superset. It covers the setup of Keycloak, client application configuration, user management, and role assignments for secure authentication and Single Sign-On (SSO)."
+tags: [Keycloak, OAuth, WordPress, Apache Superset, SSO, Authentication, User Management, OpenID, Identity Management, Client Configuration]
+categories: [Development, Applications, Business intelligence, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Setup SSO With Keycloak And Multiple Services"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Integrating Keycloak as an OAuth provider with your applications, such as [WordPress](https://octabyte.io/open-source/wordpress?ref=blog.octabyte.io) or [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io), helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with your client applications. Before starting, ensure you have a Keycloak server deployed on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io).
+Integrating Keycloak as an OAuth provider with your applications, such as [WordPress](https://octabyte.io/applications/cms/wordpress) or [Apache Superset](https://octabyte.io/applications/business-intelligence/superset), helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with your client applications. Before starting, ensure you have a Keycloak server deployed on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak).
 
 ## Set Up Keycloak as an OAuth Provider
 
@@ -73,5 +74,5 @@ Navigate to your application's login page and ensure the Keycloak SSO login butt
 
 You have successfully configured your client application to use Keycloak as an OAuth provider, providing a robust Single Sign\-On (SSO) solution for secure user authentication. This setup enhances security and simplifies user management across various applications and services.
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

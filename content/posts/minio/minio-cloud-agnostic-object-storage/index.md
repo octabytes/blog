@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Minio: high-performance multi-Cloud Object Storage"
-date: "2024-08-21"
-description: "With industry-leading performance and scalability, MinIO can deliver a range of use cases from AI/ML, analytics, backup/restore, and modern web and mobile apps. It's packed with powerful features.
-
-Update: since June 2022, MinIO supports all the advanced features like Quota / Versioning / Object locking / Retention in all"
-tags: []
+date: "2024-11-20"
+description: "MinIO is a cloud-agnostic object storage platform offering advanced features such as full AWS S3 API compatibility, low-latency buckets, and powerful management tools. It supports a variety of use cases, from AI/ML to disaster recovery, and can be easily deployed on any cloud or on-premise environment."
+tags: [MinIO, object storage, cloud agnostic, S3 compatibility, web UI, AI/ML, backup, disaster recovery, container deployment, reverse proxy, SSL/TLS, rate limiter, monitoring, IAM policies, versioning, replication]
 categories: [Storage]
 cover:
-  image: images/cover.png
+  image: images/cover.vsg
   caption: "Minio: high-performance multi-Cloud Object Storage"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -56,7 +55,7 @@ Browse a Bucket with MinIO Web UI
 
 ![](https://blog.elest.io/content/images/2022/06/image-7.png)If you want automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of MinIO stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, and functional.
 
-Click on the button below to get a [fully managed instance of MinIO](https://octabyte.io/open-source/minio?ref=blog.octabyte.io) ready to use in less than 3 minutes. 
+Click on the button below to get a [fully managed instance of MinIO](https://octabyte.io/hosting-and-infrastructure/storage/minio) ready to use in less than 3 minutes. 
 
-[Deploy MinIO](https://dash.elest.io/deploy?soft=MinIO&id=63&ref=blog.octabyte.io)
+[Deploy MinIO](https://octabyte.io/hosting-and-infrastructure/storage/minio)
 

@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Retrieve weather information based on a zip code 🌤️"
-date: "2024-03-10"
-description: "Let's see how you can create an application that can retrieve weather information based on a zip code using API. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "This tutorial walks you through creating an application to retrieve weather information based on a zip code using the N8N automation platform. It covers setting up N8N, configuring OpenWeatherMap credentials, building a workflow, and testing the application."
+tags: ["N8N", "Weather API", "OpenWeatherMap", "Workflow Automation", "Self-Hosting", "API Integration", "Zip Code", "Automation Tutorial", "OctaByte"]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "Retrieve weather information based on a zip code 🌤️"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can create an application that can retrieve weather information based on a zip code using API. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Let's see how you can create an application that can retrieve weather information based on a zip code using API. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -87,7 +88,7 @@ https://n8n-wgahh-u7774.vm.elestio.app/webhook-test/45690b6a-2b01-472d-8839-5e83
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and retrieve weather information based on a zip code. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and retrieve weather information based on a zip code. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

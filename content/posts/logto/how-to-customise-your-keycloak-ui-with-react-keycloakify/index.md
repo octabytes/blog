@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How To Customise Your Keycloak UI With React & Keycloakify"
-date: "2024-07-02"
-description: "Keycloak is a tool for managing authentication and authorization. However, you might want to tailor its user interface to better match your brand or meet specific design requirements. Using React and Keycloakify, you can create a custom Keycloak UI that provides a seamless experience for your users. This blog will"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "Learn how to customize Keycloak's UI using React and Keycloakify. This guide walks you through the steps to tailor authentication and account pages to match your brand using Keycloakify's pre-built themes."
+tags: [Keycloak, authentication, authorization, Keycloakify, React, custom UI, branding, identity management, Keycloak themes]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "How To Customise Your Keycloak UI With React & Keycloakify"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) is a tool for managing authentication and authorization. However, you might want to tailor its user interface to better match your brand or meet specific design requirements. Using React and Keycloakify, you can create a custom Keycloak UI that provides a seamless experience for your users. This blog will guide you through the steps to customize your Keycloak UI with React and Keycloakify. To follow along, make sure you have service deployed on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io).
+[Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) is a tool for managing authentication and authorization. However, you might want to tailor its user interface to better match your brand or meet specific design requirements. Using React and Keycloakify, you can create a custom Keycloak UI that provides a seamless experience for your users. This blog will guide you through the steps to customize your Keycloak UI with React and Keycloakify. To follow along, make sure you have service deployed on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak).
 
 ## Introduction to Keycloakify
 
@@ -56,5 +57,5 @@ To implement a new theme in Keycloak using the `keycloakify-starter` theme, you 
 
 You have integrated Keycloakify into your Keycloak setup, enabling you to customize the Keycloak UI with React. This allows you to create a seamless and branded user experience for your authentication and authorization flows. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

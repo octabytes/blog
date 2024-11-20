@@ -1,13 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Best Practices for Importing Users from Legacy Applications to Keycloak"
-date: "2024-07-25"
-description: "Migrating users from legacy applications into a modern identity and access management system like Keycloak can be a complex process. It requires careful planning and execution to ensure that existing users’ credentials, permissions, and data are securely transferred and that the transition causes minimal disruption. In this blog, we’ll"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "This blog provides best practices for migrating users from legacy systems to Keycloak, covering aspects like assessing user data, choosing federation or import strategies, handling password migration securely, syncing user metadata, testing the process, and communicating with users. It emphasizes the importance of careful planning for a smooth and secure migration."
+tags: [migration, Keycloak, identity management, legacy systems, user data, password migration, user federation, user import, security, authentication, roles, permissions, system testing, communication, post-migration monitoring]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Best Practices for Importing Users from Legacy Applications to Keycloak"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -65,12 +66,12 @@ Additionally, consider setting up logging and analytics to track user behaviour 
 
 ## **Thanks for reading ❤️**
 
-Following these best practices ensures that the migration process is efficient and user\-friendly, setting up Keycloak as an identity management solution for your organization. Thank you so much for reading and do check out the OctaByte resources and official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
+Following these best practices ensures that the migration process is efficient and user\-friendly, setting up Keycloak as an identity management solution for your organization. Thank you so much for reading and do check out the OctaByte resources and official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 
 
 

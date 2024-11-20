@@ -1,22 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How to install a community node on N8N"
-date: "2024-02-20"
-description: "Hey everyone, we are going to install a community node manually on N8N. During this tutorial, we will be using the internal terminal tool to access the docker container running the N8N instance. Before we start, ensure you have deployed N8N, we will be self-hosting it on OctaByte.
-
-
-What is"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "This tutorial guides you through manually installing a community node on N8N using OctaByte, including steps like setting environment variables, creating a Dockerfile, and running custom images."
+tags: [N8N, community node, Docker, OctaByte, self-hosting, workflow automation, terminal access, VS Code, Docker Compose, environment variables, automation integration]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "How to install a community node on N8N"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Hey everyone, we are going to install a community node manually on [N8N](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io). During this tutorial, we will be using the internal terminal tool to access the docker container running the N8N instance. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Hey everyone, we are going to install a community node manually on [N8N](https://octabyte.io/applications/automation/n8n). During this tutorial, we will be using the internal terminal tool to access the docker container running the N8N instance. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -93,7 +91,7 @@ And done! You have successfully installed community nodes manually in N8N. You c
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and retrieve weather information based on a zip code. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and retrieve weather information based on a zip code. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

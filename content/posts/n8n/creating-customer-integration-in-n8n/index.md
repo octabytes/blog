@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Creating custom integration in N8N"
-date: "2024-11-27"
-description: "Let's see how you can create custom integration in N8N. During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self-hosting it on OctaByte.
-
-
-What is N8N?
-
-N8N is an open-source workflow"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "Learn how to create custom integrations in N8N, a powerful open-source workflow automation tool. This tutorial covers the benefits, challenges, and steps to create and share custom integrations, enhancing automation and workflow efficiency."
+tags: [N8N, custom integration, workflow automation, open-source, API, automation, integration, OctaByte, GitHub, development, tutorial, scalability, efficiency, automation tools, node-based system, API management.]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "Creating custom integration in N8N"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can create custom integration in [N8N](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io). During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Let's see how you can create custom integration in [N8N](https://octabyte.io/applications/automation/n8n). During this tutorial, we will learn about the benefits and use of creating custom integration. Before we start, ensure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -46,7 +42,7 @@ Custom integrations in n8n unlock a world of possibilities for automation and ef
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and start building and installing custom integrations. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and start building and installing custom integrations. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

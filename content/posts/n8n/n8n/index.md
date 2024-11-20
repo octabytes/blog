@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Performing SQL query on MySQL server"
-date: "2024-07-30"
-description: "Let's see how you can create API Endpoints that perform SQL query on MySQL server. During this tutorial, we will be creating the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "This tutorial walks you through creating API endpoints in N8N that query a MySQL server, including configuring webhooks, setting up the MySQL connection, and testing the workflow."
+tags: [N8N, MySQL, API Endpoints, Workflow Automation, SQL Queries, Webhooks, OctaByte, Self-hosting, Open-source, Automation]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "Performing SQL query on MySQL server"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can create API Endpoints that perform SQL query on MySQL server. During this tutorial, we will be creating the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Let's see how you can create API Endpoints that perform SQL query on MySQL server. During this tutorial, we will be creating the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -61,7 +62,7 @@ https://n8n-ygblb-u7774.vm.elestio.app/webhook-test/8b6ac879-866b-4048-bcba-b04b
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and perform queries on your SQL server. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and perform queries on your SQL server. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

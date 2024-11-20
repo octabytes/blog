@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Keycloak Session Configuration: Best Practices and Principles"
-date: "2024-05-06"
-description: "Let's see how to configure sessions on OctaByte using Keycloak. We will be using a self-hosted Keycloak instance deployed on OctaByte. So, to get started head over to OctaByte Dashboard and deploy and login into the Keycloak service to get started.
-
-In this tutorial, we explore the technicalities"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This tutorial guides you through configuring sessions and token settings in Keycloak on OctaByte. It covers session timeouts, optimal settings for session management, and best practices for ensuring secure and efficient authentication."
+tags: [Keycloak, OctaByte, session management, token configuration, SSO, client settings, refresh tokens, access tokens, session timeout, security, best practices]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Keycloak Session Configuration: Best Practices and Principles"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how to configure sessions on OctaByte using [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) and deploy and login into the Keycloak service to get started.
+Let's see how to configure sessions on OctaByte using [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/development/identity-and-access-management/keycloak) and deploy and login into the Keycloak service to get started.
 
 In this tutorial, we explore the technicalities of Keycloak session and token configuration, emphasizing the importance of session timeouts and optimal settings for effective session management. By understanding and applying the recommended best practices, administrators can create a secure and efficient authentication environment within Keycloak.
 
@@ -75,7 +74,7 @@ By following these guidelines and configuring session durations appropriately, a
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

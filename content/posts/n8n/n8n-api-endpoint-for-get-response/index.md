@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "API Endpoint for GET method"
-date: "2024-12-03"
-description: "Hey everyone, In this blog we are going to see how you can create API Endpoints that responds to your GET requests using N8N. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you"
-tags: []
-categories: [Automation]
+date: "2024-11-20"
+description: "This blog post provides a step-by-step guide on how to create an API endpoint in N8N that responds to GET requests. It walks through using a template to build the workflow, setting up webhook components, and testing the endpoint."
+tags: [N8N, API, GET request, Webhook, Workflow, Automation, Template, Self-hosting, OctaByte, Tutorial]
+categories: [Applications, Automation]
 cover:
   image: images/cover.png
   caption: "API Endpoint for GET method"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Hey everyone, In this blog we are going to see how you can create API Endpoints that responds to your GET requests using N8N. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io).
+Hey everyone, In this blog we are going to see how you can create API Endpoints that responds to your GET requests using N8N. During this tutorial, we will be creating the workflow using a template. You can create the same from scratch too. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -55,7 +56,7 @@ https://n8n-9f2ud-u7774.vm.elestio.app/webhook-test/6f7b288e-1efe-4504-a6fd-6609
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and retrieve weather information based on a zip code. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and retrieve weather information based on a zip code. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

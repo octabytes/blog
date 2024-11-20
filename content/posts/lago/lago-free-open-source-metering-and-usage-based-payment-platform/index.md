@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Lago: Free Open Source Metering and Usage Based Payment Platform"
-date: "2024-09-05"
-description: "Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. Lago emerges as a remedy to this, offering a free, open-source solution for metering and usage-based billing.
-
-Whether self-hosted or on the cloud, Lago boasts a scalable and modular architecture designed"
-tags: []
-categories: [Invoicing and payments]
+date: "2024-11-20"
+description: "Discover Lago, an open-source, scalable billing platform that simplifies metering, usage-based billing, and tax handling for businesses. With features like customizable plans, add-ons, coupon management, and seamless integrations, Lago empowers businesses to handle complex billing effortlessly, whether self-hosted or on the cloud."
+tags: [billing platform, open-source, metering, usage-based billing, scalable architecture, customizable plans, add-ons, coupon management, developer-friendly, tax automation, payment integrations, invoicing, subscription billing]
+categories: [Applications, Invoicing and payments]
 cover:
   image: images/cover.png
   caption: "Lago: Free Open Source Metering and Usage Based Payment Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. [Lago](https://octabyte.io/open-source/lago?ref=blog.octabyte.io) emerges as a remedy to this, offering a free, open\-source solution for metering and usage\-based billing. 
+Based on your business model, charging customers can be a real brain teaser for both developers, sales, and customers. [Lago](https://octabyte.io/applications/invoicing-and-payments/lago) emerges as a remedy to this, offering a free, open\-source solution for metering and usage\-based billing. 
 
 Whether self\-hosted or on the cloud, Lago boasts a scalable and modular architecture designed to address the persistent challenges in metering and billing. 
 
@@ -61,7 +60,7 @@ Lago is the best alternative to Chargebee, Recurly, or Stripe Billing, empowerin
 
 With its open\-source foundation, Lago propels businesses toward a future where billing is a strategic advantage rather than a hindrance.
 
-[Deploy your instance on OctaByte and give a try to Lago](https://octabyte.io/open-source/lago?ref=blog.octabyte.io)
+[Deploy your instance on OctaByte and give a try to Lago](https://octabyte.io/applications/invoicing-and-payments/lago)
 
 
 

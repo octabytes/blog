@@ -1,19 +1,20 @@
 ---
-draft: true
+draft: false
 title: "How To Expose Metrics Endpoint From Keycloak"
-date: "2024-02-05"
-description: "Monitoring and tracking the performance and health of your Keycloak server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "Learn how to monitor and track Keycloak server performance by exposing a metrics endpoint using the Metrics SPI. This guide covers downloading, installing, and configuring the Metrics SPI jar, and accessing the metrics endpoint for effective monitoring."
+tags: [keycloak, metrics, spi, monitoring, server-performance, identity-management, metrics-endpoint, keycloak-configuration]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "How To Expose Metrics Endpoint From Keycloak"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Monitoring and tracking the performance and health of your [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). 
+Monitoring and tracking the performance and health of your [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). 
 
 ## Downloading \& Installing Metics SPI
 
@@ -84,5 +85,5 @@ Replace `<your-keycloak-domain>`, `<http_relative_path>`, and `<realm>` with you
 
 You have successfully exposed the metrics endpoint from your Keycloak server, enabling you to monitor and track its performance effectively. With the metrics endpoint in place, you can integrate Keycloak metrics with your preferred monitoring and alerting tools to keep your system running smoothly.
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

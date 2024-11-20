@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Logto: Free Open Source Identity Infrastructure for Developers"
-date: "2024-01-16"
-description: "Empower your projects with Logto, the ultimate free open-source identity infrastructure tailored for developers. Say goodbye to the complexities of authentication and authorization, and welcome a seamless, modern solution.
-
-
-Add login, signup, and forgotten password to your projects
-
-Logto simplifies your development journey by offering a spectrum of user authentication"
-tags: []
+date: "2024-11-20"
+description: "Logto is a free, open-source identity infrastructure for developers, simplifying authentication and authorization with features like passwordless login, MFA, branding customization, and robust user management tools. Designed for seamless integration, it supports various frameworks and scales with trust and security."
+tags: [identity, authentication, authorization, open-source, developers, MFA, passwordless, user-management, SaaS, branding, security]
 categories: [Identity and access management]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Logto: Free Open Source Identity Infrastructure for Developers"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Empower your projects with [Logto](https://octabyte.io/open-source/logto?ref=blog.octabyte.io), the ultimate free open\-source identity infrastructure tailored for developers. Say goodbye to the complexities of authentication and authorization, and welcome a seamless, modern solution.
+Empower your projects with [Logto](https://octabyte.io/development/identity-and-access-management/logto), the ultimate free open\-source identity infrastructure tailored for developers. Say goodbye to the complexities of authentication and authorization, and welcome a seamless, modern solution.
 
 
 
@@ -48,7 +44,7 @@ Designed for the modern era, Logto prioritizes an excellent developer experience
 
 From proof of concept to managing multiple products, Logto is your go\-to solution for reliable identity infrastructure. 
 
-[Deploy your fully managed Logto instance on OctaByte.](https://octabyte.io/open-source/logto?ref=blog.octabyte.io)and 
+[Deploy your fully managed Logto instance on OctaByte.](https://octabyte.io/development/identity-and-access-management/logto)and 
 
 
 

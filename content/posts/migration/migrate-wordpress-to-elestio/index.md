@@ -1,22 +1,21 @@
 ---
-draft: true
+draft: false
 title: "Migrate Wordpress to OctaByte"
-date: "2024-01-24"
-description: "This migration document focuses on the migration of the applications supported by OctaByte. Find the software list here
-
-This document provides a step-by-step guide for migrating your existing system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This document provides a step-by-step guide for migrating your WordPress site to OctaByte. It covers prerequisites, data export, setup, data import, testing the migration, and offers support for any issues during the process"
+tags: [migration, OctaByte, WordPress, data export, data import, setup, support, site migration, scalability, performance]
+categories: [Applications, Wordpress]
 cover:
   image: images/cover.png
   caption: "Migrate Wordpress to OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
+> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/applications/cms/wordpress)
 
 This document provides a step\-by\-step guide for migrating your existing system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
 

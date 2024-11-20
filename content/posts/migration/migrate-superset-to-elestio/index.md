@@ -1,22 +1,21 @@
 ---
-draft: true
+draft: false
 title: "Migrate Superset to OctaByte"
-date: "2024-08-08"
-description: "This migration document focuses on the migration of the applications supported by OctaByte. Find the software list here
-
-This document provides a step-by-step guide for migrating your existing Superset pipelines to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This guide details the step-by-step process for migrating Superset pipelines to OctaByte, covering prerequisites, exporting and importing dashboards, testing the migration, and additional help options."
+tags: [migration, Superset, OctaByte, dashboards, data, export, import, support, cloud, performance, scalability, system efficiency, migration guide]
+categories: [Applications, Business intelligence]
 cover:
   image: images/cover.png
   caption: "Migrate Superset to OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
+> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/applications/business-intelligence/superset)
 
 This document provides a step\-by\-step guide for migrating your existing Superset pipelines to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
 

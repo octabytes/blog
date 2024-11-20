@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Publish Keycloak Events to RabbitMQ"
-date: "2024-10-18"
-description: "Let's see how you can publish Keycloak events to RabbitMQ. Before we start, make sure you have deployed Keycloak, we will be self-hosting it on OctaByte.
-
-
-What is Keycloak?
-
-Keycloak is an open-source Identity and Access Management (IAM) solution that provides tools for managing authentication and authorization. It"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "This post guides you through the process of publishing Keycloak events to RabbitMQ. It covers the necessary installation of the Keycloak event listener, configuration steps, environment variable setup, and enabling logging to ensure smooth integration between Keycloak and RabbitMQ for better communication and system responsiveness."
+tags: [Keycloak, RabbitMQ, Integration, IAM, SSO, Message Broker, Event Listener, Docker, OctaByte, Environment Variables, Logging]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Publish Keycloak Events to RabbitMQ"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Let's see how you can publish [Keycloak](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io) events to [RabbitMQ](https://octabyte.io/open-source/rabbitmq?ref=blog.octabyte.io). Before we start, make sure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io).
+Let's see how you can publish [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) events to [RabbitMQ](https://octabyte.io/hosting-and-infrastructure/infrastructure/rabbitmq). Before we start, make sure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak).
 
 ## What is Keycloak?
 
@@ -107,5 +103,5 @@ Here’s how to enable logging in the Keycloak UI:
 
 You have successfully published Keycloak events to RabbitMQ, enabling better integration and communication between your identity management and message brokering systems. This setup can significantly enhance your system's responsiveness and reliability, helping operations. See you in the next one👋
 
-[![](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
 

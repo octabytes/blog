@@ -1,28 +1,27 @@
 ---
-draft: true
+draft: false
 title: "Migrate MySQL Database to OctaByte"
-date: "2024-05-08"
-description: "This migration document focuses on the migration of the applications supported by OctaByte. Find the software list here
-
-This document provides a step-by-step guide for migrating your existing MySQL database system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process,"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This guide provides step-by-step instructions for migrating a MySQL database to OctaByte, covering pre-requisites, data export/import, and testing the migration process."
+tags: [migration, MySQL, OctaByte, database, export, import, PhpMyAdmin, support, service creation, data transfer, troubleshooting]
+categories: [Databases, Relational databases]
 cover:
   image: images/cover.png
   caption: "Migrate MySQL Database to OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
+> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/databases/relational-databases/mysql)
 
 This document provides a step\-by\-step guide for migrating your existing MySQL database system to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
 
 ### 1️⃣ Pre\-requisites
 
-1. Create an account on [OctaByte](https://octabyte.io/?ref=blog.octabyte.io)
+1. Create an account on [OctaByte](https://octabyte.io/databases/relational-databases/mysql)
 2. Log in to your MySQL admin dashboard account where your current site/pages are hosted
 3. Make sure the UI for the application is working fine and there are no critical errors detected in the application logs. If found otherwise please feel free to create a support ticket
 4. When deploying the service on OctaByte, use the same software version as your present service, or your data migration will fail

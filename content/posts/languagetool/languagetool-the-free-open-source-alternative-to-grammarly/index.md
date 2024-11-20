@@ -1,17 +1,14 @@
 ---
-draft: true
+draft: false
 title: "LanguageTool: The Free Open-Source Alternative to Grammarly"
-date: "2024-01-26"
-description: "Do you struggle with writing in a non-native language? Introducing LanguageTool, an open-source proofreading and grammar-checking software that can improve your writing accuracy and clarity.
-
-If you prefer, the video version is available here:
-
-Gone are the days of relying on manual proofreading or expensive grammar checkers, as LanguageTool can"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "LanguageTool is an open-source proofreading and grammar-checking tool that improves writing clarity and accuracy in over 20 languages. It's accessible via browser extensions, desktop, and mobile apps, with API integration and self-hosting options available. The post highlights its features, including error detection, customization, and a comparison to Grammarly."
+tags: [LanguageTool, proofreading, grammar-checking, open-source, writing, language support, self-hosting, API, browser extensions, desktop apps, mobile apps, Grammarly alternative, OctaByte]
+categories: [Applications, Others]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "LanguageTool: The Free Open-Source Alternative to Grammarly"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -33,3 +30,4 @@ Overall, LanguageTool is a free and highly customizable tool that can help impro
 
 
 
+[![Deploy on OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/others/languagetool)

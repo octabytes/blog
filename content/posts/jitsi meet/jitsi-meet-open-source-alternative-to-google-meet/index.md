@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Jitsi Meet: Free Open Source Video Conferencing Platform"
-date: "2024-01-20"
-description: "In today's interconnected world, effective communication is paramount, and video conferencing has become an integral part of our professional and personal lives.
-
-One powerful solution that has gained significant popularity is Jitsi Meet a free and open-source alternative to Google Meet. In this article, we will delve into"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Jitsi Meet is a free, open-source video conferencing solution that offers both cloud and self-hosted deployment options, enabling seamless communication with features like real-time chat, screen sharing, and mobile apps for iOS and Android"
+tags: [Jitsi Meet, video conferencing, cloud version, self-hosted, mobile apps, iOS, Android, communication, collaboration, open-source, video meetings, OctaByte]
+categories: [Applications, Live chat]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Jitsi Meet: Free Open Source Video Conferencing Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In today's interconnected world, effective communication is paramount, and video conferencing has become an integral part of our professional and personal lives. 
 
-One powerful solution that has gained significant popularity is [Jitsi Meet](https://octabyte.io/open-source/jitsi?ref=blog.octabyte.io) a free and open\-source alternative to Google Meet. In this article, we will delve into the features and advantages of Jitsi Meet. Let's embark on this journey to discover a reliable and flexible video conferencing solution.
+One powerful solution that has gained significant popularity is [Jitsi Meet](https://octabyte.io/applications/live-chat/jitsi) a free and open\-source alternative to Google Meet. In this article, we will delve into the features and advantages of Jitsi Meet. Let's embark on this journey to discover a reliable and flexible video conferencing solution.
 
 
 
@@ -37,7 +36,7 @@ With OctaByte, you get the best of both worlds, as we take care of automatic upd
 
 ## Meeting
 
-[Jitsi Meet](https://octabyte.io/open-source/jitsi?ref=blog.octabyte.io) offers a user\-friendly interface, allowing participants to join meetings effortlessly from any device with a web browser. With no downloads or registrations required, participants can quickly enter a virtual meeting room and engage in high\-quality video and audio conversations. 
+[Jitsi Meet](https://octabyte.io/applications/live-chat/jitsi) offers a user\-friendly interface, allowing participants to join meetings effortlessly from any device with a web browser. With no downloads or registrations required, participants can quickly enter a virtual meeting room and engage in high\-quality video and audio conversations. 
 
 The platform supports large meetings, breakout rooms, and simultaneous screen sharing, enhancing collaboration and productivity.  
 
@@ -60,7 +59,7 @@ Users can access resources such as forums, [community discussions](https://commu
 
 In a world where effective communication and collaboration are vital, Jitsi Meet emerges as a reliable and flexible video conferencing solution. Whether you opt for the cloud version or prefer self\-hosting, Jitsi Meet provides seamless and feature\-rich video meetings, fostering productivity and connection. With its user\-friendly interface, mobile apps, and extensive documentation, Jitsi Meet empowers individuals, teams, and organizations to embrace the power of video conferencing, no matter their location or device. 
 
-[Elevate your virtual meetings with Jitsi Meet and experience a new era of communication.](https://octabyte.io/open-source/jitsi?ref=blog.octabyte.io)
+[Elevate your virtual meetings with Jitsi Meet and experience a new era of communication.](https://octabyte.io/applications/live-chat/jitsi)
 
 
 

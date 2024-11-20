@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "LobeChat: Free Open Source LLM Platform"
-date: "2024-09-18"
-description: "Meet LobeChat, an open-source, modern-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI-driven interactions.
-
-
-Multi-Model Service Provider Support
-
-One of the standout features"
-tags: []
-categories: [Live chat]
+date: "2024-11-20"
+description: "LobeChat is an open-source, modern ChatGPT/LLMs UI and framework offering multi-model support, an extensive plugin system, PWA technology for seamless mobile adaptation, and customizable themes. It provides a complete, user-friendly solution for AI-driven interactions."
+tags: [AI conversation, open-source, ChatGPT, LLMs, multi-model support, plugins, PWA, mobile adaptation, custom themes, conversational AI]
+categories: [Applications, Live chat]
 cover:
   image: images/cover.png
   caption: "LobeChat: Free Open Source LLM Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Meet [LobeChat](https://octabyte.io/open-source/lobechat?ref=blog.octabyte.io), an open\-source, modern\-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI\-driven interactions.
+Meet [LobeChat](https://octabyte.io/applications/live-chat/lobechat), an open\-source, modern\-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI\-driven interactions.
 
 
 
@@ -54,11 +50,11 @@ Whether it's a light mode for daytime or a dark mode for nighttime, users can ta
 
 ### **Conclusion**
 
-[LobeChat](https://octabyte.io/open-source/lobechat?ref=blog.octabyte.io) is not just another AI conversation platform—it's a complete solution. With its support for multiple model service providers, extensive plugin ecosystem, seamless mobile experience, and customizable themes, LobeChat is redefining what it means to interact with AI. 
+[LobeChat](https://octabyte.io/applications/live-chat/lobechat) is not just another AI conversation platform—it's a complete solution. With its support for multiple model service providers, extensive plugin ecosystem, seamless mobile experience, and customizable themes, LobeChat is redefining what it means to interact with AI. 
 
 Whether you're a developer looking to create innovative agents or a user seeking personalized AI\-driven experiences, LobeChat has something for everyone. 
 
-[Join the revolution today and experience the future of conversational AI with LobeChat.](https://octabyte.io/open-source/lobechat?ref=blog.octabyte.io)
+[Join the revolution today and experience the future of conversational AI with LobeChat.](https://octabyte.io/applications/live-chat/lobechat)
 
 
 

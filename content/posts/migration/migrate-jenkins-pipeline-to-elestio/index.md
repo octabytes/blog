@@ -1,28 +1,27 @@
 ---
-draft: true
+draft: false
 title: "Migrate Jenkins Pipeline to OctaByte"
-date: "2024-03-06"
-description: "This migration document focuses on the migration of the applications supported by OctaByte. Find the software list here
-
-This document provides a step-by-step guide for migrating your existing Jenkins pipelines to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "This guide provides a step-by-step process for migrating Jenkins pipelines to OctaByte, including pre-requisites, server configuration, data import, and testing the migration. It helps ensure a smooth transition while maintaining application performance and scalability."
+tags: [migration, Jenkins, OctaByte, pipelines, cloud service, data import, configuration, system efficiency, DevOps, support]
+categories: [Developments, DevOps]
 cover:
   image: images/cover.png
   caption: "Migrate Jenkins Pipeline to OctaByte"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
 
-> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/fully-managed-services?ref=blog.octabyte.io)
+> This migration document focuses on the migration of the applications supported by OctaByte. Find the software list [here](https://octabyte.io/all-services?ref=blog.octabyte.io)
 
 This document provides a step\-by\-step guide for migrating your existing Jenkins pipelines to OctaByte. OctaByte is designed to enhance performance, scalability, and overall system efficiency. Before you begin the migration process, make sure to check the pre\-requisites
 
 ### 1️⃣ Pre\-requisites
 
-1. Create an account on [OctaByte](https://octabyte.io/?ref=blog.octabyte.io)
+1. Create an account on [OctaByte](https://octabyte.io/development/dev-ops/jenkins)
 2. Log in to your Jenkins admin dashboard account on the server where your current Jenkins is deployed
 3. Make sure the UI for the application is working fine and there are no critical errors detected in the application logs. If found otherwise please feel free to create a support ticket
 4. When deploying the service on OctaByte, use the same software version as your present service, or your data migration will fail.
