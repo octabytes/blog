@@ -1,24 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Using Superset for Real-Time Data Analytics"
-date: "2024-03-04"
-description: "In this guide, we will walk you through setting up real-time analytics by integrating Apache Superset with ClickHouse, a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
-
-
-Deploying ClickHouse and Superset
-
-The first step in setting"
-tags: []
+date: "2024-11-20"
+description: "This guide covers the integration of Apache Superset with ClickHouse to set up real-time analytics. It includes deploying both tools on OctaByte, configuring Superset for optimal performance, creating datasets, and visualizations such as time series charts and dashboards. Additionally, it explains how to optimize performance with caching and clustering."
+tags: [Apache Superset, ClickHouse, real-time analytics, OctaByte, SQLAlchemy, time series charts, data visualization, dashboards, caching, clustering, business intelligence, data analysis]
 categories: [Business Intelligence]
 cover:
   image: images/cover.png
   caption: "Using Superset for Real-Time Data Analytics"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In this guide, we will walk you through setting up real\-time analytics by integrating [Apache Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io) with [ClickHouse](https://octabyte.io/open-source/clickhouse?ref=blog.octabyte.io), a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
+In this guide, we will walk you through setting up real\-time analytics by integrating [Apache Superset](https://octabyte.io/applications/business-intelligence/superset) with [ClickHouse](https://octabyte.io/databases/relational-databases/clickhouse), a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
 
 ## Deploying ClickHouse and Superset
 
@@ -98,12 +94,12 @@ Enable caching by configuring the **CACHE\_CONFIG** in Superset’s configuratio
 
 ## **Thanks for reading ❤️**
 
-By following these steps, you can set up Apache Superset to handle real\-time data analytics with ClickHouse. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
+By following these steps, you can set up Apache Superset to handle real\-time data analytics with ClickHouse. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](https://octabyte.io/images/logos/deploy-to-elestio-btn.png)](https://octabyte.io/open-source/superset?ref=blog.octabyte.io)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
 
 
 
