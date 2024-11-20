@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "StirlingPDF: Free Open-source PDF Tools & API"
-date: "2024-04-10"
-description: "PDF files are a staple of digital document management, and having the right tools to handle them efficiently is essential.
-
-StirlingPDF is a robust, open-source solution that provides a comprehensive suite of PDF operations. Whether you need to organize, convert, secure, or edit your PDF files, StirlingPDF has you covered"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "StirlingPDF is an open-source tool that provides a comprehensive suite of features for managing, converting, securing, and editing PDF files. It includes a user-friendly GUI, powerful API integration, and efficient processing pipelines for automating workflows."
+tags: [StirlingPDF, PDF management, PDF tools, open-source, PDF conversion, API integration, document security, PDF editing, PDF compression, workflow automation, file processing]
+categories: [Development, Dev tools]
 cover:
   image: images/cover.png
   caption: "StirlingPDF: Free Open-source PDF Tools & API"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 PDF files are a staple of digital document management, and having the right tools to handle them efficiently is essential. 
 
-[StirlingPDF](https://octabyte.io/open-source/stirling-pdf?ref=blog.octabyte.io) is a robust, open\-source solution that provides a comprehensive suite of PDF operations. Whether you need to organize, convert, secure, or edit your PDF files, StirlingPDF has you covered with its extensive features and API integrations. 
+[StirlingPDF](https://octabyte.io/development/dev-tools/stirling-pdf) is a robust, open\-source solution that provides a comprehensive suite of PDF operations. Whether you need to organize, convert, secure, or edit your PDF files, StirlingPDF has you covered with its extensive features and API integrations. 
 
 In this article, we will explore the capabilities of StirlingPDF and how it can cater to all your PDF needs.
 
@@ -29,7 +28,7 @@ Watch our SirlingPDF platform overview
 
 ## Organize
 
-[StirlingPDF](https://octabyte.io/open-source/stirling-pdf?ref=blog.octabyte.io) offers a full interactive GUI for managing PDF pages, making it easy to split, merge, rotate, and reorder pages. You can merge multiple PDFs into a single file or split a PDF into multiple files at specified page numbers. The tool also allows for the extraction of individual pages and the reorganization of pages into different orders.
+[StirlingPDF](https://octabyte.io/development/dev-tools/stirling-pdf) offers a full interactive GUI for managing PDF pages, making it easy to split, merge, rotate, and reorder pages. You can merge multiple PDFs into a single file or split a PDF into multiple files at specified page numbers. The tool also allows for the extraction of individual pages and the reorganization of pages into different orders.
 
 Features like rotating PDFs in 90\-degree increments and removing unwanted pages ensure that you can tailor your documents to your exact specifications. Additionally, StirlingPDF supports multi\-page layouts, scaling page content, adjusting contrast, cropping, and auto\-splitting PDFs using scanned page dividers.
 
@@ -65,9 +64,9 @@ File size can be a concern when dealing with large PDFs. StirlingPDF includes po
 
 ## Conclusion
 
-[StirlingPDF](https://octabyte.io/open-source/stirling-pdf?ref=blog.octabyte.io) stands out as a comprehensive, open\-source solution for managing PDF documents. With its extensive range of features, from organizing and converting PDFs to securing and editing them, StirlingPDF caters to all your PDF needs. Its API integration and parallel processing capabilities make it an ideal choice for developers and organizations looking to automate and streamline their PDF workflows. 
+[StirlingPDF](https://octabyte.io/development/dev-tools/stirling-pdf) stands out as a comprehensive, open\-source solution for managing PDF documents. With its extensive range of features, from organizing and converting PDFs to securing and editing them, StirlingPDF caters to all your PDF needs. Its API integration and parallel processing capabilities make it an ideal choice for developers and organizations looking to automate and streamline their PDF workflows. 
 
-[Explore the power of StirlingPDF and elevate your PDF management to the next level.](https://octabyte.io/open-source/stirling-pdf?ref=blog.octabyte.io)
+[Explore the power of StirlingPDF and elevate your PDF management to the next level.](https://octabyte.io/development/dev-tools/stirling-pdf)
 
 
 

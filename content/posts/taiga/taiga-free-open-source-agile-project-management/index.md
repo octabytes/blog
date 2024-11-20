@@ -1,27 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Taiga: Free Open Source Agile Project Management"
-date: "2024-08-20"
-description: "Taiga stands out as a powerful and free open-source project management tool tailored for cross-functional agile teams. With its features, it provides a simple start for seamless team project collaborations.
-
-
-Agile Project Management
-
-
-Backlog Management:
-
-Taiga's Backlog Management empowers teams to define deliverables collaboratively, capturing a holistic view"
-tags: []
-categories: [Project management]
+date: "2024-11-20"
+description: "Taiga is a free, open-source project management tool designed for agile teams. It offers features like backlog management, sprint planning, Kanban boards, agile estimations, issue tracking, customizable dashboards, and self-hosting options. Its flexibility and extensive integrations make it an ideal choice for teams looking to streamline workflows and improve project delivery."
+tags: [Taiga, Project Management, Agile, Scrum, Kanban, Estimations, Backlog Management, Bug Tracking, Customization, Self-Hosting, Integrations, Open-Source]
+categories: [Applications, Project management]
 cover:
   image: images/cover.png
   caption: "Taiga: Free Open Source Agile Project Management"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[Taiga](https://octabyte.io/open-source/taiga?ref=blog.octabyte.io) stands out as a powerful and free open\-source project management tool tailored for cross\-functional agile teams. With its features, it provides a simple start for seamless team project collaborations.
+[Taiga](https://octabyte.io/applications/project-management/taiga) stands out as a powerful and free open\-source project management tool tailored for cross\-functional agile teams. With its features, it provides a simple start for seamless team project collaborations.
 
 
 
@@ -75,7 +68,7 @@ For those seeking unparalleled control, Taiga's self\-hosted option is an ideal 
 
 Taiga, with its user\-friendly interface and extensive features, is a standout choice for agile project management. It facilitates effective communication, transparent insights, and adaptability, making it an invaluable tool for teams aiming to streamline their workflows and achieve successful project deliveries. Whether you are a small team or a large enterprise, Taiga's versatility and open\-source nature make it a compelling solution for agile project management needs.
 
-[Give a try to Taiga on OctaByte.](https://octabyte.io/open-source/taiga?ref=blog.octabyte.io)
+[Give a try to Taiga on OctaByte.](https://octabyte.io/applications/project-management/taiga)
 
 
 

@@ -1,32 +1,26 @@
 ---
-draft: true
+draft: false
 title: "Shlink URL shortener with analytics"
-date: "2024-04-29"
-description: "Discover Shlink, a powerful open-source URL shortener that offers a comprehensive range of features.
-
-Our platform overview of Shlink:
-
-
-Link Shortener
-
-Shlink excels in simplifying the process of creating shorter and more manageable links. With its user-friendly interface, you can effortlessly generate custom short URLs that align with your brand."
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Shlink is an open-source URL shortener that simplifies link creation and management. It features a user-friendly interface, CLI tools, API integration, robust analytics, QR code generation, custom domains, and advanced security, making it ideal for businesses and developers."
+tags: [URL shortener, open source, link management, analytics, custom domains, QR codes, API integration, CLI tools, security, automation.]
+categories: [Applications, Others]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Shlink URL shortener with analytics"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-Discover [Shlink](https://octabyte.io/open-source/shlink?ref=blog.octabyte.io), a powerful open\-source URL shortener that offers a comprehensive range of features. 
+Discover [Shlink](https://octabyte.io/applications/others/shlink), a powerful open\-source URL shortener that offers a comprehensive range of features. 
 
 **Our platform overview of Shlink:**
 
 ## Link Shortener
 
-[Shlink](https://octabyte.io/open-source/shlink?ref=blog.octabyte.io) excels in simplifying the process of creating shorter and more manageable links. With its user\-friendly interface, you can effortlessly generate custom short URLs that align with your brand. 
+[Shlink](https://octabyte.io/applications/others/shlink) excels in simplifying the process of creating shorter and more manageable links. With its user\-friendly interface, you can effortlessly generate custom short URLs that align with your brand. 
 
 Additionally, Shlink allows you to specify links based on the user's device (Android, iOS, and Desktop). Ideal for mobile app download links!
 
@@ -48,7 +42,7 @@ With Shlink, you can generate QR codes for your shortened links, making it easie
 
 ## Conclusion
 
-[Shlink](https://octabyte.io/open-source/shlink?ref=blog.octabyte.io) is a great solution in the realm of link management, offering an extensive suite of features tailored to meet the needs of businesses and individuals. From its intuitive web interface and CLI tools to its robust analytics and additional functionalities like QR code generation and custom domains, Shlink provides a comprehensive solution for shortening, tracking, and managing URLs effectively. 
+[Shlink](https://octabyte.io/applications/others/shlink) is a great solution in the realm of link management, offering an extensive suite of features tailored to meet the needs of businesses and individuals. From its intuitive web interface and CLI tools to its robust analytics and additional functionalities like QR code generation and custom domains, Shlink provides a comprehensive solution for shortening, tracking, and managing URLs effectively. 
 
 Shlink empowers you to optimize your link strategies, enhance user experience, and unlock new levels of efficiency.
 

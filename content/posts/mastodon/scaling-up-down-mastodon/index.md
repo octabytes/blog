@@ -60,15 +60,15 @@ Easiest solution is to connect a network Volume attached to your instance, and s
 
 For OctaByte users, you just have to create a volume on your Mastodon instance and keep the checkbox checked to ensure all data will be moved to the Volume.
 
-![Add a network volume on elestio and move the data](https://blog.octabyte.io/content/images/2022/12/image-6.png)
+![Add a network volume on elestio and move the data](https://blog.elest.io/content/images/2022/12/image-6.png)
 
 Add a network volume and move the data
 
 For users outside of OctaByte you have to check with your cloud provider their process to create and attach a volume to your instance and mount it into your VM. From there you will have to change the volume configuration in your docker\-compose.yml to point to your new volume. Let's assume your new volume is mounted in /mnt/vol1, then you will have to change the 2 occurrences of "./public/system" to "/mnt/vol1"
 
-![](https://blog.octabyte.io/content/images/2022/12/image-4.png)After the change it should look like this:
+![](https://blog.elest.io/content/images/2022/12/image-4.png)After the change it should look like this:
 
-![](https://blog.octabyte.io/content/images/2022/12/image-5.png)## **Thanks for reading ❤️**
+![](https://blog.elest.io/content/images/2022/12/image-5.png)## **Thanks for reading ❤️**
 
 Thank you so much for reading and do check out the OctaByte resources and Official [Mastodon documentation](https://docs.joinmastodon.org/?ref=blog.octabyte.io) to learn more about Mastodon. Click the button below to create your service on [OctaByte](https://octabyte.io/open-source/keycloak?ref=blog.octabyte.io). See you in the next one👋
 

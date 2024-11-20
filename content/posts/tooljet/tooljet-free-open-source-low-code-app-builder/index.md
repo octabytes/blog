@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "ToolJet: Free Open-source Low-Code App Builder"
-date: "2024-06-22"
-description: "In today's fast-paced business environment, the ability to quickly develop and deploy custom internal tools is essential. ToolJet, a free open-source low-code app builder, offers a solution that streamlines the development process, allowing organizations to create powerful tools with minimal coding.
-
-This article explores ToolJet's features"
-tags: []
-categories: [No-code, Low-code]
+date: "2024-11-20"
+description: "ToolJet is a free open-source low-code app builder that accelerates the development of custom internal tools. With its drag-and-drop interface, robust querying capabilities, powerful database system, and seamless integration with various data sources, ToolJet makes creating dynamic, responsive applications easy and efficient."
+tags: ["ToolJet", "Low-Code", "App Builder", "Internal Tools", "No-Code", "Custom Applications", "Database Management", "Query Builder", "Data Integration", "User Management"]
+categories: [Development, No-code, Low-code]
 cover:
   image: images/cover.png
   caption: "ToolJet: Free Open-source Low-Code App Builder"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In today's fast\-paced business environment, the ability to quickly develop and deploy custom internal tools is essential. [ToolJet](https://octabyte.io/open-source/tooljet?ref=blog.octabyte.io), a free open\-source low\-code app builder, offers a solution that streamlines the development process, allowing organizations to create powerful tools with minimal coding. 
+In today's fast\-paced business environment, the ability to quickly develop and deploy custom internal tools is essential. [ToolJet](https://octabyte.io/development/nocode-lowcode/tooljet), a free open\-source low\-code app builder, offers a solution that streamlines the development process, allowing organizations to create powerful tools with minimal coding. 
 
 This article explores ToolJet's features and how it can revolutionize internal tool development.
 
@@ -67,7 +66,7 @@ ToolJet offers a practical solution for organizations aiming to streamline their
 
 By enabling teams to develop custom applications quickly and efficiently, ToolJet helps businesses remain adaptable and efficient in a competitive market.
 
-[Deploy your ToolJet instance on OctaByte.](https://octabyte.io/open-source/tooljet?ref=blog.octabyte.io)
+[Deploy your ToolJet instance on OctaByte.](https://octabyte.io/development/nocode-lowcode/tooljet)
 
 
 

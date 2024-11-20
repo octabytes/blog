@@ -35,7 +35,7 @@ OctaByte is using Keycloak version 17\+ hence we will be placing `.jar` file in 
 /opt/app/providers/keycloak-metrics-spi-5.0.0.jar
 
 ```
-![Jar file in providers folder](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-28-at-1.02.22-PM-1.jpg)If performing externally you can add the same process to your `Dockerfile`. You can add it to `build` stage or `run` stage.
+![Jar file in providers folder](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-28-at-1.02.22-PM-1.jpg)If performing externally you can add the same process to your `Dockerfile`. You can add it to `build` stage or `run` stage.
 
 **On Build Stage:**
 

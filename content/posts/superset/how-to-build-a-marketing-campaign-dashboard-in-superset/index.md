@@ -33,7 +33,7 @@ Once you have your marketing data stored in a database, the next step is to conn
 
 ![Database connection settings in superset](images/Screenshot-2024-10-04-at-12.07.10-PM.jpg)* **Add a New Database**: Click **\+ Database** \> **Supported Databases** \> **Other** and provide the connection details for your database, such as the SQLAlchemy URI.
 
-![SQLAlchemy URI options in Superset](https://blog.octabyte.io/content/images/2024/10/image-6.png)* **Test the Connection**: Ensure that Superset can access the database and pull in the data. With your database connected, you can now move on to visualizing the data.
+![SQLAlchemy URI options in Superset](https://blog.elest.io/content/images/2024/10/image-6.png)* **Test the Connection**: Ensure that Superset can access the database and pull in the data. With your database connected, you can now move on to visualizing the data.
 
 ## **Creating Datasets in Superset**
 
@@ -41,10 +41,10 @@ To build your dashboard, you need to create datasets from your marketing data. D
 
 * **Navigate to the Datasets Section**: In Superset, go to **Datasets** and select **\+ Dataset**.
 
-![Adding dataset to your superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-04-at-12.13.31-PM.jpg)* **Select Your Table**: Choose the relevant table that contains your marketing campaign data (e.g., Google Ads performance data).
+![Adding dataset to your superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.13.31-PM.jpg)* **Select Your Table**: Choose the relevant table that contains your marketing campaign data (e.g., Google Ads performance data).
 * **Define Metrics**: Create specific metrics such as click\-through rates (CTR), conversion rates, and ROI, which you'll use in your visualizations.
 
-![Metrics criteria in superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-04-at-12.16.13-PM.jpg)## **Building Key Visualizations**
+![Metrics criteria in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.16.13-PM.jpg)## **Building Key Visualizations**
 
 Now that your data is ready, it’s time to create visualizations. Superset offers a variety of chart types that are perfect for marketing analytics.
 
@@ -58,9 +58,9 @@ After creating your visualizations, you can combine them into a single dashboard
 
 * **Navigate to Dashboards**: In the Superset interface, go to **Dashboards** and click **\+ Dashboard**.
 
-![Adding Dashboard in Superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-04-at-12.26.47-PM.jpg)* **Add Charts**: Drag and drop your charts (CTR, CPC, ROI, etc.) into the dashboard or **Create New Chart** according to your needs.
+![Adding Dashboard in Superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.26.47-PM.jpg)* **Add Charts**: Drag and drop your charts (CTR, CPC, ROI, etc.) into the dashboard or **Create New Chart** according to your needs.
 
-![Adding chart to your dashboard in superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-04-at-12.28.32-PM.jpg)* **Customize Layout**: Arrange the charts in a way that makes sense for your marketing team. You can customize the layout for better readability and understanding.
+![Adding chart to your dashboard in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.28.32-PM.jpg)* **Customize Layout**: Arrange the charts in a way that makes sense for your marketing team. You can customize the layout for better readability and understanding.
 
 ## **Tracking Key Metrics**
 
@@ -77,9 +77,9 @@ With frequent data refreshes, your dashboard can show the most up\-to\-date metr
 
 * To set up an alert system, head over to **Settings \> Alerts \& Reports** from the top right\-hand corner.
 
-![Alerts & Reports settings in superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-04-at-12.34.46-PM.jpg)* Next, click on **\+ Alert** and fill out the alert information like **Alert Name**, **Owners**, **Conditions**, **Contents,** etc click on **Add** once you are done.
+![Alerts & Reports settings in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.34.46-PM.jpg)* Next, click on **\+ Alert** and fill out the alert information like **Alert Name**, **Owners**, **Conditions**, **Contents,** etc click on **Add** once you are done.
 
-![Configuring Alerts in superset](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-04-at-12.37.23-PM.jpg)## **Thanks for reading ❤️**
+![Configuring Alerts in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-04-at-12.37.23-PM.jpg)## **Thanks for reading ❤️**
 
 By integrating data from various marketing platforms, creating meaningful visualizations, and tracking key metrics, you can better assess your campaigns' effectiveness and optimize for higher returns. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/superset?ref=blog.octabyte.io). See you in the next one👋
 

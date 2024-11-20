@@ -23,7 +23,7 @@ Once you log in with the credentials provided on the OctaByte dashboard, begin b
 
 Under the drop\-down under the **Connections** section, click on **Add new connection**. In the search bar, enter **Prometheus** and select it from the search results. This action opens the configuration page for the Prometheus data source.
 
-![Prometheus as data source](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-18-at-8.48.48-PM.jpg)## Configuring Basic Settings
+![Prometheus as data source](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-8.48.48-PM.jpg)## Configuring Basic Settings
 
 Once you are on the **Settings** tab of the Prometheus data source, you need to configure several basic settings to connect Grafana to your Prometheus server. Follow these steps:
 
@@ -32,9 +32,9 @@ Once you are on the **Settings** tab of the Prometheus data source, you need to 
 * Now, Enter the URL of your Prometheus server. If your Prometheus server is local, use `http://localhost:9090`. Since we have hosted our Prometheus server on OctaByte we will be using the hostname and other information provided on the dashboard. Eg: `https://prometheus-u2twa-u7774.vm.elestio.app:443`
 * Select the authentication type as **Basic authentication** and add the **User** and **Password** provided on the OctaByte dashboard under Prometheus service.
 
-![Connection configuration for prometheus in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-18-at-8.46.11-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the Prometheus server using the provided details. If the connection is successful, you will see a confirmation message.
+![Connection configuration for prometheus in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-8.46.11-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the Prometheus server using the provided details. If the connection is successful, you will see a confirmation message.
 
-![Successfull message in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-18-at-8.46.34-PM.jpg)## Utilizing the Prometheus Data Source
+![Successfull message in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-8.46.34-PM.jpg)## Utilizing the Prometheus Data Source
 
 With the Prometheus data source configured, you can now start creating dashboards and visualizations:
 

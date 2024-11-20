@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Twenty: Free Open Source CRM"
-date: "2024-03-21"
-description: "In the dynamic landscape of customer relationship management (CRM) software, finding a solution that seamlessly aligns with your business's unique needs while being affordable and flexible can be challenging.
-
-Discover Twenty, an open-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface,"
-tags: []
-categories: [CRM, ERP]
+date: "2024-11-20"
+description: "Twenty is an open-source CRM platform offering a modern, customizable, and affordable solution for managing customer relationships. It features advanced data modeling, intuitive views, task management, powerful search, and flexible APIs, making it ideal for businesses of all sizes."
+tags: [CRM, open-source, customizable, task management, API, data modeling, Kanban, advanced search, flexible, business management, free, software, customer relationships, OctaByte]
+categories: [Applications, CRM, ERP]
 cover:
   image: images/cover.png
   caption: "Twenty: Free Open Source CRM"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,7 +16,7 @@ TocOpen: true
 
 In the dynamic landscape of customer relationship management (CRM) software, finding a solution that seamlessly aligns with your business's unique needs while being affordable and flexible can be challenging. 
 
-Discover [Twenty](https://octabyte.io/open-source/twenty?ref=blog.octabyte.io), an open\-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface, customizable features, and robust functionality, Twenty offers an unparalleled CRM experience entirely free.
+Discover [Twenty](https://octabyte.io/applications/crm-erp/twenty), an open\-source CRM platform designed to revolutionize how businesses manage their customer relationships. With its modern interface, customizable features, and robust functionality, Twenty offers an unparalleled CRM experience entirely free.
 
 
 
@@ -65,7 +64,7 @@ With its customizable objects, intuitive views, comprehensive notes and task man
 
 Whether you're a startup or an established enterprise, Twenty provides the tools and features you need to succeed, making it a top choice for businesses seeking a free open\-source CRM solution.
 
-[Deploy your Twenty instance on OctaByte.](https://octabyte.io/open-source/twenty?ref=blog.octabyte.io)
+[Deploy your Twenty instance on OctaByte.](https://octabyte.io/applications/crm-erp/twenty)
 
 
 

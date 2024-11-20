@@ -39,11 +39,11 @@ To change token expiration times go to the **Realm Settings** in the Keycloak ad
 
 ![Token settings in keycloak](images/Screenshot-2024-09-26-at-11.44.40-AM.jpg)If you scroll down you will find a section to enable or disable your refresh tokens.
 
-![Refresh token settings in keycloak](https://blog.octabyte.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.28-AM.jpg)Upon scrolling furthermore, you will get a section to work with your access tokens. You can change the lifespan of the token, timeouts etc from here.
+![Refresh token settings in keycloak](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.28-AM.jpg)Upon scrolling furthermore, you will get a section to work with your access tokens. You can change the lifespan of the token, timeouts etc from here.
 
-![Access token setting in keycloak](https://blog.octabyte.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.36-AM.jpg)The next field you will encounter is action tokens. You can configure and set these values according to your personal needs. You can also choose Override action tokens from here.
+![Access token setting in keycloak](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.36-AM.jpg)The next field you will encounter is action tokens. You can configure and set these values according to your personal needs. You can also choose Override action tokens from here.
 
-![Action token section in keycloak](https://blog.octabyte.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.51-AM.jpg)You can configure custom token expiration settings for each client under **Clients \> \[client name] \> Settings**.
+![Action token section in keycloak](https://blog.elest.io/content/images/2024/09/Screenshot-2024-09-26-at-11.45.51-AM.jpg)You can configure custom token expiration settings for each client under **Clients \> \[client name] \> Settings**.
 
 ### Best Practices for Expiration
 

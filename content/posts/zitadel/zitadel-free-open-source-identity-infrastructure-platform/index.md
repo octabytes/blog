@@ -1,17 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Zitadel: Free Open-source Identity Infrastructure Platform"
-date: "2024-02-05"
-description: "Businesses need robust and flexible identity management solutions to ensure security while providing seamless user experiences.
-
-Zitadel is an open-source identity infrastructure platform that addresses these challenges. Built for the cloud, Zitadel offers advanced authentication and authorization capabilities, making it an excellent choice for developers and enterprises alike.
-
-This article"
-tags: []
-categories: [Identity and access management]
+date: "2024-11-20"
+description: "Zitadel is an open-source identity infrastructure platform designed for the cloud, offering secure authentication and authorization solutions like single sign-on (SSO), social logins, multifactor authentication (MFA), and role-based access control. It simplifies user management while providing enterprises with customizable security features."
+tags: [Zitadel, identity management, authentication, SSO, social logins, MFA, authorization, OAuth2, OpenID Connect, WebAuthn, RBAC, open-source, cloud security]
+categories: [Development, Identity and access management]
 cover:
   image: images/cover.png
   caption: "Zitadel: Free Open-source Identity Infrastructure Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -19,7 +16,7 @@ TocOpen: true
 
 Businesses need robust and flexible identity management solutions to ensure security while providing seamless user experiences. 
 
-[Zitadel](https://octabyte.io/open-source/zitadel?ref=blog.octabyte.io) is an open\-source identity infrastructure platform that addresses these challenges. Built for the cloud, Zitadel offers advanced authentication and authorization capabilities, making it an excellent choice for developers and enterprises alike. 
+[Zitadel](https://octabyte.io/development/identity-and-access-management/zitadel) is an open\-source identity infrastructure platform that addresses these challenges. Built for the cloud, Zitadel offers advanced authentication and authorization capabilities, making it an excellent choice for developers and enterprises alike. 
 
 This article will explore its features, focusing on authentication, modern methods like single sign\-on (SSO), social logins, multifactor authentication (MFA), and authorization.
 
@@ -61,7 +58,7 @@ Zitadel is a powerful open\-source platform that simplifies both authentication 
 
 Whether you're building a cloud\-native application or enhancing the security of existing services, Zitadel offers a scalable, customizable, and secure identity infrastructure platform to meet your needs.
 
-[Deploy your Zitadel instance with OctaByte](https://octabyte.io/open-source/zitadel?ref=blog.octabyte.io)
+[Deploy your Zitadel instance with OctaByte](https://octabyte.io/development/identity-and-access-management/zitadel)
 
 
 

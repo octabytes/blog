@@ -52,7 +52,7 @@ You can configure the Keycloak\-to\-RabbitMQ integration using one of the follow
 
 Set up the environment variables for your RabbitMQ configuration. This is the preferred and simplest method. You can get the details to feed into new environment variables from your service information. Here we have deployed RabbitMQ on OctaByte so we will be using the same details for configuring.
 
-![RabbitMQ service screen on OctaByte](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-26-at-5.46.30-PM-1.jpg)The following is the list of environment variables you can configure with their default values.
+![RabbitMQ service screen on OctaByte](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-26-at-5.46.30-PM-1.jpg)The following is the list of environment variables you can configure with their default values.
 
 * `KK_TO_RMQ_URL` \- default: *localhost*
 * `KK_TO_RMQ_PORT` \- default: *5672*
@@ -68,7 +68,7 @@ Set up the environment variables for your RabbitMQ configuration. This is the pr
 
 Head over to your VS Code window and click on `docker-compose.yaml` and make some changes to `environment` section with the above environment keys.
 
-![Environments in docker-compose file](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-26-at-5.45.24-PM.jpg)##### Restart Keycloak
+![Environments in docker-compose file](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-26-at-5.45.24-PM.jpg)##### Restart Keycloak
 
 After configuring the integration, restart your Keycloak server to apply the changes. To do so, access the terminal in the **VS Code** window and run the following commands to stop, re\-build and start the container.
 
@@ -101,7 +101,7 @@ Here’s how to enable logging in the Keycloak UI:
 	* Ensure that the listener is enabled.
 	* After making your selections, click the **Save** button to apply the changes.
 
-![Event Listeners in Keycloak](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-26-at-5.44.55-PM.jpg)By enabling logging and configuring the RabbitMQ event listener in the Keycloak UI, you ensure that your Keycloak instance can effectively publish events to RabbitMQ. This setup is vital for maintaining an efficient and responsive communication system between your identity management and message brokering services.
+![Event Listeners in Keycloak](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-26-at-5.44.55-PM.jpg)By enabling logging and configuring the RabbitMQ event listener in the Keycloak UI, you ensure that your Keycloak instance can effectively publish events to RabbitMQ. This setup is vital for maintaining an efficient and responsive communication system between your identity management and message brokering services.
 
 ## **Thanks for reading ❤️**
 

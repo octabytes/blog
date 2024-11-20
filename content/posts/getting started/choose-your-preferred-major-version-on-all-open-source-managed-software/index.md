@@ -21,8 +21,8 @@ This is why we have developed an automated update system on OctaByte.
   
 When creating a new service, choose your preferred version, and it will take care of updating your service automatically.
 
-![](https://blog.octabyte.io/content/images/2022/05/Screenshot-2022-05-26-at-10.09.59-3.png)When your service is deployed, we will automatically apply minors updated in the configured maintenance window.  
+![](https://blog.elest.io/content/images/2022/05/Screenshot-2022-05-26-at-10.09.59-3.png)When your service is deployed, we will automatically apply minors updated in the configured maintenance window.  
 You can also change the major version from your service overview.
 
-![](https://blog.octabyte.io/content/images/2022/05/Screenshot-2022-05-26-at-10.14.05-1.png)[Try OctaByte for free](https://dash.elest.io/signup?ref=blog.octabyte.io)
+![](https://blog.elest.io/content/images/2022/05/Screenshot-2022-05-26-at-10.14.05-1.png)[Try OctaByte for free](https://dash.elest.io/signup?ref=blog.octabyte.io)
 

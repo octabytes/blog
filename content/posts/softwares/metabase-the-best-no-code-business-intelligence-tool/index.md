@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Metabase, the best open-source and no-code Business Intelligence tool"
-date: "2024-09-13"
-description: "Metabase is one of the simplest and most powerful business intelligence tools I have tried in the last few years.
-
-It's the kind of tool you can't wait to start using barely 5 minutes after you start to see the demo! I tried it for the"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Metabase is a user-friendly, open-source business intelligence tool that simplifies data analysis with no-code dashboards, customizable visualizations, scheduled reports, and robust permissions. It's ideal for startups and enterprises seeking powerful, cost-effective analytics."
+tags: [Metabase, business intelligence, data analysis, open-source, dashboards, no-code, visualization, scheduled reports, permissions, analytics tools, PostgreSQL, MySQL, MongoDB, SQL Server, CSV export, startups.]
+categories: [Applications, Business intelligence]
 cover:
   image: images/cover.png
   caption: "Metabase, the best open-source and no-code Business Intelligence tool"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -38,7 +37,7 @@ Usually to do that I have to create a new API endpoint that will do authenticati
 
 There are a lot of Business Intelligence tools on the market, but from my experience they are either too limited or too complex or too expensive (e.g. Tableau, Looker).
 
-This time I wanted to try something open\-source and there are several very good options like [Redash](https://octabyte.io/open-source/redash?ref=blog.octabyte.io), [Superset](https://octabyte.io/open-source/superset?ref=blog.octabyte.io), [Lightdash](https://octabyte.io/open-source/lightdash?ref=blog.octabyte.io) or [Metabase](https://octabyte.io/open-source/metabase?ref=blog.octabyte.io).
+This time I wanted to try something open\-source and there are several very good options like [Redash](https://octabyte.io/open-source/redash?ref=blog.octabyte.io), [Superset](https://octabyte.io/applications/business-intelligence/superset), [Lightdash](https://octabyte.io/applications/business-intelligence/lightdash) or [Metabase](https://octabyte.io/applications/business-intelligence/metabase).
 
 ## Love at first sight
 
@@ -56,5 +55,5 @@ The whole team loved it, they are now autonomous for these kind of tasks.
 
 If you also want to explore your data with no\-code open\-source tools click on the button below to get a fully managed instance of Metabase ready to use in less than 3 minutes. 
 
-[Deploy Metabase](https://dash.elest.io/deploy?soft=Metabase&id=87&ref=blog.octabyte.io)
+[Deploy Metabase](https://octabyte.io/applications/business-intelligence/metabase)
 

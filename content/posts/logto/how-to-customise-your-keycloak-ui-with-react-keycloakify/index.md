@@ -37,7 +37,7 @@ We are using Keycloak version 17\+ hence we will be placing `.jar` file in the f
 /opt/keycloak/providers/keycloak-theme-for-kc-25-and-above.jar
 
 ```
-![Jar file at correct location](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-01-at-3.02.58-PM.jpg)### Restart Keycloak
+![Jar file at correct location](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-01-at-3.02.58-PM.jpg)### Restart Keycloak
 
 After configuring the integration, it is essential to restart your Keycloak server to apply the changes effectively. To do this, you will need to execute a series of commands to stop, rebuild, and start the Keycloak server container. First, stop the currently running Keycloak server to ensure that it is not in use while applying the new configuration. This sequence of stopping, rebuilding, and starting the container ensures that all the changes are correctly applied and that the Keycloak server runs with the updated configuration.
 
@@ -52,7 +52,7 @@ docker-compose up -d
 
 To implement a new theme in Keycloak using the `keycloakify-starter` theme, you need to navigate to the theme settings within the Keycloak administration console. Select the realm where you want to apply the new theme. In the left\-hand navigation menu, click **Realm Settings** and select the **Themes** tab. Here, you will find options to configure various themes for different aspects of the Keycloak user interface, such as login, account, email, and admin console. Under the **Login Theme** and **Account Theme** dropdown menus, select `keycloakify-starter` to apply the new theme. After making your selections, click **Save** at the bottom of the page to implement the `keycloakify-starter` The theme for the login and account pages provides a customized look and feel that aligns with your desired design and branding.
 
-![Selecting newly added theme in Keycloak service](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-01-at-3.09.49-PM.jpg)## **Thanks for reading ❤️**
+![Selecting newly added theme in Keycloak service](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-01-at-3.09.49-PM.jpg)## **Thanks for reading ❤️**
 
 You have integrated Keycloakify into your Keycloak setup, enabling you to customize the Keycloak UI with React. This allows you to create a seamless and branded user experience for your authentication and authorization flows. See you in the next one👋
 

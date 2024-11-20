@@ -1,6 +1,6 @@
 from PIL import Image
 
-post_name = "directus/importing-existing-projects-into-directus"
+post_name = "softwares/vaultwarden-migrate-to-vaultwarden"
 
 # Paths to images
 banner_path = "../static/images/octabyte-banner.png"

@@ -1,23 +1,20 @@
 ---
-draft: true
+draft: false
 title: "SonarQube: Free Open-source Code Security & Quality Gate Platform"
-date: "2024-11-08"
-description: "SonarQube has become a vital tool for developers and organizations prioritizing code quality and security in their software projects.
-
-As an open-source platform, it provides a comprehensive solution for tracking code vulnerabilities, enforcing code quality standards, and establishing a structured quality gate in the CI/CD pipeline.
-
-This article explores"
-tags: []
-categories: [devOps]
+date: "2024-11-20"
+description: "SonarQube is an open-source platform that helps developers track code vulnerabilities, enforce quality standards, and ensure secure, maintainable software. It integrates with CI/CD pipelines and supports multiple languages and frameworks for comprehensive code analysis."
+tags: [SonarQube, code quality, security, vulnerability detection, CI/CD, open-source, technical debt, code smells, integration, profiles, code maintainability, SonarScanner]
+categories: [Development, DevOps]
 cover:
   image: images/cover.png
   caption: "SonarQube: Free Open-source Code Security & Quality Gate Platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-[SonarQube](https://octabyte.io/open-source/sonarqube?ref=blog.octabyte.io) has become a vital tool for developers and organizations prioritizing code quality and security in their software projects. 
+[SonarQube](https://octabyte.io/development/dev-ops/sonarqube) has become a vital tool for developers and organizations prioritizing code quality and security in their software projects. 
 
 As an open\-source platform, it provides a comprehensive solution for tracking code vulnerabilities, enforcing code quality standards, and establishing a structured quality gate in the CI/CD pipeline. 
 
@@ -75,7 +72,7 @@ SonarQube provides an effective, open\-source solution for maintaining code qual
 
 Whether integrated into the CI/CD pipeline or used for periodic code assessments, SonarQube helps foster a culture of proactive quality assurance, enhancing project security and robustness.
 
-[Deploy your instance of SonarQube with OctaByte.](https://octabyte.io/open-source/sonarqube?ref=blog.octabyte.io)
+[Deploy your instance of SonarQube with OctaByte.](https://octabyte.io/development/dev-ops/sonarqube)
 
 
 

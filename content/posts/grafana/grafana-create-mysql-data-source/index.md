@@ -21,7 +21,7 @@ Once you log in with the credentials provided on the OctaByte dashboard. Begin b
 
 ![Connections section in grafana](images/Screenshot-2024-07-18-at-1.09.52-PM.jpg)Under the drop\-down under the **Connections** section, click on **Data Sources**. This section lists all the data sources currently configured in your Grafana instance. Search and click on the **MySQL** data source from the search results. This action opens the configuration page for the MySQL data source.
 
-![MySQL as data source in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-18-at-1.11.04-PM.jpg)## Configuring Basic Settings
+![MySQL as data source in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-1.11.04-PM.jpg)## Configuring Basic Settings
 
 Once you are on the Settings tab of the MySQL data source, you need to configure several basic settings to connect Grafana to your MySQL database. We have already deployed MySQL service on [OctaByte](https://octabyte.io/open-source/mysql?ref=blog.octabyte.io) and will be taking information from the dashboard to configure during the following steps:
 
@@ -33,9 +33,9 @@ Once you are on the Settings tab of the MySQL data source, you need to configure
 * **SSL Configuration**: If your MySQL server requires SSL for connections, configure the SSL settings appropriately. You can enable SSL and provide the necessary certificates and keys to secure the connection.
 * **Additional Connection Options**: Grafana allows you to specify additional options for the MySQL connection. You can add these options in the **Extra Connection Parameters** field. This is useful for setting timeouts, character sets, and other connection\-specific parameters.
 
-![Connection configuration in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-18-at-1.12.33-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the MySQL database using the provided details. If the connection is successful, you will see a confirmation message.
+![Connection configuration in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-1.12.33-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the MySQL database using the provided details. If the connection is successful, you will see a confirmation message.
 
-![Successful connection message in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-18-at-4.44.45-PM.jpg)## Utilizing the MySQL Data Source
+![Successful connection message in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-4.44.45-PM.jpg)## Utilizing the MySQL Data Source
 
 With the MySQL data source configured, you can now start creating dashboards and visualizations:
 

@@ -1,17 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Valkey: The Free Open-source Redis Alternative"
-date: "2024-08-19"
-description: "When it comes to data caching, session management, and real-time analytics, Redis has long been the go-to solution.
-
-However, recent changes to Redis’s licensing model and a growing interest in fully open-source alternatives have led many developers to seek out new options.
-
-This is where Valkey comes into play."
-tags: []
-categories: [NoSQL, Specialized Databases]
+date: "2024-11-20"
+description: "Valkey is a powerful, open-source alternative to Redis, offering high performance, Redis-compatibility, and an open-source ethos. It is ideal for use cases like caching, session management, real-time analytics, and message queuing, while maintaining compatibility with popular Redis tools."
+tags: [Valkey, Redis alternative, open-source, caching, session management, real-time analytics, message queuing, ioredis, Redis Insight, NoSQL]
+categories: [Databases, NoSQL, Specialized Databases]
 cover:
   image: images/cover.png
   caption: "Valkey: The Free Open-source Redis Alternative"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -21,7 +18,7 @@ When it comes to data caching, session management, and real\-time analytics, Red
 
 However, recent changes to Redis’s licensing model and a growing interest in fully open\-source alternatives have led many developers to seek out new options. 
 
-This is where [Valkey](https://octabyte.io/open-source/valkey?ref=blog.octabyte.io) comes into play. As a powerful, free, open\-source alternative to Redis, Valkey promises high performance and Redis\-compatibility, all while staying true to a truly open\-source ethos.
+This is where [Valkey](https://octabyte.io/databases/nosql/valkey) comes into play. As a powerful, free, open\-source alternative to Redis, Valkey promises high performance and Redis\-compatibility, all while staying true to a truly open\-source ethos.
 
 In this article, we'll explore Valkey’s features, its use cases, and why it might be the perfect choice for projects requiring a lightweight, reliable caching solution.
 
@@ -71,7 +68,7 @@ Valkey presents a promising alternative for developers looking to move away from
 
 Whether you need caching, session management, real\-time analytics, or message queuing, Valkey is a reliable option that bridges the gap between the functionality of Redis and the freedom of open\-source software.
 
-[Start using Valkey with OctaByte.](https://octabyte.io/open-source/valkey?ref=blog.octabyte.io)
+[Start using Valkey with OctaByte.](https://octabyte.io/databases/nosql/valkey)
 
 
 

@@ -83,7 +83,7 @@ https://<your_superset_instance>/saml/callback
 
 Next, update the `superset_config.py` file, which holds the configurations for Superset. Since you’re using Docker Compose, the `superset_config.py` file will be located in your mounted volume, if not you can create one by discovering it on **VS Code** under **Tools**.
 
-![Accessing VS Code in OctaByte](https://blog.octabyte.io/content/images/2024/10/Screenshot-2024-10-01-at-4.26.11-PM-1.jpg)Open the `superset_config.py` file and add the SAML\-related configurations:
+![Accessing VS Code in OctaByte](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-01-at-4.26.11-PM-1.jpg)Open the `superset_config.py` file and add the SAML\-related configurations:
 
 
 ```

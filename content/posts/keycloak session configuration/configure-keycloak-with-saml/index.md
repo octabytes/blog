@@ -64,7 +64,7 @@ To illustrate, consider the following settings:
 * Set "Access Token Lifespan For Implicit Flow" to 30 minutes or less.
 * Set "Refresh Token Max Reuse" to 0\.
 
-![Session Settings](images/Screenshot-2024-06-12-at-6.13.17-PM.jpg)![Token Settings](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-12-at-6.13.55-PM.jpg)### Best Practices for Session Management
+![Session Settings](images/Screenshot-2024-06-12-at-6.13.17-PM.jpg)![Token Settings](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-12-at-6.13.55-PM.jpg)### Best Practices for Session Management
 
 Effective session management in Keycloak relies on two core principles:
 

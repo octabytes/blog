@@ -27,11 +27,11 @@ In Baserow, a database is a structured collection of data organized into tables,
 
 ![Creating new database screen](images/Screenshot-2024-05-25-at-9.25.43-PM.jpg)For this tutorial, we are going to create a sample customer base. We have 3 main entities in the database **Name**, **Company**, **Subscribed**. We will use data from this database moving ahead with our web application. The data we are providing has **Name** in string format, **Company** in string format, and **Subscribed** in multiple\-choice format.
 
-![Database screen in Baserow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-25-at-9.28.06-PM.jpg)## Creating New Application
+![Database screen in Baserow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-25-at-9.28.06-PM.jpg)## Creating New Application
 
 Next, we are going to create a new application. To create a new application click on **Create New** \>  **Application.** Add a name to your application and click on **Add application**.
 
-![Creating new applicaiton in baserow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-25-at-10.50.06-PM.jpg)Once you are in the dashboard click on **Data** and add the data source **List rows**, **Local Baserow**
+![Creating new applicaiton in baserow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-25-at-10.50.06-PM.jpg)Once you are in the dashboard click on **Data** and add the data source **List rows**, **Local Baserow**
 
 **Database:** Customer
 
@@ -39,9 +39,9 @@ Next, we are going to create a new application. To create a new application clic
 
 **View:** Grid
 
-![Using data window in baserow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-25-at-10.53.34-PM-1.jpg)Now inside the application interface, click on "**\+**" and Select the **Button** component. You can choose different components based on the type of application you want to build, but for the simplicity of this application, we will create an application that shows a notification with data once the button is clicked.
+![Using data window in baserow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-25-at-10.53.34-PM-1.jpg)Now inside the application interface, click on "**\+**" and Select the **Button** component. You can choose different components based on the type of application you want to build, but for the simplicity of this application, we will create an application that shows a notification with data once the button is clicked.
 
-![Adding element window in Baserow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-25-at-10.56.23-PM.jpg)Once the button is added, head over to **Events** and choose 
+![Adding element window in Baserow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-25-at-10.56.23-PM.jpg)Once the button is added, head over to **Events** and choose 
 
 **On click**: Show Notification 
 
@@ -49,11 +49,11 @@ Next, we are going to create a new application. To create a new application clic
 
 **Description** **:** `Data source > Data source > 0 > Subscribed > [All] > value`
 
-![Setting up events section in Baserow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-25-at-10.56.32-PM.jpg)## Testing Application
+![Setting up events section in Baserow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-25-at-10.56.32-PM.jpg)## Testing Application
 
 Head over to the preview section or publish it if you wish. To test the working of the application, click on the button and a pop\-up notification with the first **Name** in the database with the **Subscribed** status.
 
-![Testing screen in baserow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-25-at-11.00.09-PM.jpg)And done! You have successfully created a simple customer support dashboard using Baserow's database and application features. You can create more complex, interactive and visually appealing dashboards using different components provided by Baserow
+![Testing screen in baserow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-25-at-11.00.09-PM.jpg)And done! You have successfully created a simple customer support dashboard using Baserow's database and application features. You can create more complex, interactive and visually appealing dashboards using different components provided by Baserow
 
 ## **Thanks for reading ❤️**
 

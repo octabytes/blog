@@ -36,7 +36,7 @@ In a Keycloak cluster, multiple independent nodes work together using a distribu
 
 This Terraform module focuses primarily on deploying Keycloak nodes. It is designed to be used in conjunction with other essential services, such as a load balancer and a database, to create a fully functional Keycloak cluster. While OctaByte offers these services as part of their platform, the module is flexible enough to integrate with other compatible services you might already be using. This flexibility allows you to tailor the deployment to meet specific requirements and infrastructure setups. By using this module, you can automate the deployment process, ensuring that each Keycloak node is configured correctly and consistently.
 
-![Terraform architecture](https://blog.octabyte.io/content/images/2024/06/terraform_architecture.png)#### About OctaByte
+![Terraform architecture](https://blog.elest.io/content/images/2024/06/terraform_architecture.png)#### About OctaByte
 
 OctaByte is a comprehensive DevOps platform that simplifies the deployment and management of various services. Their fully managed approach means that you don't have to spend extensive time configuring and maintaining your infrastructure. OctaByte handles crucial aspects like security, DNS management, SMTP configuration, SSL setup, monitoring and alerts, backups, and updates. This allows developers to focus on building and deploying their applications rather than dealing with operational overhead. An OctaByte account is required to use the Terraform module, and the platform offers various services that can be seamlessly integrated into your deployment.
 

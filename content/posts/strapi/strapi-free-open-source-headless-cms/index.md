@@ -1,15 +1,14 @@
 ---
-draft: true
+draft: false
 title: "Strapi: Free Open Source Headless CMS"
-date: "2024-09-24"
-description: "Developing a backend for content management has traditionally been a time-consuming and tedious task. From crafting CRUD operations to setting up complex role and permission systems, the process can quickly become overwhelming...
-
-But, brace yourself for a transformative solution that simplifies this entire ordeal - Strapi, the free and open-source"
-tags: []
-categories: [CMS]
+date: "2024-11-20"
+description: "Strapi is an open-source headless CMS that simplifies backend development, offering powerful tools like customizable content structures, REST and GraphQL APIs, plugins, and integrations. It empowers developers to create personalized applications with ease, focusing on delivering exceptional user experiences."
+tags: [Strapi, headless CMS, backend development, API, GraphQL, REST, plugins, integrations, open-source, content management]
+categories: [Applications, CMS]
 cover:
   image: images/cover.png
   caption: "Strapi: Free Open Source Headless CMS"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
@@ -17,9 +16,9 @@ TocOpen: true
 
 Developing a backend for content management has traditionally been a time\-consuming and tedious task. From crafting CRUD operations to setting up complex role and permission systems, the process can quickly become overwhelming...
 
-But, brace yourself for a transformative solution that simplifies this entire ordeal \- [Strapi](https://octabyte.io/open-source/strapi?ref=blog.octabyte.io), the free and open\-source **headless CMS** that unleashes the power of personalized content structures and streamlines admin content edition like a breeze. 
+But, brace yourself for a transformative solution that simplifies this entire ordeal \- [Strapi](https://octabyte.io/applications/cms/strapi), the free and open\-source **headless CMS** that unleashes the power of personalized content structures and streamlines admin content edition like a breeze. 
 
-Let's dive into how [Strapi](https://octabyte.io/open-source/strapi?ref=blog.octabyte.io) revolutionizes backend development, empowering developers and content creators to focus on what truly matters \- delivering exceptional user experiences.
+Let's dive into how [Strapi](https://octabyte.io/applications/cms/strapi) revolutionizes backend development, empowering developers and content creators to focus on what truly matters \- delivering exceptional user experiences.
 
 
 
@@ -43,7 +42,7 @@ On the other hand, the GraphQL API offers a powerful, queryable interface, allow
 
 ## Plugins and Integrations
 
-[Strapi](https://octabyte.io/open-source/strapi?ref=blog.octabyte.io)'s extensibility is one of its standout features. Developers can easily enhance their CMS experience by integrating plugins to add new functionalities or connect with other services. Whether it's customizing authentication, integrating with analytics platforms, or optimizing SEO features, Strapi's plugin ecosystem offers a wealth of options to cater to every project's requirements.
+[Strapi](https://octabyte.io/applications/cms/strapi)'s extensibility is one of its standout features. Developers can easily enhance their CMS experience by integrating plugins to add new functionalities or connect with other services. Whether it's customizing authentication, integrating with analytics platforms, or optimizing SEO features, Strapi's plugin ecosystem offers a wealth of options to cater to every project's requirements.
 
 ## Open Source
 
@@ -53,7 +52,7 @@ As a free and open\-source CMS, Strapi has a thriving community that actively co
 
 Strapi empowers teams to build backends in days instead of weeks. Leverage the power of Headless CMS and have a ready to use solution for your next applications.
 
-[Try Strapi now on OctaByte](https://octabyte.io/open-source/strapi?ref=blog.octabyte.io)
+[Try Strapi now on OctaByte](https://octabyte.io/applications/cms/strapi)
 
 
 

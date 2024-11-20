@@ -1,21 +1,20 @@
 ---
-draft: true
+draft: false
 title: "Build a graphQL API with Hasura low-code platform"
-date: "2024-06-11"
-description: "In the fast-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter Hasura, the low-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed.
-
-In this article, we will explore the power of"
-tags: []
-categories: [Other]
+date: "2024-11-20"
+description: "Explore Hasura, the low-code platform that streamlines API creation with powerful features like GraphQL and REST API building, role-based permissions, real-time events, and database integration. Boost development speed and security for modern applications."
+tags: [Hasura, low-code, API, GraphQL, REST, database, development, permissions, scalability, security, performance, backend, innovation, modern apps]
+categories: [Development, No code, Low code]
 cover:
   image: images/cover.png
   caption: "Build a graphQL API with Hasura low-code platform"
+  relative: true
 ShowToc: true
 TocOpen: true
 ---
 
 
-In the fast\-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter [Hasura](https://octabyte.io/open-source/hasura?ref=blog.octabyte.io), the low\-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed. 
+In the fast\-paced world of software development, the ability to quickly build and deploy APIs is crucial. Enter [Hasura](https://octabyte.io/development/nocode-lowcode/hasura), the low\-code platform that revolutionizes the way we create APIs, allowing us to build a GraphQL API with unprecedented ease and speed. 
 
 In this article, we will explore the power of Hasura and dive into its key features, showing you how it empowers your development team.
 
@@ -83,7 +82,7 @@ Hasura is a high\-value option to consider when it comes to API development. By 
 
 Whether you're building a new application or modernizing an existing one, Hasura can increase your development time and the overall quality of your backend.
 
-[Try Hasura self\-hosted version on OctaByte](https://octabyte.io/open-source/hasura?ref=blog.octabyte.io)
+[Try Hasura self\-hosted version on OctaByte](https://octabyte.io/development/nocode-lowcode/hasura)
 
 
 

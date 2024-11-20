@@ -28,25 +28,25 @@ Now log into your **OctaByte Dashboard** and head over to **Tools** from the nav
 
 ![Accessing the terminal from the OctaByte dashboard](images/Screenshot-2024-05-28-at-5.35.07-PM.jpg)Once you click it, you will be presented with credentials to access your terminal. Paste the **Access link** in the browser tab and use the **User** and **Password** to log in.
 
-![Credential screen for terminal access](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-28-at-5.35.33-PM.jpg)## Installing Community Node
+![Credential screen for terminal access](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-28-at-5.35.33-PM.jpg)## Installing Community Node
 
 These nodes extend the functionality of n8n by adding integrations and features that are not available in the core set of nodes provided by the platform. Community Nodes can be shared and reused by other n8n users, fostering a collaborative environment where users can benefit from the contributions of others. Community Nodes are precious because they allow users to connect with a wider variety of applications and services, often covering niche or less common use cases that might not be addressed by the standard nodes.
 
 Following steps will be performed in VSCode. To access it, head over to your service deployed on **OctaByte Dashboard.** Now head over to the **Tools** section in the navbar and click on **VS Code** and use the credentials provided to log in into VS Code.
 
-![](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-25-at-5.07.03-PM.jpg)### Step 1: Add an Environment Variable
+![](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-25-at-5.07.03-PM.jpg)### Step 1: Add an Environment Variable
 
 First, add an environment variable to allow the installation of additional libraries in n8n. You can do this in the `.env` file using Visual Studio Code (VSCode) or directly from the **OctaByte Dashboard** via the **Update config** button. Add the following line to your `.env` file:
 
 `NODE_FUNCTION_ALLOW_EXTERNAL=*`
 
-![Adding to the environments](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-25-at-5.10.27-PM.jpg)This setting permits the installation of external libraries, facilitating the addition of community nodes.
+![Adding to the environments](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-25-at-5.10.27-PM.jpg)This setting permits the installation of external libraries, facilitating the addition of community nodes.
 
 ### Step 2: Create a Dockerfile
 
 Next, create a Dockerfile in the `/opt/app/` directory, alongside the `docker-compose.yml` file. 
 
-![Dockerfile location](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-25-at-5.13.24-PM-1.jpg)The Dockerfile should include instructions to install the necessary packages. 
+![Dockerfile location](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-25-at-5.13.24-PM-1.jpg)The Dockerfile should include instructions to install the necessary packages. 
 
 
 ```

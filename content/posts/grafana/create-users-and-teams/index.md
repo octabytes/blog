@@ -33,11 +33,11 @@ Grafana also allows for anonymous access, making dashboards available to those w
 
 ![Administartion screen in grafana](images/Screenshot-2024-07-15-at-7.48.23-PM-1.jpg)* After this click on **Users and Access** and this will take you to the dashboard to configure and access different users, teams and service accounts.
 
-![Administration screen in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-7.35.05-PM.jpg)* Choose **Users** from the menu, then click **New User**. This will open a form for adding a new user.
+![Administration screen in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.35.05-PM.jpg)* Choose **Users** from the menu, then click **New User**. This will open a form for adding a new user.
 
-![Creating new user in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-7.36.04-PM.jpg)* Enter the **Name, Email, Username, and Password** for each user from the table above. Fill in the details for each new user as provided in the table.
+![Creating new user in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.36.04-PM.jpg)* Enter the **Name, Email, Username, and Password** for each user from the table above. Fill in the details for each new user as provided in the table.
 
-![New user form in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.01-PM.jpg)* Click **Create User** to create the account and this will add the new user to Grafana.
+![New user form in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.01-PM.jpg)* Click **Create User** to create the account and this will add the new user to Grafana.
 
 By default, new users are granted the viewer role, which means they can't change resources. We will adjust their permissions by adding them to teams.
 
@@ -45,11 +45,11 @@ By default, new users are granted the viewer role, which means they can't change
 
 * In the sidebar, hover over **Administration \> Users and Access \> Teams.** This will take you to the Teams management page.
 
-![Creating Team in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.32-PM.jpg)* Click **New Team** and this will open a form to create a new team.
+![Creating Team in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.32-PM.jpg)* Click **New Team** and this will open a form to create a new team.
 
-![New team button in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.55-PM.jpg)* Enter the team's name and click **Create.** Name your team appropriately based on the department and provide an optional email to allow custom team avatars.
+![New team button in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.55-PM.jpg)* Enter the team's name and click **Create.** Name your team appropriately based on the department and provide an optional email to allow custom team avatars.
 
-![New team form in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-7.38.30-PM.jpg)* Click **Teams** at the top of the page to return and create the second team. Repeat the process to create the second team.
+![New team form in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.38.30-PM.jpg)* Click **Teams** at the top of the page to return and create the second team. Repeat the process to create the second team.
 
 ## Adding Users to Teams:
 
@@ -59,7 +59,7 @@ By default, new users are granted the viewer role, which means they can't change
 * Now select the role you want to assign to the user being added to the team.
 * Click **Save** and this will add the user to the team.
 
-![Assigning member to the teams with roles in grafana](https://blog.octabyte.io/content/images/2024/07/Screenshot-2024-07-15-at-9.39.14-PM.jpg)Repeat these steps for each user to assign them to their respective teams. By the end, you will have two teams with two users each. This setup allows for efficient permissions management and ensures that users can access the resources they need.
+![Assigning member to the teams with roles in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-9.39.14-PM.jpg)Repeat these steps for each user to assign them to their respective teams. By the end, you will have two teams with two users each. This setup allows for efficient permissions management and ensures that users can access the resources they need.
 
 ## **Thanks for reading ❤️**
 

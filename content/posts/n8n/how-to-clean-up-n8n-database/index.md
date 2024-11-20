@@ -32,15 +32,15 @@ Enabling the `EXECUTIONS_DATA_PRUNE` setting in N8N is a way to manage database 
 
 One of the ways to clean the database in N8N is to set a Variable `EXECUTIONS_DATA_PRUNE` as mentioned above. Now that you know about the variables and have decided on what you want to use we will set the variables in this section. Head over to your N8N service deployed on OctaByte and click on **Update config** under the **Software** section in the **Overview** window. 
 
-![Update config option in elestio dashboard](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-05-at-4.28.54-PM.jpg)Now you will be able to see all the variables configured under **Docker Compose**. Change or add the required variables and click on **Update \& Restart** to implement these variables into the service. You can monitor and keep track of all the used variables here.
+![Update config option in elestio dashboard](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-05-at-4.28.54-PM.jpg)Now you will be able to see all the variables configured under **Docker Compose**. Change or add the required variables and click on **Update \& Restart** to implement these variables into the service. You can monitor and keep track of all the used variables here.
 
-![Setting the environment variables in docker compnse](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-05-at-4.29.38-PM.jpg)For more information on different ways of setting this variable, head over to the official N8N documentation by clicking below.
+![Setting the environment variables in docker compnse](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-05-at-4.29.38-PM.jpg)For more information on different ways of setting this variable, head over to the official N8N documentation by clicking below.
 
 [Configuration methods \| n8n DocsHow to set environment variables for n8n.![](https://docs.n8n.io/_images/favicon.ico)logo![](https://docs.n8n.io/_images/n8n-docs-icon.svg)](https://docs.n8n.io/hosting/configuration/configuration-methods/?ref=blog.octabyte.io)## Creating a workflow for pruning
 
 Another method can be creating a workflow for pruning and cleaning the unnecessary logs from the database. To do so, head over to the workflow section in N8N and create a workflow like below. Under the **MySQL** component configure the database information and set up the **Cron** component with the schedule information. 
 
-![N8N database cleaning workflow](https://blog.octabyte.io/content/images/2024/06/Screenshot-2024-06-05-at-3.26.30-PM.jpg)And done! You have successfully cleaned the database in N8N. Just note that it's always preferred to clean up the data periodically and if the log data is required frequently then you can choose to make backups as required.
+![N8N database cleaning workflow](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-05-at-3.26.30-PM.jpg)And done! You have successfully cleaned the database in N8N. Just note that it's always preferred to clean up the data periodically and if the log data is required frequently then you can choose to make backups as required.
 
 ## **Thanks for reading ❤️**
 

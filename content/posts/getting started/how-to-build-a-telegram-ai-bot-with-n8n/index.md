@@ -23,27 +23,27 @@ N8N is an open\-source workflow automation tool that allows you to automate task
 
 Once you log in to N8N you will land on the canvas page of N8N. To check out different templates and use one, head over to the templates section from the left sidebar. 
 
-![N8N template section](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-27-at-11.39.21-PM.jpg)Then search for the "Telegram AI bot with LangChain nodes" template or simply click [here](https://arc.net/l/quote/edawurcd?ref=blog.octabyte.io). Next, click on **Use Workflow**pop\-up.
+![N8N template section](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-27-at-11.39.21-PM.jpg)Then search for the "Telegram AI bot with LangChain nodes" template or simply click [here](https://arc.net/l/quote/edawurcd?ref=blog.octabyte.io). Next, click on **Use Workflow**pop\-up.
 
-![Template selection screen](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-27-at-11.43.08-PM.jpg)Select the N8N instance you want to use this template for. If you have multiple N8N instances running then you can choose the appropriate one.
+![Template selection screen](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-27-at-11.43.08-PM.jpg)Select the N8N instance you want to use this template for. If you have multiple N8N instances running then you can choose the appropriate one.
 
 ## Configuring Telegram Credentials
 
 Now as you move ahead in the process you will be prompted with apop\-up to configure Telegram credentials. Click on **Create New** your  **Telegram credential** 
 
-![Setting up Telegram credential](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-27-at-11.44.51-PM.jpg)Now first let's create the token required for Telegram integration. Head over to your telegram account search for **BotFather** account and put in a command `/newbot` this will ask you to give your name for your application. Once you provide the name you will be provided with the token to access the HTTP API as shown in the image below. If you want additional configuration or information, head over to the [Telegram N8N docs](https://docs.n8n.io/integrations/builtin/credentials/telegram/?ref=blog.octabyte.io).
+![Setting up Telegram credential](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-27-at-11.44.51-PM.jpg)Now first let's create the token required for Telegram integration. Head over to your telegram account search for **BotFather** account and put in a command `/newbot` this will ask you to give your name for your application. Once you provide the name you will be provided with the token to access the HTTP API as shown in the image below. If you want additional configuration or information, head over to the [Telegram N8N docs](https://docs.n8n.io/integrations/builtin/credentials/telegram/?ref=blog.octabyte.io).
 
-![Telegram BotFather window](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-28-at-12.04.39-AM-1.jpg)Copy the access token from the bot and paste it into the configuration section provided.
+![Telegram BotFather window](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-28-at-12.04.39-AM-1.jpg)Copy the access token from the bot and paste it into the configuration section provided.
 
-![Access token of telegram](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-27-at-11.54.59-PM-1.jpg)## Configuring OpenAI Chat Model Credentials
+![Access token of telegram](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-27-at-11.54.59-PM-1.jpg)## Configuring OpenAI Chat Model Credentials
 
 Next, we will configure the OpenAI Chat Model. Click on **Create new OpenAI Chat Model credential** 
 
-![OpenAI chat model credentials window](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-27-at-11.45.26-PM-1.jpg)For this head over to the [OpenAi API Keys](https://platform.openai.com/api-keys?ref=blog.octabyte.io) dashboard and create a new API key for this application. Once created, add the key to the **API Key** section, add the optional organization ID and head to the next step.
+![OpenAI chat model credentials window](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-27-at-11.45.26-PM-1.jpg)For this head over to the [OpenAi API Keys](https://platform.openai.com/api-keys?ref=blog.octabyte.io) dashboard and create a new API key for this application. Once created, add the key to the **API Key** section, add the optional organization ID and head to the next step.
 
-![Setup OpenAI API key ](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-27-at-11.55.11-PM.jpg)Here is the map that will work as a workflow. To test out this workflow, you can click on **Test Workflow**. This workflow listens for incoming events from telegram, his request is forwarded to AI agent (OpenAI) and after processing the output image is sent back to telegram.
+![Setup OpenAI API key ](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-27-at-11.55.11-PM.jpg)Here is the map that will work as a workflow. To test out this workflow, you can click on **Test Workflow**. This workflow listens for incoming events from telegram, his request is forwarded to AI agent (OpenAI) and after processing the output image is sent back to telegram.
 
-![Testing the workflow](https://blog.octabyte.io/content/images/2024/05/Screenshot-2024-05-28-at-12.02.01-AM.jpg)The following webhook command can be found from the starting components and can be used to trigger the webhooks and provide the prompts required by the application to create images using OpenAI. You will find similar
+![Testing the workflow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-28-at-12.02.01-AM.jpg)The following webhook command can be found from the starting components and can be used to trigger the webhooks and provide the prompts required by the application to create images using OpenAI. You will find similar
 
 
 ```

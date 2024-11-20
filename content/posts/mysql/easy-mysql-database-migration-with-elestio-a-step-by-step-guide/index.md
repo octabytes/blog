@@ -23,7 +23,7 @@ To begin with, navigate to the overview of your OctaByte MySQL service.
 
 ![](images/1.png)Click the Migrate Database button. A modal window will appear, which you must confirm has your target service with enough disk space to be able to allow your database to migrate. When so, click Get Started.
 
-![](https://blog.octabyte.io/content/images/2024/07/2.png)### Step 2: Validate Your Connection
+![](https://blog.elest.io/content/images/2024/07/2.png)### Step 2: Validate Your Connection
 
 Next, you will be required to give the connection details for establishing a connection to your source database. Fill in the following fields:
 
@@ -34,13 +34,13 @@ Next, you will be required to give the connection details for establishing a con
 
 After entering those settings details, click Run Check to validate the connection.
 
-![](https://blog.octabyte.io/content/images/2024/07/3-1.png)### Step 3: Kick Off Your Migration
+![](https://blog.elest.io/content/images/2024/07/3-1.png)### Step 3: Kick Off Your Migration
 
 If the Connection Checks have completed with no errors, you may proceed by clicking on Start Migration.
 
 You can see the progress in real\-time with the migration logs right on the platform. This way, you have updates all the time and can timely address problems that may arise during this process of migration.
 
-![](https://blog.octabyte.io/content/images/2024/07/4.png)### Ready to Migrate?
+![](https://blog.elest.io/content/images/2024/07/4.png)### Ready to Migrate?
 
   
 With the new DB Migration Service (DBMS) by OctaByte, the migration of your databases is easier. We provide a step\-by\-step method to help perform a safe, effective, and low\-impact migration. Be it an on\-premise setup or any other cloud provider; OctaByte will be alongside you in all steps of this journey. Try our database migration tool today; experience the ease of a seamless database migration.
