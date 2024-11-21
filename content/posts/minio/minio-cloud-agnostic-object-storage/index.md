@@ -40,7 +40,7 @@ MinIO is a lifesaver if you are in one of those situations:
 * You need a Web UI to manage your buckets / Users / Policies / Replication without calling an API (but you can also do it with the API)
 * You need an off\-site backup for disaster recovery needs
 
-![](https://blog.elest.io/content/images/2022/06/image-2.png)
+![](images/image-2.png)
 
 Browse a Bucket with MinIO Web UI
 
@@ -53,7 +53,7 @@ Browse a Bucket with MinIO Web UI
 * Do upgrades frequently (every week)
 * Do OS upgrades frequently (every week)
 
-![](https://blog.elest.io/content/images/2022/06/image-7.png)If you want automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of MinIO stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, and functional.
+![](images/image-7.png)If you want automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of MinIO stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, and functional.
 
 Click on the button below to get a [fully managed instance of MinIO](https://octabyte.io/hosting-and-infrastructure/storage/minio) ready to use in less than 3 minutes. 
 

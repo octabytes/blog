@@ -43,7 +43,7 @@ Immudb can store its data in an AWS S3 bucket or a compatible alternative. Here 
 
 SDKs are available for Java, Go, .NET, Python and Node.js. A REST API is available for all other languages. A web UI (Port 8080\) is available, it provides some metrics and allows to browse the db and execute queries. When using Prometheus to monitor applications you can leverage the built\-in metrics export running on port 9497 on /metrics.
 
-![](https://lh5.googleusercontent.com/trqsvyC1fyj-foiyXTUjR1ZyFFTYT8hZKQIrwmpv1dgzOQpJZDPvKeg0kXUfFEw1WZ4gbNZ62usrLmq3dh6Jq6KWFEaEZldgkdsWVNChnemE7Fjkk_2CNEt64Hgb9MHoVTtwVYRfc_vCiMph-w)  
+![](images/trqsvyC1fyj-foiyXTUjR1ZyFFTYT8hZKQIrwmpv1dgzOQpJZDPvKeg0kXUfFEw1WZ4gbNZ62usrLmq3dh6Jq6KWFEaEZldgkdsWVNChnemE7Fjkk_2CNEt64Hgb9MHoVTtwVYRfc_vCiMph-w)  
 **Get a running instance of immudb in few minutes**  
 OctaByte makes it easy to deploy a dedicated instance of immudb on any cloud, we take care of providing the cloud resources (except if you prefer to [BYOVM](https://docs.elest.io/books/cloud-providers/page/byovm-bring-your-own-vm?ref=blog.octabyte.io) or deploy on\-premise) and doing all the devOps part including security, reverse proxy with SSL configuration, monitoring/alerts, backups, updates and migrations.   
   
@@ -54,7 +54,7 @@ OctaByte makes it easy to deploy a dedicated instance of immudb on any cloud, we
 **Step 1: deploy a dedicated immudb instance**  
 click here: [https://octabyte.io/databases/specialized-databases/immudb](https://octabyte.io/databases/specialized-databases/immudb)
 
-![OctaByte dashboard > Services > New](https://lh3.googleusercontent.com/623C2wihgsCCfKctGqYum9wvoIIKnBmXyLQNv3gmMhvOlmGn4FbBtx62XCTIt7APxypIzDUoCMGSsBGvIM-i8kVoIuRDskz0zEmXWU3HaPDffV_RZpgZURIcaK1wJHnzjrGw_AnSHLXqo8I6Dw)
+![OctaByte dashboard > Services > New](images/623C2wihgsCCfKctGqYum9wvoIIKnBmXyLQNv3gmMhvOlmGn4FbBtx62XCTIt7APxypIzDUoCMGSsBGvIM-i8kVoIuRDskz0zEmXWU3HaPDffV_RZpgZURIcaK1wJHnzjrGw_AnSHLXqo8I6Dw)
 
 OctaByte dashboard \> Services \> New
 
@@ -66,7 +66,7 @@ Then choose the instance size from 1 CPU/1GB RAM up to 32 CPU/128GB RAM
 Finally click on the “Create service” button. Few minutes later your immudb instance will be ready to use. You will receive by email a quickstart with few samples.  
 
 
-![OctaByte dashboard > Services > Overview of immudb instance](https://lh4.googleusercontent.com/TWvZzWuypSpiLNNQN-yBxsfG2J9y0ZZPpbeaKgamXkagVez02dskW6Jmu2Fg2MK8vwTEfLQopbEjS6fb5YwQ-kRLUhfshgl7lDT3fkFsu4uVRmjM6e5YonOYjA7RC-eK4iFho85AV2jSKy5SKw)
+![OctaByte dashboard > Services > Overview of immudb instance](images/TWvZzWuypSpiLNNQN-yBxsfG2J9y0ZZPpbeaKgamXkagVez02dskW6Jmu2Fg2MK8vwTEfLQopbEjS6fb5YwQ-kRLUhfshgl7lDT3fkFsu4uVRmjM6e5YonOYjA7RC-eK4iFho85AV2jSKy5SKw)
 
 OctaByte dashboard \> Services \> Overview of immudb instance
 
@@ -80,7 +80,7 @@ The MinIO instance should be deployed in the same dc to reduce latency. You shou
 Once deployed, click on the “Admin UI” button to get the endpoint and credentials for your MinIO instance:   
 
 
-![OctaByte dashboard > Services > Overview of MinIO instance](https://lh6.googleusercontent.com/IWPkBRUVZkf9ap609yLGD9K5vtEU-YkYG7_R_8ScTS79tlPESGAOumwCvLWoxDwUu0XUd1LoZqEXGVUYmeuNLlZ0fiRL6LBLAYnxbLls0LTRBpCCYQkM0XEmFwDbhcGjMBPQSdzsXYPpAN-V7g)
+![OctaByte dashboard > Services > Overview of MinIO instance](images/IWPkBRUVZkf9ap609yLGD9K5vtEU-YkYG7_R_8ScTS79tlPESGAOumwCvLWoxDwUu0XUd1LoZqEXGVUYmeuNLlZ0fiRL6LBLAYnxbLls0LTRBpCCYQkM0XEmFwDbhcGjMBPQSdzsXYPpAN-V7g)
 
 OctaByte dashboard \> Services \> Overview of MinIO instance
 
@@ -89,7 +89,7 @@ OctaByte dashboard \> Services \> Overview of MinIO instance
 
 Log into MinIO with the credentials then create a new S3 bucket for immudb (my\-immudb)
 
-![MinIO web UI > Create Bucket](https://lh5.googleusercontent.com/SiZxT3h5BPBCFEZvCUh-mXpM1vfQ8XscIMp8g0lhzbYcQ0LecUOV71c2ouul91NL4lcIzkzNfIuuhVzFnjEdKYiHlC2EoiU-qSg9u9lGRZbj6DaXfttZnQ5iBXvKcDul6hLsX_b2AHXVFiOvvw)
+![MinIO web UI > Create Bucket](images/SiZxT3h5BPBCFEZvCUh-mXpM1vfQ8XscIMp8g0lhzbYcQ0LecUOV71c2ouul91NL4lcIzkzNfIuuhVzFnjEdKYiHlC2EoiU-qSg9u9lGRZbj6DaXfttZnQ5iBXvKcDul6hLsX_b2AHXVFiOvvw)
 
 MinIO web UI \> Create Bucket
 
@@ -118,7 +118,7 @@ Finally click on the Update \& Restart button, few seconds after your immudb ins
 **Step 4: Check the console output (Server Logs)**  
 After the restart immudb automatically starts storing the databases on the configured S3 bucket. You can see the configuration in the console output (Server Logs) and that the S3 storage endpoint is used. 
 
-![](https://lh3.googleusercontent.com/dZw75EL0A1czF8QLmir4lq3tP1ITsQYixvQcor23Fs1fuqNg8VtBsKj-9QoH4Pc1vdXrHXT_yc_UkaizEk6V90YO3t5N6aEHfDPnfXNQ3_LD9g5mXnQq2mv4xdmpwQSLyDhoiMPPSWPRWwsy_A)  
+![](images/dZw75EL0A1czF8QLmir4lq3tP1ITsQYixvQcor23Fs1fuqNg8VtBsKj-9QoH4Pc1vdXrHXT_yc_UkaizEk6V90YO3t5N6aEHfDPnfXNQ3_LD9g5mXnQq2mv4xdmpwQSLyDhoiMPPSWPRWwsy_A)  
 The Prometheus metrics exporter comes in handy to track the current state of the S3 sync, you can test it with this curl command:
 
 

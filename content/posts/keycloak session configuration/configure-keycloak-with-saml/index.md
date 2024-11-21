@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-Let's see how to configure sessions on OctaByte using [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/development/identity-and-access-management/keycloak) and deploy and login into the Keycloak service to get started.
+Let's see how to configure sessions on OctaByte using [Keycloak](images/keycloak). We will be using a self\-hosted Keycloak instance deployed on OctaByte. So, to get started head over to [OctaByte Dashboard](images/keycloak) and deploy and login into the Keycloak service to get started.
 
 In this tutorial, we explore the technicalities of Keycloak session and token configuration, emphasizing the importance of session timeouts and optimal settings for effective session management. By understanding and applying the recommended best practices, administrators can create a secure and efficient authentication environment within Keycloak.
 
@@ -63,7 +63,7 @@ To illustrate, consider the following settings:
 * Set "Access Token Lifespan For Implicit Flow" to 30 minutes or less.
 * Set "Refresh Token Max Reuse" to 0\.
 
-![Session Settings](images/Screenshot-2024-06-12-at-6.13.17-PM.jpg)![Token Settings](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-12-at-6.13.55-PM.jpg)### Best Practices for Session Management
+![Session Settings](images/Screenshot-2024-06-12-at-6.13.17-PM.jpg)![Token Settings](images/Screenshot-2024-06-12-at-6.13.55-PM.jpg)### Best Practices for Session Management
 
 Effective session management in Keycloak relies on two core principles:
 
@@ -74,7 +74,7 @@ By following these guidelines and configuring session durations appropriately, a
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](images/keycloak). See you in the next one👋
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
+[![](/images/octabyte-deploy.png)](images/keycloak)
 

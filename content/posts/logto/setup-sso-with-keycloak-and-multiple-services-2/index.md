@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-Integrating Keycloak as an OAuth provider with your applications, such as [WordPress](https://octabyte.io/applications/cms/wordpress) or [Apache Superset](https://octabyte.io/applications/business-intelligence/superset), helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with your client applications. Before starting, ensure you have a Keycloak server deployed on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak).
+Integrating Keycloak as an OAuth provider with your applications, such as [WordPress](https://octabyte.io/applications/cms/wordpress) or [Apache Superset](https://octabyte.io/applications/business-intelligence/superset), helps security and user management by leveraging Keycloak's identity and access management features. This guide will walk you through the necessary steps to configure Keycloak as an OAuth provider and integrate it with your client applications. Before starting, ensure you have a Keycloak server deployed on [OctaByte](images/keycloak).
 
 ## Set Up Keycloak as an OAuth Provider
 
@@ -26,7 +26,7 @@ To begin setting up Keycloak as an OAuth provider, log in to the Keycloak admini
 
 Next, you need to create an OpenID client within the newly created realm. Navigate to the **Clients** section within your realm. Click on **Create Client** to initiate the process. Provide a client ID, which will uniquely identify this client within the realm. Select **openid\-connect** as the client protocol to ensure compatibility with OAuth2 standards. Configure the client settings, including enabling the **Client Authentication** and **Authorization** toggles. Enter the callback/redirect URL that your application will use to handle authentication responses from Keycloak. Save the configuration and copy the client secret from the **Credentials** tab. This client secret will be used later to authenticate your application with Keycloak.
 
-![Creating client in keycloak](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-02-at-6.40.50-PM.jpg)## Configure OAuth Client Plugin
+![Creating client in keycloak](images/Screenshot-2024-07-02-at-6.40.50-PM.jpg)## Configure OAuth Client Plugin
 
 In your client application, such as WordPress or Apache Superset, you need to configure the OAuth client plugin or module settings. Enter the client ID and client secret that you obtained from Keycloak. Additionally, provide the Keycloak server URL and the realm name where your client is configured. These settings will allow your application to communicate with Keycloak for authentication purposes. Ensure all necessary configurations are correctly entered and save the settings.
 
@@ -34,9 +34,9 @@ In your client application, such as WordPress or Apache Superset, you need to co
 
 To manage access within your realm, you need to add users and configure roles. Navigate to the **Users** section within your realm in the Keycloak administration console. Click on **Create new user** to add a user. Fill in the user details, including username, email, and any other required information. 
 
-![Creating user in keycloak](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-03-at-9.10.18-AM.jpg)Set a password for the user by going to the **Credentials** tab and disabling the **Temporary** option to make the password permanent. Assign appropriate roles to the user in the **Role Mappings** section. If necessary, create new roles by navigating to the **Roles** section and defining the permissions and access levels for each role.
+![Creating user in keycloak](images/Screenshot-2024-07-03-at-9.10.18-AM.jpg)Set a password for the user by going to the **Credentials** tab and disabling the **Temporary** option to make the password permanent. Assign appropriate roles to the user in the **Role Mappings** section. If necessary, create new roles by navigating to the **Roles** section and defining the permissions and access levels for each role.
 
-![Setting auth password in keycloak](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-03-at-9.11.15-AM.jpg)## Configure Your Client Application as an OAuth Client
+![Setting auth password in keycloak](images/Screenshot-2024-07-03-at-9.11.15-AM.jpg)## Configure Your Client Application as an OAuth Client
 
 ### Register a New Client Application
 
@@ -60,7 +60,7 @@ In the **Attribute / Role Mapping** tab of your client application, map the retu
 
 Assign the corresponding roles in your client application based on the roles defined in Keycloak. Save the mapping to ensure that users are granted the correct permissions and access levels within your application.
 
-![Assigning roles to clients in keycloak](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-03-at-9.14.14-AM.jpg)## Sign\-In Settings
+![Assigning roles to clients in keycloak](images/Screenshot-2024-07-03-at-9.14.14-AM.jpg)## Sign\-In Settings
 
 #### Customize Sign\-In Experience
 
@@ -74,5 +74,5 @@ Navigate to your application's login page and ensure the Keycloak SSO login butt
 
 You have successfully configured your client application to use Keycloak as an OAuth provider, providing a robust Single Sign\-On (SSO) solution for secure user authentication. This setup enhances security and simplifies user management across various applications and services.
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
+[![](/images/octabyte-deploy.png)](images/keycloak)
 

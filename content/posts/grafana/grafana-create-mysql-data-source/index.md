@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-Configuring a [MySQL](https://octabyte.io/databases/relational-databases/mysql) data source in [Grafana](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana) allows you to use Grafana's visualization capabilities alongside MySQL's data management features. This guide will provide detailed steps to help you set up and configure the MySQL data source in Grafana. For this tutorial, we will be using Grafana and MySQL services hosted over OctaByte.
+Configuring a [MySQL](https://octabyte.io/databases/relational-databases/mysql) data source in [Grafana](images/grafana) allows you to use Grafana's visualization capabilities alongside MySQL's data management features. This guide will provide detailed steps to help you set up and configure the MySQL data source in Grafana. For this tutorial, we will be using Grafana and MySQL services hosted over OctaByte.
 
 ## Accessing the Data Source Configuration Page
 
@@ -22,7 +22,7 @@ Once you log in with the credentials provided on the OctaByte dashboard. Begin b
 
 ![Connections section in grafana](images/Screenshot-2024-07-18-at-1.09.52-PM.jpg)Under the drop\-down under the **Connections** section, click on **Data Sources**. This section lists all the data sources currently configured in your Grafana instance. Search and click on the **MySQL** data source from the search results. This action opens the configuration page for the MySQL data source.
 
-![MySQL as data source in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-1.11.04-PM.jpg)## Configuring Basic Settings
+![MySQL as data source in grafana](images/Screenshot-2024-07-18-at-1.11.04-PM.jpg)## Configuring Basic Settings
 
 Once you are on the Settings tab of the MySQL data source, you need to configure several basic settings to connect Grafana to your MySQL database. We have already deployed MySQL service on [OctaByte](https://octabyte.io/databases/relational-databases/mysql) and will be taking information from the dashboard to configure during the following steps:
 
@@ -34,9 +34,9 @@ Once you are on the Settings tab of the MySQL data source, you need to configure
 * **SSL Configuration**: If your MySQL server requires SSL for connections, configure the SSL settings appropriately. You can enable SSL and provide the necessary certificates and keys to secure the connection.
 * **Additional Connection Options**: Grafana allows you to specify additional options for the MySQL connection. You can add these options in the **Extra Connection Parameters** field. This is useful for setting timeouts, character sets, and other connection\-specific parameters.
 
-![Connection configuration in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-1.12.33-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the MySQL database using the provided details. If the connection is successful, you will see a confirmation message.
+![Connection configuration in grafana](images/Screenshot-2024-07-18-at-1.12.33-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the MySQL database using the provided details. If the connection is successful, you will see a confirmation message.
 
-![Successful connection message in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-18-at-4.44.45-PM.jpg)## Utilizing the MySQL Data Source
+![Successful connection message in grafana](images/Screenshot-2024-07-18-at-4.44.45-PM.jpg)## Utilizing the MySQL Data Source
 
 With the MySQL data source configured, you can now start creating dashboards and visualizations:
 
@@ -46,7 +46,7 @@ With the MySQL data source configured, you can now start creating dashboards and
 
 ## **Thanks for reading ❤️**
 
-This tutorial has walked you through the detailed steps of accessing the data source configuration, setting up basic configuration options, and utilizing the MySQL data source in Grafana. By following these steps, you can now create dynamic and informative dashboards. Thank you for reading, and be sure to check out additional resources and the official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more. Click the button below to get started with your service on [OctaByte](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). See you in the next one 👋
+This tutorial has walked you through the detailed steps of accessing the data source configuration, setting up basic configuration options, and utilizing the MySQL data source in Grafana. By following these steps, you can now create dynamic and informative dashboards. Thank you for reading, and be sure to check out additional resources and the official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more. Click the button below to get started with your service on [OctaByte](images/grafana). See you in the next one 👋
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana)
+[![](/images/octabyte-deploy.png)](images/grafana)
 

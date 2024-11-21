@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-Monitoring and tracking the performance and health of your [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). 
+Monitoring and tracking the performance and health of your [Keycloak](images/keycloak) server is important for maintaining an identity management system. One way to achieve this is by exposing a metrics endpoint from Keycloak. Let's see how to expose the metrics endpoint from Keycloak. Before we start, ensure you have deployed Keycloak, we will be self\-hosting it on [OctaByte](images/keycloak). 
 
 ## Downloading \& Installing Metics SPI
 
@@ -36,7 +36,7 @@ OctaByte is using Keycloak version 17\+ hence we will be placing `.jar` file in 
 /opt/app/providers/keycloak-metrics-spi-5.0.0.jar
 
 ```
-![Jar file in providers folder](https://blog.elest.io/content/images/2024/06/Screenshot-2024-06-28-at-1.02.22-PM-1.jpg)If performing externally you can add the same process to your `Dockerfile`. You can add it to `build` stage or `run` stage.
+![Jar file in providers folder](images/Screenshot-2024-06-28-at-1.02.22-PM-1.jpg)If performing externally you can add the same process to your `Dockerfile`. You can add it to `build` stage or `run` stage.
 
 **On Build Stage:**
 
@@ -85,5 +85,5 @@ Replace `<your-keycloak-domain>`, `<http_relative_path>`, and `<realm>` with you
 
 You have successfully exposed the metrics endpoint from your Keycloak server, enabling you to monitor and track its performance effectively. With the metrics endpoint in place, you can integrate Keycloak metrics with your preferred monitoring and alerting tools to keep your system running smoothly.
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
+[![](/images/octabyte-deploy.png)](images/keycloak)
 

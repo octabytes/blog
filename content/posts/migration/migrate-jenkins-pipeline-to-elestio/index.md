@@ -50,7 +50,7 @@ This document provides a step\-by\-step guide for migrating your existing Jenkin
 
 [![Screenshot 2023-11-19 at 1.41.17 PM.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/screenshot-2023-11-19-at-1-41-17-pm.png)](https://docs.elest.io/uploads/images/gallery/2023-11/screenshot-2023-11-19-at-1-41-17-pm.png?ref=blog.octabyte.io)5. Add your original Jenkins server information as requested, you will have to add the credentials. Click on add credentials and add the credentials of your original Jenkins server
 
-![Screenshot 2023-11-19 at 1.46.36 PM.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/screenshot-2023-11-19-at-1-46-36-pm.png)6. Select that as credentials under the drop\-down and make sure you have the window looking similar to this
+![Screenshot 2023-11-19 at 1.46.36 PM.png](images/screenshot-2023-11-19-at-1-46-36-pm.png)6. Select that as credentials under the drop\-down and make sure you have the window looking similar to this
 
 [![Screenshot 2023-11-19 at 1.47.09 PM.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/screenshot-2023-11-19-at-1-47-09-pm.png)](https://docs.elest.io/uploads/images/gallery/2023-11/screenshot-2023-11-19-at-1-47-09-pm.png?ref=blog.octabyte.io)7. Apply and save the remote Jenkins settings head over to the Jenkins dashboard and click on the new option you can see called "Job Import Plugin"
 

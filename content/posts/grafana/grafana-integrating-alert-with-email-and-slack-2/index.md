@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-In this tutorial, we will explore how to configure Slack and email for alert notifications in [Grafana](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). We will cover how to integrate Slack using an API token or a Webhook URL and set up email notifications to ensure you receive alerts promptly. Properly configuring alert notifications is essential for maintaining a responsive and well\-monitored Grafana instance.
+In this tutorial, we will explore how to configure Slack and email for alert notifications in [Grafana](images/grafana). We will cover how to integrate Slack using an API token or a Webhook URL and set up email notifications to ensure you receive alerts promptly. Properly configuring alert notifications is essential for maintaining a responsive and well\-monitored Grafana instance.
 
 ## Configuring Slack
 
@@ -26,15 +26,15 @@ To start, create a Slack app by visiting the apps page and selecting the [Go to 
 
 ![Create app screen in grafana](images/Screenshot-2024-07-17-at-12.06.47-PM.jpg)Then click on **From scratch,** enter a name for your app, such as **OctaByte Grafana Demo** and select the workspace where you will be developing your app. You can distribute your app to other workspaces later if needed. Click **Create App** to finalize the process. 
 
-![Naming App in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.10.40-PM.jpg)If you need to update your app's name later, you can do so from the Home tab under **Basic Information**. Note that this change will update the bot name, which is the name that appears when the app performs actions like posting in a channel or sending direct messages.
+![Naming App in grafana](images/Screenshot-2024-07-17-at-12.10.40-PM.jpg)If you need to update your app's name later, you can do so from the Home tab under **Basic Information**. Note that this change will update the bot name, which is the name that appears when the app performs actions like posting in a channel or sending direct messages.
 
 After creating your app, the next step is to request the necessary scopes, which give your app permission to perform specific actions within your workspace. By default, Slack apps cannot post to public channels. They need explicit permission through scopes. Request the `chat:write.public` scope to enable your app to post in all public channels without joining them. 
 
-![Scopes in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.16.08-PM.jpg)To request scopes, navigate to **OAuth \& Permissions** and scroll down to the **Scopes** section. Under **Auth Tokens** click on **Install to Workspace**. 
+![Scopes in grafana](images/Screenshot-2024-07-17-at-12.16.08-PM.jpg)To request scopes, navigate to **OAuth \& Permissions** and scroll down to the **Scopes** section. Under **Auth Tokens** click on **Install to Workspace**. 
 
-![Installing OAuth token in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.17.42-PM.jpg)Once installed copy the **Bot User OAuth Token** to a safe place. Additionally, head over to your Slack workplace, right\-click on the channel you want to get alerts on, click View Channel Details, **View Channel Details** and scroll down to find **Channel ID**. Copy this ID as it will be required in the next steps.
+![Installing OAuth token in grafana](images/Screenshot-2024-07-17-at-12.17.42-PM.jpg)Once installed copy the **Bot User OAuth Token** to a safe place. Additionally, head over to your Slack workplace, right\-click on the channel you want to get alerts on, click View Channel Details, **View Channel Details** and scroll down to find **Channel ID**. Copy this ID as it will be required in the next steps.
 
-![Bot token in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.18.52-PM.jpg)To allow your app to access public Slack channels, add the `channels:read` scope. By configuring these scopes, your app will have the necessary permissions to interact effectively within your Slack workspace.
+![Bot token in grafana](images/Screenshot-2024-07-17-at-12.18.52-PM.jpg)To allow your app to access public Slack channels, add the `channels:read` scope. By configuring these scopes, your app will have the necessary permissions to interact effectively within your Slack workspace.
 
 ### Configuring Grafana for Slack Notifications
 
@@ -43,7 +43,7 @@ To set up Slack notifications in Grafana, navigate to **Alerts** \-\> **Alerting
 * For API token integration: Enter the copied Channel ID in the **Recipient field** and the Bot User OAuth Token in the **Token field**.
 * For Webhook URL integration: Paste the Webhook URL into the Webhook field.
 
-![Configuring grafana for slack notification](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.34.49-PM.jpg)**Test** the integration to confirm its functionality and then save the contact point.
+![Configuring grafana for slack notification](images/Screenshot-2024-07-17-at-12.34.49-PM.jpg)**Test** the integration to confirm its functionality and then save the contact point.
 
 ## Configuring Email
 
@@ -51,11 +51,11 @@ In addition to Slack, you can configure email as a contact point in Grafana to e
 
 * **Navigate to Contact Points**: Go to Alerts \& IRM \-\> Alerting \-\> Contact points in Grafana.
 
-![Alerting tab in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.01.48-PM.jpg)* **Add a Contact Point**: Click on "\+ Add contact point."
+![Alerting tab in grafana](images/Screenshot-2024-07-17-at-12.01.48-PM.jpg)* **Add a Contact Point**: Click on "\+ Add contact point."
 
-![Contact points screen in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.05.25-PM.jpg)* **Name Your Contact Point**: Enter a name for the contact point, such as **OctaByte Trial Mail**.
+![Contact points screen in grafana](images/Screenshot-2024-07-17-at-12.05.25-PM.jpg)* **Name Your Contact Point**: Enter a name for the contact point, such as **OctaByte Trial Mail**.
 
-![Creating email contact point in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.06.28-PM.jpg)* **Configure Email Settings**:
+![Creating email contact point in grafana](images/Screenshot-2024-07-17-at-12.06.28-PM.jpg)* **Configure Email Settings**:
 * **Addresses**: Enter the email addresses where you want to receive alerts. You can add multiple addresses separated by commas.
 * **Subject**: Define a subject template for the email notifications.
 * **Body**: Customize the body of the email to include relevant alert information.
@@ -65,11 +65,11 @@ In addition to Slack, you can configure email as a contact point in Grafana to e
 
 Once the Slack contact point is configured, it needs to be added to your alert rules. Go to **Alerting** \-\> **Alert rules** in Grafana. Click on the **New alert rule** to head over to the alert rule.
 
-![Alert rules in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.38.52-PM.jpg)Edit or create a new alert rule, and navigate to the **Configure labels and notifications** section. Under **Notifications**, select the contact point you created from the drop\-down menu, save the rule, and exit. This step is similar for both Slack and Email integrations.
+![Alert rules in grafana](images/Screenshot-2024-07-17-at-12.38.52-PM.jpg)Edit or create a new alert rule, and navigate to the **Configure labels and notifications** section. Under **Notifications**, select the contact point you created from the drop\-down menu, save the rule, and exit. This step is similar for both Slack and Email integrations.
 
-![Configuring labes and notification in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-17-at-12.40.13-PM-1.jpg)## **Thanks for reading ❤️**
+![Configuring labes and notification in grafana](images/Screenshot-2024-07-17-at-12.40.13-PM-1.jpg)## **Thanks for reading ❤️**
 
 Setting up both Slack and email as contact points in Grafana ensures you have robust and reliable alert notifications. By following the steps outlined, you can configure these integrations to keep you informed of any critical alerts, whether through Slack messages or email notifications. This multi\-channel approach enhances your monitoring setup, providing greater flexibility and ensuring you never miss important alerts.
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana)
+[![](/images/octabyte-deploy.png)](images/grafana)
 

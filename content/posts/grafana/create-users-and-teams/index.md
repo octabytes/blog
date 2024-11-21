@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-We will explore how to manage users in [Grafana](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). Whether you are an admin or just someone looking to understand user management in Grafana, this guide will help you. We will cover how to add local users, organize them into teams, and ensure they have access only to the resources they need. Managing users and teams effectively is crucial for maintaining security and organization within your Grafana instance.
+We will explore how to manage users in [Grafana](images/grafana). Whether you are an admin or just someone looking to understand user management in Grafana, this guide will help you. We will cover how to add local users, organize them into teams, and ensure they have access only to the resources they need. Managing users and teams effectively is crucial for maintaining security and organization within your Grafana instance.
 
 ## Types Of Users
 
@@ -34,11 +34,11 @@ Grafana also allows for anonymous access, making dashboards available to those w
 
 ![Administartion screen in grafana](images/Screenshot-2024-07-15-at-7.48.23-PM-1.jpg)* After this click on **Users and Access** and this will take you to the dashboard to configure and access different users, teams and service accounts.
 
-![Administration screen in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.35.05-PM.jpg)* Choose **Users** from the menu, then click **New User**. This will open a form for adding a new user.
+![Administration screen in grafana](images/Screenshot-2024-07-15-at-7.35.05-PM.jpg)* Choose **Users** from the menu, then click **New User**. This will open a form for adding a new user.
 
-![Creating new user in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.36.04-PM.jpg)* Enter the **Name, Email, Username, and Password** for each user from the table above. Fill in the details for each new user as provided in the table.
+![Creating new user in grafana](images/Screenshot-2024-07-15-at-7.36.04-PM.jpg)* Enter the **Name, Email, Username, and Password** for each user from the table above. Fill in the details for each new user as provided in the table.
 
-![New user form in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.01-PM.jpg)* Click **Create User** to create the account and this will add the new user to Grafana.
+![New user form in grafana](images/Screenshot-2024-07-15-at-7.37.01-PM.jpg)* Click **Create User** to create the account and this will add the new user to Grafana.
 
 By default, new users are granted the viewer role, which means they can't change resources. We will adjust their permissions by adding them to teams.
 
@@ -46,11 +46,11 @@ By default, new users are granted the viewer role, which means they can't change
 
 * In the sidebar, hover over **Administration \> Users and Access \> Teams.** This will take you to the Teams management page.
 
-![Creating Team in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.32-PM.jpg)* Click **New Team** and this will open a form to create a new team.
+![Creating Team in grafana](images/Screenshot-2024-07-15-at-7.37.32-PM.jpg)* Click **New Team** and this will open a form to create a new team.
 
-![New team button in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.37.55-PM.jpg)* Enter the team's name and click **Create.** Name your team appropriately based on the department and provide an optional email to allow custom team avatars.
+![New team button in grafana](images/Screenshot-2024-07-15-at-7.37.55-PM.jpg)* Enter the team's name and click **Create.** Name your team appropriately based on the department and provide an optional email to allow custom team avatars.
 
-![New team form in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-7.38.30-PM.jpg)* Click **Teams** at the top of the page to return and create the second team. Repeat the process to create the second team.
+![New team form in grafana](images/Screenshot-2024-07-15-at-7.38.30-PM.jpg)* Click **Teams** at the top of the page to return and create the second team. Repeat the process to create the second team.
 
 ## Adding Users to Teams:
 
@@ -60,11 +60,11 @@ By default, new users are granted the viewer role, which means they can't change
 * Now select the role you want to assign to the user being added to the team.
 * Click **Save** and this will add the user to the team.
 
-![Assigning member to the teams with roles in grafana](https://blog.elest.io/content/images/2024/07/Screenshot-2024-07-15-at-9.39.14-PM.jpg)Repeat these steps for each user to assign them to their respective teams. By the end, you will have two teams with two users each. This setup allows for efficient permissions management and ensures that users can access the resources they need.
+![Assigning member to the teams with roles in grafana](images/Screenshot-2024-07-15-at-9.39.14-PM.jpg)Repeat these steps for each user to assign them to their respective teams. By the end, you will have two teams with two users each. This setup allows for efficient permissions management and ensures that users can access the resources they need.
 
 ## **Thanks for reading ❤️**
 
-By organizing users into teams and assigning appropriate roles, you can ensure that each user has the access they need while maintaining control over your resources. This tutorial has walked you through the process of adding users, creating teams, and managing permissions, setting you up for efficient user management in Grafana. Thank you so much for reading and do check out the OctaByte resources and Official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more about Grafana. You can click the button below to create your service on [OctaByte](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana). See you in the next one👋
+By organizing users into teams and assigning appropriate roles, you can ensure that each user has the access they need while maintaining control over your resources. This tutorial has walked you through the process of adding users, creating teams, and managing permissions, setting you up for efficient user management in Grafana. Thank you so much for reading and do check out the OctaByte resources and Official [Grafana documentation](https://grafana.com/docs/grafana/latest/?ref=blog.octabyte.io) to learn more about Grafana. You can click the button below to create your service on [OctaByte](images/grafana). See you in the next one👋
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/hosting-and-infrastructure/monitoring/grafana)
+[![](/images/octabyte-deploy.png)](images/grafana)
 

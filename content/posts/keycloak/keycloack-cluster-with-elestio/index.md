@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-We will be creating a [Keycloak](https://octabyte.io/development/identity-and-access-management/keycloak) cluster using OctaByte. So, to get started head over to [OctaByte Dashboard](https://octabyte.io/development/identity-and-access-management/keycloak) and deploy and login into the Keycloak service to get started.
+We will be creating a [Keycloak](images/keycloak) cluster using OctaByte. So, to get started head over to [OctaByte Dashboard](images/keycloak) and deploy and login into the Keycloak service to get started.
 
 ### Terraform Module for Keycloak Cluster
 
@@ -32,7 +32,7 @@ In a Keycloak cluster, multiple independent nodes work together using a distribu
 
 This Terraform module focuses primarily on deploying Keycloak nodes. It is designed to be used in conjunction with other essential services, such as a load balancer and a database, to create a fully functional Keycloak cluster. While OctaByte offers these services as part of their platform, the module is flexible enough to integrate with other compatible services you might already be using. This flexibility allows you to tailor the deployment to meet specific requirements and infrastructure setups. By using this module, you can automate the deployment process, ensuring that each Keycloak node is configured correctly and consistently.
 
-![Terraform architecture](https://blog.elest.io/content/images/2024/06/terraform_architecture.png)#### About OctaByte
+![Terraform architecture](images/terraform_architecture.png)#### About OctaByte
 
 OctaByte is a comprehensive DevOps platform that simplifies the deployment and management of various services. Their fully managed approach means that you don't have to spend extensive time configuring and maintaining your infrastructure. OctaByte handles crucial aspects like security, DNS management, SMTP configuration, SSL setup, monitoring and alerts, backups, and updates. This allows developers to focus on building and deploying their applications rather than dealing with operational overhead. An OctaByte account is required to use the Terraform module, and the platform offers various services that can be seamlessly integrated into your deployment.
 
@@ -201,7 +201,7 @@ Run `terraform apply` again and confirm the changes. The new node will join the 
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](https://octabyte.io/development/identity-and-access-management/keycloak). See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [Keycloak documentation](https://www.keycloak.org/documentation?ref=blog.octabyte.io) to learn more about Keycloak. You can click the button below to create your service on [OctaByte](images/keycloak). See you in the next one👋
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/development/identity-and-access-management/keycloak)
+[![](/images/octabyte-deploy.png)](images/keycloak)
 
