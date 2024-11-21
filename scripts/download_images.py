@@ -11,7 +11,7 @@ def download_images(post_name):
     images_dir = f"../content/posts/{post_name}/images"
 
     # Regular expression to match image URLs in Markdown
-    image_url_pattern = r"!\[.*?\]\((https?://[^\s]+)\)"
+    image_url_pattern = r"!\[.*?\]\((https?://[^\)]+)\)"
 
     # Ensure the images directory exists
     os.makedirs(images_dir, exist_ok=True)
@@ -25,6 +25,8 @@ def download_images(post_name):
 
     # Download each image and replace URLs in the Markdown content
     for url in image_urls:
+        print("Downloading...", url)
+
         try:
             # Get the filename from the URL
             image_name = os.path.basename(url)
@@ -53,24 +55,7 @@ def download_images(post_name):
 
     print("Markdown file updated successfully.")
 
-
-posts = ["content/posts/getting started/building-a-bi-dashboard-with-metabase/index.md",
-         "content/posts/getting started/building-a-customer-support-dashboard-with-baserow/index.md",
-         "content/posts/getting started/how-to-build-a-telegram-ai-bot-with-n8n/index.md",
-         "content/posts/grafana/create-users-and-teams/index.md",
-         "content/posts/grafana/grafana-create-mysql-data-source/index.md",
-         "content/posts/grafana/grafana-install-prometheus-dashboard/index.md",
-         "content/posts/grafana/grafana-integrating-alert-with-email-and-slack-2/index.md",
-         "content/posts/immudb & minio/immudb-s3-bucket-minio/index.md",
-         "content/posts/keycloak/keycloack-cluster-with-elestio/index.md",
-         "content/posts/keycloak session configuration/configure-keycloak-with-saml/index.md",
-         "content/posts/keycloak token management/keycloak-token-management-expiration-revocation-and-renewal/index.md",
-         "content/posts/logto/how-to-customise-your-keycloak-ui-with-react-keycloakify/index.md",
-         "content/posts/logto/how-to-expose-meetrics-endpoint-from-keycloak/index.md",
-         "content/posts/logto/publish-keycloak-events-to-rabbitmq/index.md",
-         "content/posts/logto/setup-sso-with-keycloak-and-multiple-services-2/index.md",
-         "content/posts/mastodon/scaling-up-down-mastodon/index.md",
-         "content/posts/migration/migrate-jenkins-pipeline-to-elestio/index.md",
+posts = ["content/posts/migration/migrate-jenkins-pipeline-to-elestio/index.md",
          "content/posts/migration/migrate-mastodon-server-to-elestio/index.md",
          "content/posts/migration/migrate-mysql-database-to-elestio/index.md",
          "content/posts/migration/migrate-superset-to-elestio/index.md",

@@ -44,11 +44,11 @@ This document provides a step\-by\-step guide for migrating your existing Mastod
 2. Go to Create Services and select "Mastodon"
 3. Select your service provider, region, and machine preferences
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/7UXimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/7UXimage.png?ref=blog.octabyte.io)4. Name your service, configurations, and support layer, and hit "Create Service"
+[![image.png](images/7UXimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/7UXimage.png?ref=blog.octabyte.io)4. Name your service, configurations, and support layer, and hit "Create Service"
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/qIJimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qIJimage.png?ref=blog.octabyte.io)5. Once deployed, head over to the service details URL provided under "Admin UI" to access the Mastodon Server UI
+[![image.png](images/qIJimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qIJimage.png?ref=blog.octabyte.io)5. Once deployed, head over to the service details URL provided under "Admin UI" to access the Mastodon Server UI
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/qakimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qakimage.png?ref=blog.octabyte.io)6. Once you are in, head over to the UI you should head over and log in with the credentials on the server.
+[![image.png](images/qakimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/qakimage.png?ref=blog.octabyte.io)6. Once you are in, head over to the UI you should head over and log in with the credentials on the server.
 
 ![](https://i.imgur.com/bzt53zf.png)7. Head over to the "Import and Export" and click on the import
 
@@ -60,13 +60,13 @@ This document provides a step\-by\-step guide for migrating your existing Mastod
 
 10. Woohoo! Your data is successfully migrated to OctaByte, wait for a couple of minutes for the data to be imported. You can check the progress for the same on the same tab
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/cbfimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/cbfimage.png?ref=blog.octabyte.io)### 4️⃣ Testing the Migration
+[![image.png](images/cbfimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/cbfimage.png?ref=blog.octabyte.io)### 4️⃣ Testing the Migration
 
 1. You have successfully migrated to OctaByte, now it's time for testing if your application is running as you intended
 2. Head over to the Mastodon server and check the bookmarks, posts, and list you have imported in their respective tabs and you will notice the mention of your previous server to set the differentiations
 3. Here as you can see, my bookmarks were successfully imported into the new instance of OctaByte
 
-[![image.png](https://docs.elest.io/uploads/images/gallery/2023-11/scaled-1680-/76Oimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/76Oimage.png?ref=blog.octabyte.io)### 5️⃣ Need additional help?
+[![image.png](images/76Oimage.png)](https://docs.elest.io/uploads/images/gallery/2023-11/76Oimage.png?ref=blog.octabyte.io)### 5️⃣ Need additional help?
 
 Stuck somewhere? We are here to help you, go ahead and create a [support ticket](https://dash.elest.io/support/creation?ref=blog.octabyte.io) and we will get back to you in no time.
 

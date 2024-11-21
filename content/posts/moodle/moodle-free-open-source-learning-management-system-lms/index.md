@@ -72,7 +72,7 @@ Moodle stands out as a powerful, flexible, and cost\-effective Learning Manageme
 
 Whether you're looking to create a simple online course or manage a complex educational program, Moodle provides the tools you need to deliver a high\-quality learning experience. With its strong community support and continuous development, Moodle remains a leading option for anyone seeking a reliable and adaptable LMS.
 
-[![](https://blog.elest.io/content/images/2024/08/Frame-10--13-.png)](https://octabyte.io/applications/others/moodle)
+[![](images/Frame-10--13-.png)](https://octabyte.io/applications/others/moodle)
 
 [Try Moodle](https://octabyte.io/applications/others/moodle)
 
