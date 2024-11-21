@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-In this guide, we'll explore how to secure your self\-hosted instance of[**Apache Superset**](https://octabyte.io/applications/business-intelligence/superset) using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign\-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This guide will take you through the entire process, from setting up your identity provider to configuring Superset for SAML authentication.
+In this guide, we'll explore how to secure your self\-hosted instance of[**Apache Superset**](images/superset) using SAML (Security Assertion Markup Language) for user authentication. SAML enables Single Sign\-On (SSO) and helps centralize authentication, allowing users to access Superset dashboards securely via their organization's identity provider (IdP). This guide will take you through the entire process, from setting up your identity provider to configuring Superset for SAML authentication.
 
 ### Why Use SAML?
 
@@ -28,7 +28,7 @@ Using SAML for Superset authentication offers several benefits:
 
 Before starting, ensure you have:
 
-* Deployed service **of Apache Superset** on [OctaByte](https://octabyte.io/applications/business-intelligence/superset).
+* Deployed service **of Apache Superset** on [OctaByte](images/superset).
 * Access to your organization’s **Identity Provider (IdP)** that supports SAML 2\.0 (e.g., Okta, Azure AD, OneLogin).
 * Administrative access to Superset and your IdP.
 
@@ -84,7 +84,7 @@ https://<your_superset_instance>/saml/callback
 
 Next, update the `superset_config.py` file, which holds the configurations for Superset. Since you’re using Docker Compose, the `superset_config.py` file will be located in your mounted volume, if not you can create one by discovering it on **VS Code** under **Tools**.
 
-![Accessing VS Code in OctaByte](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-01-at-4.26.11-PM-1.jpg)Open the `superset_config.py` file and add the SAML\-related configurations:
+![Accessing VS Code in OctaByte](images/Screenshot-2024-10-01-at-4.26.11-PM-1.jpg)Open the `superset_config.py` file and add the SAML\-related configurations:
 
 
 ```
@@ -173,12 +173,12 @@ SAML_SLO_URL = 'https://<your_idp_logout_url>'
 ```
 ## **Thanks for reading ❤️**
 
-Integrating SAML with Apache Superset on OctaByte provides a highly secure and streamlined way to authenticate users. By following this guide, you can centralize user management using your IdP, enhance security with SSO, and offer your team a seamless login experience. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
+Integrating SAML with Apache Superset on OctaByte provides a highly secure and streamlined way to authenticate users. By following this guide, you can centralize user management using your IdP, enhance security with SSO, and offer your team a seamless login experience. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](images/superset). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](images/superset)
 
 
 

@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-In this guide, we will walk you through setting up real\-time analytics by integrating [Apache Superset](https://octabyte.io/applications/business-intelligence/superset) with [ClickHouse](https://octabyte.io/databases/relational-databases/clickhouse), a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
+In this guide, we will walk you through setting up real\-time analytics by integrating [Apache Superset](images/superset) with [ClickHouse](https://octabyte.io/databases/relational-databases/clickhouse), a database suited for analytical queries. This blog will cover each step, from deploying the necessary components to configuring Superset for optimal performance.
 
 ## Deploying ClickHouse and Superset
 
@@ -28,7 +28,7 @@ To connect Superset to ClickHouse, you'll need the `clickhouse-sqlalchemy` drive
 
 Before we add ClickHouse Database to Superset, we need to construct SQLAlchemy URI for our ClickHouse. Head over to the deployed service on your OctaByte Dashboard and click on **Database Admin** button to access the information required for the URI.
 
-![Database admin infomation of ClickHouse](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-11.55.47-AM.jpg)You can use the above information to replace the information in the below URI
+![Database admin infomation of ClickHouse](images/Screenshot-2024-10-03-at-11.55.47-AM.jpg)You can use the above information to replace the information in the below URI
 
 
 ```
@@ -39,9 +39,9 @@ clickhouse+native://[user:password]@host[:port]/database[?options]
 * Navigate to the **Data** tab in the top menu and select **Databases**.
 * Click on **\+ Add Database**.
 
-![Connecting Database in Superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-12.01.34-PM.jpg)* In the **SQLAlchemy URI** field, paste the ClickHouse connection string.
+![Connecting Database in Superset](images/Screenshot-2024-10-03-at-12.01.34-PM.jpg)* In the **SQLAlchemy URI** field, paste the ClickHouse connection string.
 
-![SQLAlchemy URI in Superset](https://blog.elest.io/content/images/2024/10/image-4.png)* Fill in any additional details, such as a display name, and click **Test Connection** to ensure everything works properly.
+![SQLAlchemy URI in Superset](images/image-4.png)* Fill in any additional details, such as a display name, and click **Test Connection** to ensure everything works properly.
 
 Once the connection is verified, the ClickHouse database will be available for use in Superset.
 
@@ -63,7 +63,7 @@ A **time series chart** is a type of graph used to display data points at succes
 * Choose the dataset you created from ClickHouse.
 * Configure the time settings, metrics, and filters to suit your real\-time analytics requirements.
 
-![Creating new chart in superset](https://blog.elest.io/content/images/2024/10/image-5.png)This chart will visualize how your data evolves over time, providing real\-time insights.
+![Creating new chart in superset](images/image-5.png)This chart will visualize how your data evolves over time, providing real\-time insights.
 
 ## Creating a ClickHouse Query in Superset
 
@@ -73,7 +73,7 @@ A **time series chart** is a type of graph used to display data points at succes
 * Select the ClickHouse database, and write your custom SQL queries.
 * Execute the queries to fetch real\-time data, which you can use for analysis or building additional visualizations.
 
-![SQL Lab in Superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-1.23.21-PM.jpg)This flexibility in writing queries ensures that you can extract the precise insights needed for your business.
+![SQL Lab in Superset](images/Screenshot-2024-10-03-at-1.23.21-PM.jpg)This flexibility in writing queries ensures that you can extract the precise insights needed for your business.
 
 ## Creating Dashboards in Superset
 
@@ -82,9 +82,9 @@ Once you have created your charts and visualizations, you can combine them into 
 * Navigate to the **Dashboards** section in Superset.
 * Click on **\+ Create Dashboard**, and start adding the charts you've built.
 
-![Creating dashboards in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-1.29.08-PM.jpg)* Organize the layout, adjust filters, and ensure that the data updates in real time.
+![Creating dashboards in superset](images/Screenshot-2024-10-03-at-1.29.08-PM.jpg)* Organize the layout, adjust filters, and ensure that the data updates in real time.
 
-![Adding new chart to dashboard in superset](https://blog.elest.io/content/images/2024/10/Screenshot-2024-10-03-at-1.30.46-PM.jpg)These dashboards serve as a centralized view for monitoring live data, making them ideal for businesses that rely on up\-to\-the\-minute information.
+![Adding new chart to dashboard in superset](images/Screenshot-2024-10-03-at-1.30.46-PM.jpg)These dashboards serve as a centralized view for monitoring live data, making them ideal for businesses that rely on up\-to\-the\-minute information.
 
 ## Caching and Clustering for Performance
 
@@ -94,12 +94,12 @@ Enable caching by configuring the **CACHE\_CONFIG** in Superset’s configuratio
 
 ## **Thanks for reading ❤️**
 
-By following these steps, you can set up Apache Superset to handle real\-time data analytics with ClickHouse. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](https://octabyte.io/applications/business-intelligence/superset). See you in the next one👋
+By following these steps, you can set up Apache Superset to handle real\-time data analytics with ClickHouse. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](images/superset). See you in the next one👋
 
 
 
 
-[![Deploy to OctaByte](/images/octabyte-deploy.png)](https://octabyte.io/applications/business-intelligence/superset)
+[![Deploy to OctaByte](/images/octabyte-deploy.png)](images/superset)
 
 
 

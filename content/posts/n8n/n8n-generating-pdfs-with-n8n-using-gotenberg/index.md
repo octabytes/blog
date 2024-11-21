@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-Let's see how you can create an application that can generate PDFs with [N8N](https://octabyte.io/applications/automation/n8n) using [Gotenberg](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
+Let's see how you can create an application that can generate PDFs with [N8N](images/n8n) using [Gotenberg](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](images/n8n).
 
 ## What is N8N?
 
@@ -30,15 +30,15 @@ Once you get started, you will find a blank workflow canvas in the dashboard. He
 
 ![Add first step button](images/Screenshot-2024-05-08-at-7.48.01-PM.jpg)Next, you will see a pop\-up on the right side of the screen, Select the **Manually** component. This component runs the flow by clicking the button in N8N.
 
-![Selecting manual component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-7.48.39-PM.jpg)## Setting up HTML component
+![Selecting manual component](images/Screenshot-2024-05-08-at-7.48.39-PM.jpg)## Setting up HTML component
 
 Next, we will add the next component in the flow which is in **HTML**. In the HTML component, select **Generate HTML template**. 
 
-![Selecting HTML Component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-8.08.35-PM.jpg)## Convert to File Component
+![Selecting HTML Component](images/Screenshot-2024-05-08-at-8.08.35-PM.jpg)## Convert to File Component
 
 Now we will attach the next component in the flow. The next component in the flow is **Convert to File**. In the component, select **Move base64 string to file**. 
 
-![Selecting file component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-9.55.55-PM.jpg)Now set the parameters of these components as follows:
+![Selecting file component](images/Screenshot-2024-05-08-at-9.55.55-PM.jpg)Now set the parameters of these components as follows:
 
 **Operation:** Move Base64 String to File
 
@@ -52,17 +52,17 @@ Now we will attach the next component in the flow. The next component in the flo
 
 **MIME Type**: text/HTML
 
-![Configuring HTML Component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.08.23-PM.jpg)## Configuring HTTP Request
+![Configuring HTML Component](images/Screenshot-2024-05-08-at-10.08.23-PM.jpg)## Configuring HTTP Request
 
 The next component we are going to configure is the **HTTP Request**. This component makes an HTTP request and returns the response data.
 
-![Using HTTP Request component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.06.47-PM.jpg)## Setting Up Gotenberg
+![Using HTTP Request component](images/Screenshot-2024-05-08-at-10.06.47-PM.jpg)## Setting Up Gotenberg
 
 We will require a Gotenberg service that we are deploying it on OctaByte and you can do the same by clicking [here](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). Once the instance is deployed head over to the email you received on your email ID registered with OctaByte. Find the **Usage** section as we are going to use this information while configuring the Gotenberg in the flow.
 
-![Post request](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.32.59-PM.jpg)Now add the **User** and **Password** from elestio dashboard and add it under connection.
+![Post request](images/Screenshot-2024-05-08-at-10.32.59-PM.jpg)Now add the **User** and **Password** from elestio dashboard and add it under connection.
 
-![Auth credential](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.38.39-PM.jpg)Now set the other parameters similar to those found in the email.
+![Auth credential](images/Screenshot-2024-05-08-at-10.38.39-PM.jpg)Now set the other parameters similar to those found in the email.
 
 **Method:** Post
 
@@ -74,7 +74,7 @@ We will require a Gotenberg service that we are deploying it on OctaByte and you
 
 **Credential for Basic Auth**: User login
 
-![Post request configuration in HTTP request component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.43.11-PM.jpg)Next, configure the Head and body of the request.
+![Post request configuration in HTTP request component](images/Screenshot-2024-05-08-at-10.43.11-PM.jpg)Next, configure the Head and body of the request.
 
 **Specify Headers:** Using Fields Below
 
@@ -92,17 +92,17 @@ We will require a Gotenberg service that we are deploying it on OctaByte and you
 
 This HTTP request is to send a request to the provided URL to fetch the HTML page and convert it into a PDF using Gotenberg.
 
-![Setting Headers and Body in HTTP Component](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.43.27-PM.jpg)Now we have to configure the Response. Set the **Response format** to **File** and **Put Output in Field** to data.
+![Setting Headers and Body in HTTP Component](images/Screenshot-2024-05-08-at-10.43.27-PM.jpg)Now we have to configure the Response. Set the **Response format** to **File** and **Put Output in Field** to data.
 
-![Configuring response options](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.43.38-PM.jpg)The final workflow looks something like this. Now we will test the workflow before we deploy it to production. Click on **Test workflow**. 
+![Configuring response options](images/Screenshot-2024-05-08-at-10.43.38-PM.jpg)The final workflow looks something like this. Now we will test the workflow before we deploy it to production. Click on **Test workflow**. 
 
-![Testing workflow](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.44.15-PM.jpg)Once the button is clicked an output window will pop up where we can see our pdf ready. You can download or choose to print the PDF directly.
+![Testing workflow](images/Screenshot-2024-05-08-at-10.44.15-PM.jpg)Once the button is clicked an output window will pop up where we can see our pdf ready. You can download or choose to print the PDF directly.
 
-![Generated PDF](https://blog.elest.io/content/images/2024/05/Screenshot-2024-05-08-at-10.55.40-PM.jpg)And done! You have successfully created a workflow that creates a pdf of the webpage provided using URL in HTTP request and Gotenberg. You can form multiple such workflows based on the request type.
+![Generated PDF](images/Screenshot-2024-05-08-at-10.55.40-PM.jpg)And done! You have successfully created a workflow that creates a pdf of the webpage provided using URL in HTTP request and Gotenberg. You can form multiple such workflows based on the request type.
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. Click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and generate PDFs using Gotenberg. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. Click the button below to create your service on [OctaByte](images/n8n) and generate PDFs using Gotenberg. See you in the next one👋
 
-[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
+[![](/images/octabyte-deploy.png)](images/n8n)
 

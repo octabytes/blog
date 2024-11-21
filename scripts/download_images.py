@@ -55,15 +55,7 @@ def download_images(post_name):
 
     print("Markdown file updated successfully.")
 
-posts = ["content/posts/migration/migrate-jenkins-pipeline-to-elestio/index.md",
-         "content/posts/migration/migrate-mastodon-server-to-elestio/index.md",
-         "content/posts/migration/migrate-mysql-database-to-elestio/index.md",
-         "content/posts/migration/migrate-superset-to-elestio/index.md",
-         "content/posts/migration/migrate-wordpress-to-elestio/index.md",
-         "content/posts/minio/minio-cloud-agnostic-object-storage/index.md",
-         "content/posts/moodle/moodle-free-open-source-learning-management-system-lms/index.md",
-         "content/posts/mysql/easy-mysql-database-migration-with-elestio-a-step-by-step-guide/index.md",
-         "content/posts/n8n/how-to-clean-up-n8n-database/index.md",
+posts = ["content/posts/n8n/how-to-clean-up-n8n-database/index.md",
          "content/posts/n8n/how-to-install-a-community-node-on-n8n/index.md",
          "content/posts/n8n/n8n/index.md",
          "content/posts/n8n/n8n-api-endpoint-for-get-response/index.md",

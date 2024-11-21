@@ -36,9 +36,9 @@ It's very lightweight and fast, the UI is nice and modern. I can't recommend it 
 
 ![](images/image.png)In case of an alert (when one of the monitored services is down), you will receive notifications, you can configure them to be delivered on one or multiple channels
 
-![](https://blog.elest.io/content/images/2022/02/image-1.png)This open\-source project got a LOT of traction recently, especially since November 2021 and it's still growing quickly. It's an amazing project with very active contributors (more than 100, including myself).
+![](images/image-1.png)This open\-source project got a LOT of traction recently, especially since November 2021 and it's still growing quickly. It's an amazing project with very active contributors (more than 100, including myself).
 
-![Star history on github of uptime-kuma](https://blog.elest.io/content/images/2022/02/star-history-202229.png)It's quite easy to self\-host it with docker, you can try it quickly with this command (require docker)
+![Star history on github of uptime-kuma](images/star-history-202229.png)It's quite easy to self\-host it with docker, you can try it quickly with this command (require docker)
 
 
 
