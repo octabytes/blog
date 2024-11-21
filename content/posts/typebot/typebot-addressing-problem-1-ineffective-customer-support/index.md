@@ -44,5 +44,5 @@ Once you click on **Test**, you will see your chatbot application running, you c
 
 Thank you so much for reading and do check out the OctaByte resources and Official [Typebot documentation](https://docs.typebot.io/get-started/introduction?ref=blog.octabyte.io) to learn more about Typebot. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and create your chatbots for different utilities. See you in the next one👋
 
-[![](images/deploy-on-elestio-black.png)](https://octabyte.io/applications/live-chat/typebot)
+[![](images/octabyte-deploy.png)](https://octabyte.io/applications/live-chat/typebot)
 

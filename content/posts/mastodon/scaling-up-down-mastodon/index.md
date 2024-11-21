@@ -59,7 +59,7 @@ Easiest solution is to connect a network Volume attached to your instance, and s
 
 For OctaByte users, you just have to create a volume on your Mastodon instance and keep the checkbox checked to ensure all data will be moved to the Volume.
 
-![Add a network volume on elestio and move the data](images/image-6.png)
+![Add a network volume on octabyte and move the data](images/image-6.png)
 
 Add a network volume and move the data
 

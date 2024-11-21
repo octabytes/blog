@@ -14,7 +14,7 @@ TocOpen: true
 ---
 
 
-Let's see how you can create an application that can generate PDFs with [N8N](images/n8n) using [Gotenberg](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](images/n8n).
+Let's see how you can create an application that can generate PDFs with [N8N](https://octabyte.io/applications/automation/n8n) using [Gotenberg](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). During this tutorial, we will be building the workflow from scratch. You can choose to use different databases to perform similar actions. Before we start, make sure you have deployed N8N, we will be self\-hosting it on [OctaByte](https://octabyte.io/applications/automation/n8n).
 
 ## What is N8N?
 
@@ -60,7 +60,7 @@ The next component we are going to configure is the **HTTP Request**. This compo
 
 We will require a Gotenberg service that we are deploying it on OctaByte and you can do the same by clicking [here](https://octabyte.io/open-source/gotenberg?ref=blog.octabyte.io). Once the instance is deployed head over to the email you received on your email ID registered with OctaByte. Find the **Usage** section as we are going to use this information while configuring the Gotenberg in the flow.
 
-![Post request](images/Screenshot-2024-05-08-at-10.32.59-PM.jpg)Now add the **User** and **Password** from elestio dashboard and add it under connection.
+![Post request](images/Screenshot-2024-05-08-at-10.32.59-PM.jpg)Now add the **User** and **Password**
 
 ![Auth credential](images/Screenshot-2024-05-08-at-10.38.39-PM.jpg)Now set the other parameters similar to those found in the email.
 
@@ -102,7 +102,7 @@ This HTTP request is to send a request to the provided URL to fetch the HTML pag
 
 ## **Thanks for reading ❤️**
 
-Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. Click the button below to create your service on [OctaByte](images/n8n) and generate PDFs using Gotenberg. See you in the next one👋
+Thank you so much for reading and do check out the OctaByte resources and Official [N8N documentation](https://docs.n8n.io/?ref=blog.octabyte.io) to learn more about N8N. Click the button below to create your service on [OctaByte](https://octabyte.io/applications/automation/n8n) and generate PDFs using Gotenberg. See you in the next one👋
 
-[![](/images/octabyte-deploy.png)](images/n8n)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/automation/n8n)
 

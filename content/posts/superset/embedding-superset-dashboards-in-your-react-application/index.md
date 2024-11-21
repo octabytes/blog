@@ -51,7 +51,7 @@ const token = await fetchGuestTokenFromBackend(config);
 
 embedDashboard({
     id: "abcede-ghifj-xyz", // Embedded Dashboard UUID
-    supersetDomain: "https://[ELESTIO_CNAME]",
+    supersetDomain: "https://[OCTABYTE_CNAME]",
     mountPoint: document.getElementById("superset-container"), // HTML element to render iframe
     fetchGuestToken: () => token,
     dashboardUiConfig: { hideTitle: true }

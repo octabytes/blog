@@ -30,7 +30,7 @@ Once you are on the **Settings** tab of the Prometheus data source, you need to 
 
 * Enter a unique and descriptive name for your data source in the Name field. This helps easily identify the data source within Grafana, especially if multiple data sources are configured. Examples: `prometheus-1`, `prom-metrics`.
 * Toggle to select this data source as the default for your dashboard panels. When you go to a dashboard panel, this will be the default selected data source.
-* Now, Enter the URL of your Prometheus server. If your Prometheus server is local, use `http://localhost:9090`. Since we have hosted our Prometheus server on OctaByte we will be using the hostname and other information provided on the dashboard. Eg: `https://prometheus-u2twa-u7774.vm.elestio.app:443`
+* Now, Enter the URL of your Prometheus server. If your Prometheus server is local, use `http://localhost:9090`. Since we have hosted our Prometheus server on OctaByte we will be using the hostname and other information provided on the dashboard. Eg: `https://prometheus-u2twa-u7774.vm.octabyte.io:443`
 * Select the authentication type as **Basic authentication** and add the **User** and **Password** provided on the OctaByte dashboard under Prometheus service.
 
 ![Connection configuration for prometheus in grafana](images/Screenshot-2024-07-18-at-8.46.11-PM.jpg)Click the **Save \& Test** button at the bottom of the configuration page. Grafana will attempt to connect to the Prometheus server using the provided details. If the connection is successful, you will see a confirmation message.

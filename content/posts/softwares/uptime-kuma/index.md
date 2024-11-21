@@ -52,7 +52,7 @@ docker run -d --restart=always -p 127.0.0.1:3001:3001 -v uptime-kuma:/app/data -
 
 This way it will run on port 3001 of your computer or VM and you can try it in your browser with this URL: http://localhost:3001
 
-If you don't want to worry about the uptime .... of your uptime server... [deploy Uptime\-Kuma on elest.io](https://octabyte.io/hosting-and-infrastructure/monitoring/uptime-kuma) and get automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of Uptime\-Kuma stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, UP and running.
+If you don't want to worry about the uptime .... of your uptime server... [deploy Uptime\-Kuma on OctaByte](https://octabyte.io/hosting-and-infrastructure/monitoring/uptime-kuma) and get automated backups, reverse proxy with SSL termination, DOS protection, firewall, automated OS \& Software updates (So your instance of Uptime\-Kuma stays always up to date), and a team of Linux experts and open source enthusiasts to ensure your services are always safe, UP and running.
 
 Click on the button below to get a fully managed instance of Uptime\-Kuma ready to use in less than 3 minutes. 
 

@@ -18,7 +18,7 @@ We are going to use a self\-hosted version of N8N deployed on OctaByte. So befor
 
 ## Go to your N8N data folder
 
-Open terminal and go to your N8N data folder, on elestio it's located on /opt/app/n8n/database.sqlite
+Open terminal and go to your N8N data folder, it's located on /opt/app/n8n/database.sqlite
 
 ## Repair using the ".repair" command in CLI
 

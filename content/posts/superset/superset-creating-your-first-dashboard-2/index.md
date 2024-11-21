@@ -111,7 +111,7 @@ Superset allows you to customize how dashboards are rendered using URL parameter
 	+ `0`: Collapses the Filter Bar.
 	+ `1`: Expands the Filter Bar.
 
-For example, if you're running a local development build and want to hide the top navigation and remove the Filter Bar, you could use the following URL: `http://<elestio-hosted-url>/superset/dashboard/<dashboard-name>/?standalone=1&show_filters=0`.
+For example, if you're running a local development build and want to hide the top navigation and remove the Filter Bar, you could use the following URL: `http://<octabyte-hosted-url>/superset/dashboard/<dashboard-name>/?standalone=1&show_filters=0`.
 
 ## **Thanks for reading ❤️**
 
