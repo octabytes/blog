@@ -21,11 +21,6 @@ While there are plenty of paid options available, [*Documenso*](https://octabyte
 In this article, we’ll explore the key features that make *Documenso* a powerful tool for digital document workflows.
 
 
-
-Watch our Documenso platform overview on YouTube
-
-
-
 ### eSigning Platform
 
 At the heart of *Documenso* is its robust eSigning platform, designed to facilitate legally binding signatures on digital documents. Whether you need to sign a contract, an agreement, or any other legal document, *Documenso* offers a seamless and secure way to manage signatures. The platform supports various document formats, ensuring compatibility with common file types like PDFs.

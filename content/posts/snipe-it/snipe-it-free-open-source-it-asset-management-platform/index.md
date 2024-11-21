@@ -20,12 +20,6 @@ In today's digital age, managing IT assets effectively is crucial for organizati
 
 In this article, we'll explore the key features of Snipe\-IT, including its ability to manage assets, licenses, predefined kits, and more.
 
-
-
-Watch our Snipe\-IT platform overview on our YouTube channel
-
-
-
 ### **Assets, Licenses, Accessories, and Consumables**
 
 One of the core functionalities of Snipe\-IT is its robust asset management capabilities. The platform allows you to track a wide range of assets, from laptops and desktops to servers and network devices. Each asset can be categorized, tagged, and assigned to a specific user or department, making it easy to locate and manage resources within your organization.

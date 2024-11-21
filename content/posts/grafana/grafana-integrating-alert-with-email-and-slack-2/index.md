@@ -67,7 +67,9 @@ Once the Slack contact point is configured, it needs to be added to your alert r
 
 ![Alert rules in grafana](images/Screenshot-2024-07-17-at-12.38.52-PM.jpg)Edit or create a new alert rule, and navigate to the **Configure labels and notifications** section. Under **Notifications**, select the contact point you created from the drop\-down menu, save the rule, and exit. This step is similar for both Slack and Email integrations.
 
-![Configuring labes and notification in grafana](images/Screenshot-2024-07-17-at-12.40.13-PM-1.jpg)## **Thanks for reading ❤️**
+![Configuring labes and notification in grafana](images/Screenshot-2024-07-17-at-12.40.13-PM-1.jpg)
+
+## **Thanks for reading ❤️**
 
 Setting up both Slack and email as contact points in Grafana ensures you have robust and reliable alert notifications. By following the steps outlined, you can configure these integrations to keep you informed of any critical alerts, whether through Slack messages or email notifications. This multi\-channel approach enhances your monitoring setup, providing greater flexibility and ensuring you never miss important alerts.
 

@@ -53,7 +53,9 @@ docker-compose up -d
 
 To implement a new theme in Keycloak using the `keycloakify-starter` theme, you need to navigate to the theme settings within the Keycloak administration console. Select the realm where you want to apply the new theme. In the left\-hand navigation menu, click **Realm Settings** and select the **Themes** tab. Here, you will find options to configure various themes for different aspects of the Keycloak user interface, such as login, account, email, and admin console. Under the **Login Theme** and **Account Theme** dropdown menus, select `keycloakify-starter` to apply the new theme. After making your selections, click **Save** at the bottom of the page to implement the `keycloakify-starter` The theme for the login and account pages provides a customized look and feel that aligns with your desired design and branding.
 
-![Selecting newly added theme in Keycloak service](images/Screenshot-2024-07-01-at-3.09.49-PM.jpg)## **Thanks for reading ❤️**
+![Selecting newly added theme in Keycloak service](images/Screenshot-2024-07-01-at-3.09.49-PM.jpg)
+
+## **Thanks for reading ❤️**
 
 You have integrated Keycloakify into your Keycloak setup, enabling you to customize the Keycloak UI with React. This allows you to create a seamless and branded user experience for your authentication and authorization flows. See you in the next one👋
 

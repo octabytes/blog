@@ -32,12 +32,6 @@ Whether you're a professional artist or a casual user, ComfyUI empowers you to e
 
 In this article, we'll explore the key features of ComfyUI, including its modular pipeline system, support for custom models, advanced image upscaling, and integration with LoRA (Low\-Rank Adaptation) for fine\-tuning. Let's dive into the details of how ComfyUI can revolutionize your creative process.
 
-
-
-Watch our ComfyUI platform overview on our YouTube channel
-
-
-
 #### Pipelines \& Nodes
 
 One of the standout features of ComfyUI is its node\-based interface, which allows users to build and experiment with complex Stable Diffusion workflows without needing to write any code. This visual programming approach makes it easy to prototype, test, and iterate on ideas. The pipeline system is highly modular, enabling users to connect various nodes—each representing a different operation or model—in a graph or flowchart format.

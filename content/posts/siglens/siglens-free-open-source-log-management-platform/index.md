@@ -20,12 +20,6 @@ Enter [SigLens](https://octabyte.io/applications/project-management/siglens), an
 
 SigLens stands out in the log management landscape with its unparalleled speed, efficiency, and scalability. Boasting 100x lower compute and storage requirements compared to other popular platforms like Splunk, Elastic, and Loki, SigLens offers a cost\-effective solution without compromising on performance.
 
-
-
-Watch our SigLens platform overview on YouTube
-
-
-
 ## Log Management
 
 At the core of SigLens lies its robust log management capabilities. Logs serve as a detailed history of system activity, providing crucial insights into errors, performance issues, and user interactions. SigLens simplifies the process of collecting, storing, and analyzing log data from diverse sources, enabling organizations to gain actionable insights in real\-time.

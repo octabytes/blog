@@ -20,12 +20,6 @@ Built on the Frappe Framework, FrappeHR offers a comprehensive suite of tools to
 
 This article explores the various features and benefits of FrappeHR, showcasing why it is an excellent choice for organizations seeking a transparent, flexible, and cost\-effective HR solution.
 
-
-
-Watch our platform overview on YouTube
-
-
-
 ### ERP
 
 FrappeHR is not just an HR management system; it is integrated with ERPNext, providing a complete enterprise resource planning (ERP) solution. This integration ensures seamless data flow between HR, payroll, and other business functions such as accounting, sales, and inventory. The ERP capabilities of FrappeHR allow businesses to maintain a single source of truth, reducing redundancy and improving efficiency. Key ERP features include:

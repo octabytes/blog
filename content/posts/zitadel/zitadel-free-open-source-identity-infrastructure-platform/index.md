@@ -20,12 +20,6 @@ Businesses need robust and flexible identity management solutions to ensure secu
 
 This article will explore its features, focusing on authentication, modern methods like single sign\-on (SSO), social logins, multifactor authentication (MFA), and authorization.
 
-
-
-Watch our platform overview on YouTube
-
-
-
 ## Authentication
 
 Authentication is the cornerstone of any secure system, as it verifies the identity of users trying to access a resource. Zitadel excels at simplifying this process by offering a variety of authentication options, ranging from traditional username\-password mechanisms to modern solutions. Its open\-source nature allows developers to integrate Zitadel into various platforms while maintaining control over customization and scaling.

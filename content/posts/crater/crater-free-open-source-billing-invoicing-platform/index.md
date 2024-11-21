@@ -20,12 +20,6 @@ Ideal for freelancers, small business owners, and entrepreneurs looking for an e
 
 Let’s dive into how this platform can simplify your financial management.
 
-
-
-Watch our Crater platform overview on YouTube
-
-
-
 ### Customers, Estimates, and Invoices
 
 Crater provides an intuitive system for managing your customers, allowing you to create detailed customer profiles with ease. 

@@ -20,12 +20,6 @@ Enter [Wger](https://octabyte.io/applications/others/wger), the community\-drive
 
 In this post, we'll explore the features of Wger, including workout routines, measurements and tracking, nutritional plans, and mobile apps, to see how it stands out in the crowded fitness app market.
 
-
-
-Watch our Wger platform overview on our YouTube channel
-
-
-
 ## Workout Routines
 
 Crafting your perfect workout routine is a breeze with Wger. You can design a weekly workout plan from more than 100 exercises, each with customizable reps, sets, duration, or distance goals. 

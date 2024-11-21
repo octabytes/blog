@@ -6,7 +6,7 @@ description: "Explore the top 10 most used open-source software tools that can e
 tags: [open-source, software, business, automation, project management, workflow, databases, MySQL, PostgreSQL, Taiga, Paperless-ngx, BookStack, Superset, Keycloak, Directus, N8N, Typebot, CMS, API, identity management, chatbot]
 categories: [Applications, CMS, Security, CMS, Databases, Identity and access management]
 cover:
-  image: images/cover.png
+  image: images/cover.jpeg
   caption: "Top 10 Most Used Open Source Software on our Platform"
   relative: true
 ShowToc: true
@@ -17,12 +17,6 @@ TocOpen: true
 Are you looking for open\-source software you can use to improve your business, create new projects, and automate your workflows to simplify your life?
 
 Discover amazing tools and take inspiration from what our community uses through the top 10 most used open\-source software on our [fully\-managed service hosting platform](https://octabyte.io/?ref=blog.octabyte.io).
-
-
-
-Our top 10 is also available on YouTube
-
-
 
 ## **\#10 Taiga**
 

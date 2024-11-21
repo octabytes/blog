@@ -21,11 +21,6 @@ Enter [Appsmith](https://octabyte.io/development/nocode-lowcode/appsmith), an op
 From drag\-and\-drop UI tools to powerful JS customization, Appsmith enables you to build, deploy, and manage apps with ease and speed—up to 80% faster than traditional methods.
 
 
-
-Watch our platform overview video on YouTube
-
-
-
 ### Low\-Code App Builder
 
 Appsmith’s low\-code environment is optimized for speed and productivity. Low\-code platforms have become essential in reducing the time and resources needed for development, and Appsmith exemplifies this with its intuitive interface and powerful features. Developers can leverage its low\-code capabilities to reduce their workload while retaining full control of the application’s logic and functionality.

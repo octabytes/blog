@@ -19,11 +19,6 @@ TocOpen: true
 This tool offers flexibility, enabling users to choose from a variety of LLMs and vector databases, while also providing a customizable experience with multi\-user management and embeddable chat functionalities. Whether you want to run the platform locally or host it in the cloud, AnythingLLM offers a solution to make AI\-driven document interaction effortless.
 
 
-
-Watch our platform overview on our YouTube channel
-
-
-
 ### Large Language Models (LLMs)
 
 Large Language Models (LLMs) are the backbone of AnythingLLM. The platform supports a range of LLMs, both open\-source and commercial, enabling users to choose the best model for their needs. Supported LLMs include popular names like OpenAI, Anthropic, Hugging Face, and local alternatives like Ollama\-compatible models. 

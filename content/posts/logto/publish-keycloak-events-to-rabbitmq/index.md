@@ -46,9 +46,9 @@ You can configure the Keycloak\-to\-RabbitMQ integration using one of the follow
 
 ##### Environment Variables
 
-Set up the environment variables for your RabbitMQ configuration. This is the preferred and simplest method. You can get the details to feed into new environment variables from your service information. Here we have deployed RabbitMQ on OctaByte so we will be using the same details for configuring.
+Set up the environment variables for your RabbitMQ configuration. This is the preferred and simplest method. You can get the details to feed into new environment variables from your service information.
 
-![RabbitMQ service screen on OctaByte](images/Screenshot-2024-06-26-at-5.46.30-PM-1.jpg)The following is the list of environment variables you can configure with their default values.
+The following is the list of environment variables you can configure with their default values.
 
 * `KK_TO_RMQ_URL` \- default: *localhost*
 * `KK_TO_RMQ_PORT` \- default: *5672*

@@ -16,7 +16,7 @@ TocOpen: true
 
 Mastodon is an open source alternative to Twitter that allows you to create private networks and forums. 
 
-How to create your own Mastodon instance and start using it to communicate with your friends, coworkers or community ? Discover it in our YouTubeVideo.
+How to create your own Mastodon instance and start using it to communicate with your friends, coworkers or community?
 
 Mastodon is a great alternative to Twitter if you're looking for a more private and personal online communication platform. It's decentralized, free, secure, and supported by the development community (Open Source), so there's no reason not to give it a try! 
 

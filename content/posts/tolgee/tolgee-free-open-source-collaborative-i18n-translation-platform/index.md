@@ -18,12 +18,6 @@ Localization is a critical aspect of software development, especially for apps a
 
 Enter [Tolgee](https://octabyte.io/applications/others/tolgee), a free open\-source collaborative i18n (internationalization) translation platform that simplifies and accelerates the localization process. With its smart platform, fast integration, and user\-friendly features, Tolgee is transforming how developers and teams manage translations.
 
-
-
-Watch our in\-depth Tolgee platform overview on our YouTube channel
-
-
-
 #### **Languages \& Translations**
 
 Tolgee's core strength lies in its comprehensive approach to handling languages and translations. It offers a powerful **in\-context translating** feature, which allows translators to translate strings directly within the app. This approach ensures translations are accurate and contextually relevant, eliminating the guesswork often associated with traditional translation methods. Additionally, Tolgee supports **machine translations** from popular services like **DeepL, Google Translate,** and **AWS Translate**, enabling automatic translation of new text entries. This feature is particularly useful for rapidly evolving projects where time is of the essence.

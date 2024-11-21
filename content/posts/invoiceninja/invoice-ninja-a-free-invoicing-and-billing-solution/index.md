@@ -6,7 +6,7 @@ description: "Invoice Ninja is a free, open-source invoicing solution designed t
 tags: [invoicing, free software, open-source, accounting, invoices, payment collection, quotes, customization, freelancers, small business, medium business, multi-currency, payment gateways, reporting, analytics, automation, financial health]
 categories: [Applications, CRM, ERP, Invoicing and payments]
 cover:
-  image: images/cover.png
+  image: images/cover.jpg
   caption: "Invoice Ninja - A Free Invoicing and Billing Solution"
   relative: true
 ShowToc: true

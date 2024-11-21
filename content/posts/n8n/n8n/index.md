@@ -34,9 +34,9 @@ Now it's time to configure the **MySQL** component. In this configuration, we co
 
 ![](images/Screenshot-2024-04-30-at-9.25.52-PM.jpg)Once you click on **Credential to connect with** section and click on **Create New Credential**. 
 
-![](images/Screenshot-2024-04-30-at-9.26.58-PM.jpg)Now head over to your deployed MySQL service and copy all the information as it will be required to configure your N8N MySQL service.
+![](images/Screenshot-2024-04-30-at-9.26.58-PM.jpg)
 
-![](images/Screenshot-2024-04-30-at-9.27.47-PM.jpg)This is a test database and table that is created for this blog. This will be useful when you write the query you want to run once the component is running.
+This is a test database and table that is created for this blog. This will be useful when you write the query you want to run once the component is running.
 
 ![](images/Screenshot-2024-04-30-at-9.32.19-PM.jpg)Now, paste all the information copied before into the connection settings of the **MySQL** component. 
 

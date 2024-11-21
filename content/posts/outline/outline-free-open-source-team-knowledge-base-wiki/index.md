@@ -18,12 +18,6 @@ For the success of your team, the need for a centralized, efficient, and accessi
 
 This open\-source team knowledge base and wiki offer a plethora of features designed to streamline your team's knowledge management processes.
 
-
-
-Watch our Outline platform overview on YouTube
-
-
-
 ## Notion\-Like Document Editor
 
 Outline boasts an intuitive editing experience comparable to the well\-known Notion.

@@ -16,12 +16,6 @@ TocOpen: true
 
 Say hello to [Uptime Kuma](https://octabyte.io/hosting-and-infrastructure/monitoring/uptime-kuma) – the go\-to self\-hosted monitoring tool that's here to simplify your monitoring journey.
 
-
-
-Watch our Uptime Kuma platform overview on YouTube
-
-
-
 ## **Uptime Monitoring**
 
 Experience seamless monitoring for a variety of aspects, including HTTP(s), TCP, HTTP(s) Keyword, HTTP(s) Json Query, Ping, DNS Record, Push, Steam Game Server, and Docker Containers. Uptime Kuma has got you covered!

@@ -6,7 +6,7 @@ description: "MinIO is a cloud-agnostic object storage platform offering advance
 tags: [MinIO, object storage, cloud agnostic, S3 compatibility, web UI, AI/ML, backup, disaster recovery, container deployment, reverse proxy, SSL/TLS, rate limiter, monitoring, IAM policies, versioning, replication]
 categories: [Storage]
 cover:
-  image: images/cover.vsg
+  image: images/cover.svg
   caption: "Minio: high-performance multi-Cloud Object Storage"
   relative: true
 ShowToc: true

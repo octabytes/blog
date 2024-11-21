@@ -20,12 +20,6 @@ They will save you time and effort by preventing you from redeveloping common fe
 
 With these tools, you can have robust, efficient solutions ready in no time, often performing even better than what you could create from scratch.
 
-
-
-Watch our video on YouTube
-
-
-
 ### [**Logto**](https://octabyte.io/development/identity-and-access-management/logto)
 
 If like me you’re tired of setting up login, signup, and forgotten password functionality for every new project, you will love LogTo. It simplifies the entire authentication process, allowing you to integrate: user management, email and sms passwordless, social sign\-in from many providers with minimal effort.

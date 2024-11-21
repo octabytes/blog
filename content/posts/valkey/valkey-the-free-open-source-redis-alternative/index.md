@@ -22,12 +22,6 @@ This is where [Valkey](https://octabyte.io/databases/nosql/valkey) comes into pl
 
 In this article, we'll explore Valkey’s features, its use cases, and why it might be the perfect choice for projects requiring a lightweight, reliable caching solution.
 
-
-
-Watch our platform overview on our YouTube channel
-
-
-
 ### Redis from BSD to SSPL
 
 Redis began under the BSD license, which allowed developers unrestricted usage and flexibility. However, Redis Labs, the maintainers of Redis, shifted certain Redis modules to the Server Side Public License (SSPL). SSPL is a controversial license that restricts cloud providers from offering SSPL\-licensed Redis modules as a service. This change motivated developers and companies focused on open\-source purity to explore alternatives. 

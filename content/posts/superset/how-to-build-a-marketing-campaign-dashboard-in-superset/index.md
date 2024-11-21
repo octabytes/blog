@@ -80,7 +80,9 @@ With frequent data refreshes, your dashboard can show the most up\-to\-date metr
 
 ![Alerts & Reports settings in superset](images/Screenshot-2024-10-04-at-12.34.46-PM.jpg)* Next, click on **\+ Alert** and fill out the alert information like **Alert Name**, **Owners**, **Conditions**, **Contents,** etc click on **Add** once you are done.
 
-![Configuring Alerts in superset](images/Screenshot-2024-10-04-at-12.37.23-PM.jpg)## **Thanks for reading ❤️**
+![Configuring Alerts in superset](images/Screenshot-2024-10-04-at-12.37.23-PM.jpg)
+
+## **Thanks for reading ❤️**
 
 By integrating data from various marketing platforms, creating meaningful visualizations, and tracking key metrics, you can better assess your campaigns' effectiveness and optimize for higher returns. Thank you so much for reading and do check out the OctaByte resources and Official [Superset documentation](https://superset.apache.org/docs/intro/?ref=blog.octabyte.io) to learn more about Superset. You can click the button below to create your service on [OctaByte](images/superset). See you in the next one👋
 

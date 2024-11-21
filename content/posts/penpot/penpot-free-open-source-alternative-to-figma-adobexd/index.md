@@ -20,12 +20,6 @@ Enter [Penpot](https://octabyte.io/applications/others/penpot), the web\-based o
 
 With the release of version 2, Penpot brings significant updates, including flex/grid layout, enhanced components, and improved collaboration capabilities, making it a compelling choice for teams looking to streamline their workflow.
 
-
-
-Watch our Penpot platform overview on our YouTube channel
-
-
-
 ### Free Alternative to Figma, Adobe XD, Canvas
 
 Penpot stands out as a free, open\-source alternative to popular design tools like Figma, Adobe XD, and Canvas. Unlike its proprietary counterparts, Penpot offers complete ownership of your work and tools, ensuring that your design process remains flexible and scalable for any present or future projects. 

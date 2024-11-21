@@ -18,18 +18,15 @@ In this guide, we will walk you through setting up real\-time analytics by integ
 
 ## Deploying ClickHouse and Superset
 
-The first step in setting up real\-time data analytics is to deploy both Apache Superset and ClickHouse on OctaByte. On the OctaByte dashboard, you can create instances for both ClickHouse and Superset. Once the instances are deployed, you’ll have access to the necessary details, such as IP addresses, ports, and credentials, to proceed with the configuration. After deployment you can view both of the deployments under your project like the following
+The first step in setting up real\-time data analytics is to deploy both Apache Superset and ClickHouse on OctaByte. Once the instances are deployed, you’ll have access to the necessary details, such as IP addresses, ports, and credentials, to proceed with the configuration. 
 
-![Deployed ClickHouse and Superset on OctaByte](images/image-3.png)## Installing the ClickHouse Driver for Superset
+## Installing the ClickHouse Driver for Superset
 
-To connect Superset to ClickHouse, you'll need the `clickhouse-sqlalchemy` driver, which facilitates communication between Superset and ClickHouse using SQLAlchemy, a common toolkit for database connections in Python. You can run this command in the terminal by accessing **VS Code** under the tools section from the dashboard. Add the `clickhouse-sqlalchemy` package to `reqiurements-local.txt` . This ensures that Superset can interface with ClickHouse and execute queries on real\-time data.
+To connect Superset to ClickHouse, you'll need the `clickhouse-sqlalchemy` driver, which facilitates communication between Superset and ClickHouse using SQLAlchemy, a common toolkit for database connections in Python. You can run this command in the terminal by accessing **VS Code**. Add the `clickhouse-sqlalchemy` package to `reqiurements-local.txt` . This ensures that Superset can interface with ClickHouse and execute queries on real\-time data.
 
 ## Adding the ClickHouse Database in Superset
 
-Before we add ClickHouse Database to Superset, we need to construct SQLAlchemy URI for our ClickHouse. Head over to the deployed service on your OctaByte Dashboard and click on **Database Admin** button to access the information required for the URI.
-
-![Database admin infomation of ClickHouse](images/Screenshot-2024-10-03-at-11.55.47-AM.jpg)You can use the above information to replace the information in the below URI
-
+Before we add ClickHouse Database to Superset, we need to construct SQLAlchemy URI for our ClickHouse.
 
 ```
 clickhouse+native://[user:password]@host[:port]/database[?options]

@@ -6,7 +6,7 @@ description: "Discover 5 essential free open-source tools to streamline your bus
 tags: [business, open-source, free-tools, software, startups, productivity, invoicing, storage, communication, password-management, document-management]
 categories: [Applications]
 cover:
-  image: images/cover.jpg
+  image: images/cover.png
   caption: "5 Free Open Source Tools You Should Know Before Starting Your Business"
   relative: true
 ShowToc: true
@@ -27,11 +27,6 @@ With its bank integration, it can automatically sync payment transactions from i
 For recurring customers, it automatically creates a client portal where they can view their invoices, payment history, and documents—simplifying the process.
 
 
-
-Watch our dedicated Invoice Ninja platform overview
-
-
-
 ### [\#2 NextCloud](https://octabyte.io/hosting-and-infrastructure/storage/nextcloud)
 
 A free open\-source alternative to Google Workspace with a suite containing 4 main products, perfectly replacing Google Drive, Meet, Calendar, and Docs.
@@ -47,11 +42,6 @@ Groupware, including Calendar, Contacts, mail, and other productivity features t
 And Office, a powerful online office suite with collaborative editing including documents, spreadsheets, and presentations.
 
 NextCloud gives you control over your data, allowing you to collaborate with your team and clients securely.
-
-
-
-Watch our dedicated NextCloud platform overview
-
 
 
 ### [\#3 Mattermost](https://octabyte.io/applications/live-chat/mattermost)
@@ -79,11 +69,6 @@ Unfortunately, even if you decide to operate your business entirely digitally an
 That’s where Paperless\-ngx comes to the rescue. The perfect tool to transform the scanned version of your physical documents into a searchable online archive before disposing of the paper in the recyclable bin.
 
 It will also automatically perform OCR on your documents, adding searchable, and selectable text from images. By adding some rules, with the easy\-to\-use interface, you will have all your documents sorted within tag\-organized folders.
-
-
-
-Watch our dedicated Paperless\-ngx platform overview
-
 
 
 

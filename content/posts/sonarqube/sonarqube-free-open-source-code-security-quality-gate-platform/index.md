@@ -20,12 +20,6 @@ As an open\-source platform, it provides a comprehensive solution for tracking c
 
 This article explores how SonarQube can improve code reliability and maintainability while being accessible and adaptable to various development environments.
 
-
-
-Watch our platform overview on our YouTube channel
-
-
-
 ## Project Creation
 
 Setting up a project in SonarQube is straightforward. Once installed, the platform allows you to create new projects either directly in the interface or through automated integrations with CI/CD pipelines. For a basic setup:

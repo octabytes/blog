@@ -19,11 +19,6 @@ Finding the right platform to host and manage events online that is both powerfu
 Whether you're hosting a virtual workshop, a local meet\-up, or a large\-scale conference, Hi.Events gives you full control over your event management process. Let’s dive into its key features that make it stand out from other ticketing platforms.
 
 
-
-Watch our platform overview of Hi.Events on our YouTube channel
-
-
-
 ### Events Management Platform
 
 Hi.Events simplifies the event management process with a user\-friendly interface that caters to organizers of all sizes. The platform enables you to create detailed event pages, manage multiple events simultaneously, and keep track of essential data in real\-time. Its open\-source nature ensures that you have complete control and flexibility, whether you need custom functionalities or want to integrate your existing tools and workflows.

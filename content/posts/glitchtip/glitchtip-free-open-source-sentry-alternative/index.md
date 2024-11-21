@@ -17,11 +17,6 @@ TocOpen: true
 Discover [GlitchTip](https://octabyte.io/hosting-and-infrastructure/monitoring/glitchtip), your go\-to solution for open\-source error tracking, uptime monitoring, and performance analysis. With a commitment to simplicity, affordability, and the freedom of open source, GlitchTip is here to streamline your software monitoring needs.
 
 
-
-Watch our GlitchTip platform overview on YouTube
-
-
-
 ## **Error Tracking System**
 
 Say goodbye to scattered error reports. GlitchTip consolidates every error from your project in real\-time, organizing them for practical use. Receive alerts tailored to your preferences, all without breaking the budget. 

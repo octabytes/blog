@@ -20,12 +20,6 @@ One of the most popular and versatile LMS platforms available today is [Moodle](
 
 In this article, we'll explore the various features of Moodle, including course and lesson creation, enrollment management, and customization options, and why it remains a top choice for institutions and educators seeking a robust and flexible LMS.
 
-
-
-Watch our platform overview on our YouTube channel
-
-
-
 #### Learning Management System
 
 A Learning Management System (LMS) is a software application designed to administer, document, track, report, and deliver educational courses, training programs, or learning and development programs. Moodle, with its open\-source nature, provides a comprehensive LMS that caters to a wide range of educational needs, from K\-12 schools to universities and even corporate training environments. 
@@ -72,9 +66,5 @@ Moodle stands out as a powerful, flexible, and cost\-effective Learning Manageme
 
 Whether you're looking to create a simple online course or manage a complex educational program, Moodle provides the tools you need to deliver a high\-quality learning experience. With its strong community support and continuous development, Moodle remains a leading option for anyone seeking a reliable and adaptable LMS.
 
-[![](images/Frame-10--13-.png)](https://octabyte.io/applications/others/moodle)
-
-[Try Moodle](https://octabyte.io/applications/others/moodle)
-
-
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/others/moodle)
 

@@ -19,11 +19,6 @@ In today’s fast\-paced, customer\-centric world, providing timely and effectiv
 [Chatwoot](https://octabyte.io/applications/live-chat/chatwoot) is a free, open\-source support center platform designed to streamline communication and improve customer service efficiency. With its omnichannel capabilities, robust automation features, and real\-time collaboration tools, Chatwoot enables businesses to offer seamless, personalized customer experiences. This article explores the key features that make Chatwoot a top choice for customer support teams.
 
 
-
-Watch our platform overview on our YouTube channel
-
-
-
 ## Omnichannel Support Center
 
 One of Chatwoot’s standout features is its support of many kinds of inboxes. It consolidates multiple communication channels—such as email, live chat, Facebook, Telegram, WhatsApp, and SMS—into a single, unified interface. 

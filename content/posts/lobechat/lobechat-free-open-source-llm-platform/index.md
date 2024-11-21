@@ -16,12 +16,6 @@ TocOpen: true
 
 Meet [LobeChat](https://octabyte.io/applications/live-chat/lobechat), an open\-source, modern\-designed ChatGPT/LLMs UI/Framework that is revolutionizing the landscape of AI conversation services. With its diverse array of features and high quality UI/UX, LobeChat is quickly becoming a reference in the world of AI\-driven interactions.
 
-
-
-Watch our LobeChat platform overview on YouTube
-
-
-
 ### **Multi\-Model Service Provider Support**
 
 One of the standout features of LobeChat is its support for multiple model service providers. Rather than being confined to a single provider, LobeChat offers users the flexibility to choose from a variety of options, ensuring a rich and diverse selection of conversations. Whether it's AWS Bedrock, Google AI, ChatGLM, or Moonshot AI, LobeChat has you covered, providing access to powerful natural language processing capabilities and deeper conversation understanding.

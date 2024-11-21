@@ -18,12 +18,6 @@ In an era where digital communication is paramount, finding the right video conf
 
 Enter [MiroTalk](https://octabyte.io/applications/live-chat/mirotalk), a revolutionary open\-source solution that redefines the landscape of virtual meetings. With its browser\-based real\-time video calls and a plethora of innovative features, MiroTalk stands out as a versatile and secure platform for various communication needs.
 
-
-
-Watch our platform overview on YouTube
-
-
-
 ## **Browser\-based Real\-time Video Calls**
 
 Gone are the days of cumbersome software installations and compatibility issues. MiroTalk leverages the power of web browsers to offer seamless video calls without the need for additional downloads or plugins.

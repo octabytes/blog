@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Typebot: Building Effective Customer Support"
-date: "2024-08-21"
+date: "2024-11-20"
 description: "This tutorial guides you through creating a customer support chatbot using Typebot, a no-code, open-source chatbot builder. It covers the steps of using pre-configured templates, testing the chatbot, and customizing it to fit your needs, all hosted on OctaByte."
 tags: [Typebot, chatbot, customer support, no-code, tutorial, OctaByte, template, chatbot design, testing, automation, lead generation, e-commerce]
 categories: [Applications, Live chat, Customer support]
@@ -44,5 +44,5 @@ Once you click on **Test**, you will see your chatbot application running, you c
 
 Thank you so much for reading and do check out the OctaByte resources and Official [Typebot documentation](https://docs.typebot.io/get-started/introduction?ref=blog.octabyte.io) to learn more about Typebot. You can click the button below to create your service on [OctaByte](https://octabyte.io/open-source/n8n?ref=blog.octabyte.io) and create your chatbots for different utilities. See you in the next one👋
 
-[![](images/octabyte-deploy.png)](https://octabyte.io/applications/live-chat/typebot)
+[![](/images/octabyte-deploy.png)](https://octabyte.io/applications/live-chat/typebot)
 

@@ -18,12 +18,6 @@ In today's fast\-paced business environment, the ability to quickly develop and 
 
 This article explores ToolJet's features and how it can revolutionize internal tool development.
 
-
-
-Watch our ToolJet platform overview on our YouTube channel
-
-
-
 ### Low Code App Builder
 
 ToolJet is designed to accelerate the development of custom internal tools. By leveraging a low\-code platform, ToolJet enables users to build complex applications quickly and efficiently. 
