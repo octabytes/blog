@@ -152,16 +152,6 @@ terraform output load_balancer_cname
 ```
 This information is crucial for managing and accessing your deployed services.
 
-#### Verify Deployment
-
-To ensure your deployment is successful, check the logs of the deployed services via the OctaByte dashboard:
-
-1. Navigate to the [OctaByte Dashboard](https://dash.elest.io/?ref=blog.octabyte.io).
-2. Select your cluster project.
-3. View the logs for each Keycloak service under the "Overview" section.
-
-You should see log entries indicating the proper initialization and joining of nodes in the cluster. Look for specific lines that show the nodes have successfully started and joined the cluster, confirming that the deployment is functioning as expected.
-
 #### Adding a Third Node
 
 To expand your cluster, add additional nodes in the `main.tf` file:
