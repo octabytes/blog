@@ -4,7 +4,7 @@ title: "Deploy Apache Superset in Minutes with OctaByte.io"
 date: "2024-11-21"
 description: "Easily deploy Apache Superset for powerful data visualization and business intelligence. Learn how OctaByte.io simplifies Superset hosting with fully managed deployment services."
 tags: [Apache Superset hosting, Deploy Apache Superset, Managed Superset deployment, Data visualization with Superset, Superset hosting service]
-categories: [Applications, Business intelligence]
+categories: [Fully managed, Applications, Business intelligence]
 cover:
   image: images/cover.png
   caption: "Deploy Apache Superset in Minutes with OctaByte.io"
