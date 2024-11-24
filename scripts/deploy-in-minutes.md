@@ -2,8 +2,8 @@ I have a website with domain OctaByte.io where I provide fully managed services 
 
 People just come to OctaByte and choose the application and provide email and other detail and start trial we provide 7 days free trial customers can cancel subscription at anytime.
 
-I created a blog for OctaByte where I want to write some posts for better SEO. So I want you to write a post about "FrappeHR" use your own knowledge about "FrappeHR" if you don't know "FrappeHR" then here is little description about this "Frappe HR (ERPNext HRMS) is a 100% open-source, modern, user-friendly solution to drive excellence within your team. Simplify your HR and Payroll operations with a product crafted as per your needs."
+I created a blog for OctaByte where I want to write some posts for better SEO. So I want you to write a post about "Immich" use your own knowledge about "Immich" if you don't know "Immich is a promising self-hosted alternative to Google Photos. Its UI and features are clearly heavily inspired by Google Photos, and like Photoprism, Immich uses Tensorflow-based machine learning to auto-tag your photos!"
 
-I want you to write a post in markdown format about "Deploy FrappeHR in Minutes with OctaByte.io" also write short description, title and keywords. Post should be focused on SEO. And also write a post in markdown format
+I want you to write a post in markdown format about "Deploy Immich in Minutes with OctaByte.io" also write short description, title and keywords. Post should be focused on SEO. And also write a post in markdown format
 
-visit this link to deploy "FrappeHR" "https://octabyte.io/applications/crm-erp/frappehr/"
+visit this link to deploy "Immich" "https://octabyte.io/hosting-and-infrastructure/storage/immich/"
