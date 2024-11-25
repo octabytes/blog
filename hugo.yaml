@@ -38,7 +38,7 @@ menu:
       url: tags/
       weight: 10
     - name: Main website
-      url: https://octbyte.io
+      url: https://octabyte.io
 
 outputs:
   home:
