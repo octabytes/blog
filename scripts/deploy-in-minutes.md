@@ -2,8 +2,8 @@ I have a website with domain OctaByte.io where I provide fully managed services 
 
 People just come to OctaByte and choose the application and provide email and other detail and start trial we provide 7 days free trial customers can cancel subscription at anytime.
 
-I created a blog for OctaByte where I want to write some posts for better SEO. So I want you to write a post about "Typebot" use your own knowledge about "Typebot" if you don't know "Typebot gives you powerful blocks to create unique chat experiences. Embed them anywhere on your web/mobile apps and start collecting results like magic"
+I created a blog for OctaByte where I want to write some posts for better SEO. So I want you to write a post about "Directus" use your own knowledge about "Directus" if you don't know "Directus is an Open Data Platform for managing the content of any SQL database. It provides a powerful API layer for developers and an intuitive App for non-technical users."
 
-I want you to write a post in markdown format about "Deploy Typebot in Minutes with OctaByte.io" also write short description, title and keywords. Post should be focused on SEO. And also write a post in markdown format
+I want you to write a post in markdown format about "Deploy Directus in Minutes with OctaByte.io" also write short description, title and keywords. Post should be focused on SEO. And also write a post in markdown format
 
-visit this link to deploy "Typebot" "https://octabyte.io/applications/live-chat/typebot/"
+visit this link to deploy "Directus" "https://octabyte.io/development/backend-as-a-service/directus/"
