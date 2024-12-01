@@ -2,8 +2,8 @@ I have a website with domain OctaByte.io where I provide fully managed services 
 
 People just come to OctaByte and choose the application and provide email and other detail and start trial we provide 7 days free trial customers can cancel subscription at anytime.
 
-I created a blog for OctaByte where I want to write some posts for better SEO. So I want you to write a post about "Directus" use your own knowledge about "Directus" if you don't know "Directus is an Open Data Platform for managing the content of any SQL database. It provides a powerful API layer for developers and an intuitive App for non-technical users."
+I created a blog for OctaByte where I want to write some posts for better SEO. So I want you to write a post about "BookStack" use your own knowledge about "BookStack" if you don't know "BookStack is a free, open-source, opinionated wiki system that provides a pleasant, simple, out-of-the-box experience. Based on Laravel, a PHP framework, BookStack is released under the MIT License. It uses the ideas of books to organize pages and store information. New users should find the experience intuitive. Only basic word-processing skills should be required to get involved in creating content on BookStack."
 
-I want you to write a post in markdown format about "Deploy Directus in Minutes with OctaByte.io" also write short description, title and keywords. Post should be focused on SEO. And also write a post in markdown format
+I want you to write a post in markdown format about "Deploy BookStack in Minutes with OctaByte.io" also write short description, title and keywords. Post should be focused on SEO. And also write a post in markdown format
 
-visit this link to deploy "Directus" "https://octabyte.io/development/backend-as-a-service/directus/"
+visit this link to deploy "BookStack" "https://octabyte.io/applications/documentation/bookstack/"
